@@ -1,5 +1,6 @@
 import React from "react";
 import { DocsThemeConfig } from "nextra-theme-docs";
+import { useRouter } from "next/router";
 
 const config: DocsThemeConfig = {
   logo: <span>Minh Mốc Meo</span>,
@@ -12,9 +13,14 @@ const config: DocsThemeConfig = {
     text: "Minh Mốc Meo",
   },
   useNextSeoProps() {
+    const router = useRouter();
+    const canonicalUrl = (
+      `https://minh.xuvi.vn` + (router.asPath === "/" ? "" : router.asPath)
+    ).split("?")[0];
+
     return {
       titleTemplate: "%s – MocMeo",
-      canonical: "https://minh.xuvi.vn/",
+      canonical: canonicalUrl,
       twitter: {
         cardType: "summary_large_image",
         site: "@minhxuvi",
