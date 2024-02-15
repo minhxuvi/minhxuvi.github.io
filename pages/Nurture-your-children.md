@@ -82,8 +82,7 @@ lại.***
 >
 > [Tham khảo thời gian và cách cho bú:]{.underline}
 >
-> ![](vertopal_620a3abd6f5c492db840b826722cc81d/media/image1.png){width="5.615277777777778in"
-> height="2.6458333333333335in"}
+
 
 -   Bắt đầu tập quan sát dấu hiệu con muốn ăn: há miệng, khóc ré, thở
     > nhanh hơn, căng miệng và người,...
