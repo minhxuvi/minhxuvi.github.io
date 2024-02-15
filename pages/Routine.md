@@ -1,7 +1,9 @@
 # Routine
-*Routine should be like a religious rite.*  
+
+_Routine should be like a religious rite._
 
 ## Morning
+
 - Wake up
 - Personal hygiene
 - Zen
@@ -9,9 +11,13 @@
 - Breakfast
 - Learn
 - Work
+
 ## Afternoon
+
 - Work
+
 ## Everning
+
 - Dinner
 - House chores
 - Leisure time
