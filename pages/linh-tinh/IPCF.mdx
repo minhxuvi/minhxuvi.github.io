@@ -1,0 +1,66 @@
+# IPCF
+
+Các bước cần làm này:
+[] Duy trì việc học lại về Embedded đều đặn
+[] Hãy kiểm tra trước cho cái mày đang làm. Tập trung vào một trường hợp thôi sử dụng debug checklist. Cập nhật debug checklist.
+[] Sau đó sẽ trả lời các câu hỏi trong mục tìm hiểu về driver
+[] Sau đó sẽ thực hiện maping requirement, driver API và test case.
+
+## Debug checklist
+
+### Kiểm tra xem vùng nhớ allocate cho sharemem có được khởi tạo đúng không.
+
+- Kiểm tra dữ liệu tại địa chỉ bắt đầu và kết thúc.
+- Vùng Ram allocate cho sharemem có được khởi tạo đúng không. Có đọc ghi được bằng debugger không.
+- Đọc ghi bằng debugger được chưa chắc đã đọc ghi bằng MCU được.
+  - Có thể do Memory protection
+    - Vậy làm sao để biết Memory protection được enable?
+
+### Kiểm tra quá trình khởi tạo driver tầng platform
+
+- Kiểm tra interrupt có được config đúng không. Vậy khởi tạo interrupt đúng thì thanh ghi sẽ như thế nào?
+  - MSI
+  - MRU
+- Kiểm tra Memory protection có được sử dụng không? Kiểm tra như thế nào?
+- Kiểm tra khởi tạo có lỗi không và ý nghĩa mỗi lỗi là gì?
+- Kiểm tra calback function có nằm đúng trên vector table không. Callback function sẽ được đăng ký như thế nào?
+- Giá trị khởi tạo của các struct nằm trên sharemem có đúng không? Địa chỉ của các struct này có đúng không? Vậy địa chỉ và giá trị của chúng sẽ là gì?
+- Địa chỉ của callback function sẽ được lưu ở khi driver chạy nhỉ?
+
+### Kiểm tra quá trình khởi tạo driver tầng OS
+
+- Làm sao để biết một đã khởi tạo đúng? Tin tưởng??? > No No No
+  - Đọc lại doc của OS đó.
+
+### Các lỗi khi runtime
+
+- Compiler có thể kiểm tra được stackoverflow không nhỉ? Nếu không thì làm sao để kiểm tra được giới hạn vùng stack là bao nhiêu và khi nào thì tràn bộ nhớ.
+- Các lỗi khi runtime nếu đã khởi tạo đúng thì một là đến từ logic của test, hai là đến từ driver. Các test này dùng để cover một requirement nào đó. Cần phải review lại requirement nó cover luôn.
+
+## Tìm hiểu về driver
+
+Về cơ bản, driver này sử dụng vùng nhớ được phân vùng sẵn cho việc truyền dữ liệu qua lại giữa các core.
+Vùng nhớ gồm local và remote.
+Vùng nhớ có 2 loại: UNMANAGE và MANAGE
+
+1. Vùng nhớ MANAGED được chia thế nào?
+   > MANAGE sẽ được chia thành nhiều channel. Mỗi channel lại được chia thành nhiều pool. Mỗi pool lại được chia thành nhiều buffer nhỏ hơn với kích cỡ buffer cố định theo mỗi pool.
+2. Mỗi channel sẽ có một ring để transmit? Ring để transmit này để làm gì và sử dụng khi nào?
+3. Mỗi pool sẽ có một ring buffer.
+4. Update mới còn có nhiều instance khác nhau.
+   > Vậy nếu hai instance trên cùng 2 core có dùng chung interrupt được không?
+5. Vùng sharemem này sẽ được bảo vệ kiểu gì nếu lỡ bị tràn bộ nhớ và các ứng dụng khác ghi đè lên nó.
+
+Local core có thể ghi vào local memory và đọc được từ remote memory.
+Dữ liệu sau khi được ghi vào local memory. Thông tin về địa chỉ của dữ liệu đó sẽ được gửi đến core remote.
+Vậy:
+
+1. Thông tin được gửi sẽ gồm những gì?
+2. Thông tin này sẽ được lưu ở đâu? Tại sao?
+3. Khi có dữ liệu được gửi thì được thông báo đến remote core như thế nào?
+4. Dữ liệu sẽ được đọc ra như thế nào?
+5. Vùng nhớ này sẽ được làm mới như thế nào?
+
+## Các requirement của driver
+
+## Các API của driver
