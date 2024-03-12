@@ -7,6 +7,7 @@ Các bước cần làm này:
   - Học về UML design
   - Học về FreeRTOS & Linux
   - Học về build autonomous bike
+  - Copy các tài liệu đã học về local, sau đó dịch sang tiếng Việt. Sau đó chỉnh sửa lại slide, hình ảnh, video... Tự động phân loại các học liệu này theo mục đích. Người dùng có thể đặt câu hỏi về cách làm. AI sẽ chắt lọc từ database ra các tutorial phù hợp rồi đề xuất cách làm và các step còn thiếu mà chưa có hướng dẫn.
 - [ ] Hãy kiểm tra trước cho cái mày đang làm. Tập trung vào một trường hợp thôi sử dụng debug checklist. Cập nhật debug checklist.
 - [ ] Sau đó sẽ trả lời các câu hỏi trong mục tìm hiểu về driver
 - [ ] Sau đó sẽ thực hiện maping requirement, driver API và test case.
@@ -65,6 +66,11 @@ Vậy:
 3. Khi có dữ liệu được gửi thì được thông báo đến remote core như thế nào?
 4. Dữ liệu sẽ được đọc ra như thế nào?
 5. Vùng nhớ này sẽ được làm mới như thế nào?
+
+- Startup code được viết thế nào? Tại sao lại không dùng Flash mà lại load code lên RAM?
+- Khi debug, nếu code fail thì làm sao để biết được, code fail ở đâu?
+  - Trường hợp dùng Baremetal?
+  - Trường hợp dùng OS?
 
 ## Các requirement của driver
 
