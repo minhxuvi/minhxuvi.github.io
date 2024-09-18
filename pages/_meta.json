@@ -1,14 +1,16 @@
 {
-    "index": "Mốc Meo",
-    "linh-tinh": "Viết linh tinh",
-    "about": {
-        "title": "About",
-        "type": "page"
-    },
-    "contact": {
-        "title": "Contact ↗",
-        "type": "page",
-        "href": "https://fb.com/minhxuvi",
-        "newWindow": true
-    }
+  "index": "Mốc Meo",
+  "learn": "Học",
+  "linh-tinh": "Viết linh tinh",
+  "projects": "Dự án",
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://fb.com/minhxuvi",
+    "newWindow": true
+  }
 }
