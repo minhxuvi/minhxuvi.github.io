@@ -1,0 +1,131 @@
+# Software architect
+
+## Goals
+
+-   Fast
+-   Secure
+-   Reliable
+-   Easy to maintain
+
+## Mindset
+
+-   Understand the business
+-   Define the system's Goals
+-   Work for client's client
+-   Talk to the right people with the right language.
+
+## Process
+
+### Understand the system requirements
+
+-   What the system should do
+-   Right after setting the goal. The goal is the most important thing to archive.
+-   Bussiness flow...
+
+### Understand none functional requirements
+
+What the system should be deal with
+
+-   Performance
+    -   Latency - time to finish a task
+    -   Throughput - number of tasks in a period of time
+-   Load
+-   Data volume
+-   Concurrent users
+-   SLA - Service Level Agreement
+
+#### Quality
+
+-   Scalability
+-   Managebilaty
+    -   System should report the problems.
+-   Modularity
+-   Extensibility
+-   Testability
+
+--- Never start working on a system before setting requirements ---
+
+### Map the components
+
+-   Web app
+-   Web API
+-   Mobile app
+-   Desktop app
+-   **Console app**
+-   Services
+
+### Select the right technology
+
+#### Considerations
+
+-   Can the technology solve the problem?
+-   Is the technology mature?
+-   Is the technology popular?
+-   Is the technology easy to maintain?
+
+#### Backend
+
+#### Frontend
+
+#### Database
+
+NoSQL vs SQL
+
+### Design the system
+
+#### Components architecture
+
+##### Layers
+
+Loosely coupled components, each one responsible for a specific task.
+Exception handling.
+
+-   User interface
+    -   Json handling
+    -   Authentication
+-   Business logic
+    -   Validation
+    -   Enrichment
+    -   Computation
+-   Data access
+    -   Database
+    -   File system
+    -   External services
+
+##### Interfaces
+
+##### DI - Dependency Injection
+
+##### SOLID
+
+##### Naming conventions
+
+##### Exception handling
+
+-   Don't try catch for just for logging.
+-   Catch only specific exceptions.
+-   try catch smallest block of code.
+
+##### Logging
+
+-   Track errors
+-   Gather data
+    -   Performance
+    -   Which modules is most visited
+    -   User's flow
+
+##### Caching
+
+##### Security
+
+#### Design patterns
+
+Read the book
+
+-   Factory
+-   Repository
+-   Facade
+
+### Write architecture document
+
+### Implement the system
