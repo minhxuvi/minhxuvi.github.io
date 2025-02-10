@@ -19,7 +19,7 @@ const config: DocsThemeConfig = {
     ).split("?")[0];
 
     return {
-      titleTemplate: "%s – MocMeo",
+      titleTemplate: "%s",
       canonical: canonicalUrl,
       twitter: {
         cardType: "summary_large_image",
