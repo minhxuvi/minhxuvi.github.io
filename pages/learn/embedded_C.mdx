@@ -1,0 +1,75 @@
+# Embedded C
+
+## Storage class
+
+### Static
+
+1. Static Local Variables
+    > Value is retained between function calls
+2. Static Global Variables & Static Functions
+    > Scope is limited to the file in which it is declared
+
+### Extern
+
+The extern keyword is used to declare a variable or function that is defined in another file
+
+## Pointer
+
+```c
+// p is a pointer to a constant type uint8_t variable
+uint8_t const \*p = (uint8_t\*)0x1234;
+// p is a constant pointer to a uint8_t variable
+uint8_t \*const p = (uint8_t\*)0x1234;
+// p is a constant pointer pointing constant data of type uint8_t
+uint8_t const \*const p = (uint8_t\*)0x1234;
+```
+
+## Structure
+
+To reduce padding
+
+-   Group similar types together
+-   Order by size, largest first
+
+## Memory Sections
+
+```c
++------------------+
+|   Text Segment   |  // Code and read-only data
++------------------+
+| Initialized Data |  // Global and static variables with initial values
++------------------+
+| Uninitialized    |  // Global and static variables without initial values (BSS)
+| Data (BSS)       |
++------------------+
+|      Heap        |  // Dynamic memory allocation (grows upwards)
++------------------+
+|      Stack       |  // Local variables, function parameters (grows downwards)
++------------------+
+```
+
+## Floating Point
+
+-   Floating-point types (float, double, long double) are used to represent real numbers in Embedded C.
+-   Consider the performance, memory usage, and precision when using floating-point operations in embedded systems.
+-   Ensure that your microcontroller and compiler support floating-point arithmetic.
+
+```c
+#include <stdio.h>
+
+int main() {
+    float a = 3.14f;
+    double b = 3.141592653589793;
+    long double c = 3.14159265358979323846L;
+
+    printf("float: %f\n", a);
+    printf("double: %lf\n", b);
+    printf("long double: %Lf\n", c);
+
+    return 0;
+}
+```
+
+## MCDC Coverage
+
+Ensures that each condition in a decision has been tested to independently affect the decision's outcome.
