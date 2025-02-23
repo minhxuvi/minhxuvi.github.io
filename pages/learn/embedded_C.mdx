@@ -5,9 +5,9 @@
 ### Static
 
 1. Static Local Variables
-    > Value is retained between function calls
+   > Value is retained between function calls
 2. Static Global Variables & Static Functions
-    > Scope is limited to the file in which it is declared
+   > Scope is limited to the file in which it is declared
 
 ### Extern
 
@@ -28,8 +28,8 @@ uint8_t const \*const p = (uint8_t\*)0x1234;
 
 To reduce padding
 
--   Group similar types together
--   Order by size, largest first
+- Group similar types together
+- Order by size, largest first
 
 ## Memory Sections
 
@@ -50,9 +50,9 @@ To reduce padding
 
 ## Floating Point
 
--   Floating-point types (float, double, long double) are used to represent real numbers in Embedded C.
--   Consider the performance, memory usage, and precision when using floating-point operations in embedded systems.
--   Ensure that your microcontroller and compiler support floating-point arithmetic.
+- Floating-point types (float, double, long double) are used to represent real numbers in Embedded C.
+- Consider the performance, memory usage, and precision when using floating-point operations in embedded systems.
+- Ensure that your microcontroller and compiler support floating-point arithmetic.
 
 ```c
 #include <stdio.h>
@@ -73,8 +73,13 @@ int main() {
 ## MCDC Coverage
 
 Ensures that each condition in a decision has been tested to independently affect the decision's outcome.
+MCDC can be covered by normal gcov/lcov tools if the conditions in code only written in tree like format.
 
 ## typedef struct vs struct
 
--   struct: Requires the struct keyword for each declaration. Useful for emphasizing the structure type.
--   typedef struct: Creates an alias for the structure type, making the code cleaner and easier to read. Commonly used in libraries and APIs.
+- struct: Requires the struct keyword for each declaration. Useful for emphasizing the structure type.
+- typedef struct: Creates an alias for the structure type, making the code cleaner and easier to read. Commonly used in libraries and APIs.
+
+## Access level of the processor
+
+- Default run in previleged mode
