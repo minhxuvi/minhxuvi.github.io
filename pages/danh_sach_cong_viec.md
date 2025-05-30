@@ -4,7 +4,6 @@
 ## Quan trọng, gấp
 ### Cần xong trong hôm nay
 - Release công ty.
-- Review.
 ### Cần xong trong 3 ngày nữa
 - Xong 2 loại test.
 - Run test trên debug probe.
