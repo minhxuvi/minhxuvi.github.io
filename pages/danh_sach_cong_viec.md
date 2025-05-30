@@ -1,6 +1,5 @@
 # Danh sách công việc
 ## Quan trọng, thong thả
-- Liên hệ Giáp đến nhà Huy.
 ## Quan trọng, gấp
 ### Cần xong trong hôm nay
 - Release công ty.
