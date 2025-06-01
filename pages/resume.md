@@ -7,9 +7,7 @@
 
 ## Summary
 
-## Summary
-
-Experienced Automation Test Lead with a strong background in embedded systems, software testing, and automation frameworks. Proven ability to lead teams, design robust testing solutions, and deliver high-quality results across multiple platforms. Skilled in Python, Linux, Yocto, and CI/CD tools, with a passion for continuous improvement and effective collaboration.
+Experienced Automation Test with a strong background in embedded systems, software testing, and automation frameworks. Proven ability to lead teams, design robust testing solutions, and deliver high-quality results across multiple platforms. Skilled in Python, Linux, Yocto, and CI/CD tools, with a passion for continuous improvement and effective collaboration.
 
 ## Education
 
@@ -20,9 +18,9 @@ Experienced Automation Test Lead with a strong background in embedded systems, s
 
 ### FPT software
 
-#### May 2020 - current: Automation Test Lead
+#### May 2020 - current: Developer
 
--   Lead and mentor a team of 5 members to successfully test and implement a testing framework for new software from EAR to RTM phase.
+-   Lead a team of 5 members to successfully test and implement a testing framework for new software from EAR to RTM phase.
 -   Responsible for testing an inter-platform communication driver, which must be tested on multiple platforms, including RTOS, Linux user and kernel, CPU architectures, and compilers.
 -   Design and develop an automation testing framework primarily in Python to adapt to the following requirements:
     -   Build and execute tests for multiple types of RTOS, Linux user and kernel, CPU - architectures, and compilers.
