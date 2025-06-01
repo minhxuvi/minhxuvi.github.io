@@ -4,14 +4,12 @@
 
 -   Email: minhxuvi@gmail.com
 -   Phone: (+84) 0363059649
--   LinkedIn: [linkedin.com/in/minhxuvi](https://linkedin.com/in/minhxuvi)
--   GitHub: [github.com/minhxuvi](https://github.com/minhxuvi)
 
 ## Summary
 
-I have seven years of experience in automotive software development, I have worked in various roles and phases of the automotive software life cycle, successfully delivering high-quality products to customers.
+## Summary
 
-Currently, I am working as a test lead for an automotive safety project. I have extensive experience in developing automation tests and CI/CD systems, and I am dedicated to improving software quality and performance.
+Experienced Automation Test Lead with a strong background in embedded systems, software testing, and automation frameworks. Proven ability to lead teams, design robust testing solutions, and deliver high-quality results across multiple platforms. Skilled in Python, Linux, Yocto, and CI/CD tools, with a passion for continuous improvement and effective collaboration.
 
 ## Education
 
