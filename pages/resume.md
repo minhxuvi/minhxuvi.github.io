@@ -47,7 +47,7 @@ Experienced Automation Test with a strong background in embedded systems, softwa
 
 ## Skills
 
--   Programming: Python, C/C++, Embedded C, bash
+-   Programming: Python, C, Embedded C, bash
 -   Development Platforms: Linux, Yocto, Jenkins, Lauterbach, cmm script,
 -   Source Code Control: Git, GitHub, Bitbucket
 -   CI/CD Frameworks: Jenkins, GitHub Actions
