@@ -66,4 +66,4 @@ https://www.facebook.com/dapxexuyenvietnam/
 
 ---
 
-_Cảm ơn bạn đã đọc hồ sơ của tôi!_
+_Cảm ơn bạn đã đọc!_
