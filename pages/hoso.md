@@ -3,68 +3,66 @@
 ## Thông tin liên hệ
 
 -   Email: minhxuvi@gmail.com
+-   Website: [minh.xuvi.vn](https://minh.xuvi.vn/)
 -   Điện thoại: (+84) 0363059649
 
 ## Tóm tắt
 
-Minh có nguyện vọng trở thành giáo viên của trường Thuận Nhiên.
+Mình có nguyện vọng trở thành giáo viên của trường Thuận Nhiên.
+Mình chưa có kinh nghiệm giảng dạy hay học về sư phạm, nên sẽ học tập để bù đắp thiếu sót này. Ngoài ra, với các kỹ năng hiện có như lập trình, âm nhạc, quản lý & điều hành, mình hy vọng có thể đóng góp công sức xây dựng trường. 
+
+Nguyện vọng của mình xuất phát từ một số mong muốn vị kỷ như sau:
+- Lớn lên cùng con, dù vị kỷ, nhưng đây là lý do lớn nhất.
+- Thực hành và xây dựng một phương pháp giáo dục chú trọng sự phát triển toàn vẹn của trẻ: nhịp điệu, cảm xúc, ý chí, tư duy.
+- Xây dựng cộng đồng sống chân thành, an nhiên, hiểu biết.
 
 ## Học vấn
 
 -   2012-2017: Đại học Bách Khoa - Đại học Bách Khoa TP. Hồ Chí Minh  
      _Kỹ sư Điện tử – Viễn thông_
--   2009-2012: THPT Chuyên Vật Lý - Đại học khoa học tự nhiên
+
+-   2009-2012: THPT Chuyên Vật Lý - Đại học khoa học tự nhiên Hà Nội
 
 ## Kinh nghiệm làm việc
 
+### Tổ chức Đạp xe xuyên Việt
+https://www.facebook.com/dapxexuyenvietnam/
+
+#### 2015-2023: Thành viên Ban điều hành
+
+-   Trưởng ban điều hành từ 2019-2023.
+-   Lên kế hoạch và điều hành việc tổ chức hành trình đạp xe xuyên Việt cho khoảng 100 người trong 45 ngày.
+-   Đồng hành, hỗ trợ kỹ thuật cho đoàn trên chuyến đi.
+-   Tổ chức nhiều chương trình thiện nguyện trên khắp Việt Nam.
+-   Xây dựng một sân chơi lành mạnh cho các bạn trẻ. Dám trải nghiệm, dám dấn thân, thêm yêu tổ quốc và xóa nhòa các định kiến.
+
 ### FPT Software
 
-#### 05/2020 - nay: Kỹ sư
+#### 05/2020 - hiện tại: Kỹ sư
 
--   Dẫn dắt nhóm 5 thành viên kiểm thử và triển khai thành công framework kiểm thử cho phần mềm mới từ giai đoạn EAR đến RTM.
--   Chịu trách nhiệm kiểm thử driver giao tiếp liên nền tảng, phải kiểm thử trên nhiều nền tảng như RTOS, Linux user và kernel, các kiến trúc CPU và trình biên dịch khác nhau.
--   Thiết kế và phát triển framework kiểm thử tự động chủ yếu bằng Python để đáp ứng các yêu cầu sau:
-    -   Xây dựng và thực thi kiểm thử cho nhiều loại RTOS, Linux user và kernel, các kiến trúc CPU và trình biên dịch.
-    -   Xây dựng image Yocto phục vụ kiểm thử.
-    -   Thực thi các loại kiểm thử theo từng commit, hàng đêm hoặc hàng tuần.
-    -   Đảm bảo framework chạy được trên cả Windows và Linux.
-    -   Tạo hoặc tích hợp với các công cụ tạo báo cáo cần thiết cho mỗi lần phát hành.
--   Kỹ năng: Python, Jenkins, Lauterbach, cmm script, bash, Linux, Yocto, Embedded C, AUTOSAR, Makefile, linker, git, MongoDB
+-   Phát triển hệ thống tự động hóa cho quy trình phát triển phần mềm.
+-   Dẫn dắt nhóm nhiều thành viên triển khai thành công các dự án phần mềm trong lĩnh vực công nghiệp xe hơi.
 
 ### Bosch Việt Nam
 
 #### 2018-2020: Kỹ sư
 
--   Thực hiện kiểm thử tích hợp cho firmware ABS trên các dự án xe hai bánh.
--   Phối hợp với SDE để xác định nguyên nhân gốc rễ của các vấn đề phát hiện trong quá trình kiểm thử.
--   Cải thiện độ ổn định và hiệu suất của tự động hóa kiểm thử.
+-   Thực hiện kiểm thử cho hệ thống phanh ABS trên các dự án xe hai bánh.
 
 ### RENESAS Việt Nam
 
-#### 2017-2018: Kỹ sư phần mềm nhúng
+#### 2017-2018: Kỹ sư
 
 -   Phát triển giao diện người dùng cho framework kiểm thử bằng QT.
--   Chuyển đổi yêu cầu sản phẩm/tính năng và thay đổi mã nguồn thành các ca kiểm thử.
-
+-   Kiểm thử chip trong lĩnh vực xe hơi.
 ## Kỹ năng
 
--   Lập trình: Python, C, Embedded C, bash
--   Nền tảng phát triển: Linux, Yocto, Jenkins, Lauterbach, cmm script,
--   Quản lý mã nguồn: Git, GitHub, Bitbucket
--   Framework CI/CD: Jenkins, GitHub Actions
--   Kiểm thử: Phân tích yêu cầu, Unit test, System test, Integration test, Hiệu năng, Kiểm thử lỗi, Độ bao phủ mã, Độ bao phủ MCDC, Phân tích tĩnh, Pytest
--   Tài liệu: Có khả năng viết tài liệu và chuyển đổi quy trình kỹ thuật sang ngôn ngữ dễ hiểu cho người không chuyên.
--   Làm việc với các trình mô phỏng hệ thống nhúng.
--   Tiếng Anh giao tiếp.
-
-## Hoạt động
-
-### Tổ chức Đạp xe xuyên Việt
-
-#### 2015-Nay: Thành viên Ban điều hành
-
--   Tổ chức nhiều chương trình từ thiện trên khắp Việt Nam.
--   Dẫn dắt các hành trình đạp xe xuyên Việt cho khoảng 80 thành viên mỗi năm từ 2019 đến 2023.
+-   Lập trình web, lập trình hệ thống nhúng.
+-   Xây dựng hệ thống quản lý dữ liệu.
+-   Âm nhạc: hát, guitar, sáo trúc, trống cajon.
+-   Lên kế hoạch điều phối các chuyến đi dài.
+-   Tiếng Anh trình độ C1.
+-   Tiếng Trung cơ bản.
 
 ---
 
