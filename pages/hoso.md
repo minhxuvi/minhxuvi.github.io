@@ -12,8 +12,8 @@ Mình có nguyện vọng trở thành giáo viên của trường Thuận Nhiê
 Mình chưa có kinh nghiệm giảng dạy hay học về sư phạm, nên sẽ học tập để bù đắp thiếu sót này. Ngoài ra, với các kỹ năng hiện có như lập trình, âm nhạc, quản lý & điều hành, mình hy vọng có thể đóng góp công sức xây dựng trường. 
 
 Nguyện vọng của mình xuất phát từ một số mong muốn vị kỷ như sau:
-- Lớn lên cùng con, dù vị kỷ, nhưng đây là lý do lớn nhất.
 - Thực hành và xây dựng một phương pháp giáo dục chú trọng sự phát triển toàn vẹn của trẻ: nhịp điệu, cảm xúc, ý chí, tư duy.
+- Tu dưỡng thân tâm.
 - Xây dựng cộng đồng sống chân thành, an nhiên, hiểu biết.
 
 ## Học vấn
