@@ -13,6 +13,7 @@ Mình chưa có kinh nghiệm giảng dạy hay học về sư phạm, nên sẽ
 
 Nguyện vọng của mình xuất phát từ một số mong muốn vị kỷ như sau:
 - Thực hành và xây dựng một phương pháp giáo dục chú trọng sự phát triển toàn vẹn của trẻ: nhịp điệu, cảm xúc, ý chí, tư duy.
+- Xây dựng kho kiến thức cùng công cụ hỗ trợ phụ huynh lập kế hoạch trong quá trình lớn lên cùng con.
 - Tu dưỡng thân tâm.
 - Xây dựng cộng đồng sống chân thành, an nhiên, hiểu biết.
 
