@@ -13,6 +13,7 @@ Then reimplement it with AI.
 - Augment, Sourcegraph Cody
 - AI
 - VScode
+- Social media, Decentrialize social media
 - Diagram drawing
 - 2D drawing
 - 3D drawing
