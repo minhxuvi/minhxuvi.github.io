@@ -1,5 +1,14 @@
 # Các ý tưởng
 
+## Hệ thống công nên là một software
+
+Xã hội hoặc tổ chức cần được điều hành bởi một phần mềm chứ không phải con người. Con người chỉ có thể thay đổi phần mềm.
+
+## Tool notify về thứ mình cần
+
+Ví dụ mình cần chờ thông tin giảm giá để mua tên miền.
+Mình muốn tạo một tool AI tự động lập bảng so sánh cập nhật hàng ngày, hàng giờ về giá tiền theo 1 năm, 2 năm, 5 năm, 10 năm.
+
 ## Hệ thống xe tự lái
 
 ## XuVihome
