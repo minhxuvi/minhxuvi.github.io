@@ -1,5 +1,11 @@
 You are an expert in AI. I want to create a real life project to practice for the interview session for the job bellow. My current device is Macbook Air M4 10CPU, 8GPU, 16GB RAM.
 
+## Hands-on
+
+<https://chatgpt.com/share/68ceb9e0-3378-8006-81ff-d056700b5e87>
+<https://grok.com/share/c2hhcmQtNA%3D%3D_e98b1933-5a44-4044-ba4b-013b4ac1c6af>
+<https://github.com/minhxuvi/llm-gateway-qa>
+
 ## Job description
 
 ### About the job
@@ -79,6 +85,7 @@ Below is a **hands-on, portfolio-grade project with milestones, architecture, co
 - Optional: GPU validation on a cloud NVIDIA instance
 
 ### Why this works for NVIDIA SWQA
+
 - Mirrors real SWQA responsibilities: **test planning, automation, reporting, failure analysis, and cross-functional debugging**.
 - Exercises **model testing and LLM benchmarking** (required by JD).
 - Demonstrates **Unix/Linux, shell, Python, Docker, K8s**, and **framework design**.
@@ -198,6 +205,7 @@ llm-gateway-qa/
 ## 🗓 Suggested 2–3 Week Plan (compact)
 
 **Week 1 — Core + QA foundations**
+
 - Scaffold FastAPI gateway with **Ollama** provider
 - Write **smoke tests** (health, chat basic roundtrip)
 - Draft **TEST_PLAN.md** + **TEST_MATRIX.md**
@@ -205,12 +213,14 @@ llm-gateway-qa/
 - Add `pytest-html` report + coverage
 
 **Week 2 — Benchmarking + robustness**
+
 - Add **latency/throughput tests**; determinism tests (seed/temperature)
 - Add adversarial/security tests: prompt injection, long-context truncation, bad UTF‑8
 - Add dataset mini-evals for **factual QA** + correctness (exact match/F1)
 - Collect **metrics** → CSV/SQLite; generate a small comparative report
 
 **Week 3 — K8s + optional GPU**
+
 - Deploy to **kind**; add readiness/liveness probes + resource limits
 - Add **Locust** perf smoke; generate comparison report (single pod vs 2 replicas)
 - Optional: run on a **cloud NVIDIA GPU** (A10/T4/L4/G5) and compare latency
@@ -609,9 +619,11 @@ kubectl port-forward svc/llm-gateway 8080:80
 
 - Spin up a **cloud GPU** (e.g., AWS g5.xlarge A10G) or Runpod/LambdaLabs.
 - Use **NVIDIA PyTorch container** or CUDA runtime:
+
   ```bash
   docker run --gpus all --rm nvidia/cuda:12.2.0-runtime-ubuntu22.04 nvidia-smi
   ```
+
 - Run your gateway and benchmark against a **larger model** (e.g., Llama 3.1 70B via a hosted endpoint or NIM microservice if you have access).
 - Capture **latency deltas** vs. local Mac and explain how **batching**, **KV cache**, **FP8/INT8**, and **tensor parallelism** impact performance (conceptually).
 - Add a CI job labelled **“GPU-validation”** that requires a self-hosted runner (documented but skipped by default).
