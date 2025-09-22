@@ -2,11 +2,23 @@
   "editor.formatOnSave": true,
   "workbench.editor.wrapTabs": true,
   "files.trimTrailingWhitespace": true,
+  "[c]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "editor.insertSpaces": false,
+    "editor.detectIndentation": true,
+    "editor.tabSize": 4
+  },
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+  "python.sortImports.args": [
+    "--profile",
+    "black"
+  ],
   "[python]": {
-    "editor.defaultFormatter": "ms-python.python",
+    "editor.defaultFormatter": "ms-python.black-formatter",
     "editor.codeActionsOnSave": {
       "source.organizeImports": "explicit"
-    }
+    },
   },
   "[markdown]": {
     "editor.defaultFormatter": "DavidAnson.vscode-markdownlint",
