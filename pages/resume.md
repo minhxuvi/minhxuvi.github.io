@@ -33,7 +33,7 @@ QA Automation Engineer with 7+ years of experience in embedded systems, Linux-ba
 
 **May 2020 – Present**
 
-- Led a team of 5 engineers to design and implement an automation framework for multi-platform testing (RTOS, Linux kernel/user space).
+- Led a team of up to 35 engineers to design and implement an automation framework for multi-platform testing (RTOS, Linux kernel/user space).
 - Developed a Python-based automation framework supporting cross-architecture testing and Yocto image builds.
 - Integrated CI/CD pipelines using Jenkins, reducing manual testing effort by **60%** and improving release frequency.
 - Automated **500+ test cases**, improving regression coverage by **40%**.
