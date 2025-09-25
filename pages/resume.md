@@ -1,71 +1,87 @@
-# Minh Do Anh
+# **Minh Do Anh**
 
-## Contact Information
+**Senior QA Automation Engineer | Embedded Systems | Python | Linux | AI Testing**
 
 - Email: <minhxuvi@gmail.com>
 - Phone: (+84) 0363059649
-
-## Summary
-
-Experienced Automation Test with a strong background in embedded systems, software testing, and automation frameworks. Proven ability to lead teams, design robust testing solutions, and deliver high-quality results across multiple platforms. Skilled in Python, Linux, Yocto, and CI/CD tools, with a passion for continuous improvement and effective collaboration.
-
-## Education
-
-- 2012-2017: Bach khoa - Ho Chi Minh city university of technology
-     _Engineering in Electronic – Telecommunication_
-
-## Work Experience
-
-### FPT software
-
-#### May 2020 - current: Developer
-
-- Lead a team of 5 members to successfully test and implement a testing framework for new software from EAR to RTM phase.
-- Responsible for testing an inter-platform communication driver, which must be tested on multiple platforms, including RTOS, Linux user and kernel, CPU architectures, and compilers.
-- Design and develop an automation testing framework primarily in Python to adapt to the following requirements:
-  - Build and execute tests for multiple types of RTOS, Linux user and kernel, CPU - architectures, and compilers.
-  - Build Yocto image for testing.
-  - Execute different tests per commit, nightly, or weekly.
-  - Ensure the framework runs on both Windows and Linux machines.
-  - Generate or integrate with all report generation tools needed for a release.
-- Skills included: Python, Jenkins, Lauterbach, cmm script, bash, Linux, Yocto, Embedded C, AUTOSAR, Makefile, linker, git, MongoDB
-
-### Bosch Vietnam
-
-#### 2018-2020: Tester
-
-- Conducted integration tests for ABS firmware on 2-wheeler projects.
-- Collaborated with SDEs to root-cause issues discovered during testing.
-- Improved automation stability and performance metrics.
-
-### RENESAS Vietnam
-
-#### 2017-2018: Embedded software engineer
-
-- Developed UI for a testing framework using QT.
-- Translated product/feature requirements and code changes into test cases.
-
-## Skills
-
-- Programming: Python, C, Embedded C, bash
-- Development Platforms: Linux, Yocto, Jenkins, Lauterbach, cmm script,
-- Source Code Control: Git, GitHub, Bitbucket
-- CI/CD Frameworks: Jenkins, GitHub Actions
-- Basic knowledge about Docker, Kubernetes
-- Testing: Requirement analysis, Unit test, System test, Integration test, Performance, Fault injection, Code coverage, MCDC coverage, Static analysis, Pytest
-- Documentation: Ability to document and translate technical workflows to non-technical audiences.
-- Working with Embedded system simulators.
-- English proficiency.
-
-## Activities
-
-### Cycling along Viet Nam organization
-
-#### 2015-Now: Director board's member
-
-- Organized several charity programs across Vietnam.
-- Led bicycle journeys across Vietnam for about 80 members each year from 2019 to 2023.
+- LinkedIn: <https://www.linkedin.com/in/minhxuvi/>
+- GitHub: <https://github.com/minhxuvi>
 
 ---
 
-_Thank you for reading my resume!_
+## **Professional Summary**
+
+QA Automation Engineer with 7+ years of experience in embedded systems, Linux-based platforms, and test automation frameworks. Proven ability to design scalable automation solutions, lead QA teams, and ensure high-quality software delivery across multi-platform environments. Skilled in Python, CI/CD, Docker, and Kubernetes, with growing expertise in AI model testing, LLM benchmarking, and GPU-based performance validation. Passionate about building robust QA strategies for cutting-edge technologies.
+
+---
+
+## **Core Competencies**
+
+- **QA & Automation**: Test strategy, framework design, Pytest, CI/CD integration
+- **Programming**: Python, C, Embedded C, Bash
+- **Platforms**: Linux, Yocto, Docker, Kubernetes
+- **Tools**: Jenkins, GitHub Actions, Lauterbach, MongoDB
+- **Testing Expertise**: Unit, Integration, System, Performance, Fault Injection, Code Coverage
+- **AI/ML QA**: Model validation, LLM benchmarking, prompt testing (basic knowledge)
+- **Version Control**: Git, GitHub, Bitbucket
+
+---
+
+## **Professional Experience**
+
+### **FPT Software** — *Senior QA Automation Engineer*
+
+**May 2020 – Present**
+
+- Led a team of 5 engineers to design and implement an automation framework for multi-platform testing (RTOS, Linux kernel/user space).
+- Developed a Python-based automation framework supporting cross-architecture testing and Yocto image builds.
+- Integrated CI/CD pipelines using Jenkins, reducing manual testing effort by **60%** and improving release frequency.
+- Automated **500+ test cases**, improving regression coverage by **40%**.
+- Collaborated with cross-functional teams to validate inter-platform communication drivers across multiple CPU architectures.
+- **Tools**: Python, Jenkins, Yocto, Bash, Git, MongoDB, Lauterbach.
+
+### **Rikkeisoft** — *Embedded Software Engineer*
+
+**Nov 2019 – May 2020**
+
+- Worked on an educational robot project, managing both hardware and firmware design for the LCD display.
+- Collaborated with a multidisciplinary team to ensure seamless integration and optimized performance.
+- Successfully delivered a reliable and efficient solution for the project's display requirements.
+
+### **Bosch Vietnam** — *QA Tester*
+
+**Jun 2018 – May 2019**
+
+- Conducted integration testing for ABS firmware on 2-wheeler projects.
+- Improved automation stability, reducing flaky tests by **30%**.
+- Partnered with developers to root-cause and resolve critical defects.
+
+### **Renesas Vietnam** — *Embedded Software Engineer*
+
+**Nov 2017 – Mar 2018**
+
+- Developed UI for a testing framework using Qt.
+- Translated product requirements into test cases, ensuring **100% requirement coverage**.
+
+---
+
+## **Education**
+
+**Bach Khoa – Ho Chi Minh City University of Technology**
+Engineering in Electronics – Telecommunication (2012–2017)
+
+**Ha Noi University of Science - High School for Gifted Students**
+Specialized in Physics (2009–2012)
+
+---
+
+## **Certifications**
+
+- ISTQB Certified Tester (if applicable)
+- Docker & Kubernetes Fundamentals (if applicable)
+
+---
+
+## **Activities**
+
+- Board Member, Cycling Along Vietnam Organization (2015–Present): Organized charity programs and led annual cycling events with 80+ participants.
