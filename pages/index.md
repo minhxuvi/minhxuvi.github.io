@@ -1,9 +1,9 @@
 # Cuộc đời Mốc Meo
 
-## Mình theo đuổi cuộc sống tự do, thong thả nhưng thú vị.
+## Mình theo đuổi cuộc sống tự do, thong thả nhưng thú vị
 
 Mình nhận thấy thứ khiến mình áp lực không phải là những áp lực công việc mà đến từ những lúc mình quá ham thú những sự thỏa mãn tạm thời dẫn đến việc trễ nải các công việc cơ bản trong cuộc sống. Đúng vậy dù cuộc sống có tự do thong thả đến đâu thì vẫn có những việc cơ bản cần làm. Mỗi người có thể có những "công việc cơ bản" khác nhau. Nhưng sẽ có một số thứ chung không thể thay đổi như: thở, uống, ăn, ngủ,...
-Với mình tùy mỗi giai đoạn trong cuộc sống sẽ có thêm một số công việc khác.
+Với mình tùy mỗi giai đoạn trong cuộc sống sẽ có thêm một số công việc khác. Nhưng việc quan trọng nhất vẫn là duy trì nhịp điệu sống.
 
 Mình cần phải né cái bẫy về cảm xúc thỏa mãn khi đạt được mục đích. Mình muốn thực sự tận hưởng chuyến đi chứ không phải đích đến. Hay có thể là đạt được sự thỏa mãn như khi đạt được mục tiêu trong từng khoảnh khắc.
 
@@ -13,13 +13,14 @@ Nhưng cuộc sống thì vẫn cần có "kế hoạch". Nhưng kế hoạch kh
 
 ## Học điều gì
 
-Thứ quan trọng nhất của một tổ chức đó là hệ thống và quy trình của nó. Với công việc hiện tại mình có rất nhiều cơ hội để học thêm về điều đó. Vậy hãy tiếp tục đi Minh, hãy tiếp tục học.
+Hiện tại mình có thể học mọi thứ rất nhanh với sự giúp đỡ của AI. Nhưng hiểu pháp dễ, hành pháp khó.
+Cần hỏi đúng câu hỏi và tham nhẫn luyện tập.
 
 ## Thực tập chánh niệm
 
 Chánh niệm trong từng khoảnh khắc.
 Từng khoảnh khắc đều biết được điều mình cần làm và nên làm.
-Vậy mình cần biết lúc nào mình cần làm gì.
+Vậy mình cần biết lúc nào mình cần làm gì?
 Điều này chia thành 3 phần:
 
 1. Các việc để có nhịp sinh hoạt điều độ.
@@ -28,16 +29,15 @@ Vậy mình cần biết lúc nào mình cần làm gì.
 
 ## Những điều hình thành thế giới quan của mình
 
--   Tình cảm gia đình.
--   Karatedo.
--   Đạo bụt từ thiền sư Thích Nhất Hạnh và thầy Minh Niệm.
--   Agile mindset.
--   Lý tưởng Cộng Sản.
+- Tình cảm gia đình.
+- Vật lý.
+- Thiền.
+- Karatedo.
+- Agile mindset.
+- Lý tưởng Cộng Sản.
 
 ## Minh bạch
 
 Mình theo đuổi sự minh bạch.
 Có câu "Thẳng thắn thật thà thường thua thiệt."
 Nhưng mình nghĩ đó là do thẳng thắn thật thà nửa vời thôi.
-
-## [Kế hoạch](/projects)
