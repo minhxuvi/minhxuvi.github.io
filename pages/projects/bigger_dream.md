@@ -13,42 +13,42 @@ Vậy thứ gì là quan trọng nhất trên thân xác này?
 
 Học chia thành nhiều vòng. Mỗi vòng sẽ có các kiến thức phức tạp và chi tiết hơn.
 
--   Best pracitice khi sử dụng não.
--   Cấu trúc tổng quan của cơ thể.
--   Cấu trúc tổng quan của não. Học một cách tổng quan từ các thành phần lớn, dần dần đi xuống các cấu thành nhỏ hơn đến nhỏ nhất.
+- Best pracitice khi sử dụng não.
+- Cấu trúc tổng quan của cơ thể.
+- Cấu trúc tổng quan của não. Học một cách tổng quan từ các thành phần lớn, dần dần đi xuống các cấu thành nhỏ hơn đến nhỏ nhất.
     Thậm chí là nhỏ hơn nhỏ nhất nếu có thể.
--   Sau đó là bắt đầu nghiên cứu từ vật thể bình thường xuống đến lý thuyết của những thứ nhỏ nhất (tại thời điểm hiện tại ví dụ như quantum physic).
+- Sau đó là bắt đầu nghiên cứu từ vật thể bình thường xuống đến lý thuyết của những thứ nhỏ nhất (tại thời điểm hiện tại ví dụ như quantum physic).
     Các kiến thức bổ trợ sẽ được học theo nhu cầu.
--   Khi lượng kiến thức nền đã đủ. Bắt đầu học các khóa phức tạp hơn như Neuroscience (starting point).
+- Khi lượng kiến thức nền đã đủ. Bắt đầu học các khóa phức tạp hơn như Neuroscience (starting point).
     Kết hợp cả việc "làm" nữa. Cả "kiếm tiền" nữa.
 
 ## Làm
 
--   Xây dựng requirement cho tổ chức.
--   Lập website cùng với knowledge base cho tổ chức.
--   Thành lập tư cách pháp nhân cho tổ chức.
+- Xây dựng requirement cho tổ chức.
+- Lập website cùng với knowledge base cho tổ chức.
+- Thành lập tư cách pháp nhân cho tổ chức.
     (Có thể thành lập khi bắt đầu có hoạt động kinh doanh hoặc gặp những vấn đề liên quan đến pháp lý.)
--   Tiếp tục học tập, làm việc và tận hưởng quá trình. (Neuroscience, Quantum physic, AI...)
--   Xây dựng khóa học (tận dụng AI). Tạm dừng việc xây khóa học về python như hiện tại. Tập trung vào việc xây dựng khóa học cơ bản cho con.
--   Laboratory to manufacture body replacement parts for pets.
--   Certification to manufacture replacement body parts.
--   Replace and upgrade body parts.
--   Partially replace and upgrade the brain.
--   Achieve immortality.
--   Explore the universe.
+- Tiếp tục học tập, làm việc và tận hưởng quá trình. (Neuroscience, Quantum physic, AI...)
+- Xây dựng khóa học (tận dụng AI). Tạm dừng việc xây khóa học về python như hiện tại. Tập trung vào việc xây dựng khóa học cơ bản cho con.
+- Laboratory to manufacture body replacement parts for pets.
+- Certification to manufacture replacement body parts.
+- Replace and upgrade body parts.
+- Partially replace and upgrade the brain.
+- Achieve immortality.
+- Explore the universe.
 
 ### Chiến lược phát triển phần mềm
 
--   Ưu tiên môi trường Linux. Cái gì làm được trên Linux thì hãy làm trên Linux. Đơn giản vì nó open source.
--   Bắt đầu từ requirement rồi từ high level requirement tạo ra architecture design. Từ architecture design sẽ bắt đầu implement.
+- Ưu tiên môi trường Linux. Cái gì làm được trên Linux thì hãy làm trên Linux. Đơn giản vì nó open source.
+- Bắt đầu từ requirement rồi từ high level requirement tạo ra architecture design. Từ architecture design sẽ bắt đầu implement.
     Quá trình implement có thể ứng dụng AI để gen code.
     Việc mình cần làm là tạo một framework để người dùng cung cấp một số thông tin đầu vào như input, expected output dưới dạng từ ngữ.
     AI phải gen code đến khi nào pass các testcase được define dựa trên expected output.
--   AI gen code nhưng người review code vẫn là con người.
--   Sau khi code đã được review và approve thì sang giai đoạn maintainance. Code sẽ được gen lại sau một khoảng thời gian nhất định.
--   Mục tiêu cuối cùng vẫn là bigger dream, AI chỉ là công cụ hỗ trợ. Điều quan trọng nhất ở đây vẫn là cung cấp input và expected output một cách rõ ràng và cụ thể.
+- AI gen code nhưng người review code vẫn là con người.
+- Sau khi code đã được review và approve thì sang giai đoạn maintainance. Code sẽ được gen lại sau một khoảng thời gian nhất định.
+- Mục tiêu cuối cùng vẫn là bigger dream, AI chỉ là công cụ hỗ trợ. Điều quan trọng nhất ở đây vẫn là cung cấp input và expected output một cách rõ ràng và cụ thể.
     Không cần quá tập trung phát triển một công cụ mà bỏ qua mục tiêu ban đầu là nghiên cứu về não bộ.
--   Ở điểm này mình cần một sự cân bằng. Cần học tập và ứng dụng liên tục.
+- Ở điểm này mình cần một sự cân bằng. Cần học tập và ứng dụng liên tục.
 
 ### Bắt đầu từ đâu?
 
