@@ -48,6 +48,7 @@ You want to investigate on reverse aging.
 - Xây dựng cộng đồng.
 - Viết sách.
 - Tạo khóa học.
+- [Toán học + Khoa học dữ liệu + Tư duy hệ thống = Lợi nhuận bền vững.](<https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668072&fbclid=IwY2xjawNRVFJleHRuA2FlbQIxMABicmlkETFSR3lFRGk5QmIxc3NnUnFhAR6eWpMIAJKDAEcbVPJJGQ2LYMXltVFDPw-ZRHJbt5f-_3ISWxb8MFwZGvAFPg_aem_FFTaqYk8xvlD_Iqn1U_cWw>)
 
 Các người gia tộc giàu nhất thế giới đều đầu tư tài chính và quản lý dòng tiền.
 Còn các tỷ phú tự thân thì đều là những người tạo nên sản phẩm phục vụ cho xã hội.
@@ -59,3 +60,10 @@ Còn các tỷ phú tự thân thì đều là những người tạo nên sản
 - Quản lý thời gian.
 - Đầu tư.
 - Quản lý tài chính cá nhân.
+
+## Việc cần làm
+
+- 1st syllabus nuôi dạy con.
+- Mua container để dọn bớt đồ.
+- Dọn dẹp quanh nhà tránh rắn chuột.
+- Sửa lại nhà hiện tại chủ yếu là cái bếp để vợ có chỗ nấu ăn.
