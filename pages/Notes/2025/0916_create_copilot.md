@@ -1,9 +1,10 @@
 Absolutely, Minh — let’s build a practical, end‑to‑end **fine-tuning pipeline for CodeLlama** (with QLoRA so it runs on a single GPU). I’ll give you copy‑pasteable code and explain *why* each step matters. I’ll use `pathlib` for paths as you prefer.
 
-> 💡 **What you’ll get**  
-> - Fine-tune **CodeLlama‑7B‑Instruct** using **QLoRA** (4‑bit)  
-> - Train on **code instruction data** (e.g., CodeAlpaca)  
-> - Evaluate quickly and run inference  
+> 💡 **What you’ll get**
+>
+> - Fine-tune **CodeLlama‑7B‑Instruct** using **QLoRA** (4‑bit)
+> - Train on **code instruction data** (e.g., CodeAlpaca)
+> - Evaluate quickly and run inference
 > - Optional: merge LoRA and serve via a minimal API
 
 ---
@@ -11,16 +12,19 @@ Absolutely, Minh — let’s build a practical, end‑to‑end **fine-tuning pip
 ## 0) Prerequisites
 
 **Hardware (recommended minimum)**
+
 - **GPU:** 12–16 GB VRAM (7B QLoRA fits; 8 GB works with smaller batch + CPU offload)
 - **RAM:** 16–32 GB
 - **Disk:** ~30–60 GB (model + datasets + checkpoints)
 
 **Accounts**
+
 - Hugging Face account, accepted terms for CodeLlama.
-  - Model example: `codellama/CodeLlama-7b-Instruct-hf`  
+  - Model example: `codellama/CodeLlama-7b-Instruct-hf`
     (Request access on the model page, then login via CLI below)
 
 **Environment**
+
 ```bash
 # (optional) Create a clean env
 conda create -n codellama-ft python=3.10 -y
@@ -59,7 +63,7 @@ BASE_MODEL = "codellama/CodeLlama-7b-Instruct-hf"  # requires access on HF
 
 Start with a compact instruction dataset that maps well to coding tasks:
 
-- **`sahil2801/CodeAlpaca-20k`** — instruction → code pairs  
+- **`sahil2801/CodeAlpaca-20k`** — instruction → code pairs
 - (Optional) Add **code-only data** (e.g., `bigcode/the-stack-smol`) for “style” adaptation
 
 We’ll use CodeAlpaca-20k first, then show how to add more later.
@@ -294,6 +298,7 @@ if __name__ == "__main__":
 ```
 
 ### Run training
+
 ```bash
 # Make sure you have access to the base model on HF.
 # Accelerate will autodetect GPUs.
@@ -353,6 +358,7 @@ if __name__ == "__main__":
 ```
 
 Run:
+
 ```bash
 python quick_eval.py
 ```
@@ -461,8 +467,8 @@ You’d then switch from `SFTTrainer` to a standard Causal LM objective or keep 
 
 ## 9) Tips, VRAM, and troubleshooting
 
-- **VRAM targets (approx, QLoRA)**  
-  - 7B: **10–12 GB** (batch=2, seq=2k)  
+- **VRAM targets (approx, QLoRA)**
+  - 7B: **10–12 GB** (batch=2, seq=2k)
   - 13B: **18–24 GB** (reduce batch/seq length as needed)
 - **Sequence length**: Increasing `MAX_SEQ_LEN` helps with long code, but **VRAM grows linearly**.
 - **Speed**: Use `bf16` if your GPU supports it (A100, 4090, etc.). Otherwise `fp16`.
@@ -482,19 +488,19 @@ You’d then switch from `SFTTrainer` to a standard Causal LM objective or keep 
 
 ## 10) Next steps (nice upgrades)
 
-- **Evaluation**: Try `evalplus`/`HumanEval` pipelines when you’re ready.  
-- **IDE integration**: Point **Continue**, **Aider**, or custom VSCode extension to your `/generate` endpoint.  
-- **RAG for codebase**: Add a vector index (e.g., `chroma` + `ast`-aware chunking) to ground generations in your repo.  
+- **Evaluation**: Try `evalplus`/`HumanEval` pipelines when you’re ready.
+- **IDE integration**: Point **Continue**, **Aider**, or custom VSCode extension to your `/generate` endpoint.
+- **RAG for codebase**: Add a vector index (e.g., `chroma` + `ast`-aware chunking) to ground generations in your repo.
 - **Guardrails**: Add system prompts and style constraints (e.g., prefer `pathlib`, add type hints, include tests).
 
 ---
 
 ## Quick sanity checklist
 
-- [ ] Accepted model license and `huggingface-cli login` done  
-- [ ] Enough VRAM / smaller `BATCH_SIZE` + `GR_ACCUM` set  
-- [ ] Training runs without OOM  
-- [ ] `quick_eval.py` produces sensible code  
+- [ ] Accepted model license and `huggingface-cli login` done
+- [ ] Enough VRAM / smaller `BATCH_SIZE` + `GR_ACCUM` set
+- [ ] Training runs without OOM
+- [ ] `quick_eval.py` produces sensible code
 - [ ] Decide whether to use **merged** weights or **adapter** for inference
 
 ---
@@ -512,8 +518,8 @@ Share these and I’ll adjust batch sizes, sequence length, and even provide a V
 
 Awesome, Minh — since you’re on a **MacBook Air (Apple Silicon, M‑series)** and want **VS Code** integration, the most practical path is:
 
-- **Fine‑tune locally with Apple’s MLX stack (LoRA/QLoRA)** → it runs on the Mac GPU (Metal) and is designed for Apple Silicon. [1](https://developer.apple.com/videos/play/wwdc2025/298/)  
-- Avoid CUDA‑only tooling like `bitsandbytes` on macOS; it’s primarily built for NVIDIA GPUs and Apple/MPS support has historically been limited/experimental. [2](https://github.com/bitsandbytes-foundation/bitsandbytes/issues/252)[3](https://github.com/bitsandbytes-foundation/bitsandbytes/issues/485)  
+- **Fine‑tune locally with Apple’s MLX stack (LoRA/QLoRA)** → it runs on the Mac GPU (Metal) and is designed for Apple Silicon. [1](https://developer.apple.com/videos/play/wwdc2025/298/)
+- Avoid CUDA‑only tooling like `bitsandbytes` on macOS; it’s primarily built for NVIDIA GPUs and Apple/MPS support has historically been limited/experimental. [2](https://github.com/bitsandbytes-foundation/bitsandbytes/issues/252)[3](https://github.com/bitsandbytes-foundation/bitsandbytes/issues/485)
 - Serve your fine‑tuned model via an **OpenAI‑compatible local server for MLX**, then point **Continue (VS Code extension)** at it. [4](https://pypi.org/project/mlx-openai-server/)[5](https://docs.continue.dev/guides/ollama-guide)
 
 Below is a **step‑by‑step** you can copy/paste. I’ll tailor defaults for a base MacBook Air (typically **8–16 GB unified memory**). If **7B CodeLlama** feels tight, I’ll show a smaller backup (3B coder) that fine‑tunes comfortably on 8 GB.
@@ -522,13 +528,13 @@ Below is a **step‑by‑step** you can copy/paste. I’ll tailor defaults for a
 
 ## Overview of the plan
 
-1) **Install** MLX fine‑tuning tools  
-2) **Get access** to CodeLlama (Meta license)  
-3) **Prepare a small instruction dataset** (Python-only for now)  
-4) **Run LoRA fine‑tuning on Mac (MLX)**  
-5) **Generate & sanity‑check** outputs locally  
-6) **Serve** the model with an **OpenAI‑compatible MLX server**  
-7) **Wire up VS Code** (Continue) to your local server  
+1) **Install** MLX fine‑tuning tools
+2) **Get access** to CodeLlama (Meta license)
+3) **Prepare a small instruction dataset** (Python-only for now)
+4) **Run LoRA fine‑tuning on Mac (MLX)**
+5) **Generate & sanity‑check** outputs locally
+6) **Serve** the model with an **OpenAI‑compatible MLX server**
+7) **Wire up VS Code** (Continue) to your local server
 8) **(If 7B doesn’t fit)** swap to a smaller coder model; or fine‑tune in the cloud and run locally
 
 ---
@@ -553,7 +559,7 @@ pip install -U mlx datasets huggingface_hub mlx-lm-lora
 pip install -U mlx-openai-server
 ```
 
-- **Why MLX?** Apple’s MLX/MLX‑LM is optimized for Apple Silicon and supports **fine‑tuning** on‑device. [1](https://developer.apple.com/videos/play/wwdc2025/298/)  
+- **Why MLX?** Apple’s MLX/MLX‑LM is optimized for Apple Silicon and supports **fine‑tuning** on‑device. [1](https://developer.apple.com/videos/play/wwdc2025/298/)
 - **Why `mlx-lm-lora`?** It’s a CLI/SDK that fine‑tunes LLMs on MLX with **LoRA/DoRA**, supports **QLoRA (4‑, 6‑, 8‑bit)**, and multiple training modes including SFT/DPO/ORPO. [6](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora)
 
 ---
@@ -642,10 +648,10 @@ python prep_data.py
 
 **Option A — CodeLlama (7B Instruct):**
 
-- Hugging Face ID: `meta-llama/CodeLlama-7b-Instruct-hf` (requires access) [7](https://huggingface.co/meta-llama/CodeLlama-7b-Instruct-hf)  
+- Hugging Face ID: `meta-llama/CodeLlama-7b-Instruct-hf` (requires access) [7](https://huggingface.co/meta-llama/CodeLlama-7b-Instruct-hf)
 - If MLX cannot convert on the fly, use MLX‑community weights: `mlx-community/CodeLlama-7b-mlx` (base). [8](https://huggingface.co/mlx-community/CodeLlama-7b-mlx)
 
-**Option B — Smaller coder (safer on 8 GB):**  
+**Option B — Smaller coder (safer on 8 GB):**
 Try a **~3B coder** first (e.g., a Qwen 2.5 Coder 3B Instruct). MLX‑LoRA supports many bases beyond LLaMA/CodeLlama if you decide to switch to a lighter model. [6](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora)
 
 > We can start with CodeLlama‑7B and, if memory is tight, switch to a 3B coder with the **same pipeline**.
@@ -684,8 +690,8 @@ mlx_lm_lora.train \
 
 **Notes**
 
-- `--train-type lora` enables parameter‑efficient tuning.  
-- `--mask-prompt` ensures we compute loss only on the assistant’s reply (not on system/user).  
+- `--train-type lora` enables parameter‑efficient tuning.
+- `--mask-prompt` ensures we compute loss only on the assistant’s reply (not on system/user).
 - Reduce `--max-seq-length` and keep `--batch-size 1` if you hit memory pressure; increase `iters` for more training signal. The trainer supports **QLoRA** with 4/6/8‑bit quantized base weights if you need to lower memory further — check the exact quantization flags for your installed version via `--help`. [6](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora)
 
 > If **7B still OOMs** on your Air, swap `MODEL` to a ~**3B coder** for a smooth experience, then come back to 7B later. [6](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora)
@@ -752,12 +758,12 @@ models:
 
 ## 9) Troubleshooting & tips on a base MacBook Air
 
-- **BNB/QLoRA on macOS:** The common QLoRA stack (`bitsandbytes` 4‑bit with CUDA) targets NVIDIA GPUs; macOS/MPS support isn’t turnkey, which is why we use MLX instead. [2](https://github.com/bitsandbytes-foundation/bitsandbytes/issues/252)[3](https://github.com/bitsandbytes-foundation/bitsandbytes/issues/485)  
-- **Memory pressure:**  
-  - Lower `--max-seq-length` (e.g., 768–1024)  
-  - Keep `--batch-size 1` and increase `--gradient-accumulation-steps`  
-  - Prefer smaller bases (≈3B) for faster iteration; MLX‑LoRA supports many architectures beyond CodeLlama. [6](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora)  
-- **MLX‑community weights:** For CodeLlama, the **MLX‑converted** repository can simplify loading on Mac. [8](https://huggingface.co/mlx-community/CodeLlama-7b-mlx)  
+- **BNB/QLoRA on macOS:** The common QLoRA stack (`bitsandbytes` 4‑bit with CUDA) targets NVIDIA GPUs; macOS/MPS support isn’t turnkey, which is why we use MLX instead. [2](https://github.com/bitsandbytes-foundation/bitsandbytes/issues/252)[3](https://github.com/bitsandbytes-foundation/bitsandbytes/issues/485)
+- **Memory pressure:**
+  - Lower `--max-seq-length` (e.g., 768–1024)
+  - Keep `--batch-size 1` and increase `--gradient-accumulation-steps`
+  - Prefer smaller bases (≈3B) for faster iteration; MLX‑LoRA supports many architectures beyond CodeLlama. [6](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora)
+- **MLX‑community weights:** For CodeLlama, the **MLX‑converted** repository can simplify loading on Mac. [8](https://huggingface.co/mlx-community/CodeLlama-7b-mlx)
 - **Learning resources:** Apple’s **WWDC session** on MLX shows fine‑tuning & quantization concepts on Apple Silicon — worth a skim. [1](https://developer.apple.com/videos/play/wwdc2025/298/)
 
 ---
@@ -770,15 +776,15 @@ If you want to stick with the **Hugging Face / TRL** QLoRA pipeline I shared ear
 
 ## What you’ll have at the end
 
-- A LoRA‑tuned CodeLlama (or smaller coder) checkpoint under `outputs/...`  
-- A local **OpenAI‑compatible** endpoint: `http://127.0.0.1:8000/v1`  
+- A LoRA‑tuned CodeLlama (or smaller coder) checkpoint under `outputs/...`
+- A local **OpenAI‑compatible** endpoint: `http://127.0.0.1:8000/v1`
 - VS Code **Continue** pointing to your local model for chat, edits, and autocomplete.
 
 ---
 
 ## Quick next actions for you
 
-1) **Tell me your exact RAM** (8 GB or 16 GB). If it’s **8 GB**, I’ll give you a ready‑made config for a **3B coder** first, then we can try 7B with QLoRA.  
+1) **Tell me your exact RAM** (8 GB or 16 GB). If it’s **8 GB**, I’ll give you a ready‑made config for a **3B coder** first, then we can try 7B with QLoRA.
 2) Do you want me to generate a **single script** (`make.sh`) that: creates the venv, installs deps, prepares data, runs training, then starts the server? I can also drop in a **Continue config snippet** that prefers `pathlib` in code suggestions (your style).
 
 If you prefer, I’ll tailor the dataset to **Python tasks you do at work** (file I/O with `pathlib`, unit tests, docstrings) so the assistant matches your coding vibe.
@@ -791,13 +797,13 @@ Great — **16 GB RAM** on your MacBook Air is enough to fine‑tune a **7B** 
 
 ## Plan (tailored for 16 GB)
 
-1) Install MLX + MLX‑LoRA trainer  
-2) Get CodeLlama access (Meta‑gated)  
-3) Prepare a small **Python‑only** instruction dataset  
-4) Fine‑tune **CodeLlama‑7B** with **LoRA** (SFT)  
-5) Sanity‑check generations locally  
-6) Serve your model with an **OpenAI‑compatible** local server  
-7) Connect **VS Code → Continue** to your local server  
+1) Install MLX + MLX‑LoRA trainer
+2) Get CodeLlama access (Meta‑gated)
+3) Prepare a small **Python‑only** instruction dataset
+4) Fine‑tune **CodeLlama‑7B** with **LoRA** (SFT)
+5) Sanity‑check generations locally
+6) Serve your model with an **OpenAI‑compatible** local server
+7) Connect **VS Code → Continue** to your local server
 8) (Optional) If memory is tight, start with a ~3B coder and come back to 7B
 
 ---
@@ -920,8 +926,9 @@ chmod +x bootstrap_ft.sh
 ./bootstrap_ft.sh
 ```
 
-**Why these choices?**  
-- **MLX‑LoRA** CLI supports SFT with `messages` JSONL, LoRA/DoRA/full training types, and quantized training options (QLoRA). The flags we use are in its README examples (`--train-mode sft`, `--train-type lora`, `--data`, `--batch-size`, `--iters`, `--max-seq-length`, `--mask-prompt`, `--gradient-accumulation-steps`). [5](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora)  
+**Why these choices?**
+
+- **MLX‑LoRA** CLI supports SFT with `messages` JSONL, LoRA/DoRA/full training types, and quantized training options (QLoRA). The flags we use are in its README examples (`--train-mode sft`, `--train-type lora`, `--data`, `--batch-size`, `--iters`, `--max-seq-length`, `--mask-prompt`, `--gradient-accumulation-steps`). [5](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora)
 - The **MLX‑community CodeLlama‑7B** repository provides an MLX‑friendly conversion and is known to run on Apple Silicon; it’s a good starting point if you haven’t been granted access to Meta’s HF repo yet. [6](https://huggingface.co/mlx-community/CodeLlama-7b-mlx)
 
 > If you want the **Instruct** variant from Meta directly (`meta-llama/CodeLlama-7b-Instruct-hf`), request access on Hugging Face first. [7](https://huggingface.co/meta-llama/CodeLlama-7b-Instruct-hf)
@@ -930,8 +937,8 @@ chmod +x bootstrap_ft.sh
 
 ## 1) What fits in **16 GB** and how to scale up
 
-- Start with **seq length 1024**, **batch 1**, **grad accumulation 16**. Increase to 1536 later if stable.  
-- If you still hit memory pressure, drop `--max-seq-length` to **768–896** or reduce `--iters` for your first pass.  
+- Start with **seq length 1024**, **batch 1**, **grad accumulation 16**. Increase to 1536 later if stable.
+- If you still hit memory pressure, drop `--max-seq-length` to **768–896** or reduce `--iters` for your first pass.
 - If 7B feels tight for your use, MLX‑LoRA works with many smaller coder bases (e.g., Qwen‑2.5 Coder 3B Instruct), then you can scale back up to 7B. [5](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora)
 
 > We’re using MLX because it’s **native for Apple Silicon fine‑tuning**; CUDA‑centric stacks like `bitsandbytes` are not straightforward on macOS/MPS. [1](https://developer.apple.com/videos/play/wwdc2025/298/)[3](https://github.com/bitsandbytes-foundation/bitsandbytes/issues/252)
@@ -983,8 +990,8 @@ Continue’s docs cover using local providers and custom endpoints; this is the 
 
 ## 4) Dataset tips (Python‑centric quality)
 
-- Keep prompt/response pairs **short and targeted** at tasks you care about (scripts, CLI tools, tests).  
-- Seed examples with your **preferred style** (type hints, `pathlib`, docstrings, minimal deps).  
+- Keep prompt/response pairs **short and targeted** at tasks you care about (scripts, CLI tools, tests).
+- Seed examples with your **preferred style** (type hints, `pathlib`, docstrings, minimal deps).
 - Add a few **“explain then code”** examples — it helps instruction following and teach‑your‑style SFT.
 
 (MLX examples and community guides illustrate preparing `messages` datasets and fine‑tuning flow on Apple Silicon.) [2](https://heidloff.net/article/apple-mlx-fine-tuning/)
@@ -993,31 +1000,32 @@ Continue’s docs cover using local providers and custom endpoints; this is the 
 
 ## 5) Merging vs. adapters
 
-- **Adapters (LoRA)**: smallest artifact; easiest to iterate.  
-- **Merge**: produces a single set of weights for serving anywhere.  
+- **Adapters (LoRA)**: smallest artifact; easiest to iterate.
+- **Merge**: produces a single set of weights for serving anywhere.
 The **MLX OpenAI server** supports running LoRA adapters; consult its README for the current adapter flag, or you can use project‑specific merge utilities if you prefer a single artifact. [8](https://pypi.org/project/mlx-openai-server/)
 
 ---
 
 ## 6) FAQ / Troubleshooting
 
-- **“Why not QLoRA with bitsandbytes on Mac?”**  
+- **“Why not QLoRA with bitsandbytes on Mac?”**
   `bitsandbytes` primarily targets CUDA/NVIDIA; macOS/MPS support has been limited and not plug‑and‑play. MLX is the Apple‑native path for training/inference. [3](https://github.com/bitsandbytes-foundation/bitsandbytes/issues/252)[4](https://huggingface.co/docs/bitsandbytes/main/en/installation)
-- **“CodeLlama access needed?”**  
+- **“CodeLlama access needed?”**
   Yes for Meta’s official repos on HF; request access once. The **MLX‑community** hosts MLX‑converted variants that can help you get started. [7](https://huggingface.co/meta-llama/CodeLlama-7b-Instruct-hf)[6](https://huggingface.co/mlx-community/CodeLlama-7b-mlx)
-- **“Does MLX actually support fine‑tuning?”**  
+- **“Does MLX actually support fine‑tuning?”**
   Yes — Apple’s WWDC session covers **fine‑tuning and quantization** on Apple Silicon, and multiple tutorials show end‑to‑end fine‑tuning with MLX. [1](https://developer.apple.com/videos/play/wwdc2025/298/)[2](https://heidloff.net/article/apple-mlx-fine-tuning/)
 
 ---
 
 ## What I can do next for you
 
-1) Generate a **ready‑made Continue agent** that bakes in your style: “Prefer `pathlib`, add type hints, include tests.”  
-2) Create a **small curated dataset** from your own repos (we can redact) to better match your tasks.  
+1) Generate a **ready‑made Continue agent** that bakes in your style: “Prefer `pathlib`, add type hints, include tests.”
+2) Create a **small curated dataset** from your own repos (we can redact) to better match your tasks.
 3) Help you **switch bases** (e.g., a 3B coder for faster iteration) and later **scale back to 7B**.
 
 Do you want me to:
-- **(A)** run with the 7B settings above now, or  
+
+- **(A)** run with the 7B settings above now, or
 - **(B)** start with a ~3B coder for a faster first loop and then upgrade to 7B?
 
 Either way, I’ll also add a **VS Code task** so you can run training and serving directly from the command palette.
@@ -1030,15 +1038,16 @@ Below is a clean, copy‑pasteable path using **Apple’s MLX** (native for Appl
 
 ## Why this stack (quickly)
 
-- **MLX** runs and fine‑tunes LLMs efficiently on Apple Silicon; Apple’s docs and WWDC talk explicitly cover **fine‑tuning and quantization** on‑device. [1](https://developer.apple.com/videos/play/wwdc2025/298/)  
-- **Official `mlx_lm.lora`** CLI supports **LoRA** and **QLoRA**; if you pass a **quantized** model, it auto‑switches to QLoRA. It expects `train.jsonl`/`valid.jsonl` in **`messages`** chat format. [2](https://github.com/ml-explore/mlx-lm/blob/main/mlx_lm/LORA.md)[3](https://deepwiki.com/ml-explore/mlx-lm/4.1-lora-fine-tuning)  
+- **MLX** runs and fine‑tunes LLMs efficiently on Apple Silicon; Apple’s docs and WWDC talk explicitly cover **fine‑tuning and quantization** on‑device. [1](https://developer.apple.com/videos/play/wwdc2025/298/)
+- **Official `mlx_lm.lora`** CLI supports **LoRA** and **QLoRA**; if you pass a **quantized** model, it auto‑switches to QLoRA. It expects `train.jsonl`/`valid.jsonl` in **`messages`** chat format. [2](https://github.com/ml-explore/mlx-lm/blob/main/mlx_lm/LORA.md)[3](https://deepwiki.com/ml-explore/mlx-lm/4.1-lora-fine-tuning)
 - CUDA‑centric QLoRA stacks (e.g., `bitsandbytes`) are designed for **NVIDIA CUDA** and are not straightforward on macOS/MPS—another reason we stick to MLX on a Mac. [4](https://github.com/bitsandbytes-foundation/bitsandbytes/issues/252)[5](https://huggingface.co/docs/bitsandbytes/main/en/installation)
 
 ---
 
 ## 0) Pick a small base coder
 
-**Recommended (fast iteration):**  
+**Recommended (fast iteration):**
+
 - **`Qwen2.5‑Coder‑3B‑Instruct`** family. You can use the vanilla HF model (`Qwen/Qwen2.5-Coder-3B-Instruct`) *or* an **MLX‑quantized variant** (e.g., `lmstudio-community/Qwen2.5-Coder-3B-Instruct-MLX-8bit`). Quantized MLX models run well on Apple Silicon, and passing a quantized model triggers **QLoRA** automatically in `mlx_lm.lora`. [6](https://huggingface.co/lmstudio-community/Qwen2.5-Coder-3B-Instruct-MLX-8bit)[2](https://github.com/ml-explore/mlx-lm/blob/main/mlx_lm/LORA.md)
 
 > Qwen 2.5 includes a 3B size and instruct variants—good fit for a MacBook Air for quick loops. [7](https://github.com/mx4ai/qwen2.5)
@@ -1061,7 +1070,7 @@ pip install -U "mlx-lm[train]" datasets huggingface_hub    # MLX + LoRA trainer
 pip install -U mlx-openai-server                           # OpenAI-compatible local server (MLX)
 ```
 
-- `mlx_lm.lora` is the **official MLX LoRA/QLoRA trainer**; `pip install "mlx-lm[train]"` provides the CLI and training deps. [2](https://github.com/ml-explore/mlx-lm/blob/main/mlx_lm/LORA.md)  
+- `mlx_lm.lora` is the **official MLX LoRA/QLoRA trainer**; `pip install "mlx-lm[train]"` provides the CLI and training deps. [2](https://github.com/ml-explore/mlx-lm/blob/main/mlx_lm/LORA.md)
 - `mlx-openai-server` exposes **OpenAI‑compatible** endpoints for MLX models—you can point editors at `http://localhost:8000/v1`. [8](https://pypi.org/project/mlx-openai-server/)[9](https://github.com/cubist38/mlx-openai-server)
 
 ---
@@ -1184,7 +1193,7 @@ The MLX OpenAI server provides **drop‑in OpenAI API endpoints** for local MLX 
 
 **VS Code (Continue) configuration**
 
-1. Install the **Continue** extension.  
+1. Install the **Continue** extension.
 2. In VS Code, run **“Continue: Open Config”** and add an OpenAI provider pointing to your local MLX server:
 
 ```yaml
@@ -1204,8 +1213,8 @@ Continue supports local providers and custom endpoints; using the **OpenAI** pro
 
 ## 6) Quality & iteration tips (Python‑centric)
 
-- Keep data focused: short **Python** tasks, your preferred style (type hints, `pathlib`, tests).  
-- Add **explain‑then‑code** samples to improve instruction following.  
+- Keep data focused: short **Python** tasks, your preferred style (type hints, `pathlib`, tests).
+- Add **explain‑then‑code** samples to improve instruction following.
 - Once the loop works, increase `--iters` (e.g., 2–3k) and optionally bump `--max-seq-length` to 1280–1536 if stable.
 
 (MLX LoRA docs cover configuration, dataset formats, prompt masking, and evaluation/generation flow.) [2](https://github.com/ml-explore/mlx-lm/blob/main/mlx_lm/LORA.md)[3](https://deepwiki.com/ml-explore/mlx-lm/4.1-lora-fine-tuning)
@@ -1216,9 +1225,9 @@ Continue supports local providers and custom endpoints; using the **OpenAI** pro
 
 When you’re ready:
 
-- Change `MODEL` to **CodeLlama‑7B** (MLX‑converted or Meta HF instruct).  
-  - MLX‑converted base: `mlx-community/CodeLlama-7b-mlx`. [11](https://huggingface.co/mlx-community/CodeLlama-7b-mlx)  
-  - Official instruct: `meta-llama/CodeLlama-7b-Instruct-hf` (request access first). [12](https://huggingface.co/meta-llama/CodeLlama-7b-Instruct-hf)  
+- Change `MODEL` to **CodeLlama‑7B** (MLX‑converted or Meta HF instruct).
+  - MLX‑converted base: `mlx-community/CodeLlama-7b-mlx`. [11](https://huggingface.co/mlx-community/CodeLlama-7b-mlx)
+  - Official instruct: `meta-llama/CodeLlama-7b-Instruct-hf` (request access first). [12](https://huggingface.co/meta-llama/CodeLlama-7b-Instruct-hf)
 - Keep **batch=1**, start with **seq_len=1024**, and consider quantized MLX builds to leverage **QLoRA** automatically. (WWDC material shows fine‑tuning on Apple Silicon; `mlx_lm.lora` handles LoRA/QLoRA and dataset formats.) [1](https://developer.apple.com/videos/play/wwdc2025/298/)[2](https://github.com/ml-explore/mlx-lm/blob/main/mlx_lm/LORA.md)
 
 ---
@@ -1227,11 +1236,11 @@ When you’re ready:
 
 Want me to generate a `bootstrap_qwen3b.sh` that:
 
-- creates the venv,  
-- installs deps,  
-- preps the dataset,  
-- runs LoRA/QLoRA fine‑tuning, then  
-- starts the MLX OpenAI server, and  
+- creates the venv,
+- installs deps,
+- preps the dataset,
+- runs LoRA/QLoRA fine‑tuning, then
+- starts the MLX OpenAI server, and
 - prints a **ready‑to‑paste** Continue config?
 
 I can also add a **VS Code Task** so you can run training/serving from the command palette.
@@ -1242,6 +1251,5 @@ I can also add a **VS Code Task** so you can run training/serving from the comma
 
 Do you want me to:
 
-1) **Produce the one‑shot script** and a **VS Code Task** now,  
+1) **Produce the one‑shot script** and a **VS Code Task** now,
 2) or **curate a mini dataset** from your own repos (to capture your conventions like `pathlib`, tests, typing) before training?
-
