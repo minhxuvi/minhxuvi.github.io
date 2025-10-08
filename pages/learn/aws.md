@@ -1,4 +1,4 @@
-# https://fpt-software.udemy.com/course/build-a-serverless-app-with-aws-lambda-hands-on
+# <https://fpt-software.udemy.com/course/build-a-serverless-app-with-aws-lambda-hands-on>
 
 ## CORS - Cross origin resource sharing
 

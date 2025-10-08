@@ -1,4 +1,4 @@
-# Create Udemy course with AI.
+# Create Udemy course with AI
 
 Need below components:
 

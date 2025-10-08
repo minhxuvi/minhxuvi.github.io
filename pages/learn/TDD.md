@@ -1,6 +1,6 @@
-# https://fpt-software.udemy.com/course/python-automation-pytest
+# <https://fpt-software.udemy.com/course/python-automation-pytest>
 
-BDD: behavioral driven development. Derived from TDD  
+BDD: behavioral driven development. Derived from TDD
 Gherkin - .feature file
 
 ## Gherkin

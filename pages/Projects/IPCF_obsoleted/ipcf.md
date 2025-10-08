@@ -14,7 +14,7 @@ Các bước cần làm này:
 
 ## Debug checklist
 
-### Kiểm tra xem vùng nhớ allocate cho sharemem có được khởi tạo đúng không.
+### Kiểm tra xem vùng nhớ allocate cho sharemem có được khởi tạo đúng không
 
 - Kiểm tra dữ liệu tại địa chỉ bắt đầu và kết thúc.
 - Vùng Ram allocate cho sharemem có được khởi tạo đúng không. Có đọc ghi được bằng debugger không.

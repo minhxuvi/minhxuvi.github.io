@@ -1,28 +1,28 @@
 # Todo
 
--   Review requirement to remove meaning less test cases.
--   Test the requirement > test the design > test the code.
--   Implement AI review for requirement.
--   Preoritize test cases.
--   Develop new test cases.
--   Review & improve test cases periodically by AI.
--   Learn requirement testing and implement AI requirement testing.
+- Review requirement to remove meaning less test cases.
+- Test the requirement > test the design > test the code.
+- Implement AI review for requirement.
+- Preoritize test cases.
+- Develop new test cases.
+- Review & improve test cases periodically by AI.
+- Learn requirement testing and implement AI requirement testing.
 
 Test implementation
 
--   Develop test cases and automated script.
--   Schedule tests.
--   Build environment close to customers.
--   preparing test data.
--   verifying & updating bi-directional traceability.
+- Develop test cases and automated script.
+- Schedule tests.
+- Build environment close to customers.
+- preparing test data.
+- verifying & updating bi-directional traceability.
 
 Test execution
 
--   Automate regrestion test.
+- Automate regrestion test.
 
 Test completion
 
--   Missing archive test env.
+- Missing archive test env.
 
 # Kiểm thử cơ bản
 
@@ -44,12 +44,12 @@ Test coverage: Phần trăm mã nguồn được kiểm thử.
 
 ## Mục tiêu kiểm thử
 
--   Tìm kiếm lỗi trong sản phẩm.
--   Nâng cao độ tin cậy của phần mềm.
--   Đảm bảo các yêu cầu của phần mềm được thỏa mãn.
--   Kiểm tra các vấn đề như hợp đồng, pháp lý, quy định.
--   Cung cấp thông tin đến các bên liên quan.
--   Xác minh rằng phần mềm hoạt động đúng như mong đợi.
+- Tìm kiếm lỗi trong sản phẩm.
+- Nâng cao độ tin cậy của phần mềm.
+- Đảm bảo các yêu cầu của phần mềm được thỏa mãn.
+- Kiểm tra các vấn đề như hợp đồng, pháp lý, quy định.
+- Cung cấp thông tin đến các bên liên quan.
+- Xác minh rằng phần mềm hoạt động đúng như mong đợi.
 
 ## Kiểm thử và gỡ lỗi
 
@@ -62,4 +62,4 @@ Bảo đảm chất lượng là một quy trình. Kiểm thử là một phần
 
 # Tài liệu tham khảo
 
--   ISO/IEC/IEEE 29119 Software Testing Standard. Part 2: Test Processes.
+- ISO/IEC/IEEE 29119 Software Testing Standard. Part 2: Test Processes.
