@@ -12,7 +12,7 @@ Mình sẽ xây dựng từ từ, mỗi bước sẽ đóng gói lại thành m�
 2. Web app. (made by tool from step 1.)
 3. Mobile & desktop app. (Publish to store)
 
-## How-to:
+## How-to
 
 Làm từ ngọn, học từ gốc.
 Hãy suy nghĩ về yêu cầu thiết yếu nhất và cho ra sản phẩm.

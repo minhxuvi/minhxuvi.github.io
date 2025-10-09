@@ -2,9 +2,9 @@
 
 ## Mục tiêu
 
--   Hiển thị giờ, thứ, ngày, tháng.
--   Hiển thị lịch âm.
--   Truyền nhận giọng nói với cloud.
+- Hiển thị giờ, thứ, ngày, tháng.
+- Hiển thị lịch âm.
+- Truyền nhận giọng nói với cloud.
 
 ## Design
 
