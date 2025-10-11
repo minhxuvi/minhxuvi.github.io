@@ -892,10 +892,9 @@ Thành công của giáo dục Waldorf phụ thuộc vào sự cam kết của g
 
 ### Websites Hữu Ích
 
-- <www.waldorflibrary.org> - Thư viện tài nguyên
-- <www.whywaldorfworks.org> - Nghiên cứu giáo dục
-- <www.steinereducation.edu.au> - Đào tạo giáo viên
-- <www.awsna.org> - Hiệp hội Waldorf Bắc Mỹ
+- [www.waldorflibrary.org](https://www.waldorflibrary.org) - Thư viện tài nguyên
+- [www.steinereducation.edu.au](https://www.steinereducation.edu.au) - Đào tạo giáo viên
+- [www.waldorfeducation.org](https://www.waldorfeducation.org) - Hiệp hội Waldorf Bắc Mỹ
 
 ### Kết Nối Khu Vực
 
