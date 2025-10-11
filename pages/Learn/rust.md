@@ -1,0 +1,53 @@
+# Introduction
+
+<https://www.rust-lang.org/>
+
+# Fundamentals
+
+## Cargo
+
+## Variables
+
+## Scope
+
+## Memory Safety
+
+## Functions
+
+## Module System
+
+crates.io
+
+# Primitive types and control flow
+
+## Scalar types
+
+- Underscore in numeric literals for readability. `1_000` is the same as `1000`.
+- f64 is the default type for floating-point numbers. But it slow, so f32 is used for performance.
+- IEEE-754 standard for floating-point numbers.
+
+## Compound types
+
+Tuple
+
+- Max 12 elements
+
+Array
+
+- Max 32 elements
+
+## Control flow
+
+`if` expression
+
+## Strings
+
+# The heart of Rust
+
+## Ownership
+
+- Each value have an owner.
+- Only one owner.
+- When the owner goes out of scope, the value is dropped.
+
+## References and borrowing
