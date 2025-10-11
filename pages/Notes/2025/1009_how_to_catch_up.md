@@ -18,7 +18,6 @@ Block learning is more about understanding.
 Your continuous learning:
 
 - Develop with AI
-- Code faster
 - Morning exercise
 
 Your learning routine should be in the early morning.
