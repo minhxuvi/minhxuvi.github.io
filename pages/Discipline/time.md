@@ -3,7 +3,7 @@
 | Task                  | Start Time | End Time |
 |-----------------------|------------|----------|
 | Drink water, Cook rice| 04:00      | 04:10    |
-| Learn AI              | 04:10      | 05:00    |
+| Learn AI, reading     | 04:10      | 05:00    |
 | Build xuvi.vn         | 05:00      | 06:30    |
 | Exercise              | 06:45      | 07:00    |
 | Breakfast             | 07:00      | 07:30    |
