@@ -17,6 +17,10 @@
 
 ## Reflection Design Pattern
 
+- Reflection with external feedback is more reliable.
+- Objective evals: code-based, dataset
+- Subjective evals: LLM as a judge, rubric-based
+
 ## Resources
 
 <https://learn.deeplearning.ai/courses/agentic-ai>
