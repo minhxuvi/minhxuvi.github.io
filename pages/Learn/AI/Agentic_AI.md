@@ -1,5 +1,7 @@
 # Agentic AI
 
+## Introduction
+
 - Discipline in development process
 - Evaluate and Error analysis
 - Can use Agentic AI to build Agentic AI to build a website teach people how to build Agentic AI.
@@ -13,6 +15,8 @@
 - Reflection: ask LLM to evaluate its own work.
 - Multi-agentic collaboration: different agents with different roles.
 
-## Resource
+## Reflection Design Pattern
+
+## Resources
 
 <https://learn.deeplearning.ai/courses/agentic-ai>
