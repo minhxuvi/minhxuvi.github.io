@@ -17,4 +17,5 @@ Morning routine:
 - Uống nước ấm.
 - Vệ sinh cá nhân.
 - Cập nhật quan sát Núc Níc.
+- Viết kế hoạch ngày.
 - Học tiếng Trung.
