@@ -78,6 +78,15 @@ jobs:
       #       ${{ runner.os }}-nextjs-${{ hashFiles('**/package-lock.json', '**/yarn.lock') }}-
       - name: Install dependencies
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
+      - name: Detect case-insensitive duplicate paths
+        run: |
+          dupes=$(git ls-files | awk '{low=tolower($0); count[low]++; files[low]=files[low] "\n" $0} END {for (k in count) if (count[k]>1) {print files[k]}}' | sed '/^$/d')
+          if [ -n "$dupes" ]; then
+            echo "Found case-insensitive duplicate tracked paths:" >&2
+            echo "$dupes" >&2
+            echo "Please remove one of each conflicting path (keep your preferred casing)." >&2
+            exit 1
+          fi
       - name: Build with Next.js
         run: ${{ steps.detect-package-manager.outputs.runner }} next build
       - name: Static HTML export with Next.js
