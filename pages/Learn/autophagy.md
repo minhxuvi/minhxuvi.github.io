@@ -15,7 +15,6 @@ Giải Nobel Y học 2016 được trao cho Yoshinori Ohsumi vì những khám p
   - Giảm lượng đường và tinh bột: Giảm carbohydrate và kiểm soát mức insulin là chìa khóa để duy trì Autophagy, vì insulin cao sẽ ức chế quá trình này.
   - Trà xanh và Cà phê: Chứa các chất chống oxy hóa (như EGCG trong trà xanh) đã được chứng minh là kích thích quá trình tự thực.
   - Nghệ: Hoạt chất Curcumin được nghiên cứu là có khả năng hỗ trợ Autophagy.
-
 - **Giảm stress**: Thực hành các kỹ thuật giảm stress như thiền, yoga để duy trì sự cân bằng nội môi và hỗ trợ quá trình tự thực bào.
 - **Ngủ đủ giấc**: Giấc ngủ chất lượng giúp cơ thể thực hiện quá trình tự thực bào hiệu quả hơn, hỗ trợ tái tạo tế bào và duy trì sức khỏe.
 - **Tránh các chất độc hại**: Hạn chế tiếp xúc với các chất độc hại như thuốc lá, rượu và các hóa chất công nghiệp để bảo vệ tế bào và hỗ trợ quá trình tự thực bào.
