@@ -15,6 +15,8 @@ Cứ sử dụng kiến thức giúp bản thân trước, sau đó đóng gói 
 
 Nghiên cứu về não bộ và sự sống.
 
+Chiến lược cây tre, gốc là các sản phẩm yêu cầu ứng dụng các nghiên cứu khoa học mới nhất.
+
 ## Ngắn hạn
 
 - Hoạt động hàng ngày với Núc Níc.
