@@ -16,6 +16,8 @@ Níc đang học rất nhanh. Cần phải nói chuyện với Níc nhiều hơn
 
 ## 24 tháng 10, 2025
 
+Thời gian biểu với Níc từ 7:30 đến 12:00:
+
 | Start | End | Task |
 | :--- | :--- | :--- |
 | 07:30 | 08:20 | **Đạp xe / đi dạo ngoài trời** (uống nước, snack) |
