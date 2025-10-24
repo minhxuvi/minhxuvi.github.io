@@ -14,3 +14,38 @@ Kiếm tiền một cách bền vững. Không cần phải quá kiếm tìm cá
 Cứ sử dụng kiến thức giúp bản thân trước, sau đó đóng gói lại thành sản phẩm giúp người.
 
 Nghiên cứu về não bộ và sự sống.
+
+## Ngắn hạn
+
+- Hoạt động hàng ngày với Núc Níc.
+- Chuẩn bị chương trình học cho lớp 1.
+- Dự án cùng làm với Tồ.
+- Module giáo dục lớp lớn phù hợp với Tồ.
+
+## Trung hạn (5-7 năm)
+
+- Hoàn thiện chương trình học.
+- Học chứng chỉ về giáo dục.
+- Làm đạp xe xuyên Việt.
+- Dựng 1 quán cafe. (Thử nghiệm xây nhà module, quản lý nhân sự, vận hành kinh doanh)
+
+## Dài hạn (10-20 năm)
+
+- Công ty xây dựng nhà module.
+- Xây chuỗi nhà hàng ăn uống an toàn, kết hợp nơi làm việc, dorm, gym, khu vui chơi.
+  - Tầng hầm để xe.
+  - Tầng trệt cafe.
+  - Tầng 2 khu vui chơi trẻ em.
+  - Tầng 3 gym.
+  - Tầng 4 dorm.
+  - Tầng thượng workspace.
+- Sản xuất học cụ giáo dục.
+- Dựng trường.
+- Xưởng đóng thuyền. (Mộc)
+- Xưởng xe đạp. (Cơ khí)
+- Xưởng thuỷ tinh. (Thủy tinh)
+- Xưởng hoá chất. (Hóa chất)
+- Vườn ươm thực vật. (Thực vật)
+- Nhà máy hydro kết hợp điện gió, điện mặt trời. (Năng lượng)
+- Nghiên cứu Self assembly
+  - <https://www.slideshare.net/slideshow/self-assembly-147919958/147919958>
