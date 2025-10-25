@@ -434,10 +434,6 @@ NaN
 > Có thể nhận biết và điều khiển được chuyển động cổ tay và lực các ngón tay. Cho ra hình vẽ tương đối giống mẫu, dứt khoát ở các góc bo tròn hoặc chóp nhọn.
 > Ghi nhớ, gọi tên (gắn liền chi tiết truyện) và vẽ lại được 6/10 hình dáng nét đã học.
 
-#### LƯU Ý
-
-NaN
-
 ### TIẾNG VIỆT 1
 
 Nguyên âm
@@ -457,10 +453,6 @@ NaN
 > Có thể nhận biết, gọi tên và viết đúng 9/12 nguyên âm đơn.
 > Có thể phân biệt được 5 dấu thanh qua nghe nhìn. Đặc biệt phần nhìn của cặp dấu Huyền Sắc và phần nghe của cặp dấu Ngã Hỏi.
 > Có thể đánh vần 1 nguyên âm đơn đi kèm dấu thanh.
-
-#### LƯU Ý
-
-NaN
 
 ### TIẾNG VIỆT 2
 
@@ -482,10 +474,6 @@ NaN
 > Có thể đánh vần các từ cấu tạo từ 1 phụ âm đơn, 1 nguyên âm đơn và dấu thanh qua hoạt động đọc.
 > Có thể đánh vần tương đối các từ cấu tạo từ 1 phụ âm đơn, 1 nguyên âm đơn và dấu thanh qua hoạt động nghe.
 
-#### LƯU Ý
-
-NaN
-
 ### TOÁN 1
 
 Bản chất các con số
@@ -505,10 +493,6 @@ NaN
 > Có thể nhận biết và gọi tên 9 con số qua hoạt động nghe và đọc.
 > Biểu đạt được con số bằng bút sáp trên mặt giấy và bằng các ngón tay.
 > Cảm nhận nhanh nhạy với các xúc chạm trên cơ thể.
-
-#### LƯU Ý
-
-NaN
 
 ### TOÁN 2
 
@@ -532,10 +516,6 @@ NaN
 > HS nhận biết chính xác số chẵn lẻ trong phạm vi dưới 30, tương đối với các số hơn 2 chữ số cấu thành.
 > HS nhẩm tính nhanh nhạy bội số 2 3 5 trong phạm vi dưới 50.
 
-#### LƯU Ý
-
-NaN
-
 ### THIÊN NHIÊN QUANH EM
 
 #### Unnamed: 5
@@ -552,10 +532,6 @@ NaN
 > HS có kỹ năng quan sát tốt, nắm bắt được chi tiết ở bối cảnh mở, rộng lớn.
 > HS nhận biết các tính chất cơ bản về đất và một loài cây bản địa.
 > HS có ý thức cao trong việc giữ gìn vệ sinh môi trường, có kiến thức phân loại rác cơ bản (hữu cơ, vô cơ, thiết bị điện tử)
-
-#### LƯU Ý
-
-NaN
 
 ### TIẾNG VIỆT 3
 
@@ -575,10 +551,6 @@ NaN
 > HS trình bày bài viết rõ ràng. Viết đúng chính tả các từ được yêu cầu.
 > HS biết và nắm tương đối những trường hợp đặc biệt giữa phụ âm ghép và các vần (vd: gh chỉ đứng trước i, e, ê).
 
-#### LƯU Ý
-
-NaN
-
 ### TIẾNG VIỆT 4.1
 
 Vần
@@ -597,10 +569,6 @@ NaN
 > HS có thể nhận biết và phát âm chuẩn 32 nguyên âm đôi và 13 nguyên âm ba.
 > HS trình bày bài viết rõ ràng. Viết tương đối đúng chính tả các từ được yêu cầu.
 
-#### LƯU Ý
-
-NaN
-
 ### TIẾNG VIỆT 4.2
 
 Vần
@@ -614,10 +582,6 @@ NaN
 NaN
 
 #### Unnamed: 7
-
-NaN
-
-#### LƯU Ý
 
 NaN
 
@@ -637,10 +601,6 @@ NaN
 >
 > HS thực hiện 4 phép tính đều cho ra kết quả đúng, phạm vi trên dưới 30.
 
-#### LƯU Ý
-
-NaN
-
 ### TOÁN 3.2
 
 Bản chất 4 phép tính
@@ -654,10 +614,6 @@ NaN
 NaN
 
 #### Unnamed: 7
-
-NaN
-
-#### LƯU Ý
 
 NaN
 
@@ -678,10 +634,6 @@ NaN
 > HS có kỹ năng quan sát tốt, nắm bắt được chi tiết ở bối cảnh mở, rộng lớn.
 > HS mô tả được đặc điểm bên ngoài, ứng dụng trong đời sống của ít nhất 2 loài cây bản địa. Thực hành làm thủ công sản phẩm có nguyên liệu liên quan.
 > HS có ý thức cao trong việc giữ gìn vệ sinh môi trường, có kiến thức phân loại rác cơ bản (hữu cơ, vô cơ, thiết bị điện tử, rác tái chế)
-
-#### LƯU Ý
-
-NaN
 
 ## Lớp 2
 
@@ -707,10 +659,6 @@ Trẻ vẫn sống trong một thế giới sống động của trí tưởng t
 - Nhớ được 23 vần mới và biết cách ghép vần
 - Nhìn viết 2-4 câu thơ
 
-#### LƯU Ý
-
-NaN
-
 ### TNQE
 
 #### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
@@ -720,10 +668,6 @@ trẻ lớp hai có mối liên hệ sâu sắc với các yếu tố. Thông qu
 #### Unnamed: 6
 
 - trải nghiệm, quan sát, cảm nhận về môi trường xung quanh (4 yếu tố đất nước lửa khí), thấy được sự kết nối chính mình với môi trường xung quanh. Trẻ nhận ra các yếu tố đất nước lửa khí trên chính cơ thể mình.
-
-#### LƯU Ý
-
-NaN
 
 ### Toán 1
 
@@ -741,10 +685,6 @@ Trẻ có thể cảm nhận bản chất các phép tính và một số quy lu
 - Biết tách ghép số
 - Nhớ được các bảng nhân 1,2
 
-#### LƯU Ý
-
-NaN
-
 ### Tiếng Việt 2
 
 Ghép Vần
@@ -759,10 +699,6 @@ Trẻ vẫn sống trong một thế giới sống động của trí tưởng t
 - Nhớ được 21 vần mới và biết cách ghép vần.
 - Nắm được dấu câu chấm, phẩy; đầu câu viết hoa, tên riêng viết hoa
 
-#### LƯU Ý
-
-NaN
-
 ### Toán 2
 
  Bảng Cửu Chương 5,6,7,8,9,10,11,12
@@ -775,10 +711,6 @@ Trẻ cảm nhận bản chất phép nhân, tính nhịp điệu, quy luật c�
 
 - Nắm được bản chất phép nhân, biết các quy luật trong bảng nhân.
 - Thuộc bảng cửu chương đơn giản 1, 2, 5, 10.
-
-#### LƯU Ý
-
-NaN
 
 ### Tiếng Việt 3
 
@@ -798,10 +730,6 @@ Trẻ tự làm việc bên trong về cái đúng, cái sai, sự đồng cảm
 - Tóm tắt kể lại nội dung câu chuyện
 - Năm được cách sử dụng dấu câu chấm, phẩy; đầu câu viết hoa, tên riêng viết hoa
 
-#### LƯU Ý
-
-NaN
-
 ### TNQE
 
 #### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
@@ -811,10 +739,6 @@ Phát triển ý thức tôn kính đối với các yếu tố của thiên nhi
 #### Unnamed: 6
 
 - Quan sát và cảm nhận về môi trường xung quanh
-
-#### LƯU Ý
-
-NaN
 
 ### Toán 3
 
@@ -835,10 +759,6 @@ Trẻ cảm nhận và có cái nhìn rõ ràng về giá trị hàng chữ số
 - Cộng trừ trên tia số.
 - Có thể xử lý các bài toán tình huống sử dụng 4 phép tính.
 
-#### LƯU Ý
-
-NaN
-
 ### Tiếng Việt 4
 
 Từ loại
@@ -856,10 +776,6 @@ hướng tới sự cao đẹp về đạo đức, tình cảm, nhân cách
 - Thực hành tự tóm tắt truyện được nghe kể bằng 4-5 câu.
 - Thực hành dấu câu chấm, phẩy; đầu câu viết hoa, tên riêng viết hoa
 
-#### LƯU Ý
-
-NaN
-
 ### TOÁN 4
 
  Magic Square
@@ -876,10 +792,6 @@ Trẻ thích thú với việc tìm tòi, khám phá các quy luật toán học
 - làm được các dạng toán +- hàng trăm không mượn, nhớ,x: số có 2 chữ số cho số có 1 chữ số
 - hiểu và khám phá các quy luật toán học qua hình vuông ma thuật
 
-#### LƯU Ý
-
-NaN
-
 ### Tiếng Việt 5
 
  Làm truyện
@@ -895,10 +807,6 @@ Các hình vẽ nét dạng soi gương nhằm đáp ứng tâm thức của tr�
 - viết và vẽ hình ảnh trang trí câu chuyện
 - vẽ được các hình dạng soi gương, kiểu hình phản chiếu đối xứng qua đường giữa dọc, giữa ngang và sau đó đối xứng qua lại ở cả 4 góc phần tư.
 
-#### LƯU Ý
-
-NaN
-
 ### Tuần lễ Trở về
 
 #### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
@@ -909,10 +817,6 @@ Trẻ tự do "làm việc của riêng mình" (viết, vẽ, sáng tạo theo t
 
 - Nắm các ngày trong tuần, các tháng cũng như các mùa trong năm
 - Viết, vẽ hình minh họa cho từng tháng
-
-#### LƯU Ý
-
-NaN
 
 ## Lớp 3
 
@@ -947,10 +851,6 @@ Ngữ pháp: Ở lớp 1 và lớp 2, trọng tâm là học cách viết và đ
 
 - Trẻ xác định được 3 loại từ: động từ, tính từ, danh từ.
 
-#### LƯU Ý
-
-NaN
-
 ### Toán: Đo lường
 
 #### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
@@ -960,10 +860,6 @@ NaN
 #### Unnamed: 6
 
 - Trẻ có thể tự sáng tạo dụng cụ đo chiều dài, khối lượng, sức chứa của vật cần đo của riêng mình và dụng cụ đo chiều dài, khối lượng, sức chứa của vật cần đo thống nhất với nhau.
-
-#### LƯU Ý
-
-NaN
 
 ### Tiếng Việt: Hành trình về miền đất hứa
 
@@ -975,49 +871,21 @@ NaN
 
 -
 
-#### LƯU Ý
-
-NaN
-
 ### Giá trị hàng chữ số
 
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
-
 #### Unnamed: 6
-
-NaN
-
-#### LƯU Ý
 
 NaN
 
 ### Tiếng Việt: Văn lang dị sử
 
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
-
 #### Unnamed: 6
-
-NaN
-
-#### LƯU Ý
 
 NaN
 
 ### Âm nhạc
 
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
-
 #### Unnamed: 6
-
-NaN
-
-#### LƯU Ý
 
 NaN
 
@@ -1028,10 +896,6 @@ NaN
 - Trẻ bắt đầu xuống mặt đất nên từ giai đoạn này con cần bắt đầu học những thứ că bản, tối thiểu phục vụ nhu cầu thiết yếu của cuộc sống, sự sinh tồn.
 
 #### Unnamed: 6
-
-NaN
-
-#### LƯU Ý
 
 NaN
 
@@ -1048,19 +912,11 @@ NaN
 - Biết dùng tiền thật để mua bán và trao đổi hàng hóa.
 -Biết sử dụng 4 phép toán để tính toán số tiền.
 
-#### LƯU Ý
-
-NaN
-
 ### Học cồng chiêng
 
 #### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
 
 #### Unnamed: 6
-
-NaN
-
-#### LƯU Ý
 
 NaN
 
@@ -1076,10 +932,6 @@ NaN
 - Biết được quá trình thực hành gieo trồng.
 - Định hình, vẽ, lên kế hoạch và triển khai làm vườn.
 
-#### LƯU Ý
-
-NaN
-
 ### Thời gian
 
 #### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
@@ -1089,10 +941,6 @@ NaN
 - Tiền tệ là nỗ lực to lớn đầu tiên của loài người trong việc kết nối và xây dựng quan điểm về giá trị của mọi thứ cùng nhau. Thông qua tiền tệ, chúng ta dạy về sự thừa nhận, công nhận giá trị chung, khả năng trao đổi, thỏa hiệp, hợp tác. "
 
 #### Unnamed: 6
-
-NaN
-
-#### LƯU Ý
 
 NaN
 
@@ -1107,21 +955,9 @@ NaN
 - Hiểu được quy trình nấu ăn từ chuẩn bị nguyên liệu, sơ chế, nấu nướng, dọn dẹp.
 - Nấu được những món ăn cơ bản hàng ngày.
 
-#### LƯU Ý
-
-NaN
-
 ### Tuần lễ Trở về
 
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
-
 #### Unnamed: 6
-
-NaN
-
-#### LƯU Ý
 
 NaN
 
@@ -1189,10 +1025,6 @@ Học sinh có thể đi đến điểm cân bằng địa lý ở góc độ l�
 NaN
 
 ### Con Người Và Động Vật
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
 
 #### Unnamed: 5
 
@@ -1307,65 +1139,7 @@ NaN
 
 ## Lớp 5
 
-### NOTE
-
-NHÂN SỰ CHUẨN BỊ
-
-#### Unnamed: 1
-
-LỚP
-
-#### Nội dung tổng quan, soạn trên nền tảng cô Sinh Phạm chia sẻ. Chi tiết từng block và các tài liệu liên quan lớp Rạng Đông 05 sử dụng lưu trữ tại ĐÂY Tài liệu tham khảo online ở ĐÂY
-
-CHỦ ĐỀ (THEME CHÍNH)
-
-#### Unnamed: 3
-
-BLOCK
-(Liệt kê đầy đủ Main Lessons và các bộ môn, mỗi hàng 1 Block/môn)
-
-#### Unnamed: 4
-
-Mục tiêu đầu ra
-(Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-#### Unnamed: 5
-
-NaN
-
-#### Unnamed: 6
-
-LƯU Ý
-
-### NOTE
-
-NaN
-
-#### Unnamed: 1
-
-NaN
-
-#### Nội dung tổng quan, soạn trên nền tảng cô Sinh Phạm chia sẻ. Chi tiết từng block và các tài liệu liên quan lớp Rạng Đông 05 sử dụng lưu trữ tại ĐÂY Tài liệu tham khảo online ở ĐÂY
-
-NaN
-
-#### Unnamed: 3
-
-NaN
-
-#### Unnamed: 4
-
-TÂM THỨC
-
-#### Unnamed: 5
-
-KỸ NĂNG
-
-#### Unnamed: 6
-
-NaN
-
-### NOTE
+TÂM THỨC:
 
 Ở độ tuổi này, trẻ đã tăng cường khả năng nhận thức mới đạt được (sau giai đoạn crossing) và đã quen hơn với việc là một cá thể tách biệt để nhìn thế giới ở một góc nhìn mới. Cũng như học sinh ở độ tuổi lớp 3, trẻ lớp 5 cũng chuẩn bị bước sang một ngưỡng cửa với những trải nghiệm hoàn toàn mới khi các em chuẩn bị bỏ lại một giai đoạn tuổi thơ khác nữa ở phía sau... Do đó, chương trình giảng dạy không chỉ phải tiếp tục xây dựng trên những nền tảng đã có sẵn mà còn phải giới thiệu những yếu tố mới nhất định để chuẩn bị cho trẻ ở bước tiếp theo.
 Một số đặc điểm chính của sự phát triển:
@@ -1383,17 +1157,7 @@ Sự hình thành khái niệm vẫn có thể được truyền tải thông qu
 - Trẻ cảm nhận được sự quy tụ tất cả những trải nghiệm của thời thơ ấu, sự hoàn thiện trong giai đoạn này của cuộc đời các em và sự chuẩn bị nội tâm cho một giai đoạn mùa xuân sẽ bung nở ở bước tiếp theo.
 - Trẻ ở độ tuổi này thường thích nhìn lại những năm tháng tuổi thơ của mình cũng như những trò chơi và địa điểm yêu thích xưa cũ.
 
-#### Unnamed: 1
-
-5
-
-#### Nội dung tổng quan, soạn trên nền tảng cô Sinh Phạm chia sẻ. Chi tiết từng block và các tài liệu liên quan lớp Rạng Đông 05 sử dụng lưu trữ tại ĐÂY Tài liệu tham khảo online ở ĐÂY
-
-At home in Time
-
-#### Unnamed: 3
-
-Toán 1 - 4 phép tính
+### Toán 1 - 4 phép tính
 
 #### Unnamed: 4
 
@@ -1408,21 +1172,7 @@ Toán 1 - 4 phép tính
 
 NaN
 
-### NOTE
-
-NaN
-
-#### Unnamed: 1
-
-NaN
-
-#### Nội dung tổng quan, soạn trên nền tảng cô Sinh Phạm chia sẻ. Chi tiết từng block và các tài liệu liên quan lớp Rạng Đông 05 sử dụng lưu trữ tại ĐÂY Tài liệu tham khảo online ở ĐÂY
-
-NaN
-
-#### Unnamed: 3
-
-Ấn Độ cổ đại
+### Ấn Độ cổ đại
 
 #### Unnamed: 4
 
@@ -1438,49 +1188,7 @@ NaN
 
 NaN
 
-### NOTE
-
-NaN
-
-#### Unnamed: 1
-
-NaN
-
-#### Nội dung tổng quan, soạn trên nền tảng cô Sinh Phạm chia sẻ. Chi tiết từng block và các tài liệu liên quan lớp Rạng Đông 05 sử dụng lưu trữ tại ĐÂY Tài liệu tham khảo online ở ĐÂY
-
-NaN
-
-#### Unnamed: 3
-
-NaN
-
-#### Unnamed: 4
-
-NaN
-
-#### Unnamed: 5
-
-NaN
-
-#### Unnamed: 6
-
-NaN
-
-### NOTE
-
-NaN
-
-#### Unnamed: 1
-
-NaN
-
-#### Nội dung tổng quan, soạn trên nền tảng cô Sinh Phạm chia sẻ. Chi tiết từng block và các tài liệu liên quan lớp Rạng Đông 05 sử dụng lưu trữ tại ĐÂY Tài liệu tham khảo online ở ĐÂY
-
-NaN
-
-#### Unnamed: 3
-
-Con người và Thực vật
+### Con người và Thực vật
 
 #### Unnamed: 4
 
@@ -1498,21 +1206,7 @@ NaN
 
 NaN
 
-### NOTE
-
-NaN
-
-#### Unnamed: 1
-
-NaN
-
-#### Nội dung tổng quan, soạn trên nền tảng cô Sinh Phạm chia sẻ. Chi tiết từng block và các tài liệu liên quan lớp Rạng Đông 05 sử dụng lưu trữ tại ĐÂY Tài liệu tham khảo online ở ĐÂY
-
-NaN
-
-#### Unnamed: 3
-
-Ba Tư - Lưỡng Hà
+### Ba Tư - Lưỡng Hà
 
 #### Unnamed: 4
 
@@ -1527,77 +1221,7 @@ NaN
 
 NaN
 
-### NOTE
-
-NaN
-
-#### Unnamed: 1
-
-NaN
-
-#### Nội dung tổng quan, soạn trên nền tảng cô Sinh Phạm chia sẻ. Chi tiết từng block và các tài liệu liên quan lớp Rạng Đông 05 sử dụng lưu trữ tại ĐÂY Tài liệu tham khảo online ở ĐÂY
-
-NaN
-
-#### Unnamed: 3
-
-NaN
-
-#### Unnamed: 4
-
-NaN
-
-#### Unnamed: 5
-
-NaN
-
-#### Unnamed: 6
-
-NaN
-
-### NOTE
-
-NaN
-
-#### Unnamed: 1
-
-NaN
-
-#### Nội dung tổng quan, soạn trên nền tảng cô Sinh Phạm chia sẻ. Chi tiết từng block và các tài liệu liên quan lớp Rạng Đông 05 sử dụng lưu trữ tại ĐÂY Tài liệu tham khảo online ở ĐÂY
-
-NaN
-
-#### Unnamed: 3
-
-NaN
-
-#### Unnamed: 4
-
-NaN
-
-#### Unnamed: 5
-
-NaN
-
-#### Unnamed: 6
-
-NaN
-
-### NOTE
-
-NaN
-
-#### Unnamed: 1
-
-NaN
-
-#### Nội dung tổng quan, soạn trên nền tảng cô Sinh Phạm chia sẻ. Chi tiết từng block và các tài liệu liên quan lớp Rạng Đông 05 sử dụng lưu trữ tại ĐÂY Tài liệu tham khảo online ở ĐÂY
-
-NaN
-
-#### Unnamed: 3
-
-Ai Cập - Hy Lạp Cổ Đại
+### Ai Cập - Hy Lạp Cổ Đại
 
 #### Unnamed: 4
 
@@ -1611,21 +1235,7 @@ NaN
 
 NaN
 
-### NOTE
-
-NaN
-
-#### Unnamed: 1
-
-NaN
-
-#### Nội dung tổng quan, soạn trên nền tảng cô Sinh Phạm chia sẻ. Chi tiết từng block và các tài liệu liên quan lớp Rạng Đông 05 sử dụng lưu trữ tại ĐÂY Tài liệu tham khảo online ở ĐÂY
-
-NaN
-
-#### Unnamed: 3
-
-Toán 3- Toán đo lường
+### Toán 3- Toán đo lường
 
 #### Unnamed: 4
 
@@ -1639,49 +1249,7 @@ NaN
 
 NaN
 
-### NOTE
-
-NaN
-
-#### Unnamed: 1
-
-NaN
-
-#### Nội dung tổng quan, soạn trên nền tảng cô Sinh Phạm chia sẻ. Chi tiết từng block và các tài liệu liên quan lớp Rạng Đông 05 sử dụng lưu trữ tại ĐÂY Tài liệu tham khảo online ở ĐÂY
-
-NaN
-
-#### Unnamed: 3
-
-NaN
-
-#### Unnamed: 4
-
-NaN
-
-#### Unnamed: 5
-
-NaN
-
-#### Unnamed: 6
-
-NaN
-
-### NOTE
-
-NaN
-
-#### Unnamed: 1
-
-NaN
-
-#### Nội dung tổng quan, soạn trên nền tảng cô Sinh Phạm chia sẻ. Chi tiết từng block và các tài liệu liên quan lớp Rạng Đông 05 sử dụng lưu trữ tại ĐÂY Tài liệu tham khảo online ở ĐÂY
-
-NaN
-
-#### Unnamed: 3
-
-Toán 4- Toán thập phân
+### Toán 4- Toán thập phân
 
 #### Unnamed: 4
 
@@ -1695,21 +1263,7 @@ NaN
 
 NaN
 
-### NOTE
-
-NaN
-
-#### Unnamed: 1
-
-NaN
-
-#### Nội dung tổng quan, soạn trên nền tảng cô Sinh Phạm chia sẻ. Chi tiết từng block và các tài liệu liên quan lớp Rạng Đông 05 sử dụng lưu trữ tại ĐÂY Tài liệu tham khảo online ở ĐÂY
-
-NaN
-
-#### Unnamed: 3
-
-Lịch sử Tộc Việt
+### Lịch sử Tộc Việt
 
 #### Unnamed: 4
 
@@ -1723,21 +1277,7 @@ NaN
 
 NaN
 
-### NOTE
-
-NaN
-
-#### Unnamed: 1
-
-NaN
-
-#### Nội dung tổng quan, soạn trên nền tảng cô Sinh Phạm chia sẻ. Chi tiết từng block và các tài liệu liên quan lớp Rạng Đông 05 sử dụng lưu trữ tại ĐÂY Tài liệu tham khảo online ở ĐÂY
-
-NaN
-
-#### Unnamed: 3
-
-Toán 5 - Hình học vẽ tay
+### Toán 5 - Hình học vẽ tay
 
 #### Unnamed: 4
 
@@ -1753,35 +1293,13 @@ NaN
 
 ## Lớp 6
 
-### NaN
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
 TÂM THỨC
 
-#### Unnamed: 6
-
-KỸ NĂNG
-
-#### LƯU Ý
-
-NaN
-
-### NHÂN SỰ CHUẨN BỊ
-
-Đặng + Thương
-
-#### LỚP
-
-6.0
-
-#### CHỦ ĐỀ (THEME CHÍNH)
-
-Ở nhà với những ý tưởng
-
-#### TỔNG QUAN (TÂM THỨC)
-
 - Cấu trúc xương bắt đầu có sự thay đổi, chân tay bắt đầu khó kiểm soát hơn, các vận động thô mạnh, cứng. Nói to, đi mạnh. Các con có sự tự tin như mình có thể làm được nhiều thứ, thầy cô giáo ba mẹ không giỏi như mình nghĩ, nói lý lẽ, thích cãi tranh luận với người lớn. Từ khóa : Mạnh mẽ - Kỷ luật. Bài học : Khiêm tốn - Kỷ luật. Nuôi dưỡng thắc mắc ( vì sao con người có thể biết được trên trời dưới đất, vì sao lại có các hiện tượng......).
+
+Mục tiêu chung:
+
+Với trí tưởng tượng - mạnh mẽ của mình các con được khám phá các chân trời mới- thông qua nghệ thuật để tạo cảm hứng cho con trong các block giúp con nhận ra các bài học về khiêm tốn - tính kỷ luật.
 
 ### Vật lý
 
@@ -1813,15 +1331,7 @@ Các con cần hát to hơn, tự tin hơn. Đưa các bài hát sáo và âm nh
 
 ### Nghĩ
 
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
-
 #### Unnamed: 6
-
-NaN
-
-#### LƯU Ý
 
 NaN
 
@@ -1849,10 +1359,6 @@ Các con bắt đầu thích nói về tiền lời lỗ, có ý thích kinh doa
 
 Hiểu bản chất của số %. Tính và làm các bài toán về tính % , Cách thức tính lãi suất. Cách thức tính toán khi kinh doanh sản xuất.
 
-#### LƯU Ý
-
-NaN
-
 ### Khoáng vật và con người
 
 #### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
@@ -1862,10 +1368,6 @@ Các con phát triển xương dài ra, bắt đầu quan tâm nhiều về th�
 #### Unnamed: 6
 
 Viết vẽ và bố cục bài viết, vẽ chì bóng, Viết bài báo cáo đi dự án theo khả năng của con, hát,
-
-#### LƯU Ý
-
-NaN
 
 ### Địa lý VN
 
@@ -1891,10 +1393,6 @@ Các con hứng thú với việc sự dụng công cụ và cho độ chính x�
 
 Vẽ và dùng compa, đo độ, phối màu và trang trí phong phú và đẹp.
 
-#### LƯU Ý
-
-NaN
-
 ### Thủ Công may thêu
 
 #### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
@@ -1904,10 +1402,6 @@ Các con thích thú với Lá cờ đế chế La mã- 1 cái gì đó mạnh m
 #### Unnamed: 6
 
 Vẽ hình họa, may theo tỷ lệ - thêu.
-
-#### LƯU Ý
-
-NaN
 
 ### Thủ Công làm giáo, làm cung
 
@@ -1919,10 +1413,6 @@ Các con hứng thú với việc làm những sản phẩm và chau chuốt đ�
 
 Kỹ năng đo, dùng cưa, rựa, mài, bắn cung ném lao.
 
-#### LƯU Ý
-
-NaN
-
 ### Nặn đất sét
 
 #### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
@@ -1932,10 +1422,6 @@ Các con học bài học về sự kiên nhẫn, và nổ lực để hoàn th�
 #### Unnamed: 6
 
 Nhồi đất sét kỹ, kỹ năng nặn, vuốt nước. Quy trình nung
-
-#### LƯU Ý
-
-NaN
 
 ### Vẽ màu nước
 
@@ -1947,10 +1433,6 @@ Các con thích thú với việc chơi màu nước và thích vẽ với sự 
 
 Kỹ năng vẽ nước trên khô, nước trên nước, quy trình chỉnh chu của 1 buổi vẽ màu nước
 
-#### LƯU Ý
-
-NaN
-
 ### Vẽ đen trắng bằng than chì
 
 #### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
@@ -1960,10 +1442,6 @@ Các bắt đầu thích sử dụng nhiều màu đen hơn, và cảm nhận đ
 #### Unnamed: 6
 
 Kỹ năng quan sát, đi chì than, chuyển màu chì
-
-#### LƯU Ý
-
-NaN
 
 ### Sáo Trúc
 
@@ -1975,10 +1453,6 @@ Lực hơi của của các con mạnh đủ để thổi các quãng cao, các 
 
 Kỹ năng luyến, vuốt, luyến, rung, đánh lưỡi. Biểu diễn trước đám đông
 
-#### LƯU Ý
-
-NaN
-
 ### Sinh Hoạt vòng tròn và chuyển động
 
 #### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
@@ -1989,21 +1463,9 @@ Giúp con có ngày mới thoải mái tốt hơn để cho ngày mới.
 
 Hình thành nhịp , làm chủ gậy bằng tay.,,....
 
-#### LƯU Ý
-
-NaN
-
 ### Rèn
 
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
-
 #### Unnamed: 6
-
-NaN
-
-#### LƯU Ý
 
 NaN
 
@@ -2011,49 +1473,9 @@ NaN
 
 Mục tiêu chung lớp 6
 
-### NaN
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-Với trí tưởng tượng - mạnh mẽ của mình các con được khám phá các chân trời mới- thông qua nghệ thuật để tạo cảm hứng cho con trong các block giúp con nhận ra các bài học về khiêm tốn - tính kỷ luật.
-
-#### Unnamed: 6
-
-NaN
-
-#### LƯU Ý
-
-NaN
-
 ## Lớp 7
 
-### NaN
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
 TÂM THỨC
-
-#### Unnamed: 6
-
-KỸ NĂNG
-
-#### LƯU Ý
-
-NaN
-
-### NHÂN SỰ CHUẨN BỊ
-
-Thầy Đặng
-
-#### LỚP
-
-7.0
-
-#### CHỦ ĐỀ (THEME CHÍNH)
-
-Ở nhà với sự tương phản ( âm - dương)
-
-#### TỔNG QUAN (TÂM THỨC)
 
 Thay đổi hormon ( dậy thì ). Bắt đầu thu mình lại - tách biệt. Thích thử thách GV bằng các câu hỏi và tranh luận. Suy nghĩ nhìn nhận sự vật từ góc nhìn bên ngoài, cảm xúc xáo trộn - trồi sụt , khao khát khám phá cái mới. Thần tượng. Từ Khóa : Âm Dương - Con người. Bài học : lòng can cảm - nuôi dưỡng thắc mắc về con người , thế giới xung quanh. Điều người đồng hành với trẻ giai đoạn này là sự kết nối và thấu hiểu sâu sắc những khó khăn của con - giúp con xóa bỏ các rào cản để hoàn thiện cảm xúc trong giai đoạn cuối của tiểu học
 
@@ -2087,15 +1509,7 @@ Thay đổi hormon ( dậy thì ). Bắt đầu thu mình lại - tách biệt. 
 
 ### Nghĩ
 
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
-
 #### Unnamed: 6
-
-NaN
-
-#### LƯU Ý
 
 NaN
 
@@ -2123,10 +1537,6 @@ Các con hứng thú với câu chuyện và con người , các vị anh hùng 
 
 Vẽ chân dung, vẽ văn miếu, vẽ màu nước hoàng hôn, bình minh, nặn gạch hoa văn thời Trần Lý, Vẽ rồng phượng thời Lý, vẽ thiết kế áo dài. THơ về các vị Anh hùng. Hệ thống thời gian các giai đoạn lịch sử
 
-#### LƯU Ý
-
-NaN
-
 ### Lân Sư Cẩu
 
 #### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
@@ -2136,10 +1546,6 @@ Giúp các con mạnh dạn hơn, cởi mở và làm việc nhóm
 #### Unnamed: 6
 
 Múa Lân, làm đầu lân
-
-#### LƯU Ý
-
-NaN
 
 ### Thời kỳ Phục Hưng
 
@@ -2151,10 +1557,6 @@ Các con hứng thú với câu chuyện đi tìm những vùng đất mới ( v
 
 Viết bài học the cấu trúc, vẽ chân dung đen trắng.
 
-#### LƯU Ý
-
-NaN
-
 ### Hóa học
 
 #### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
@@ -2165,10 +1567,6 @@ Mặc dù các các em thấy sự tách biệt nhưng luôn hướng các con v
 
 Viết bài thu hoạch - vẽ minh họa các thí nghiệm
 
-#### LƯU Ý
-
-NaN
-
 ### Sức khỏe và dinh dưỡng ( sinh học )
 
 #### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
@@ -2176,10 +1574,6 @@ NaN
 Giáo dục giới tính về con người. tôn trọng và yêu thương bản thân. Các con sẽ hiểu hơn về cơ thể mình để trân quý và tôn trọng trong các hành vi của bản thân
 
 #### Unnamed: 6
-
-NaN
-
-#### LƯU Ý
 
 NaN
 
@@ -2193,10 +1587,6 @@ Giúp các con nhận ra và suy nghĩ làm theo nhiều cách khác nhau đối
 
 Nắm bắt được bản chất của bình phương, căn từ đó áp dụng vào thực tế tính diện tích, chu vi,...
 
-#### LƯU Ý
-
-NaN
-
 ### Tuồng
 
 #### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
@@ -2206,10 +1596,6 @@ Các con thích thú với việc thiết kế thời trang, biễu diễn - là
 #### Unnamed: 6
 
 Vẽ mặt nạ, thiết kế áo quần biểu diễn, xướng và biễu diễn trước đám đông.
-
-#### LƯU Ý
-
-NaN
 
 ### Thủ Công may thêu
 
@@ -2221,10 +1607,6 @@ Các con hứng thú với các sản phẩm thiết thực
 
 May, đo, cắt
 
-#### LƯU Ý
-
-NaN
-
 ### Nặn đất sét
 
 #### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
@@ -2234,10 +1616,6 @@ Các con học bài học về sự kiên nhẫn, và nổ lực để hoàn th�
 #### Unnamed: 6
 
 Nhồi đất sét kỹ, kỹ năng nặn, vuốt nước. Quy trình nung, khoét, đắp
-
-#### LƯU Ý
-
-NaN
 
 ### Vẽ màu nước
 
@@ -2249,10 +1627,6 @@ Các con thích thú với việc chơi màu nước và thích vẽ với sự 
 
 Kỹ năng vẽ nước trên khô, nước trên nước, quy trình chỉnh chu của 1 buổi vẽ màu nước
 
-#### LƯU Ý
-
-NaN
-
 ### Vẽ đen trắng bằng than chì - bút chì
 
 #### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
@@ -2262,10 +1636,6 @@ Các da cảm nhận độ tương phản màu sắc đen và trắng
 #### Unnamed: 6
 
 Kỹ năng quan sát, đi chì than, chuyển màu chì
-
-#### LƯU Ý
-
-NaN
 
 ### Sáo Trúc
 
@@ -2277,10 +1647,6 @@ Lực hơi và kỹ năng của các con đủ tốt để thổi các quãng ca
 
 Kỹ năng luyến, vuốt, luyến, rung, đánh lưỡi. Biểu diễn trước đám đông
 
-#### LƯU Ý
-
-NaN
-
 ### Sinh Hoạt vòng tròn và chuyển động
 
 #### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
@@ -2291,35 +1657,9 @@ Giúp con có ngày mới thoải mái tốt hơn để cho ngày mới.
 
 Hình thành nhịp , thư giãn cơ thể
 
-#### LƯU Ý
-
-NaN
-
 ## Lớp 8
 
-### NaN
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
 TÂM THỨC
-
-#### Unnamed: 6
-
-KỸ NĂNG
-
-### NHÂN SỰ CHUẨN BỊ
-
-Thầy Mạnh Hùng
-
-#### LỚP
-
-8.0
-
-#### CHỦ ĐỀ (THEME CHÍNH)
-
-At home in the Now
-
-#### TỔNG QUAN (TÂM THỨC)
 
 Đặc điểm chính của sự phát triển của trẻ
  Các chi tăng trưởng nhưng đầy đặn hơn, đặc biệt là ở các bạn trai
@@ -2351,29 +1691,11 @@ NaN
 
 ### Toán - dạy cùng thời gian với Block lịch sử. Nội dung: Ôn tập số âm, phương trình bậc 2, Hình học: đa giác và đa diện Platonic
 
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
-
 #### Unnamed: 6
 
 Toán học cũng nhấn mạnh các ứng dụng thực tế của số học, đại số và hình học. Các biểu diễn trong hình học phẳng và khối dẫn đến các vấn đề trong việc đo bề mặt và thể tích.
 
-### NaN
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
-
-#### Unnamed: 6
-
-NaN
-
 ### Sinh lý học: Mắt và Tai, Giải phẫu học
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
 
 #### Unnamed: 6
 
@@ -2381,29 +1703,11 @@ NaN
 
 ### Thủ công mỹ nghệ cùng thời gian với Block Sinh lý học và giải phẩu học
 
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
-
-#### Unnamed: 6
-
-NaN
-
-### NaN
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
-
 #### Unnamed: 6
 
 NaN
 
 ### Vật Lý
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
 
 #### Unnamed: 6
 
@@ -2411,29 +1715,11 @@ NaN
 
 ### Lịch sử Việt Nam
 
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
-
 #### Unnamed: 6
 
 NaN
 
 ### Hoá học
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
-
-#### Unnamed: 6
-
-NaN
-
-### NaN
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
 
 #### Unnamed: 6
 
@@ -2441,19 +1727,11 @@ NaN
 
 ### Lịch sử Anh bằng tiếng Anh và Luyện tập toán
 
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
-
 #### Unnamed: 6
 
 NaN
 
 ### Âm nhạc truyền thống và Hội hoạ
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
 
 #### Unnamed: 6
 
@@ -2461,61 +1739,19 @@ NaN
 
 ## Lớp 9
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
-
-#### THỜI LƯỢNG (TUẦN)
-
-NaN
-
-### NaN
-
-#### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
-
-NaN
-
-#### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
-
-NaN
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-TÂM THỨC
-
-#### Unnamed: 10
-
-KỸ NĂNG
-
-#### LƯU Ý
-
-NaN
-
-### NHÂN SỰ CHUẨN BỊ
-
-NaN
-
-#### LỚP
-
-9.0
-
-#### CHỦ ĐỀ (THEME CHÍNH)
+CHỦ ĐỀ (THEME CHÍNH)
 
 Giai đoạn chối bỏ, tìm kiếm sự độc lập của riêng mình
 
-#### TỔNG QUAN (TÂM THỨC)
+TỔNG QUAN (TÂM THỨC)
 
 Các bạn trở nên cực đoan trong cảm xúc và hành vi của mình.Suy nghĩ, tình cảm và ý chí trở nên xung đột. Các bạn có xu hướng bất lực và chối bỏ mọi thứ.
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### LỊCH SỬ - (Cách mạng Pháp, Mỹ, Nga) Chiến tranh thế giới (các cuộc chiến tranh lạnh)
 
 #### THỜI LƯỢNG (TUẦN)
 
 4 tuần ( 20 tiết )
-
-### LỊCH SỬ - (Cách mạng Pháp, Mỹ, Nga) Chiến tranh thế giới (các cuộc chiến tranh lạnh)
 
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
@@ -2537,15 +1773,11 @@ Tâm thức : các bạn học về các vấn đề quyền lực và sự xâm
 
 Thực hành nhận diện bản thân ( dành ít nhất 1 giờ/ngày thực hành thiền hoặc thực hành tĩnh lặng)
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### VĂN HỌC
 
 #### THỜI LƯỢNG (TUẦN)
 
 4 tuần ( 20 tiết )
-
-### VĂN HỌC
 
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
@@ -2567,45 +1799,11 @@ Tâm thức : các bạn học về bi kịch và hài kịch để hiểu rõ 2
 
 Thực hành quán chiếu, đồng cảm và thấu hiểu nội tâm của các nhân vật
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
-
-#### THỜI LƯỢNG (TUẦN)
-
-NaN
-
-### NaN
-
-#### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
-
-NaN
-
-#### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
-
-NaN
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
-
-#### Unnamed: 10
-
-NaN
-
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### TOÁN ĐẠI SỐ & KINH TẾ
 
 #### THỜI LƯỢNG (TUẦN)
 
 4 tuần ( 20 tiết )
-
-### TOÁN ĐẠI SỐ & KINH TẾ
 
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
@@ -2619,23 +1817,11 @@ Luỹ thừa và căn nhiều bậc.
 
 Có thể ứng dụng toán vào trong đời sống hằng ngày, đời sống kinh tế
 
-#### Unnamed: 10
-
-NaN
-
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### DƯỠNG SINH. Nguyên lý Âm Dương trong đời sống và ăn uống. HOÁ THỰC PHẨM
 
 #### THỜI LƯỢNG (TUẦN)
 
 4 tuần ( 20 tiết )
-
-### DƯỠNG SINH. Nguyên lý Âm Dương trong đời sống và ăn uống. HOÁ THỰC PHẨM
 
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
@@ -2657,15 +1843,11 @@ Có kỹ năng Lựa chọn thực phẩm - Chế biến thực phẩm - Sử d�
 
 Lý thuyết và thực hành song song với nhau để các bạn có thể quan sát và hiểu rõ bản chất và cơ chế của việc chuyển hoá thực phẩm. Thực phẩm có thể chuyển hoá theo thời gian thì thân tâm của chúng ta cũng vậy, sẽ luôn chuyển hoá tốt hơn, tích cực hơn mỗi ngày khi chúng ta sống thuận với tự nhiên.
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### VĂN HOÁ CHĂM. TRỐNG CHĂM
 
 #### THỜI LƯỢNG (TUẦN)
 
 3 tuần ( 15 tiết )
-
-### VĂN HOÁ CHĂM. TRỐNG CHĂM
 
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
@@ -2687,19 +1869,11 @@ Chơi trống chăm, kèn và các nhạc cụ khác của người Chăm
 
 Xây dựng một tiết mục trình diễn "Trống Chăm"
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### LÀM MỘC
 
 #### THỜI LƯỢNG (TUẦN)
 
 2 Tuần ( 10 tiết )
-
-### LÀM MỘC
-
-#### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
-
-NaN
 
 #### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
 
@@ -2713,23 +1887,11 @@ Các bạn thực hành chú tâm và tư duy logic cao để có thể hoàn th
 
 Tự đóng cho mình một chiếc ghế có thể tháo lắp
 
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### VẬT LÝ. Nguồn năng lượng trong kỹ thuật
 
 #### THỜI LƯỢNG (TUẦN)
 
 4 Tuần (20 tiết )
-
-### VẬT LÝ. Nguồn năng lượng trong kỹ thuật
-
-#### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
-
-NaN
 
 #### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
 
@@ -2739,27 +1901,15 @@ NaN
 
 Hiểu về sự toàn cầu hoá của thế giới. Tư duy logic, lý trí giúp cân bằng sự xáo trộn của cảm xúc
 
-#### Unnamed: 10
-
-NaN
-
 #### LƯU Ý
 
 Đọc thêm Tiểu sử của các nhà phát minh (nhân vật Lịch sử) >> để khám phá về trí tò mò, sự theo đuổi đến cùng từ họ.
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### NHIẾP ẢNH
 
 #### THỜI LƯỢNG (TUẦN)
 
 2 Tuần ( 10 tiết )
-
-### NHIẾP ẢNH
-
-#### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
-
-NaN
 
 #### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
 
@@ -2773,19 +1923,11 @@ Quan sát thiên nhiên, phong cảnh, động vật & con người… Nhận di
 
 Chụp ảnh với nhiều chủ đề và nội dung khác nhau
 
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### ĐỊA LÝ. Địa chất học
 
 #### THỜI LƯỢNG (TUẦN)
 
 2 Tuần ( 10 tiết )
-
-### ĐỊA LÝ. Địa chất học
 
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
@@ -2803,23 +1945,11 @@ Quan sát ghi nhận mảnh đất, dòng nước, động vật, thực vật, 
 
 Bơi - lặn
 
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### Thủ Công may thêu
 
 #### THỜI LƯỢNG (TUẦN)
 
 2 tuần (10 tiết)
-
-### Thủ Công may thêu
-
-#### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
-
-NaN
 
 #### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
 
@@ -2832,14 +1962,6 @@ Cần sự quan sát tỉ mỉ và khéo léo. Giúp các bạn tự tin về b�
 #### Unnamed: 10
 
 May, đo, cắt
-
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
 
 #### THỜI LƯỢNG (TUẦN)
 
@@ -2867,57 +1989,33 @@ Biết nhận diện tính cách của người khác để thấu hiểu và y�
 
 Thực hành Không phán xét.
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### LÀM KIM HOÀN
 
 #### THỜI LƯỢNG (TUẦN)
 
 2 Tuần ( 10 tiết )
-
-### LÀM KIM HOÀN
 
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
 Đi đến xưởng thực tế
 
-#### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
-
-NaN
-
 #### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
 
 Cần thực hành sự quan sát tỉ mỉ, tinh tế. Thực hành làm tiểu tiết với sự khéo léo và tập trung đừng điểm nhỏ
-
-#### Unnamed: 10
-
-NaN
 
 #### LƯU Ý
 
 Học từ nghệ nhân
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### MỸ THUẬT - VẼ
 
 #### THỜI LƯỢNG (TUẦN)
 
 2 Tuần ( 10 tiết )
 
-### MỸ THUẬT - VẼ
-
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
 Dựa vào các chủ đề ở các block chính
-
-#### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
-
-NaN
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
 
 #### Unnamed: 10
 
@@ -2927,15 +2025,11 @@ Kỹ năng vẽ theo lộ trình
 
 Thầy Bảo
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### ÂM NHẠC
 
 #### THỜI LƯỢNG (TUẦN)
 
 2 Tuần ( 10 tiết )
-
-### ÂM NHẠC
 
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
@@ -2957,93 +2051,35 @@ Luyện tập và nâng cao kỹ năng chơi nhạc cụ của mình
 
 Nhạc cụ tự chọn
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### Sinh Hoạt vòng tròn và chuyển động
 
 #### THỜI LƯỢNG (TUẦN)
 
 70 tiết
 
-### Sinh Hoạt vòng tròn và chuyển động
-
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
 Dựa vào chủ đề ở các block chính
-
-#### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
-
-NaN
 
 #### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
 
 Giúp các bạn bắt đầu một ngày mới tươi đẹp.
 
-#### Unnamed: 10
-
-NaN
-
-#### LƯU Ý
-
-NaN
-
 ## Lớp 10
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
-
-#### THỜI LƯỢNG (TUẦN)
-
-NaN
-
-### NaN
-
-#### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
-
-NaN
-
-#### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
-
-NaN
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-TÂM THỨC
-
-#### Unnamed: 10
-
-KỸ NĂNG
-
-#### LƯU Ý
-
-NaN
-
-### NHÂN SỰ CHUẨN BỊ
-
-NaN
-
-#### LỚP
-
-10.0
-
-#### CHỦ ĐỀ (THEME CHÍNH)
+CHỦ ĐỀ (THEME CHÍNH)
 
 Cội nguồn thế giới và cuộc sống con người. Sự thấu hiểu quy luật tự nhiên >>QUY LUẬT HỮU HÌNH
 
-#### TỔNG QUAN (TÂM THỨC)
+TỔNG QUAN (TÂM THỨC)
 
 Giai đoạn lý trí mạnh mẽ, các bạn đã không còn cực đoan trong cảm xúc. Các bạn luôn tìm kiếm câu trả lời thông qua mối quan hệ của mình với thế giới và người khác.
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### LỊCH SỬ - Văn minh nhân loại, sự tiến hoá của loài người
 
 #### THỜI LƯỢNG (TUẦN)
 
 4 tuần ( 20 tiết )
-
-### LỊCH SỬ - Văn minh nhân loại, sự tiến hoá của loài người
 
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
@@ -3065,23 +2101,15 @@ Hiểu rõ sự phát triển ý thức qua các thời kì và qua các nền v
 
 Đọc thêm 7 nền văn hoá thế giới
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### TOÁN KINH TẾ & LƯỢNG GIÁC HỌC
 
 #### THỜI LƯỢNG (TUẦN)
 
 4 tuần ( 20 tiết )
 
-### TOÁN KINH TẾ & LƯỢNG GIÁC HỌC
-
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
 Ứng dụng toán vào trong đời sống hằng ngày
-
-#### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
-
-NaN
 
 #### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
 
@@ -3095,19 +2123,11 @@ Trải nghiệm thực tiễn của việc khảo sát 1 số mảnh đất
 
 Ôn tập toán đại số (Luỹ thừa, mũ lớn hơn)
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### VĂN HỌC
 
 #### THỜI LƯỢNG (TUẦN)
 
 4 tuần ( 20 tiết )
-
-### VĂN HỌC
-
-#### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
-
-NaN
 
 #### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
 
@@ -3117,23 +2137,11 @@ Sử thi - Thơ trữ tình
 
 Hiểu về nguồn gốc & cấu trúc ngôn ngữ
 
-#### Unnamed: 10
-
-NaN
-
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### VẬT LÝ
 
 #### THỜI LƯỢNG (TUẦN)
 
 3 Tuần (15 tiết )
-
-### VẬT LÝ
 
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
@@ -3147,57 +2155,11 @@ Thông qua trải nghiệm cả lý thuyết và thí nghiệm
 
 Hiểu về những quy luật và hiện tượng vật lý trong tự nhiên. Bản chất của ánh sáng
 
-#### Unnamed: 10
-
-NaN
-
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
-
-#### THỜI LƯỢNG (TUẦN)
-
-NaN
-
-### NaN
-
-#### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
-
-NaN
-
-#### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
-
-NaN
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
-
-#### Unnamed: 10
-
-NaN
-
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### SINH HỌC. Giải phẩu người
 
 #### THỜI LƯỢNG (TUẦN)
 
 3 tuần ( 15 tiết )
-
-### SINH HỌC. Giải phẩu người
-
-#### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
-
-NaN
 
 #### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
 
@@ -3207,23 +2169,11 @@ Bộ não con người. Hệ thống trái tim, hệ tuần hoàn
 
 Nền tảng của tri giác, suy nghĩ, trí nhớ & Lương tri đạo đức. Nền tảng của những trải nghiệm cảm xúc
 
-#### Unnamed: 10
-
-NaN
-
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### HOÁ HỌC
 
 #### THỜI LƯỢNG (TUẦN)
 
 3 tuần ( 15 tiết )
-
-### HOÁ HỌC
 
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
@@ -3237,83 +2187,29 @@ Axit và Kiềm. Quá trình của sự kết tinh.
 
 Hiểu rõ 2 khái niệm về chất trong hoá hữu cơ
 
-#### Unnamed: 10
-
-NaN
-
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### LỊCH SỬ NGHỆ THUẬT & ÂM NHẠC
 
 #### THỜI LƯỢNG (TUẦN)
 
 2 Tuần ( 10 tiết )
 
-### LỊCH SỬ NGHỆ THUẬT & ÂM NHẠC
-
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
 Học cùng cô Lý và cô Tú
-
-#### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
-
-NaN
 
 #### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
 
 Có cái nhìn về Tổng quan nghệ thuật thông qua ngôn ngữ âm nhạc
 
-#### Unnamed: 10
-
-NaN
-
 #### LƯU Ý
 
 Mẹ Phương lên chương trình học cùng cô Lý và cô Tú
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
-
-#### THỜI LƯỢNG (TUẦN)
-
-NaN
-
-### NaN
-
-#### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
-
-NaN
-
-#### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
-
-NaN
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
-
-#### Unnamed: 10
-
-NaN
-
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### KHOA HỌC TRÁI ĐẤT (Địa lý)
 
 #### THỜI LƯỢNG (TUẦN)
 
 3 Tuần ( 15 tiết )
-
-### KHOA HỌC TRÁI ĐẤT (Địa lý)
 
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
@@ -3331,23 +2227,11 @@ Hiểu về thứ tạo ra sự sống trên trái đất và những tác độ
 
 Kỹ năng sống thuận với tự nhiên và ý thức bảo vệ môi trường.
 
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### KỸ THUẬT CÔNG NGHỆ
 
 #### THỜI LƯỢNG (TUẦN)
 
 3 Tuần ( 10 tiết )
-
-### KỸ THUẬT CÔNG NGHỆ
-
-#### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
-
-NaN
 
 #### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
 
@@ -3361,19 +2245,11 @@ Hiểu được công nghệ ảnh hưởng đến con người như thế nào 
 
 Có thể bốc tách các thiết bị trong máy vi tính và sửa chữa nó
 
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### LÀM BẢNG IN
 
 #### THỜI LƯỢNG (TUẦN)
 
 2 Tuần ( 10 tiết )
-
-### LÀM BẢNG IN
 
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
@@ -3387,23 +2263,15 @@ Gợi ý tranh ĐÔNG HỒ
 
 Cần thực hành sự quan sát tỉ mỉ, tinh tế. Thực hành làm tiểu tiết với sự khéo léo và tập trung đừng điểm nhỏ
 
-#### Unnamed: 10
-
-NaN
-
 #### LƯU Ý
 
 Học từ nghệ nhân.
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### MỸ THUẬT - VẼ
 
 #### THỜI LƯỢNG (TUẦN)
 
 2 Tuần ( 10 tiết )
-
-### MỸ THUẬT - VẼ
 
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
@@ -3413,10 +2281,6 @@ Dựa vào các chủ đề ở các block chính
 
 Vẽ nâng cao
 
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
-
 #### Unnamed: 10
 
 Kỹ năng vẽ theo lộ trình
@@ -3425,15 +2289,11 @@ Kỹ năng vẽ theo lộ trình
 
 Thầy Bảo
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### ÂM NHẠC
 
 #### THỜI LƯỢNG (TUẦN)
 
 2 Tuần ( 10 tiết )
-
-### ÂM NHẠC
 
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
@@ -3455,153 +2315,37 @@ Nâng cao kỹ năng chơi nhạc cụ. Hoặc kỹ năng thanh nhạc
 
 Nhạc cụ tự chọn. Thực hành JAM
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### Sinh Hoạt vòng tròn và chuyển động
 
 #### THỜI LƯỢNG (TUẦN)
 
 70 tiết
 
-### Sinh Hoạt vòng tròn và chuyển động
-
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
 Dựa vào chủ đề ở các block chính
-
-#### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
-
-NaN
 
 #### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
 
 Giúp các bạn bắt đầu một ngày mới tươi đẹp.
 
-#### Unnamed: 10
-
-NaN
-
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
-
-#### THỜI LƯỢNG (TUẦN)
-
-NaN
-
-### NaN
-
-#### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
-
-NaN
-
-#### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
-
-NaN
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
-
-#### Unnamed: 10
-
-NaN
-
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
-
-#### THỜI LƯỢNG (TUẦN)
-
-NaN
-
 ### TIẾNG ANH
-
-#### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
-
-NaN
-
-#### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
-
-NaN
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
-
-#### Unnamed: 10
-
-NaN
-
-#### LƯU Ý
-
-NaN
 
 ## Lớp 11
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
-
-#### THỜI LƯỢNG (TUẦN)
-
-NaN
-
-### NaN
-
-#### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
-
-NaN
-
-#### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
-
-NaN
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-TÂM THỨC
-
-#### Unnamed: 10
-
-KỸ NĂNG
-
-#### LƯU Ý
-
-NaN
-
-### NHÂN SỰ CHUẨN BỊ
-
-NaN
-
-#### LỚP
-
-11.0
-
-#### CHỦ ĐỀ (THEME CHÍNH)
+CHỦ ĐỀ (THEME CHÍNH)
 
 Thể hiện mối quan tâm sâu sắc với thế giới và cuộc sống. Sự thấu hiểu quy luật tự nhiên >>QUY LUẬT VÔ HÌNH
 
-#### TỔNG QUAN (TÂM THỨC)
+TỔNG QUAN (TÂM THỨC)
 
 Các bạn thể hiện sự hoà hợp trong cơ thể, thể chất trưởng thành và vững chải nội tâm. Các bạn có tình cảm sâu sắc và mối quan tâm thật sự đến xã hội, đến thế giới và biết cảm thông với người khác
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### LỊCH SỬ hiện đại từ Phục Hưng đến Khai Sáng
 
 #### THỜI LƯỢNG (TUẦN)
 
 4 tuần ( 20 tiết )
-
-### LỊCH SỬ hiện đại từ Phục Hưng đến Khai Sáng
 
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
@@ -3615,23 +2359,15 @@ Phật hoàng TRẦN NHÂN TÔNG
 
 Hiểu được tầm quan trọng của đời sống tâm linh đối với con người và xã hội.
 
-#### Unnamed: 10
-
-NaN
-
 #### LƯU Ý
 
 Thực hành phát triển tâm linh mỗi ngày. THIỀN
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### VĂN HỌC
 
 #### THỜI LƯỢNG (TUẦN)
 
 4 tuần ( 20 tiết )
-
-### VĂN HỌC
 
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
@@ -3645,53 +2381,15 @@ Tác phẩm "Parzival" của Wolfram von Eschenbach
 
 Hiều về hành trình trải qua đau khổ để tìm ra con người thật nhờ dấn thân vào hành trình phát triển tâm linh
 
-#### Unnamed: 10
-
-NaN
-
 #### LƯU Ý
 
 Thực hành quán chiếu, phát triển tâm linh mỗi ngày. THIỀN
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
-
-#### THỜI LƯỢNG (TUẦN)
-
-NaN
-
-### NaN
-
-#### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
-
-NaN
-
-#### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
-
-NaN
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
-
-#### Unnamed: 10
-
-NaN
-
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### TOÁN
 
 #### THỜI LƯỢNG (TUẦN)
 
 4 tuần ( 20 tiết )
-
-### TOÁN
 
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
@@ -3705,23 +2403,11 @@ Khái niệm vô cực. Hình học xạ ảnh
 
 Thấy những thứ không thể thấy bằng mắt thường. Hiểu thêm về những Quy luật vô hình trong khoa học tự nhiên.
 
-#### Unnamed: 10
-
-NaN
-
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### SINH HỌC
 
 #### THỜI LƯỢNG (TUẦN)
 
 4 tuần ( 20 tiết )
-
-### SINH HỌC
 
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
@@ -3735,27 +2421,11 @@ Nghiên cứu tế bào của cơ thể (Kính hiển vi)
 
 Quan sát những phân tử không thể thấy bằng mắt thường
 
-#### Unnamed: 10
-
-NaN
-
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### HOÁ HỌC
 
 #### THỜI LƯỢNG (TUẦN)
 
 3 tuần ( 15 tiết )
-
-### HOÁ HỌC
-
-#### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
-
-NaN
 
 #### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
 
@@ -3765,53 +2435,11 @@ Bảng tuần hoàn nâng cao. Nguyên tố hoá học & cấu trúc nguyên t�
 
 Hiểu về cấu trúc hình thành nên những nguyên tố hoá học
 
-#### Unnamed: 10
-
-NaN
-
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
-
-#### THỜI LƯỢNG (TUẦN)
-
-NaN
-
-### NaN
-
-#### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
-
-NaN
-
-#### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
-
-NaN
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
-
-#### Unnamed: 10
-
-NaN
-
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### VẬT LÝ
 
 #### THỜI LƯỢNG (TUẦN)
 
 4 Tuần (20 tiết )
-
-### VẬT LÝ
 
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
@@ -3825,23 +2453,11 @@ Nghiên cứu đối tượng không nhìn thấy
 
 Trường năng lượng, bản chất của vật chất. Nhận thức về những thứ không thể thấy bằng mắt thường.
 
-#### Unnamed: 10
-
-NaN
-
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### Khoa học trái đất. ĐỊA LÝ
 
 #### THỜI LƯỢNG (TUẦN)
 
 2 Tuần ( 10 tiết )
-
-### Khoa học trái đất. ĐỊA LÝ
 
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
@@ -3863,15 +2479,11 @@ Vẽ bản đồ Việt Nam
 
 Bổ sung văn hoá vùng miền.
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### THIÊN VĂN HỌC
 
 #### THỜI LƯỢNG (TUẦN)
 
 2 tuần (10 tiết)
-
-### THIÊN VĂN HỌC
 
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
@@ -3885,23 +2497,15 @@ Vượt lên tầm nhìn của chúng ta -> sự kết nối với vũ trụ t�
 
 Vạn vật luôn tồn tại và phát triển theo cách riêng của nó, vượt ra ngoài cái thấy cái biết của chúng ta. Để luôn thực hành khiêm nhường và phá ngã chấp.
 
-#### Unnamed: 10
-
-NaN
-
 #### LƯU Ý
 
 Thực hành quán chiếu, phá ngã chấp (không dính mắc)
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### KỸ THUẬT CÔNG NGHỆ
 
 #### THỜI LƯỢNG (TUẦN)
 
 2 Tuần ( 10 tiết )
-
-### KỸ THUẬT CÔNG NGHỆ
 
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
@@ -3915,27 +2519,11 @@ Hình thức khác nhau & những hậu quả của việc sản xuất năng l�
 
 Nhận thức rõ về vai trò của năng lượng và vật chất đời sống. Sử dụng kỹ thuật công nghệ như thế nào? Trách nhiệm của con người?
 
-#### Unnamed: 10
-
-NaN
-
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### MỸ THUẬT - ĐIÊU KHẮC
 
 #### THỜI LƯỢNG (TUẦN)
 
 2 Tuần ( 10 tiết )
-
-### MỸ THUẬT - ĐIÊU KHẮC
-
-#### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
-
-NaN
 
 #### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
 
@@ -3953,19 +2541,11 @@ Kỹ năng điêu khắc
 
 Học từ nghệ nhân
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### ÂM NHẠC
 
 #### THỜI LƯỢNG (TUẦN)
 
 2 Tuần ( 10 tiết )
-
-### ÂM NHẠC
-
-#### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
-
-NaN
 
 #### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
 
@@ -3983,153 +2563,37 @@ Luyện tập và nâng cao kỹ năng trình diễn và chơi nhạc, ca hát v
 
 Nhạc cụ tự chọn
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### Sinh Hoạt vòng tròn và chuyển động
 
 #### THỜI LƯỢNG (TUẦN)
 
 70 tiết
 
-### Sinh Hoạt vòng tròn và chuyển động
-
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
 Dựa vào chủ đề ở các block chính
-
-#### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
-
-NaN
 
 #### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
 
 Giúp các bạn bắt đầu một ngày mới tươi đẹp.
 
-#### Unnamed: 10
-
-NaN
-
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
-
-#### THỜI LƯỢNG (TUẦN)
-
-NaN
-
-### NaN
-
-#### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
-
-NaN
-
-#### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
-
-NaN
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
-
-#### Unnamed: 10
-
-NaN
-
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
-
-#### THỜI LƯỢNG (TUẦN)
-
-NaN
-
 ### TIẾNG ANH
-
-#### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
-
-NaN
-
-#### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
-
-NaN
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
-
-#### Unnamed: 10
-
-NaN
-
-#### LƯU Ý
-
-NaN
 
 ## Lớp 12
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
-
-#### THỜI LƯỢNG (TUẦN)
-
-NaN
-
-### NaN
-
-#### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
-
-NaN
-
-#### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
-
-NaN
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-TÂM THỨC
-
-#### Unnamed: 10
-
-KỸ NĂNG
-
-#### LƯU Ý
-
-NaN
-
-### NHÂN SỰ CHUẨN BỊ
-
-NaN
-
-#### LỚP
-
-10.0
-
-#### CHỦ ĐỀ (THEME CHÍNH)
+CHỦ ĐỀ (THEME CHÍNH)
 
 Xác định vị trí của tôi trên thế giới. Sự thấu hiểu BẢN CHẤT CỦA CON NGƯỜI
 
-#### TỔNG QUAN (TÂM THỨC)
+TỔNG QUAN (TÂM THỨC)
 
 Các bạn khao khát tìm ra con đường của chính mình. Mong muốn tạo ra những ảnh hưởng trên thế giới. Đâu là vị trí của tôi trên thế giới này?
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### LỊCH SỬ - Sự tiến hoá của nhân loại
 
 #### THỜI LƯỢNG (TUẦN)
 
 4 tuần ( 20 tiết )
-
-### LỊCH SỬ - Sự tiến hoá của nhân loại
 
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
@@ -4151,23 +2615,15 @@ Hiểu rõ sự phát triển tinh thần, phát triển tâm linh qua các th�
 
 Đọc sách ĐƯỜNG XƯA MÂY TRẮNG
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### TOÁN ĐẦU TƯ
 
 #### THỜI LƯỢNG (TUẦN)
 
 3 tuần ( 15 tiết )
 
-### TOÁN ĐẦU TƯ
-
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
 Ứng dụng toán vào trong đời sống kinh tế và đầu tư
-
-#### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
-
-NaN
 
 #### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
 
@@ -4177,23 +2633,11 @@ Các bạn có thể có một cái nhìn tổng quan về việc kinh doanh ho�
 
 Trải nghiệm thực tiễn của từ một dự án khởi nghiệp nhỏ
 
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### VĂN HỌC ĐƯƠNG THỜI
 
 #### THỜI LƯỢNG (TUẦN)
 
 3 tuần ( 15 tiết )
-
-### VĂN HỌC ĐƯƠNG THỜI
-
-#### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
-
-NaN
 
 #### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
 
@@ -4207,19 +2651,11 @@ Phát ngôn cho ý thức trong thời đại của chúng ta, đưa các bạn 
 
 Ứng dụng và thực hành trên một số phương tiện truyền thông
 
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### VẬT LÝ
 
 #### THỜI LƯỢNG (TUẦN)
 
 3 Tuần (15 tiết )
-
-### VẬT LÝ
 
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
@@ -4232,48 +2668,6 @@ Vật lý nguyên tử
 #### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
 
 Hiểu về những quy luật và hiện tượng vật lý trong tự nhiên.
-
-#### Unnamed: 10
-
-NaN
-
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
-
-#### THỜI LƯỢNG (TUẦN)
-
-NaN
-
-### NaN
-
-#### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
-
-NaN
-
-#### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
-
-NaN
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
-
-#### Unnamed: 10
-
-NaN
-
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
 
 #### THỜI LƯỢNG (TUẦN)
 
@@ -4293,23 +2687,11 @@ Quá trình hình thành phôi thai. Sự biến đổi đầy mê hoặc của 
 
 Tư duy chuyển hoá. Hiểu về sự duy trì (nòi giống) các thế hệ tiếp nối của con người. Hiểu về bản chất tồn tại và phát triển của sự sống.
 
-#### Unnamed: 10
-
-NaN
-
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### HOÁ DƯỢC
 
 #### THỜI LƯỢNG (TUẦN)
 
 3 tuần ( 15 tiết )
-
-### HOÁ DƯỢC
 
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
@@ -4327,23 +2709,11 @@ Hiểu về nền tảng phát triển của nền y học cổ truyền, nó lu
 
 Kỹ năng tự chăm lo cho sức khoẻ bản thân. Kỹ năng tự chữa lành
 
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### TRIẾT HỌC
 
 #### THỜI LƯỢNG (TUẦN)
 
 3 Tuần ( 10 tiết )
-
-### TRIẾT HỌC
-
-#### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
-
-NaN
 
 #### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
 
@@ -4353,53 +2723,15 @@ Sự tiến hoá của tư tưởng con người
 
 Hiểu về đạo trong đời sống và trong các nền văn minh của nhân loại
 
-#### Unnamed: 10
-
-NaN
-
 #### LƯU Ý
 
 PHẬT GIÁO
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
-
-#### THỜI LƯỢNG (TUẦN)
-
-NaN
-
-### NaN
-
-#### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
-
-NaN
-
-#### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
-
-NaN
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
-
-#### Unnamed: 10
-
-NaN
-
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### KIẾN TRÚC
 
 #### THỜI LƯỢNG (TUẦN)
 
 4 Tuần ( 20 tiết )
-
-### KIẾN TRÚC
 
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
@@ -4417,19 +2749,11 @@ Kiến trúc phản ảnh sự thay đổi trong nhận thức tiến hoá của
 
 Kỹ năng thiết kế kiến trúc, lập hồ sơ thiết kế chi tiết (Phối cảnh 3D, mặt đứng, măt bằng, mặt cắt...)
 
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### ÂM NHẠC
 
 #### THỜI LƯỢNG (TUẦN)
 
 2 Tuần ( 10 tiết )
-
-### ÂM NHẠC
 
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
@@ -4451,45 +2775,25 @@ Kỹ năng hoà âm, phối khí
 
 Nhạc cụ tự chọn.
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### Sinh Hoạt vòng tròn và chuyển động
 
 #### THỜI LƯỢNG (TUẦN)
 
 70 tiết
 
-### Sinh Hoạt vòng tròn và chuyển động
-
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
 Dựa vào chủ đề ở các block chính
-
-#### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
-
-NaN
 
 #### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
 
 Giúp các bạn bắt đầu một ngày mới tươi đẹp.
 
-#### Unnamed: 10
-
-NaN
-
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
+### LUẬN VĂN TỐT NGHIỆP
 
 #### THỜI LƯỢNG (TUẦN)
 
 6 tháng
-
-### LUẬN VĂN TỐT NGHIỆP
 
 #### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
 
@@ -4511,62 +2815,4 @@ Kỹ năng lập dự án, biết lập kế hoạch, có tư duy rõ ràng về
 
 DỰ ÁN LỚN
 
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
-
-#### THỜI LƯỢNG (TUẦN)
-
-NaN
-
-### NaN
-
-#### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
-
-NaN
-
-#### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
-
-NaN
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
-
-#### Unnamed: 10
-
-NaN
-
-#### LƯU Ý
-
-NaN
-
-#### THỜI GIAN GIẢNG DẠY (Ghi chú dự định tháng/kỳ)
-
-NaN
-
-#### THỜI LƯỢNG (TUẦN)
-
-NaN
-
 ### TIẾNG ANH
-
-#### CÁCH THỨC TIẾP CẬN/GIẢNG DẠY
-
-NaN
-
-#### NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH)
-
-NaN
-
-#### Mục tiêu đầu ra (Ghi chú rõ Mục tiêu tâm thức và kỹ năng)
-
-NaN
-
-#### Unnamed: 10
-
-NaN
-
-#### LƯU Ý
-
-NaN
