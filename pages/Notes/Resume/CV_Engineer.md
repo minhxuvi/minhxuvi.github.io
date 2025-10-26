@@ -1,6 +1,6 @@
 # **Minh Do Anh**
 
-**Senior QA Automation Engineer | Embedded Systems | Python | Linux | AI Testing**
+**Senior QA Automation Engineer | Embedded Systems | Python | Linux | Automotive Software Testing**
 
 - Email: <minhxuvi@gmail.com>
 - Phone: (+84) 0363059649
@@ -11,15 +11,15 @@
 
 ## **Professional Summary**
 
-QA Automation Engineer with 7+ years of experience in embedded systems, Linux-based platforms, and test automation frameworks. Proven ability to design scalable automation solutions, lead QA teams, and ensure high-quality software delivery across multi-platform environments. Skilled in Python, CI/CD, Docker, and Kubernetes, with growing expertise in AI model testing, LLM benchmarking, and GPU-based performance validation. Passionate about building robust QA strategies for cutting-edge technologies.
+QA Automation Engineer with 7+ years of experience in embedded systems, Linux-based platforms, and test automation frameworks. Proven ability to design scalable automation solutions, lead QA teams, and ensure high-quality software delivery across multi-platform environments. Skilled in Python, CI/CD, Embedded C. Passionate about building robust QA strategies for cutting-edge technologies.
 
 ---
 
 ## **Core Competencies**
 
-- **QA & Automation**: Test strategy, framework design, Pytest, CI/CD integration
-- **Programming**: Python, C, Embedded C, Bash
-- **Platforms**: Linux, Yocto, Docker, Kubernetes
+- **QA & Automation**: Test strategy, framework design, CI/CD integration
+- **Programming**: Python, Embedded C, Bash
+- **Platforms**: Linux, Yocto, Docker
 - **Tools**: Jenkins, GitHub Actions, Lauterbach, MongoDB
 - **Testing Expertise**: Unit, Integration, System, Performance, Fault Injection, Code Coverage
 - **AI/ML QA**: Model validation, LLM benchmarking, prompt testing (basic knowledge)
@@ -31,7 +31,7 @@ QA Automation Engineer with 7+ years of experience in embedded systems, Linux-ba
 
 ### **FPT Software** — *Senior QA Automation Engineer*
 
-**May 2020 – Present**
+**May 2020 – Sep 2025**
 
 - Led a team of up to 35 engineers to design and implement an automation framework for multi-platform testing (RTOS, Linux kernel/user space).
 - Developed a Python-based automation framework supporting cross-architecture testing and Yocto image builds.
@@ -53,7 +53,6 @@ QA Automation Engineer with 7+ years of experience in embedded systems, Linux-ba
 **Jun 2018 – May 2019**
 
 - Conducted integration testing for ABS firmware on 2-wheeler projects.
-- Improved automation stability, reducing flaky tests by **30%**.
 - Partnered with developers to root-cause and resolve critical defects.
 
 ### **Renesas Vietnam** — *Embedded Software Engineer*
@@ -75,13 +74,6 @@ Specialized in Physics (2009–2012)
 
 ---
 
-## **Certifications**
-
-- ISTQB Certified Tester (if applicable)
-- Docker & Kubernetes Fundamentals (if applicable)
-
----
-
 ## **Activities**
 
-- Board Member, Cycling Along Vietnam Organization (2015–Present): Organized charity programs and led annual cycling events with 80+ participants.
+- Board Member, Cycling Along Vietnam Organization (2015 – 2023): Organized charity programs and led annual cycling events with 80+ participants.
