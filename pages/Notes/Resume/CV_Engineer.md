@@ -76,4 +76,6 @@ Specialized in Physics (2009–2012)
 
 ## **Activities**
 
-- Board Member, Cycling Along Vietnam Organization (2015 – 2023): Organized charity programs and led annual cycling events with 80+ participants.
+**[Cycling Along Vietnam Club](https://www.facebook.com/dapxexuyenvietnam)  (2015 – 2023)**
+
+- Board Member, Cycling Along Vietnam Club: Organized charity programs and led annual cycling events with 80+ participants.
