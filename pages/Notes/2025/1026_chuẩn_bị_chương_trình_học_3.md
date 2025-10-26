@@ -31,9 +31,13 @@
 - AI này chứa rất nhiều thông tin cá nhân nên cần self host.
 - Kế hoạch hướng tới mục tiêu cập nhật theo thời gian thực.
 
-Learning outcomes standards for general education programs in the United States.
+Standards for learning outcomes in high school education programs in the United States.
+Standards for learning outcomes in high school education programs in the United Kingdom.
+Standards for learning outcomes in high school education programs in Finland.
+Standards for learning outcomes in high school education programs in Singapore.
+Standards for learning outcomes in high school education programs in Japan.
 
-Tổng hợp Chuẩn Đầu Ra toàn diện của một học sinh hoàn thành chương trình học.
+Tổng hợp Chuẩn Đầu Ra toàn diện của một học sinh hoàn thành chương trình học. Cung cấp dưới dạng markdown file.
 
 Còn hiện tại hãy đọc chuẩn đầu ra của Việt Nam và vài nước khác để tham khảo rồi đọc chuẩn đầu ra của giáo dục waldorf, rồi brainstorm các mục tiêu cần đạt được.
 Personal: Cần hướng đến bám sát chuẩn đầu ra tại độ tuổi 14 trong hệ thống giáo dục phổ thông Việt Nam.
