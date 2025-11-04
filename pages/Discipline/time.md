@@ -3,12 +3,13 @@
 | Start | End   | Task              |
 |-------|-------|-------------------|
 | 04:00 | 04:10 | Morning routine   |
-| 04:10 | 06:00 | Learn             |
+| 04:10 | 06:00 | Coding            |
 | 06:00 | 07:00 | Minh Định Võ Đạo  |
 | 07:00 | 07:30 | Breakfast         |
-| 07:30 | 12:00 | Work              |
+| 07:30 | 12:00 | Learn, Work, Play |
 | 12:00 | 13:00 | Lunch             |
-| 13:00 | 21:00 | Work              |
+| 13:00 | 20:50 | Learn, Work, Play |
+| 20:50 | 21:00 | Bed time routine  |
 | 21:00 | 04:00 | Sleep             |
 
 ## Morning routine
