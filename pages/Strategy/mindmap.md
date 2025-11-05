@@ -25,6 +25,12 @@ A web-based tool for creating and editing 3D models.
 
 ### Python as Pseudo code
 
+### Technology gap
+
+- World
+- Vietnam
+- Đ
+
 ## Đ family (Close)
 
 Self-hosted private systems for Đ family.
@@ -49,3 +55,8 @@ The person should learn by themselves.
 But still you want a company to work on health care products.
 The certification is needed but you can always hire someone else.
 The crucial part is your own bussiness.
+**You only need the certification when you don't have enough money.**
+
+So you aim for the certification in medication.
+But the cert in medication is too heavy to be in the survial part.
+Maybe knowledge in Estern medication and public health care is better.
