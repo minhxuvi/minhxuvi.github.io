@@ -19,6 +19,11 @@ Chiến lược cây tre, gốc là các sản phẩm yêu cầu ứng dụng c�
 
 ## Ngắn hạn
 
+- Làm rõ vấn đề đọc sớm cho Núc Níc.
+- Đọc sách tâm thức giáo dục Waldorf.
+- Đọc về chương trình Waldorf lớp 1.
+- Mua sách giáo khoa lớp 1 để so sánh.
+- AI nghiên cứu chương trình học.
 - Hoạt động hàng ngày với Núc Níc.
 - Chuẩn bị chương trình học cho lớp 1.
 - Dự án cùng làm với Tồ.
@@ -26,13 +31,13 @@ Chiến lược cây tre, gốc là các sản phẩm yêu cầu ứng dụng c�
 
 ## Trung hạn (5-7 năm)
 
-- Hoàn thiện chương trình học.
+- Làm trường học trên xe đạp xuyên Việt.
 - Học chứng chỉ về giáo dục.
-- Làm đạp xe xuyên Việt.
-- Dựng 1 quán cafe. (Thử nghiệm xây nhà module, quản lý nhân sự, vận hành kinh doanh)
+- Dựng 1 quán cafe. (Thử nghiệm xây nhà gỗ, quản lý nhân sự, vận hành kinh doanh)
 
 ## Dài hạn (10-20 năm)
 
+- Trường học trên xe đạp.
 - Công ty xây dựng nhà module.
 - Xây chuỗi nhà hàng ăn uống an toàn, kết hợp nơi làm việc, dorm, gym, khu vui chơi.
   - Tầng hầm để xe.

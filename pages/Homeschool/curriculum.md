@@ -1,6 +1,6 @@
 # Chương trình dạy
 
-Minh's though:
+**Minh's thought**:
 
 - Chính bạn phải làm gương.
 - Giáo dục trẻ một cách toàn diện: thể chất, tâm hồn, tâm linh.
@@ -16,6 +16,14 @@ Trả lời lần 1 bạn là ai, ý nghĩa việc bạn tồn tại.
 - Còn phải xem xét nhiều yếu tố khác như: muốn nghiên cứu gì không, đi nghĩa vụ, du học hay học trong nước.
 - Để đủ vững, các con cần minh định, có các thói quen tốt và hiểu rõ tầm quan trọng của thói quen và nhịp điệu sinh hoạt. Ngoài ra còn cần luyện được sự tập trung cao độ.
 - Có trải nghiệm đa dạng.
+
+Thứ tự sau khi hoàn thành chương trình học:
+
+1. School on the bike. Bicycle > Sơ cứu > Leo núi > Bơi & Lặn...
+2. Thi GED (nếu cần).
+3. Học nghề hoặc đại học (nếu cần). Có thể học UoP: Health > Bussiness > Computer science > Master of Education > Master of Bussiness Administration > Master of Information Technology.
+4. Song song khởi nghiệp hoặc giải cứu thế giới.
+5. Nộp đơn vào trường top nếu muốn đi nghiên cứu.
 
 ## Age 0 – 3 (Birth to Toddlerhood)
 
@@ -343,6 +351,26 @@ Block 8: Tết - Xuân.
 
 ## Lớp 1
 
+**Minh's thought**:
+Mình đang phân vân về độ khó của chương trình lớp 1.
+Mình lo sợ rằng nếu dạy dễ quá thì bỏ lỡ giai đoạn phát triển quan trọng.
+Nếu dạy khó quá thì lại làm mất hứng thú học tập của con.
+
+Thử suy nghĩ và sắp xếp các ưu tiên:
+
+- Nhịp điệu và kỷ luật.
+- Phát triển thể chất. Hiện tại mình thấy đang thiếu các hoạt động thể chất.
+- Tập trung vào nhịp điệu còn các hoạt động khác làm như một dự án hoặc một hoạt động biểu diễn.
+- Kiến thức cần đảm bảo 16 tuổi có thể thi GED.
+
+Mỗi ngày lên lớp là một buổi biểu diễn.
+Bắt đầu bằng vài phút lặng im hít thở, bình tâm.
+Sau đó là cúi chào. Bắt đầu bằng lễ
+Bắt đầu lớp học.
+Kết thúc bằng võ đạo
+
+---
+
 Tuổi: >7
 
 TỔNG QUAN (TÂM THỨC):
@@ -352,6 +380,64 @@ TỔNG QUAN (TÂM THỨC):
 - Tâm thức mơ màng trong "cái 1", thế giới luôn tràn đầy đẹp đẽ và điều thiện lành.
 
 - Khao khát khám phá thế giới, có lòng tôn kính trước người lớn nói chung, bắt đầu phát triển ý chí thông qua làm việc và rèn luyện đều đặn => sẵn sàng để đón nhận kiến thức và làm quen các quy tắc ứng xử, đạo đức
+
+**THỜI GIAN BIỂU**:
+
+|Thời gian| Hoạt động|
+|---|---|
+|08:00-08:45|Sinh hoạt vòng tròn|
+|08:45-09:45|BÀI HỌC CHÍNH|
+|09:45-10:00|Ăn xế - Ra chơi|
+|10:00-10:30|Tiếng Anh, Tiếng Trung, Thanh Nhạc|
+|10:30-11:00|Chơi tự do|
+|11:00-11:30|Thực hành & Luyện tập|
+|11:30-11:50|Kể chuyện|
+|11:50-13:30|Ăn trưa -  Nghỉ ngơi|
+|13:30-14:30|Vẽ màu nước, Đan len, Làm bánh, Nặn sáp ong, Thổi sáo|
+|14:30-15:00|Võ đạo|
+|15:00-15:10|Dọn dẹp & Xướng ra về|
+
+### Hoạt động xuyên suốt của lớp 1
+
+#### Hoạt động Âm nhạc
+
+**Minh's thought**:
+
+| Tuổi     | Nhạc cụ phù hợp                                                                                                                   |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| **0–3**  | shaker, trống nhỏ, kalimba 8 phím, xylophone 8 nốt, handpan mini, ocarina đơn giản                                                |
+| **3–6**  | asalato, cajon, djembe nhỏ, ukulele, piano khám phá, boomwhackers, recorder, harmonica, harp nhỏ, tongue drum                     |
+| **6–9**  | piano bài bản, guitar, violin, melodica, harmonic nâng cao, recorder nâng cao, cajon nâng cao, đàn tranh, drum set, ocarina 12 lỗ |
+| **9–12** | guitar nâng cao, piano nâng cao, violin, đàn tranh, flute, drum set band, bộ gõ đầy đủ, nhạc cụ hơi nâng cao                      |
+
+---
+3 tiếng / tuần
+
+Sáo; Hát tốp ca.
+
+#### Thủ Công
+
+khoảng 3 tiếng / tuần
+
+"Đan len, may túi đựng sáo, túi đựng sáp,..
+Tạo hình bằng đất nặn"
+
+#### Sinh hoạt vòng tròn
+
+khoảng 3 tiếng/tuần
+
+Các hoạt động sinh hoạt tập thể. Trò chơi mới, trò chơi dân gian.
+
+#### Rèn luyện Tiếng Anh
+
+khoảng 3 tiếng/tuần
+
+Hát múa, chơi trò chơi tương tác bằng Tiếng Anh.
+
+#### Trải nghiệm nấu ăn
+
+khoảng 2 tiếng / tuần
+Nhào bột và nướng bánh.
 
 ### VẼ NÉT
 
