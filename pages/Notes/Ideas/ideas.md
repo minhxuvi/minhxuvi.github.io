@@ -1,5 +1,21 @@
 # Ý tưởng
 
+## Universe learning platform
+
+Skills with propriated ages, estimated time to learn, prerequisite skills.
+
+Separate from theory and practice. Let's not categorize as theory and practice.
+They are all skills. For example, skill understand the quantum physics is different from skill create a quantum computer.
+
+- Create skills database.
+- Create different games from personal databases.
+
+Teach over story, poem, song.
+
+Goal technology.
+
+Must identify from the routine. Each human will have different routine. But the skills is the creature things. It inherit from the law of the universe.
+
 ## AI book
 
 - Mua một lần, sở hữu vĩnh viễn.
