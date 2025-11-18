@@ -41,3 +41,5 @@ Vậy mình cần biết lúc nào mình cần làm gì?
 Mình theo đuổi sự minh bạch.
 Có câu "Thẳng thắn thật thà thường thua thiệt."
 Nhưng mình nghĩ đó là do thẳng thắn thật thà nửa vời thôi.
+
+## Mình muốn làm gì?
