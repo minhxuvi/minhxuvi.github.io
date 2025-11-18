@@ -42,4 +42,18 @@ Mình theo đuổi sự minh bạch.
 Có câu "Thẳng thắn thật thà thường thua thiệt."
 Nhưng mình nghĩ đó là do thẳng thắn thật thà nửa vời thôi.
 
-## Mình muốn làm gì?
+## Nếu hiện tại chỉ muốn làm một thứ thì mình muốn làm gì?
+
+Mình muốn xây dựng một hệ thống giáo dục.
+Kết hợp giữa việc tu luyện cá nhân (chủ động tìm đến kiến thức),
+ảnh hưởng thụ động từ môi trường xung quanh bao gồm bố mẹ, mọi người xung quanh... sang con cái,
+ảnh hưởng chủ động từ thầy cô (bố mẹ cũng là thầy cô đầu tiên của con cái).
+
+Có thể thấy bố mẹ đóng vai trò rất lớn cả thụ động và chủ động.
+Khi bố mẹ luôn chủ động tìm kiếm đến kiến thức thì con cái cũng khả năng cao sẽ làm theo.
+
+Hệ thống giáo dục này sẽ tối thiểu phần chủ động và tối đa hoá phần thụ động.
+Tức là kích thích tối đa trí tò mò, sáng tạo và mong muốn tìm đến tri thức của con cái.
+Hơn là việc dạy một cách áp đặt.
+Nhưng sống trong xã hội loài người vẫn luôn có các kiến thức bắt buộc phải học.
+Vậy phải hướng đến hệ thống tạo môi trường khiến các con chủ động tìm kiếm đến các kiến thức đó.

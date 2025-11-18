@@ -16,6 +16,8 @@ Goal technology.
 
 Must identify from the routine. Each human will have different routine. But the skills is the creature things. It inherit from the law of the universe.
 
+Các kỹ năng gồm từ tập
+
 ## AI book
 
 - Mua một lần, sở hữu vĩnh viễn.
