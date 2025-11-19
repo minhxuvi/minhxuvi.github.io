@@ -57,3 +57,13 @@ Tức là kích thích tối đa trí tò mò, sáng tạo và mong muốn tìm 
 Hơn là việc dạy một cách áp đặt.
 Nhưng sống trong xã hội loài người vẫn luôn có các kiến thức bắt buộc phải học.
 Vậy phải hướng đến hệ thống tạo môi trường khiến các con chủ động tìm kiếm đến các kiến thức đó.
+
+## Wondering
+
+Tôi trước hết là của tôi rồi mới là của mọi người.
+
+Học cách thiết kế trước.
+
+Viết sách thì viết bản online. Không cần in ấn màu mè, chỉ cần ra tiệm photo in trắng đen là được.
+
+Tự vệ cá nhân bao gồm cả việc ứng dụng công nghệ vào tự vệ, không chỉ là luyện tập thân thể.
