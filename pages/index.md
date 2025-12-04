@@ -7,25 +7,46 @@ Với mình tùy mỗi giai đoạn trong cuộc sống sẽ có thêm một s�
 
 Mình cần phải né cái bẫy về cảm xúc thỏa mãn khi đạt được mục đích. Mình muốn thực sự tận hưởng chuyến đi chứ không phải đích đến. Hay có thể là đạt được sự thỏa mãn như khi đạt được mục tiêu trong từng khoảnh khắc.
 
-Nhưng cuộc sống thì vẫn cần có "kế hoạch". Nhưng kế hoạch không phải để đạt được mục đích mà là để **có được một chuyến đi thú vị**.
-
 Để đạt được tự do thì cần làm chủ bản thân.
 
-## Học điều gì
+## Việc nào không nên làm?
 
-Hiện tại mình có thể học mọi thứ rất nhanh với sự giúp đỡ của AI. Nhưng hiểu pháp dễ, hành pháp khó.
-Cần hỏi đúng câu hỏi và tham nhẫn luyện tập.
+### Truy đến tận cùng thì việc nào khiến mình ghét bản thân hay giảm ham thú sống thì không nên làm
 
-## Thực tập chánh niệm
+Ví dụ như việc chơi game, xem phim, lướt mạng xã hội,... đều khiến mình mất thời gian vô ích và giảm ham thú sống.
+
+Tại sao?
+
+Vì thời gian trôi qua nhanh và không đọng lại gì trong đầu, tức là không có các trải nghiệm mới, không có các kết nối nơ-ron mới được tạo ra trong não bộ. Thật ra vẫn có các trải nghiệm và rất thoả mãn nữa, nhưng nó lại đi ngược với con người mình muốn xây dựng.
+
+Vậy tại sao không xây dựng hình tượng con người dựa trên những ham muốn đó?
+
+Vì la bàn đạo đức trong mình không cho phép, vì mình hiểu nếu mình tự kiềm chế được bản thân và làm tốt thì cũng sẽ tạo ra ảnh hưởng không tốt tới người khác. Điều đó đi ngược lại việc tôn trọng sinh mệnh của người khác như dưới đây.
+
+### Tôn trọng sinh mệnh và giá trị của người khác
+
+Giả sử mình chỉ quan tâm cá nhân mình. Mình coi bản thân mình là một là riêng, là duy nhất, thì đi đến tận cùng cũng chỉ là sự nhàm chán và sự tự diệt vong.
+
+Sự khác biệt của người với người khiến cuộc sống này thú vị.
+
+## Việc nào nên làm
+
+### Duy trì nhịp điệu sống
+
+Nhịp điệu sống gồm gì?
+
+- Rèn luyện chữ nhẫn theo nghĩa minh định.
+- Rèn luyện thân thể.
+- Tiếp thu kiến thức.
+- Rèn luyện các kiểu tư duy.
+- Trao truyền cho thế hệ sau.
+- Sống một các nghệ thuật, vì cho đến cùng cuộc sống là một buổi biểu diễn nghệ thuật...
+
+### Thực tập chánh niệm
 
 Chánh niệm trong từng khoảnh khắc.
 Từng khoảnh khắc đều biết được điều mình cần làm và nên làm.
 Vậy mình cần biết lúc nào mình cần làm gì?
-Điều này chia thành 3 phần:
-
-1. Các việc để có nhịp sinh hoạt điều độ.
-2. Các việc đảm bảo nhu cầu sinh tồn tại thời điểm đó.
-3. Các việc khác dựa theo ưu tiên.
 
 ## Những điều hình thành thế giới quan của mình
 
