@@ -40,7 +40,7 @@ Nhịp điệu sống gồm gì?
 - Tiếp thu kiến thức.
 - Rèn luyện các kiểu tư duy.
 - Trao truyền cho thế hệ sau.
-- Sống một các nghệ thuật, vì cho đến cùng cuộc sống là một buổi biểu diễn nghệ thuật...
+- Sống một cách nghệ thuật, vì cho đến cùng cuộc sống là một buổi biểu diễn nghệ thuật...
 
 ### Thực tập chánh niệm
 
