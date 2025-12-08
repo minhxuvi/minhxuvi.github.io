@@ -1,6 +1,6 @@
 # Báo cáo quan sát lớp mầm non lớn
 
-- Ngày quan sát: 3-5/12/2023
+- Ngày quan sát: 26-28/11/2023
 - Giáo viên: Cô Xuân, Cô Lương
 - Người quan sát: Thầy Minh
 
