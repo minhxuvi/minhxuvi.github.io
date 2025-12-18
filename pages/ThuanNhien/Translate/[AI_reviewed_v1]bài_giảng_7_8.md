@@ -6,7 +6,7 @@ Lễ Hội Đêm Thánh (Holy Night) từ nhiều thế kỷ qua đã là một 
 
 Cũng cần nhớ rằng lễ hội ngày 25 tháng Mười Hai không trở thành một thiết chế chính thức trong Kitô giáo cho đến thế kỷ thứ tư sau Công nguyên. Chính vào thế kỷ thứ tư—lần đầu tiên là năm 354 tại Rome—Lễ Sinh Nhật của Chúa Jesus mới được đặt trước Kitô giáo như một cống hiến lớn lao, đáng ghi nhớ của thời đại. Chính từ những bản năng thâm sâu nhất của tiến trình phát triển Kitô giáo mà cống hiến ấy được hình thành vào thế kỷ thứ tư.
 
-Các dân tộc phương Bắc đang tràn xuống phía Nam của châu Âu. Nhiều phong tục ngoại giáo vẫn còn phổ biến tại các vùng phía Nam châu Âu, tại những khu vực La Mã và Hy Lạp; các tục lệ ngoại giáo cũng lan rộng ở Bắc Phi, Tiểu Á—tóm lại là khắp nơi nơi tư tưởng và tình cảm Kitô giáo bắt đầu lan tỏa dần dần.
+Các dân tộc phương Bắc đang tràn xuống phía Nam của châu Âu. Nhiều phong tục ngoại giáo vẫn còn phổ biến tại các vùng phía Nam châu Âu, tại những khu vực La Mã và Hy Lạp; các tục lệ ngoại giáo cũng lan rộng ở Bắc Phi, Tiểu Á—tóm lại là khắp nơi mà tư tưởng và tình cảm Kitô giáo bắt đầu lan tỏa dần dần.
 
 Nhưng ngay từ bản chất, Kitô giáo không hề được định sẵn để trở thành một giáo lý mang tính bè phái, chỉ dành cho một nhóm người nào đó. Dù có rất nhiều yếu tố, cả bên trong lẫn bên ngoài, đã làm suy giảm mục đích ban đầu ấy, Kitô giáo vẫn vốn được định để nuôi dưỡng linh hồn và trái tim tất cả con người trên trái đất.
 
@@ -26,7 +26,7 @@ Trong thời điểm đông chí, con người cảm thấy mình gắn bó sâu
 
 Và sự trở lại của các lực từ cõi Thần Linh – Thiêng Liêng xuống Trái Đất vào thời điểm đông chí là một trải nghiệm sâu sắc và chân thực trong ông.
 
-Và như thế, vào tư tưởng của Lễ Giáng Sinh, con người gửi vào đó tất cả những gì mà đời sống cảm xúc, đời sống linh hồn và tinh thần mang đến cho ông trong mối liên hệ mật thiết với tính phổ quát của các Quyền lực vũ trụ.
+Và vì thế, trong tư tưởng về Lễ Giáng Sinh, con người gửi vào đó tất cả những gì mà đời sống cảm xúc, đời sống linh hồn và tinh thần mang đến cho ông trong mối liên hệ mật thiết với tính phổ quát của các Quyền lực vũ trụ.
 
 Trải nghiệm thiêng liêng này của lễ đông chí đã gắn bó mật thiết với xung lực Kitô giáo, và vì thế thật tự nhiên khi những ai tiếp xúc với Kitô giáo cũng chia sẻ trải nghiệm quý giá ấy—một trải nghiệm gắn với lễ đông chí.
 
@@ -48,11 +48,11 @@ Và chính sự sùng mộ yêu thương ấy là sự mặc khải của một 
 
 Ta phải thật sự hiểu từ bên trong ý nghĩa của việc Lễ Giáng Sinh được đặt vào ngày 25 tháng 12, tức gần đúng thời điểm đông chí.
 
-Bởi vì, thậm chí đến năm 353, ngay tại Rome, lễ này vẫn chưa được cử hành vào ngày 25 tháng 12, và cũng không nhằm tưởng nhớ sự sinh ra của Jesus Nazareth.
+Bởi vì, thậm chí đến năm 354, ngay tại Rome, lễ này vẫn chưa được cử hành vào ngày 25 tháng 12, và cũng không nhằm tưởng nhớ sự sinh ra của Jesus Nazareth.
 
 Lễ được cử hành vào ngày 6 tháng 1, để tưởng nhớ Lễ Rửa Tội ở sông Jordan—một lễ tưởng niệm gắn với Đấng Christ. Lễ này mang tư tưởng rằng qua việc Rửa Tội, Christ—một Đấng thuộc về thế giới ngoài trái đất—đã từ trời đi xuống và hợp nhất với nhân tính trong con người Jesus Nazareth.
 
-Đó là một lễ mừng sự chào đời không phải theo nghĩa thông thường, mà là sự mừng lễ giáng trần của Đấng Christ, qua đó những lực sống mới mẻ đã tuôn vào sự tồn tại của Trái Đất.
+Đó là một lễ mừng sự chào đời không phải theo nghĩa thông thường, mà là sự mừng lễ mừng sự giáng trần của Đấng Christ, qua đó những lực sống mới mẻ đã tuôn vào sự tồn tại của Trái Đất.
 
 Ngày ấy được dành cho sự mặc khải của Christ, để tưởng nhớ mầu nhiệm rằng một lực thiêng liêng từ trời đã hợp nhất với Trái Đất và mang đến một xung lực mới cho sự tiến hóa của nhân loại.
 
@@ -80,7 +80,7 @@ Và chính từ bản năng Kitô giáo này—bản năng kết nối lễ Giá
 
 Ngày của Adam và Eva đứng trước ngày sinh của Jesus.
 
-Và từ một trực cảm sâu xa ấy, Cây Thiên Đàng (Tree of Paradise) được kết nối như một biểu tượng của Lễ Giáng Sinh.
+Và từ một trực cảm sâu xa ấy, Cây Địa Đàng (Tree of Paradise) được kết nối như một biểu tượng của Lễ Giáng Sinh.
 
 Chúng ta hướng ánh mắt trước tiên về máng cỏ ở Bê-lem, về Hài Nhi nằm đó giữa những con vật đang đứng quanh người Mẹ được chúc phúc. Đó là một biểu tượng thiên giới của cội nguồn nguyên sơ của nhân loại. Tâm hồn và tư tưởng chúng ta được dẫn trở lại với nguồn gốc trần thế của con người, đến Cây Địa Đàng; và gắn liền với Cây Địa Đàng ấy là máng cỏ, cũng giống như trong Thánh Truyền, nguồn gốc của loài người trên trái đất được kết nối với Mầu Nhiệm Golgotha.
 
@@ -118,7 +118,7 @@ Ex Deo nascimur — Chúng ta sinh ra từ Thượng Đế.
 
 Nhưng Chúa Con dẫn con người trở lại từ đời sống vật chất:
 
-Người dẫn linh hồn từ cõi hữu hình trở lại cõi siêu cảm.
+Người dẫn linh hồn từ cõi hữu hình trở lại cõi siêu cảm giác.
 
 In Christo morimur — Trong Đức Christ, chúng ta chết đi (và được tái sinh vào cõi tinh thần).
 
