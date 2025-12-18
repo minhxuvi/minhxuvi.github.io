@@ -1,4 +1,4 @@
-# Báo cáo quan sát lớp 1
+# Báo cáo quan sát lớp 2
 
 - Ngày quan sát: 10-13/12/2023
 - Giáo viên: Cô Thương
