@@ -2,9 +2,7 @@
 
 *Đạo của tôi.*
 
-Minh Định
-Chánh Niệm
-Tự Do
+Minh Định, Chánh Niệm, Tự Do.
 
 ## [Sống nghệ thuật trong từng khoảnh khắc](./Sống_nghệ_thuật_trong_từng_khoảnh_khắc)
 
