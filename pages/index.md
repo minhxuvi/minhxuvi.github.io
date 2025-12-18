@@ -1,5 +1,11 @@
 # Cuộc đời Mốc Meo
 
+Đạo của tôi.
+
+## [Sống nghệ thuật trong từng khoảnh khắc](./Đạo/Sống_nghệ_thuật_trong_từng_khoảnh_khắc)
+
+## Cần bắt đầu bằng lễ, cần hơn kết thúc bằng lễ
+
 ## Mình theo đuổi cuộc sống tự do, thong thả nhưng thú vị
 
 Mình nhận thấy thứ khiến mình áp lực không phải là những áp lực công việc mà đến từ những lúc mình quá ham thú những sự thỏa mãn tạm thời dẫn đến việc trễ nải các công việc cơ bản trong cuộc sống. Đúng vậy dù cuộc sống có tự do thong thả đến đâu thì vẫn có những việc cơ bản cần làm. Mỗi người có thể có những "công việc cơ bản" khác nhau. Nhưng sẽ có một số thứ chung không thể thay đổi như: thở, uống, ăn, ngủ,...
