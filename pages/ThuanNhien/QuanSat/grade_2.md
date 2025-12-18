@@ -32,7 +32,7 @@ Bận tâm:
 - Làm bảng cửu chương như một bài vè.
 - Bảng cửu chương được đọc ngược với trình tự thông thường, ví dụ: "36 là 6 lần 6", thay vì "6 lần 6 là 36".
 - Bảng cửu chương được nới rộng đến 12. Dù chưa biết chính xác lý do, nhưng mình thấy khá ấn tượng.
-- Hoạt động học toán được lồng ghép vào trò chơi giải cứu capybara, giúp các bạn hào hứng tham gia.
+- Hoạt động học toán được lồng ghép vào trò chơi giải cứu Capybara, giúp các bạn hào hứng tham gia.
 - Học và vẽ theo chủ đề câu chuyện "Thánh Francis".
 - Vừa nặn đất sét, vừa hát theo ba Nhật.
 
