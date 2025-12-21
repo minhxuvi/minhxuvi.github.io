@@ -15,7 +15,7 @@
 | 10:00 | Đọc sách giáo khoa tiếng Việt |
 | **11:00** | **Ăn trưa** |
 | 11:30 | Kể chuyện |
-| 11:35 | Cho con ngủ. |
+| 11:35 | Cho con ngủ. Tắm |
 | 13:00 | Soạn kế hoạch bảo dưỡng xe đạp |
 | 14:30 | Gọi Núc Níc dậy, cho ăn xế, cùng Núc Níc đi lấy BHXH, nộp BHTN nếu kịp, Ghé lại nhà lấy đồ |
 | **18:00** | **Ăn tối** |
