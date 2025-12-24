@@ -1,7 +1,7 @@
 # Báo cáo quan sát lớp 2
 
-- Ngày quan sát: 10-12/12/2023
-- Giáo viên: Cô Thương
+- Ngày quan sát: 17-20/12/2023
+- Giáo viên: Cô Nga
 - Người quan sát: Thầy Minh
 
 ## Không gian
