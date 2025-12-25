@@ -1,5 +1,4 @@
 # Todo
-<https://drive.google.com/file/d/1uEui33FhsgUjlTW_7LjwrQHwKIBUGOkb/view?usp=sharing>
 
 | Start | Task              |
 |-------|-------------------|
@@ -8,9 +7,7 @@
 | 06:00 | Minh Định Võ Đạo  |
 | 06:30 | Gọi Núc Níc, xi tè, uống nước, làm vườn  |
 | 07:00 | Ăn sáng           |
-| 07:40 | Đi nộp BHTN |
-| 09:00 | Đi bộ phố cổ |
-| 10:15 | Học vẽ kiến trúc |
+| 07:40 | Ở nhà trông con và đọc sách |
 | **11:00** | **Ăn trưa** |
 | 11:30 | Kể chuyện |
 | 11:35 | Cho con ngủ |
