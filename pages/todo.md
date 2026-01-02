@@ -7,7 +7,7 @@
 | 06:00 | Minh Định Võ Đạo  |
 | 06:30 | Gọi Núc Níc, xi tè, uống nước, làm vườn  |
 | 07:00 | Ăn sáng           |
-| 07:40 | Đi gửi Núc Níc và dọn nhà, mở cái máy giặt, xem cái tụ điện loại gì |
+| 07:40 | Đi dọn nhà, mở cái máy giặt, xem cái tụ điện loại gì |
 | **11:00** | **Ăn trưa** |
 | 11:30 | Kể chuyện |
 | 11:35 | Cho con ngủ |
