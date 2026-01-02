@@ -20,3 +20,7 @@
 | 20:30 | Gọi Meo, Học From Dark Mater to the Big Bang |
 | 21:00 | Học hiểu để sống khoẻ |
 | **22:30** | **Thiền rồi ngủ.** |
+
+## Prioritize
+
+Survival > Passion
