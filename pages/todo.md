@@ -24,3 +24,30 @@
 ## Prioritize
 
 Survival > Passion
+
+### When you are totally free and have internet connection
+
+- Learning online content like From Dark Matter to the Big Bang theory
+- AI create Waldorf Education lesson plan
+- XuVi
+- AI vibe coding
+
+### When you are free but don't have internet
+
+- Learn offline content like Understand to live well
+- Excercise
+- Write
+- Fix things
+
+### When you are taking care of Nuc Nic
+
+- Housechore
+- Outdoor
+- Play
+- Read books
+
+## When you are transporting
+
+- Zen
+- Think
+- Sing
