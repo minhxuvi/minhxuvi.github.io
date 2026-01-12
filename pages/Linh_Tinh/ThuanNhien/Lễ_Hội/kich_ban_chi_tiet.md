@@ -1,53 +1,64 @@
-## TỔNG QUAN CHƯƠNG TRÌNH: "MẦM HY VỌNG"
+## KẾ HOẠCH LỄ HỘI "HY VỌNG" - NHÀ THUẬN NHIÊN
 
 * **Chủ đề:** Hy Vọng – Sự kết nối, vững chãi và niềm tin vào tương lai.
 * **Đối tượng:** 200 - 300 người (Học sinh, thầy cô, phụ huynh).
 * **Thời gian:** 02/02 – 06/02.
 
----
-
-## GIAI ĐOẠN 1: LỄ HỘI TẠI LỚP HỌC (Ngày 2 - 3/02)
+### Giai đoạn 1: Gieo Mầm (Ngày 02 - 03/02)
 
 *Mục tiêu: Tạo không gian ấm cúng, riêng tư để mỗi lớp nhìn lại hành trình một năm qua.*
 
-* **Hoạt động "Gieo Mầm":** Mỗi học sinh tự chuẩn bị một chậu cây nhỏ hoặc trang trí một hũ thủy tinh để "gieo" những lời chúc, những mục tiêu cho năm mới.
-* **Tiệc trà tổng kết:** Các lớp tự tổ chức tiệc ngọt, cùng nhau xem lại bài học hoặc hồi tưởng lại một năm vừa qua.
-* **Trang trí Tết:** Học sinh cùng thầy cô trang trí cửa lớp theo chủ đề "Hy Vọng" bằng các vật liệu tự nhiên (lá khô, tre nứa, hoa tươi).
+**Địa điểm:** Tại các lớp học.
 
----
+* **Hoạt động chính:** Mỗi lớp tự tổ chức không gian riêng để học sinh nhìn lại hành trình một năm.
+* **Trang trí:** Các lớp cùng nhau trang trí cây đào/mai hoặc góc "Hy Vọng" của lớp mình bằng vật liệu tái chế hoặc tự nhiên.
+* **Tổng kết nhỏ:** Thầy cô, phụ huynh và học sinh chia sẻ về những "hạt mầm" tử tế đã gieo được trong năm qua.
 
-## GIAI ĐOẠN 2: LỄ HỘI TẬP TRUNG (Ngày 4 - 5/02)
+### Giai đoạn 2: Kết Nối & Tổng Duyệt (Ngày 04/02)
 
-*Địa điểm: Thuê không gian chung (Hội trường lớn hoặc khu du lịch sinh thái) cho 200 - 300 người.*
+**Địa điểm:** Địa điểm thuê chung (Sức chứa 200 - 300 người).
 
-### NGÀY 1 (4/02): KẾT NỐI VÀ TRẢI NGHIỆM
+* **Sáng (08:00 - 11:30): Hoạt động "Bếp lửa Hy Vọng"**
+* Toàn thể học sinh, thầy cô và phụ huynh cùng tham gia làm bánh chưng, bánh dày. Đây là lúc sự kết nối giữa con người và truyền thống được thắt chặt.
+* Đan xen các trò chơi dân gian nhẹ nhàng: Ô ăn quan, chơi chuyền, hoặc giải đố vui về Tết.
+* Chuẩn bị sân khấu, nếu xong sớm thì có thể bắt đầu một vài tiết mục văn nghệ ngắn.
 
-* **08:00 – 09:00:** Đón khách. Mọi người cùng gắn những mẩu giấy ghi "Điều tôi trân trọng nhất trong năm qua" lên **Cây Hy Vọng** tại sảnh chính.
-* **09:00 – 10:30:** **Lễ khai mạc "Nhịp đập sự sống"**:
-* Tiết mục trống hội hoặc nhảy dân vũ tập thể.
-* Đại diện Nhà Thuận Nhiên chia sẻ về thông điệp "Hy Vọng" và sự vững chãi trong hiện tại.
+* **Trưa (11:30 - 14:00): Ăn trưa và nghỉ ngơi**
+* Ăn khất thực chay, tạo không gian thư giãn và trò chuyện giữa các thành viên.
+* Nghỉ ngơi, chuẩn bị cho buổi tổng duyệt buổi chiều.
 
-* **10:30 – 12:00:** **Hội thảo tương tác**: Phụ huynh, thầy cô và học sinh cùng thảo luận/vòng tròn chia sẻ về sự kết nối giữa con người và thiên nhiên.
-* **12:00 – 14:00:** Ăn trưa theo phong cách "khất thực" và nghỉ ngơi.
-* **14:00 – 17:00:** **Chợ Tết Thuận Nhiên**: Các gian hàng trưng bày sản phẩm thủ công, đặc sản vùng miền do học sinh và phụ huynh chuẩn bị. Có khu vực dạy gói bánh chưng truyền thống.
+* **Chiều (14:00 - 17:00): Tổng duyệt chương trình**
+* Các lớp làm quen sân khấu, khớp âm thanh, ánh sáng cho các tiết mục văn nghệ của ngày hôm sau.
+* Hoàn thiện các gian hàng trưng bày và khu vực check-in chung.
 
-### NGÀY 2 (5/02): VUN ĐẮP NỘI LỰC - RẠNG RỠ TƯƠNG LAI
+* **Tối (17:00 - 06:00 hôm sau): Nồi bánh chưng**
+* Ăn tối nhẹ nhàng, sau đó tất cả cùng nhau chuẩn bị nồi bánh chưng.
+* Bắc bánh chưng vào nồi, chuẩn bị cho nghi thức mở nồi bánh vào ngày hôm sau.
+* Nồi bánh chưng được đặt tại địa điểm tổ chức, giữ ấm suốt đêm để sáng hôm sau có thể mở nồi.
+* Các thầy cô và phụ huynh có thể luân phiên nhau canh nồi bánh, tạo không khí ấm cúng và gắn kết.
+* Các học sinh nếu muốn có thể tham gia canh nồi bánh cùng thầy cô và phụ huynh, tạo thêm sự gắn kết giữa các thế hệ.
+* 22h các bạn nhỏ đi ngủ thì có thể tổ chức tâm sự sâu.
+* Hoạt động confession (chia sẻ tâm sự)
+* Ngồi tâm sự quanh nồi bánh, chia sẻ theo vòng tròn về những ước mơ, hy vọng cho năm mới. 3 điều làm bạn cười khi nghĩ đến.
 
-* **08:30 – 10:30:** **Ngày hội thể thao/Trò chơi dân gian**: Các trò chơi vận động tập thể (kéo co, nhảy bao bố) nhằm tăng cường sự gắn kết cộng đồng.
-* **10:30 – 12:00:** **Vinh danh & Tri ân**: Lễ vinh danh nhẹ nhàng, ý nghĩa cho những đóng góp của thầy cô và sự nỗ lực của học sinh.
-* **14:00 – 16:30:** **Đại nhạc hội "Hy Vọng Nở Hoa"**: Các tiết mục văn nghệ đặc sắc từ các khối lớp. Mỗi tiết mục là một câu chuyện về tình yêu và sự tử tế.
-* **16:30 – 17:30:** **Nghi thức kết: "Lan tỏa ánh sáng"**: Mọi người cùng thắp nến hoặc thả đèn hoa đăng (nếu có hồ) để gửi gắm hy vọng cho hành trình phía trước.
+### Giai đoạn 3: Hội Chính - "Hy Vọng Nở Hoa" (Ngày 05/02)
 
----
+**Địa điểm:** Địa điểm thuê chung.
 
-## GIAI ĐOẠN 3: TỔNG KẾT & DỌN DẸP (Ngày 6/02)
+* **Sáng (09:00 - 11:30): Phần Lễ "Vững chãi hiện tại"**
+* Khai mạc với thông điệp về nội lực tươi mới và niềm tin vào tương lai.
+* Nghi thức "Mở nồi bánh chưng": Thưởng thức thành quả từ ngày hôm trước.
+* Chia sẻ vòng tròn giữa phụ huynh và nhà trường về chủ đề "Vun đắp nhựa sống".
 
-*Mục tiêu: Trả lại sự thanh tịnh cho không gian và nhìn lại toàn bộ hành trình.*
+* **Chiều (14:00 - 17:00): Phần Hội "Hành trình rạng rỡ"**
+* Biểu diễn nghệ thuật: Các tiết mục văn nghệ tập trung vào chủ đề tình yêu và sự tử tế.
+* Hội chợ trải nghiệm: Tham quan các gian hàng sản phẩm thủ công.
 
-* **Sáng:** Học sinh và thầy cô cùng dọn dẹp vệ sinh lớp học, sân trường sau lễ hội. Đây là hành động thể hiện sự tử tế và trách nhiệm với không gian sống.
-* **Chiều:** Họp mặt Ban tổ chức (thầy cô, phụ huynh nòng cốt) để tổng kết, rút kinh nghiệm và lưu trữ tài liệu năm học.
-* **Kết thúc:** Phát hành một bản tin/video ngắn về Lễ hội Hy Vọng để gửi tặng tất cả thành viên Nhà Thuận Nhiên trước khi nghỉ Tết.
+* **Kết thúc (17:00):** Nghi thức trao gửi yêu thương, tặng quà Tết và chúc mừng năm mới.
 
----
+### Giai đoạn 4: Thu Hoạch & Hoàn Nguyên (Ngày 06/02)
 
-**Bạn cần tôi hỗ trợ thêm về danh mục các vật dụng cần mua cho gian hàng "Chợ Tết Thuận Nhiên" hay gợi ý các trò chơi dân gian phù hợp cho 300 người không?**
+**Địa điểm:** Trường và địa điểm tổ chức.
+
+* **Dọn dẹp (Cleaning Day):** Toàn thể cộng đồng cùng dọn dẹp không gian chung, thể hiện sự trân trọng với địa điểm và môi trường.
+* **Họp tổng kết:** Ban tổ chức và thầy cô ngồi lại để nhìn lại thành công của lễ hội và chuẩn bị cho kỳ nghỉ Tết.
