@@ -1,5 +1,14 @@
 # Todo
 
+- Thức dậy
+- Plank
+- Uống nước
+- Vệ sinh cá nhân
+- Cắm cơm
+- Quét nhà
+- Soạn bài
+- Dạy và học
+
 | Start | Task              |
 |-------|-------------------|
 | 05:30 | Cắm cơm, pha cà phê. |
