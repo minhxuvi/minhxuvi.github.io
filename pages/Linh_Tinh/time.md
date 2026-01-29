@@ -1,16 +1,27 @@
 # Time
 
-| Start | End   | Task              |
-|-------|-------|-------------------|
-| 04:00 | 04:10 | Morning routine   |
-| 04:10 | 06:00 | Coding            |
-| 06:00 | 07:00 | Minh Định Võ Đạo  |
-| 07:00 | 07:30 | Breakfast         |
-| 07:30 | 12:00 | Learn, Work, Play |
-| 12:00 | 13:00 | Lunch             |
-| 13:00 | 20:50 | Learn, Work, Play |
-| 20:50 | 21:00 | Bed time routine  |
-| 21:00 | 04:00 | Sleep             |
+21:00 Thiền phản tư rồi ngủ
+04:00 Plank, uống nước, vệ sinh cá nhân, cắm cơm, viết todo list.
+04:30 Học
+05:30 Đọc
+06:00 Nghiên cứu
+07:00 Ăn sáng, tới lớp
+08:00 Sinh hoạt vòng tròn
+08:30 Bài học chính
+10:00 Ăn nhẹ, thư giãn
+10:30 Tiếng Anh
+11:15 Chơi nhạc
+11:40 Đọc truyện
+12:00 Ăn trưa
+12:30 Nghỉ trưa
+13:00 Đọc
+13:30 Làm việc chân tay
+14:30 Làm việc nhà, chơi thể thao
+15:15 Làm việc của trường
+17:30 Đi dạo, thư giãn
+18:00 Ăn tối
+18:30 Chơi nhạc
+19:00 Rửa bát, quét giường
 
 ## Morning routine
 
