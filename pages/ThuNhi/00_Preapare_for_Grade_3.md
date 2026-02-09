@@ -1,4 +1,6 @@
-Here is your comprehensive **1-Month "Teacher Training" Intensive**. This schedule is designed to take you from "Blank Page" to "First Day of School," fully equipped with a localized Vietnamese curriculum and the artistic skills to teach it.
+# **1-Month "Teacher Training" Intensive**.
+
+This schedule is designed to take you from "Blank Page" to "First Day of School," fully equipped with a localized Vietnamese curriculum and the artistic skills to teach it.
 
 **Context:**
 

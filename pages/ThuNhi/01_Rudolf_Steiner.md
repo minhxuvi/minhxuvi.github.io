@@ -5,7 +5,6 @@
   - The Foundations of Human Experience (GA 293)
   - Practical Course for Teachers (GA 294)
   - Discussions with Teachers (GA 295)
-
 - Grade 3 specific
   1. The Grade-Specific "Must-Reads"
      - "The Kingdom of Childhood" (GA 311)
