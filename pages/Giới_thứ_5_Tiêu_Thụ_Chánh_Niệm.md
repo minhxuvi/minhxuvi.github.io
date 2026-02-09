@@ -7,3 +7,7 @@ Từ nay về sau tôi sẽ:
 - Không sử dụng bia, rượu các loại nước đóng chai trong bữa ăn hàng ngày hay khi một mình. Nhưng không bao gồm những bữa tiệc hoặc chung vui cùng người thân bạn bè.
 - Không tiêu thụ các sản phẩm điện tử đang không phục vụ mục tiêu cao hơn của bản thân khi một mình như: game, truyện, phim, ảnh, video, ...
 - Nếu một ngày phạm giới này thì phải cập nhật ngày phạm giới lên trang này.
+
+## Phạm giới
+
+- 20260210: Sáng thức dậy lướt web linh tinh mất gần 1 tiếng đồng hồ.
