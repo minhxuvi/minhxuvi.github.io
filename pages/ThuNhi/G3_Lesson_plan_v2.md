@@ -1,3 +1,13 @@
+Dưới đây là bản kế hoạch chi tiết 36 tuần cho Lớp 3, được tổng hợp từ ý tưởng "Khai Thiên Lập Địa" (Việt hóa/Khoa học) của bạn và các mục tiêu tâm thức/kỹ năng nền tảng từ tài liệu tham khảo `G3_Lesson_plan_co_Nga.md`.
+
+Bản kế hoạch tuân thủ cấu trúc:
+
+- **Thứ 2 - 4:** Kể chuyện & Main Lesson (Tiếng Việt).
+- **Thứ 5:** Ôn tập & Kịch nghệ (Tiếng Anh).
+- **Thứ 6:** Dã ngoại thực tế (Hội An).
+
+---
+
 # KẾ HOẠCH GIẢNG DẠY LỚP 3 (36 TUẦN) - PHIÊN BẢN VIỆT HÓA & HỘI AN
 
 ## BLOCK 1: KHAI THIÊN LẬP ĐỊA (VŨ TRỤ & ĐẤT ĐAI)

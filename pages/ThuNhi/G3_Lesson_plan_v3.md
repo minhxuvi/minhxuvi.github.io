@@ -1,4 +1,14 @@
+Chào bạn, đây là bản kế hoạch giảng dạy Lớp 3 (36 tuần) được cập nhật theo yêu cầu của bạn:
+
+- Nhân hóa Thuyết Big Bang: Biến các kiến thức vật lý thành hình ảnh mang tính sử thi/thần thoại.
+- Việt hóa toàn diện: Sử dụng truyện cổ, đồng dao, bài hát Việt Nam.
+- Cấu trúc Markdown: Tuân thủ đúng format bạn cung cấp.
+
+---
+
 # KẾ HOẠCH GIẢNG DẠY LỚP 3 (36 TUẦN) - PHIÊN BẢN VIỆT HÓA & HỘI AN
+
+Ngày bắt đầu: 09 tháng 3 năm 2026
 
 ## BLOCK 1: KHAI THIÊN LẬP ĐỊA (VŨ TRỤ & ĐẤT ĐAI)
 
@@ -226,6 +236,10 @@ _Mục tiêu kỹ năng:_
 
 ---
 
+## Nghỉ xuân, giỗ tổ Hùng Vương, 30/4, 1/5
+
+_Thời gian:_ 2 tuần
+
 ## BLOCK 2: HƠI THỞ CỦA RỪNG
 
 _Thời gian:_ 1 tuần
@@ -452,6 +466,10 @@ _Thời gian:_ 1 tuần
 
 ---
 
+## Nghỉ hè, tuần giáo án, Quốc Khánh
+
+_Thời gian:_ 6 tuần (4 nghỉ hè, 1 giáo án, 1 quốc khánh)
+
 ## BLOCK 6: ĐO LƯỜNG
 
 _Thời gian:_ 3 tuần (Rơi vào Mùa Thu/Trung Thu)
@@ -642,58 +660,131 @@ _Mục tiêu kỹ năng:_
 
 ---
 
-## BLOCK 9: VŨ ĐIỆU NỐT NHẠC
+## Nghỉ Thu
 
 _Thời gian:_ 2 tuần
 
+## BLOCK 9: VŨ ĐIỆU NỐT NHẠC (NHẠC LÝ)
+
+_Thời gian:_ 3 tuần (Tháng 3)
+
 _CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:_
 
-- Kể chuyện: "David và cây vĩ cầm biết nói".
-- Trải nghiệm cao độ, trường độ qua sáo, vận động.
+- **Truyện kể chủ đạo:** Phóng tác câu chuyện **"Chú bé Trúc và Bảy ống sáo thần"**. Hành trình của Trúc đi tìm sự hài hòa giữa một thế giới đầy tiếng ồn, từ việc phát hiện ra cao độ (ống tre dài/ngắn) đến việc tạo ra nhịp điệu (nhịp đập của thiên nhiên).
+- **Âm nhạc:** - Sử dụng sáo trúc hoặc sáo Recorder để thực hành.
+- Bài hát: _"Đàn gà con"_ (Học nốt), _"Lý cây bông"_ (Học giai điệu), _"Cùng múa vui"_.
+- Các bài đồng dao gõ nhịp: _"Tập tầm vông"_, _"Dung dăng dung dẻ"_.
+
+- **Hoạt động bổ trợ:** Vẽ "ngôi nhà của nốt nhạc" (Khuông nhạc màng nhện), nặn đất sét hình các nốt nhạc, trò chơi vận động bước chân theo trường độ (nốt đen bước đi, nốt trắng đứng lại).
+
+_NỘI DUNG CHÍNH (KÈM HOẠT ĐỘNG CHÍNH):_
+
+- Lắng nghe hành trình của Trúc: Từ tiếng ồn đến âm nhạc.
+- Nhận diện và gọi tên 7 nốt nhạc cơ bản thông qua hình ảnh 7 anh em ống tre.
+- Làm quen với khuông nhạc (5 dòng kẻ) thông qua hình ảnh 5 sợi tơ nhện.
+- Thực hành viết nốt nhạc vào vở Main Lesson như những giọt sương đọng trên tơ.
+- Học về nhịp phách thông qua tiếng gõ của chim gõ kiến và nhịp tim.
+- Tập thổi những giai điệu đơn giản đầu tiên trên sáo.
 
 _Mục tiêu tâm thức:_
 
-- Làm vững vàng Ego bên trong trẻ qua nhịp điệu.
-- Kết nối xã hội thông qua hát bè, hòa giọng.
+- Giúp trẻ đi qua giai đoạn Rubicon bằng cách tìm thấy **Trật tự trong sự Hỗn độn**. Âm nhạc chính là sự sắp đặt tinh tế giúp xoa dịu nội tâm đang xáo trộn của trẻ 9 tuổi.
+- Kết nối hơi thở (thổi sáo) với ý chí và cảm xúc.
+- Nuôi dưỡng sự kiên trì thông qua việc luyện tập đôi bàn tay trên phím sáo.
 
 _Mục tiêu kỹ năng:_
 
-- Biết khóa nhạc, dòng nhạc, nốt nhạc.
-- Lấy được nốt trên sáo, hát đúng cao độ.
-
-### Tuần 26: Khuông nhạc & Nốt nhạc
-
-#### Thứ 2 - Thứ 4
-
-- Vẽ khuông nhạc, khóa Sol. Tập chép nhạc.
-- Thổi sáo các nốt cơ bản.
-
-#### Thứ 5 (English Day)
-
-- **Chủ đề:** Music.
-- **Hoạt động:** _Sing, Note, High, Low_.
-
-#### Thứ 6 (Outdoor)
-
-- Lắng nghe âm thanh tự nhiên (chim hót, nước chảy) và cố gắng mô phỏng lại cao độ.
-
-### Tuần 27: Trường độ & Nhịp điệu
-
-#### Thứ 2 - Thứ 4
-
-- Nốt đen, trắng, móc đơn. Vỗ tay theo nhịp.
-- Hòa tấu sáo recorder.
-
-#### Thứ 5 (English Day)
-
-- **Chủ đề:** Rhythm.
-- **Hoạt động:** Clap your hands to the beat.
-
-#### Thứ 6 (Outdoor)
-
-- Biểu diễn văn nghệ nhỏ tại công viên hoặc điểm dừng chân.
+- Nhận biết và đọc được 7 nốt nhạc trên khuông nhạc.
+- Phân biệt được Cao độ (Cao - Thấp) và Trường độ (Dài - Ngắn).
+- Biết cách cầm sáo, đặt tay đúng nốt và điều khiển hơi thở cơ bản.
+- Có khả năng gõ nhịp đúng theo các hình nốt đơn giản (Đen, Trắng, Tròn).
 
 ---
+
+### Tuần 22: Cao Độ & Bảy Anh Em Ống Tre
+
+#### Thứ 2
+
+- **Sáng (Main Lesson):** Kể chuyện **"Sự hỗn độn của âm thanh"**: Thế giới thuở sơ khai chỉ có tiếng gầm gừ của gió và nước. Trúc lạc vào rừng tre và phát hiện ra âm thanh u u của những ống tre bị gió thổi qua.
+- **Chiều:** Vẽ màu nước: Diễn tả sự hỗn độn (những mảng màu trộn lẫn) và sự xuất hiện của những tia sáng âm thanh đầu tiên.
+
+#### Thứ 3
+
+- **Sáng:** Kể chuyện **"Sự phát hiện của đôi tai"**: Trúc nhận ra ống tre dài cho tiếng trầm (Anh Cả Đô), ống tre ngắn cho tiếng cao (Em Út Si). Giới thiệu 7 nốt nhạc.
+- **Chiều:** Hoạt động trải nghiệm: Thổi vào các ống tre hoặc chai nước có mực nước khác nhau để nghe sự khác biệt về cao độ.
+
+#### Thứ 4
+
+- **Sáng:** Học cách viết 7 nốt nhạc lên khuông. Mỗi nốt là một anh em trong nhà họ Trúc.
+- **Chiều:** Hát xướng âm: Đồ Rê Mi Fa Sol La Si kết hợp ký hiệu bàn tay (Curwen hand signs).
+
+#### Thứ 5 (English Day)
+
+- **Chủ đề:** The Seven Notes & The Sound of Nature.
+- **Hoạt động:** Bài hát _"Do-Re-Mi"_ (The Sound of Music). Từ vựng: _High, Low, Long, Short, Flute_.
+
+#### Thứ 6 (Outdoor)
+
+- **Địa điểm:** Vườn tre hoặc xưởng làm sáo tại Hội An.
+- **Hoạt động:** Nghe nghệ nhân thổi sáo, quan sát cách họ khoét lỗ trên thân tre để tạo ra các nốt nhạc khác nhau.
+
+---
+
+### Tuần 23: Nhịp Điệu & Trái Tim Của Rừng Xanh
+
+#### Thứ 2
+
+- **Sáng:** Kể chuyện **"Tiếng gõ của Chim Gõ Kiến"**: Trúc thổi sáo rời rạc cho đến khi chim gõ kiến bay đến gõ "Cốc - Cốc" đều đặn. Trúc học được cách giữ nhịp.
+- **Chiều:** Trò chơi nhịp điệu: Vỗ tay và dậm chân theo nhịp trống của giáo viên.
+
+#### Thứ 3
+
+- **Sáng:** Học về các hình nốt: Nốt Tròn (Ông già đi chậm), nốt Trắng (Bố đi thong thả), nốt Đen (Con đi đều bước).
+- **Chiều:** Vẽ các hình nốt vào vở với các biểu tượng nhân hóa tương ứng.
+
+#### Thứ 4
+
+- **Sáng:** Kể chuyện **"Màng nhện và giọt sương"**: Chú Nhện giăng 5 sợi tơ (Khuông nhạc) để Trúc ghi lại bản nhạc tặng mẹ.
+- **Chiều:** Tập chép một đoạn nhạc ngắn (ví dụ nốt của bài _"Đàn gà con"_) vào vở Main Lesson.
+
+#### Thứ 5 (English Day)
+
+- **Chủ đề:** Rhythm & Heartbeat.
+- **Hoạt động:** Trò chơi _"Follow the Leader"_ theo nhịp nhạc. Bài hát: _"Bingo"_ (vỗ tay theo nhịp mất dần chữ cái).
+
+#### Thứ 6 (Outdoor)
+
+- **Địa điểm:** Bờ sông Thu Bồn.
+- **Hoạt động:** Lắng nghe nhịp điệu của tiếng sóng, tiếng mái chèo khua nước. Tập gõ nhịp theo những âm thanh tự nhiên đó.
+
+---
+
+### Tuần 24: Bản Hòa Tấu Rừng Xanh
+
+#### Thứ 2
+
+- **Sáng:** Kể chuyện **"Khúc nhạc hoàn chỉnh đầu tiên"**: Trúc thổi sáo, chim hót bè, suối chảy đệm nhạc. Mọi thứ hòa quyện.
+- **Chiều:** Tập thổi sáo bài nhạc đơn giản nhất (3 nốt Si - La - Sol).
+
+#### Thứ 3
+
+- **Sáng:** Học về dấu lặng (Sự im lặng trong âm nhạc). Giống như lúc rừng xanh nín thở chờ đợi.
+- **Chiều:** Thực hành thổi sáo nhóm: Chia nhóm thổi nốt và nhóm gõ nhịp phụ họa.
+
+#### Thứ 4
+
+- **Sáng:** Ôn tập toàn bộ 7 nốt và các hình nốt đã học. Hoàn thiện vở Main Lesson với các hình vẽ minh họa câu chuyện của Trúc.
+- **Chiều:** Biểu diễn nhỏ trong lớp: Từng bạn hoặc từng nhóm lên "thổi sáo kể chuyện".
+
+#### Thứ 5 (English Day)
+
+- **Chủ đề:** Our First Concert.
+- **Hoạt động:** Tập nói các câu đơn giản: _"I play the Do note"_, _"Listen to the music"_. Hát hợp xướng các bài đã học.
+
+#### Thứ 6 (Outdoor)
+
+- **Địa điểm:** Một góc sân trường yên tĩnh dưới gốc cây to.
+- **Hoạt động:** Lễ kết thúc Block: Cả lớp cùng ngồi vòng tròn, cùng thổi sáo và hát lại hành trình của chú bé Trúc, gửi âm nhạc vào không gian.
 
 ## BLOCK 10: HƯƠNG VỊ ĐẤT TRỜI (CANH NÔNG 2)
 
@@ -875,3 +966,7 @@ _Thời gian:_ 1 tuần
 - Trưng bày vở Main Lesson, sản phẩm thủ công, mô hình nhà.
 - Lễ hội Mùa Xuân đón Tết Nguyên Đán.
 - Họp phụ huynh, trao đổi về sự trưởng thành của trẻ sau tuổi lên 9.
+
+## Nghỉ tết, tuần giáo án
+
+_Thời gian:_ 4 tuần (3 tuần nghỉ tết, 1 tuần giáo án)
