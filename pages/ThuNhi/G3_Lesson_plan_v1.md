@@ -1,4 +1,4 @@
-# Giáo án
+# KẾ HOẠCH GIẢNG DẠY LỚP 3 (36 TUẦN) - PHIÊN BẢN VIỆT HÓA & HỘI AN
 
 ## Block 1: Khai Thiên Lập Địa - Phần I (Vũ Trụ & Địa Lý)
 
