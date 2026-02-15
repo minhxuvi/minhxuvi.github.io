@@ -1,0 +1,1 @@
+- [Grade 3 Teacher Training Manual](https://www.waldorfcurriculum.com/Class3/GRADE_3_TRAINING_MANUAL.pdf)
