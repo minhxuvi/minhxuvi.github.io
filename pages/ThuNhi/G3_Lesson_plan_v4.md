@@ -260,9 +260,88 @@ _Mục tiêu tâm thức:_
 
 ---
 
-## BLOCK 3: NHÀ Ở & XÂY DỰNG
+## BLOCK 3: ĐO LƯỜNG
 
-_Thời gian:_ 4 tuần
+_Thời gian:_ 3 tuần (Rơi vào Mùa Thu/Trung Thu)
+
+_CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:_
+
+- Kể chuyện lịch sử đo lường: Dùng gang tay, sải tay. Sự bất tiện khi mỗi người một kích thước -> Cần đơn vị chuẩn.
+
+  _Mục tiêu tâm thức:_
+
+- Giúp trẻ kết nối lại với thế giới thông qua giác quan và cơ thể.
+- Tự tin "tôi tồn tại và làm được".
+
+_Mục tiêu kỹ năng:_
+
+- Biết dùng thước dây, cân đồng hồ/cân đòn.
+- Ước lượng độ dài và khối lượng.
+
+### Tuần 18: Chiều dài
+
+#### Thứ 2 - Thứ 4
+
+- Đo bằng gang tay, sải tay, bước chân.
+- Làm thước dây thủ công. Đo bàn ghế, bảng lớp.
+
+#### Thứ 5 (English Day)
+
+- **Chủ đề:** Length.
+- **Hoạt động:** _Long, Short, Tall_. Đo chiều cao các bạn.
+
+#### Thứ 6 (Outdoor)
+
+- Đo chiều dài Chùa Cầu hoặc khoảng cách các cột nhà cổ.
+
+### Tuần 19: Khối lượng & Thể tích
+
+#### Thứ 2 - Thứ 4
+
+- Làm cân đòn bập bênh. So sánh nặng/nhẹ.
+- Đong nước bằng vốc tay, gáo dừa, bình lít.
+
+#### Thứ 5 (English Day)
+
+- **Chủ đề:** Heavy & Light.
+- **Hoạt động:** Cân đồ vật. _Heavy, Light, Full, Empty_.
+
+#### Thứ 6 (Outdoor)
+
+- Ra chợ Hội An xem các bà bán hàng cân trái cây/cá.
+
+### Tuần 20: Sự chuẩn xác & Trung Thu
+
+#### Thứ 2
+
+- **Sáng:** Kể chuyện **"Sự tích cái Cân"** (Biểu tượng công lý). Tại sao buôn bán cần cân đúng?
+- **Chiều:** Làm cân đòn bập bênh đơn giản.
+
+#### Thứ 3
+
+- **Sáng:** Học về Gram và Kilogram.
+- **Chiều:** **Làm bánh Trung Thu**: Cân bột, cân đường, cân nhân. (Bài học thực tế nhất).
+
+#### Thứ 4
+
+- **Sáng:** Viết công thức làm bánh vào vở (ghi rõ định lượng).
+- **Chiều:** Đóng gói bánh, làm hộp (đo kích thước hộp).
+
+#### Thứ 5 (English Day)
+
+- **Chủ đề:** Mid-Autumn Festival.
+- **Hoạt động:** Hát _"Rước đèn tháng tám"_ (dịch lời Anh hoặc giải thích ý nghĩa). _Mooncake, Lantern, Full Moon_.
+
+#### Thứ 6 (Outdoor)
+
+- **Địa điểm:** Phố lồng đèn Hội An.
+- **Hoạt động:** Quan sát kích thước các đèn lồng (Đại - Trung - Tiểu).
+
+---
+
+## BLOCK 4: NHÀ Ở & XÂY DỰNG
+
+_Thời gian:_ 5 tuần
 
 _CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:_
 
@@ -373,14 +452,30 @@ _Mục tiêu kỹ năng:_
 
 ---
 
-## BLOCK 4: VƯƠNG QUỐC NGÔN TỪ (NGỮ PHÁP)
+## BLOCK 5: LỄ HỘI MÙA HÈ
 
-_Thời gian:_ 4 tuần
+_Thời gian:_ 1 tuần
+
+### Tuần 17: Tổng kết & Vui chơi
+
+- Ghi nhiệm vụ hè vào vở thực hành.
+- Lễ hội nước hoặc thả diều. Tổng kết học kỳ.
+
+---
+
+## Nghỉ hè, tuần giáo án, Quốc Khánh
+
+_Thời gian:_ 6 tuần (4 nghỉ hè, 1 giáo án, 1 quốc khánh)
+
+## BLOCK 6: VƯƠNG QUỐC NGÔN TỪ (NGỮ PHÁP)
+
+_Thời gian:_ 3 tuần
 
 _CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:_
 
 - Dùng hình ảnh nhân hóa: Dùng hình ảnh "Vua Tiếng Việt", "Quan Danh Từ", "Tướng Động Từ". Ví dụ: Thánh Gióng (Động từ mạnh mẽ), Tiên Dung (Tính từ mềm mại)...
 - Thực hành viết chính tả, đọc chép.
+- Gắn với Trung Thu
 
 _Mục tiêu kỹ năng:_
 
@@ -452,100 +547,6 @@ _Mục tiêu kỹ năng:_
 #### Thứ 6 (Outdoor)
 
 - Ra bưu điện Hội An gửi thư thực tế.
-
----
-
-## BLOCK 5: LỄ HỘI MÙA HÈ
-
-_Thời gian:_ 1 tuần
-
-### Tuần 17: Tổng kết & Vui chơi
-
-- Ghi nhiệm vụ hè vào vở thực hành.
-- Lễ hội nước hoặc thả diều. Tổng kết học kỳ.
-
----
-
-## Nghỉ hè, tuần giáo án, Quốc Khánh
-
-_Thời gian:_ 6 tuần (4 nghỉ hè, 1 giáo án, 1 quốc khánh)
-
-## BLOCK 6: ĐO LƯỜNG
-
-_Thời gian:_ 3 tuần (Rơi vào Mùa Thu/Trung Thu)
-
-_CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:_
-
-- Kể chuyện lịch sử đo lường: Dùng gang tay, sải tay. Sự bất tiện khi mỗi người một kích thước -> Cần đơn vị chuẩn.
-- Gắn với Trung Thu: Làm bánh nướng/dẻo cần cân đo chính xác.
-  _Mục tiêu tâm thức:_
-
-- Giúp trẻ kết nối lại với thế giới thông qua giác quan và cơ thể.
-- Tự tin "tôi tồn tại và làm được".
-
-_Mục tiêu kỹ năng:_
-
-- Biết dùng thước dây, cân đồng hồ/cân đòn.
-- Ước lượng độ dài và khối lượng.
-
-### Tuần 18: Chiều dài
-
-#### Thứ 2 - Thứ 4
-
-- Đo bằng gang tay, sải tay, bước chân.
-- Làm thước dây thủ công. Đo bàn ghế, bảng lớp.
-
-#### Thứ 5 (English Day)
-
-- **Chủ đề:** Length.
-- **Hoạt động:** _Long, Short, Tall_. Đo chiều cao các bạn.
-
-#### Thứ 6 (Outdoor)
-
-- Đo chiều dài Chùa Cầu hoặc khoảng cách các cột nhà cổ.
-
-### Tuần 19: Khối lượng & Thể tích
-
-#### Thứ 2 - Thứ 4
-
-- Làm cân đòn bập bênh. So sánh nặng/nhẹ.
-- Đong nước bằng vốc tay, gáo dừa, bình lít.
-
-#### Thứ 5 (English Day)
-
-- **Chủ đề:** Heavy & Light.
-- **Hoạt động:** Cân đồ vật. _Heavy, Light, Full, Empty_.
-
-#### Thứ 6 (Outdoor)
-
-- Ra chợ Hội An xem các bà bán hàng cân trái cây/cá.
-
-### Tuần 20: Sự chuẩn xác & Trung Thu
-
-#### Thứ 2
-
-- **Sáng:** Kể chuyện **"Sự tích cái Cân"** (Biểu tượng công lý). Tại sao buôn bán cần cân đúng?
-- **Chiều:** Làm cân đòn bập bênh đơn giản.
-
-#### Thứ 3
-
-- **Sáng:** Học về Gram và Kilogram.
-- **Chiều:** **Làm bánh Trung Thu**: Cân bột, cân đường, cân nhân. (Bài học thực tế nhất).
-
-#### Thứ 4
-
-- **Sáng:** Viết công thức làm bánh vào vở (ghi rõ định lượng).
-- **Chiều:** Đóng gói bánh, làm hộp (đo kích thước hộp).
-
-#### Thứ 5 (English Day)
-
-- **Chủ đề:** Mid-Autumn Festival.
-- **Hoạt động:** Hát _"Rước đèn tháng tám"_ (dịch lời Anh hoặc giải thích ý nghĩa). _Mooncake, Lantern, Full Moon_.
-
-#### Thứ 6 (Outdoor)
-
-- **Địa điểm:** Phố lồng đèn Hội An.
-- **Hoạt động:** Quan sát kích thước các đèn lồng (Đại - Trung - Tiểu).
 
 ---
 
