@@ -4,7 +4,7 @@
 - Nghỉ xuân, giỗ tổ Hùng Vương, 30/4, 1/5 - 2 tuần
 - BLOCK 2: HƠI THỞ CỦA RỪNG (Đi trải nghiệm rừng) - 1 tuần
 - BLOCK 3: ĐO LƯỜNG - 3 tuần
-- BLOCK 4: NHÀ Ở & XÂY DỰNG - 5 tuần
+- BLOCK 4: NHÀ Ở & XÂY DỰNG - 4 tuần
 - BLOCK 5: HƯƠNG VỊ ĐẤT TRỜI (Nấu Ăn) - 2 tuần
 - BLOCK 6: LỄ HỘI MÙA HÈ - 1 tuần
 - Nghỉ hè, tuần giáo án, Quốc Khánh - 6 tuần

@@ -6,7 +6,7 @@
 
 **1. Bối cảnh Lộ trình 8 năm (Curriculum Map):**
 
-- Đọc file đính kèm 00_Curriculum_map.md
+- Đọc file đính kèm 00_Curriculum_map_output.md
 
 **2. Danh sách học sinh & Ngày sinh:**
 
@@ -20,7 +20,7 @@
 
 - Đọc file đính kèm Waldorf_Principles_HoiAn.md
 
-**5. Master plan của cô Nga:**
+**5. Tham khảo file master plan của cô Nga:**
 
 - Đọc file đính kèm G3_Master_plan_co_Nga.md
 
@@ -44,13 +44,17 @@ Hãy trình bày dưới dạng danh sách theo dòng thời gian:
 **BLOCK [X]: [TÊN BLOCK]**
 _Thời gian:_ [Số tuần] tuần (Từ ngày... đến ngày...)
 
-- **Mục tiêu kết nối (Dựa trên Curriculum Map):** [Nêu ngắn gọn block này đóng góp gì cho lộ trình 8 năm]
+**Mục tiêu kết nối (Dựa trên Curriculum Map):** [Nêu ngắn gọn block này đóng góp gì cho lộ trình 8 năm]
+
+**Mục tiêu tâm thức:** [Nêu ngắn gọn mục tiêu tâm thức của block này]
+
+**Mục tiêu kỹ năng:** [Nêu ngắn gọn mục tiêu kỹ năng của block này]
+
+**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:** [Nêu ngắn gọn cách thức tiếp cận/giảng dạy của block này]
+
 - **Tuần [X] (Từ... đến...):**
-- _Mục tiêu tâm thức:_ ...
-- _Mục tiêu kỹ năng:_ ...
 - _Sự kiện/Sinh nhật:_ [Tên bé + Ngày sinh + Ý tưởng tổ chức]
 - _Nội dung chính:_ ...
-- _CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:_ ...
 - _Hoạt động bổ trợ (Prepare for the future):_ ...
 
 ---
