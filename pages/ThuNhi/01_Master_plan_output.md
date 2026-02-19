@@ -6,405 +6,396 @@
 
 ---
 
-### BLOCK 1: KHAI THIÊN LẬP ĐỊA (VŨ TRỤ & ĐẤT ĐAI)
+## BLOCK 1: KHAI THIÊN LẬP ĐỊA (VŨ TRỤ & ĐẤT ĐAI)
 
 _Thời gian:_ 7 tuần (09/03/2026 - 26/04/2026)
 
-**Mục tiêu kết nối (Dựa trên Curriculum Map):**
-Xây dựng ý thức về nguồn gốc và sự kết nối với đất đai ("Tiếp đất"). Rèn luyện đôi chân bám đất thông qua làm vườn (tiền đề cho sự bền bỉ của đôi chân đạp xe). Rèn thăng bằng qua các hoạt động vòng tròn.
+**Mục tiêu kết nối (Dựa trên Curriculum Map):** Xây dựng nền tảng "Tiếp đất" (Grounding). Rèn luyện đôi chân bám đất và đôi tay lao động thông qua làm vườn (tiền đề cho sự bền bỉ của cơ bắp để đạp xe sau này).
 
-**Mục tiêu tâm thức:**
-Giúp trẻ đi qua điểm Rubicon (9 tuổi) bằng cách tìm thấy trật tự trong vũ trụ hỗn độn. Nuôi dưỡng lòng biết ơn và sự kính ngưỡng thông qua thần thoại Việt Nam.
+**Mục tiêu tâm thức:** Giúp trẻ đi qua điểm Rubicon (9 tuổi) bằng cách tìm thấy trật tự trong vũ trụ hỗn độn. Nuôi dưỡng lòng biết ơn và sự kính ngưỡng đối với nguồn cội.
 
-**Mục tiêu kỹ năng:**
-Viết đoạn văn ngắn giàu hình ảnh. Quan sát hiện tượng tự nhiên. Sử dụng nông cụ cơ bản.
+**Mục tiêu kỹ năng:** Ngôn ngữ (viết đoạn văn giàu hình ảnh), Quan sát hiện tượng tự nhiên, Kỹ năng nông nghiệp cơ bản.
 
 **CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:**
-Sử dụng **Khoa học nhân hóa** (Hạt giống Big Bang) và **Thần thoại Việt** (Thần Trụ Trời, Nữ Oa). Vẽ màu nước ướt trên ướt (Wet-on-wet).
+Sử dụng **Khoa học nhân hóa** (Hạt giống Big Bang) và **Thần thoại Việt** (Thần Trụ Trời, Nữ Oa, Lạc Long Quân). Vẽ màu nước ướt trên ướt (Wet-on-wet) thể hiện sự giao thoa ánh sáng/bóng tối.
 
-- **Tuần 1 (09/03 - 15/03):** Vũ trụ sơ khai & Ánh sáng.
-- _Nội dung chính:_ Hạt giống khởi nguyên. Thần Trụ Trời tách biệt không gian.
+### **Tuần 1 (09/03 - 15/03): Vũ trụ sơ khai**
 
-- **Tuần 2 (16/03 - 22/03):** Bầu trời & Khí quyển.
-- _Nội dung chính:_ Nữ Oa vá trời. Sự tuần hoàn của nước.
+- _Nội dung chính:_ Hạt giống khởi nguyên tỉnh giấc (Big Bang). Thần Trụ Trời tách biệt không gian.
+- _Hoạt động bổ trợ:_ Đi thăng bằng trên thanh gỗ (Rèn tiền đình).
 
-- **Tuần 3 (23/03 - 29/03):** Đại dương & Lục địa.
+### **Tuần 2 (16/03 - 22/03): Bầu trời & Khí quyển**
+
+- _Nội dung chính:_ Nữ Oa vá trời. Cuộc chiến Gió và Mưa.
+- _Hoạt động bổ trợ:_ Quan sát mây và hướng gió (Khí tượng học sơ khai).
+
+### **Tuần 3 (23/03 - 29/03): Đại dương & Lục địa**
+
 - _Nội dung chính:_ Lạc Long Quân - Âu Cơ. Sông Thu Bồn kể chuyện phù sa.
+- _Hoạt động bổ trợ:_ Chạm tay vào đất sét/bùn (Cảm nhận vật chất).
 
-- **Tuần 4 (30/03 - 05/04):** Thế giới Cây cỏ (Dạy thay).
+### **Tuần 4 (30/03 - 05/04): Thế giới Cây cỏ (Dạy thay)**
+
 - _Nội dung chính:_ Sự tích các loài cây. Vẽ thực vật sân trường.
 
-- **Tuần 5 (06/04 - 12/04):** Thế giới Muôn thú (Dạy thay).
-- _Nội dung chính:_ Trí khôn của ta đây. Nặn sáp ong.
+### **Tuần 5 (06/04 - 12/04): Thế giới Muôn thú (Dạy thay)**
 
-- **Tuần 6 (13/04 - 19/04):** Con người & Đất đai.
-- _Nội dung chính:_ Sự tích Hạt lúa. Ra vườn dọn cỏ.
-- _Hoạt động bổ trợ (Prepare for the future):_ **Chăm sóc công cụ:** Học cách rửa sạch cuốc xẻng, tra dầu vào khớp nối (Tiền đề cho việc bảo dưỡng xe đạp).
+- _Nội dung chính:_ Trí khôn của ta đây. Nặn sáp ong hình thú.
 
-- **Tuần 7 (20/04 - 26/04):** Gieo hạt & Kết thúc.
+### **Tuần 6 (13/04 - 19/04): Con người & Đất đai**
+
+- _Nội dung chính:_ Con người nhận lãnh trách nhiệm chăm sóc Trái Đất. Sự tích Hạt lúa. Ra vườn dọn cỏ.
+- _Hoạt động bổ trợ (Prepare for the future):_ **Chăm sóc công cụ:** Học quy trình rửa sạch cuốc xẻng, lau khô và cất đúng chỗ (Rèn tính kỷ luật bảo dưỡng thiết bị/xe đạp).
+
+### **Tuần 7 (20/04 - 26/04): Gieo hạt & Cội nguồn**
+
 - _Sự kiện/Sinh nhật:_
-- 🎂 **Đào Di Linh (Nhãn) - 24/04:** Chủ đề "Hạt Nhãn nảy mầm". Nhãn được gieo hạt giống đầu tiên của lớp xuống đất.
-- **Giỗ Tổ Hùng Vương (10/3 Âm - CN 26/04):** Kể chuyện Vua Hùng dựng nước vào Thứ 6 Outdoor.
+- 🎂 **Đào Di Linh (Nhãn) - 24/04:** Chủ đề "Hạt Nhãn nảy mầm". Nhãn được đại diện lớp gieo những hạt giống đầu tiên xuống luống đất mới làm.
+- **Giỗ Tổ Hùng Vương (10/3 Âm - CN 26/04):** Kể chuyện Vua Hùng dựng nước vào Thứ 6 Outdoor, kết nối mạch Sáng thế với Lịch sử dân tộc.
 
-- _Nội dung chính:_ Nghi thức gieo hạt.
-
----
-
-### 📅 NGHỈ XUÂN & LỄ (27/04 - 10/05/2026)
-
-- Nghỉ lễ 30/4 & 1/5.
+- _Nội dung chính:_ Nghi thức gieo hạt. Kết thúc Block Sáng thế.
 
 ---
 
-### BLOCK 2: HƠI THỞ CỦA RỪNG
+## 📅 NGHỈ XUÂN & LỄ (27/04 - 10/05/2026)
+
+- 2 Tuần nghỉ (Bao gồm lễ 30/4 & 1/5).
+
+---
+
+## BLOCK 2: HƠI THỞ CỦA RỪNG
 
 _Thời gian:_ 1 tuần (11/05 - 17/05/2026)
 
-**Mục tiêu kết nối (Dựa trên Curriculum Map):**
-Rèn luyện sức bền đi bộ (Hiking) và kỹ năng sinh tồn cơ bản trong tự nhiên. Rèn luyện ý chí vượt khó.
+**Mục tiêu kết nối (Dựa trên Curriculum Map):** Rèn luyện sức bền đi bộ (Hiking) và kỹ năng sinh tồn cơ bản trong tự nhiên (chuẩn bị thể lực cho các chuyến đi xa).
 
-**Mục tiêu tâm thức:**
-Kết nối lại tập thể lớp sau kỳ nghỉ. Cảm nhận sự nhỏ bé trước thiên nhiên hùng vĩ.
+**Mục tiêu tâm thức:** Kết nối lại tập thể lớp sau kỳ nghỉ. Cảm nhận sự nhỏ bé trước thiên nhiên hùng vĩ.
 
-**Mục tiêu kỹ năng:**
-Kỹ năng tự phục vụ (đeo ba lô, tự ăn uống, vệ sinh). Đi bộ đường dài không than vãn.
+**Mục tiêu kỹ năng:** Tự phục vụ (đeo ba lô, tự ăn uống, vệ sinh). Đi bộ đường dài không than vãn.
 
-**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:**
-Dã ngoại thực tế (Camping trip) tại khu vực đồi núi/rừng gần Hội An (ví dụ Hòa Bắc hoặc rừng dừa sâu).
+**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:** Dã ngoại thực tế (Camping trip/Hiking) tại khu vực đồi núi gần Hội An (ví dụ: Hòn Tàu hoặc rừng dừa Cẩm Thanh).
 
-- **Tuần 8 (11/05 - 17/05):** Dã ngoại thực tế.
+### **Tuần 8 (11/05 - 17/05): Dã ngoại thực tế**
+
 - _Nội dung chính:_ Cắm trại, quan sát hệ sinh thái, nấu ăn dã chiến.
-- _Hoạt động bổ trợ (Prepare for the future):_ **Hiking 5km:** Rèn luyện đôi chân và ý chí (chuẩn bị thể lực dài hạn).
+- _Hoạt động bổ trợ (Prepare for the future):_ **Hiking 5km:** Rèn luyện đôi chân và ý chí. Học cách uống nước từng ngụm nhỏ khi vận động.
 
 ---
 
-### BLOCK 3: ĐO LƯỜNG
+## BLOCK 3: ĐO LƯỜNG
 
 _Thời gian:_ 3 tuần (18/05 - 07/06/2026)
 
-**Mục tiêu kết nối (Dựa trên Curriculum Map):**
-Nền tảng cho việc đọc bản đồ và tính toán khoảng cách di chuyển (Lớp 4 & 8). Chuyển đổi tư duy định lượng.
+**Mục tiêu kết nối (Dựa trên Curriculum Map):** Nền tảng cho việc đọc bản đồ, tính toán khoảng cách di chuyển và định lượng thực phẩm (Lớp 4 & 8).
 
-**Mục tiêu tâm thức:**
-Chuyển từ cảm nhận chủ quan ("nặng quá") sang khách quan ("nặng 1kg"). Xây dựng sự công bằng.
+**Mục tiêu tâm thức:** Chuyển từ cảm nhận chủ quan sang khách quan. Xây dựng sự công bằng trong giao thương.
 
-**Mục tiêu kỹ năng:**
-Sử dụng thước, cân. Ước lượng độ dài/khối lượng chính xác.
+**Mục tiêu kỹ năng:** Sử dụng thước, cân. Ước lượng độ dài/khối lượng chính xác.
 
-**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:**
-Đi từ thước đo cơ thể (gang tay, bước chân) đến đơn vị chuẩn. Thực hành tại chợ Hội An.
+**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:** Đi từ thước đo cơ thể (gang tay, sải chân) đến đơn vị chuẩn (cm, kg). Thực hành nhiều hơn lý thuyết.
 
-- **Tuần 9 (18/05 - 24/05):** Chiều dài.
-- _Nội dung chính:_ Đo lớp học, sân trường bằng sải tay và thước dây.
-- _Hoạt động bổ trợ (Prepare for the future):_ Đo chu vi bánh xe đạp (khái niệm sơ khai về quãng đường).
+### **Tuần 9 (18/05 - 24/05): Chiều dài**
 
-- **Tuần 10 (25/05 - 31/05):** Khối lượng.
-- _Sự kiện:_ **Quốc tế Thiếu nhi 1/6.**
-- _Nội dung chính:_ Làm cân đòn. Cân hoa quả/nông sản.
+- _Nội dung chính:_ Đo lớp học, sân trường bằng sải tay và thước dây. Làm thước dây thủ công.
+- _Hoạt động bổ trợ:_ Đo độ dài bước chân của mình (để tính khoảng cách khi đi bộ).
 
-- **Tuần 11 (01/06 - 07/06):** Thể tích & Sự cân bằng.
+### **Tuần 10 (25/05 - 31/05): Khối lượng**
+
+- _Sự kiện:_ **Quốc tế Thiếu nhi 1/6 (Thứ 2 tuần sau).**
+- _Nội dung chính:_ Làm cân đòn. Cân hoa quả, đồ vật trong lớp. So sánh nặng nhẹ.
+
+### **Tuần 11 (01/06 - 07/06): Thể tích & Sự cân bằng**
+
 - _Sự kiện/Sinh nhật:_
-- 🎂 **Mai Diệp Anh (Cốm) - 06/06:** Chủ đề "Sự ngọt ngào đúng điệu". Cả lớp cùng Cốm đo lường nguyên liệu (đường, bột) để pha nước chanh/làm bánh sinh nhật.
+- 🎂 **Mai Diệp Anh (Cốm) - 06/06:** Chủ đề "Sự ngọt ngào đúng điệu". Cả lớp cùng Cốm đo lường chính xác nguyên liệu (đường, bột, nước) để pha nước chanh hoặc làm bánh sinh nhật.
 
 - _Nội dung chính:_ Đong nước. Nấu ăn định lượng.
 
 ---
 
-### BLOCK 4: NHÀ Ở & XÂY DỰNG
+## BLOCK 4: NHÀ Ở & XÂY DỰNG
 
 _Thời gian:_ 4 tuần (08/06 - 05/07/2026)
 
-**Mục tiêu kết nối (Dựa trên Curriculum Map):**
-Rèn luyện sự khéo léo của đôi tay, tư duy kết cấu (liên quan đến cơ khí sau này) và tinh thần hiệp lực (Teamwork).
+**Mục tiêu kết nối (Dựa trên Curriculum Map):** Rèn luyện sự khéo léo của đôi tay, tư duy kết cấu (liên quan đến cơ khí sau này) và tinh thần hiệp lực (Teamwork).
 
-**Mục tiêu tâm thức:**
-Xây dựng "Ngôi nhà nội tâm" an toàn. Tách biệt cái Tôi ra khỏi thế giới.
+**Mục tiêu tâm thức:** Xây dựng "Ngôi nhà nội tâm" an toàn. Tách biệt cái Tôi ra khỏi thế giới bên ngoài.
 
-**Mục tiêu kỹ năng:**
-Phân biệt vật liệu. Sử dụng cưa, búa an toàn. Kỹ thuật buộc nút lạt (Kỹ năng sinh tồn).
+**Mục tiêu kỹ năng:** Phân biệt tính chất vật liệu (gỗ, tre, đất). Sử dụng cưa, búa an toàn. Kỹ thuật buộc nút lạt.
 
-**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:**
-Tham quan làng mộc Kim Bồng, làng gốm Thanh Hà. Dựng một công trình thực tế nhỏ (chòi lá/nhà đất).
+**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:** Tham quan làng mộc Kim Bồng, làng gốm Thanh Hà. Dựng một công trình thực tế nhỏ (Chòi/Lều) trong khuôn viên trường.
 
-- **Tuần 12 (08/06 - 14/06):** Nơi trú ẩn & Nền móng.
+### **Tuần 12 (08/06 - 14/06): Khởi công & Vật liệu**
+
 - _Sự kiện/Sinh nhật:_
-- 🎂 **Lương Đình Minh Triết (Tony) - 14/06:** Chủ đề "Viên gạch nền tảng". Tony được chọn vị trí và đặt viên gạch/thanh gỗ đầu tiên cho công trình của lớp.
+- 🎂 **Lương Đình Minh Triết (Tony) - 14/06:** Chủ đề "Viên gạch nền tảng". Tony được vinh dự đặt viên gạch hoặc thanh gỗ đầu tiên cho công trình của lớp.
 
-- _Nội dung chính:_ Hang động, Tổ chim. Tìm hiểu và chuẩn bị vật liệu (Tre, Đất).
+- _Nội dung chính:_ Các loại nhà (Tổ chim, Hang động -> Nhà người). Tìm hiểu vật liệu Tre, Gỗ.
+- _Hoạt động bổ trợ:_ Tập dùng búa và cưa (Kỹ năng cơ khí sơ khai).
 
-- **Tuần 13 (15/06 - 21/06):** Kết cấu & Tết Đoan Ngọ.
-- _Sự kiện:_ **Tết Đoan Ngọ (5/5 Âm - 19/06):** Học cách dùng vôi (vật liệu xây dựng) để quét gốc cây trừ sâu bệnh.
-- _Nội dung chính:_ Dựng khung nhà. Kỹ thuật buộc dây/làm gạch.
+### **Tuần 13 (15/06 - 21/06): Đất & Tết Đoan Ngọ**
 
-- **Tuần 14 (22/06 - 28/06):** Mái nhà che chở.
-- _Nội dung chính:_ Lợp mái lá dừa/tranh (đặc trưng Hội An). Thưng vách.
+- _Sự kiện:_ **Tết Đoan Ngọ (5/5 Âm - Thứ 6, 19/06).**
+- _Nội dung chính:_ Làm gạch đất (Adobe) hoặc tìm hiểu về vôi/vữa.
+- _Hoạt động lễ hội:_ Học cách người xưa dùng vôi (vật liệu xây dựng) để quét gốc cây trừ sâu bệnh trong ngày Đoan Ngọ. Ăn bánh tro.
 
-- **Tuần 15 (29/06 - 05/07):** Hoàn thiện & Lễ Tân Gia.
+### **Tuần 14 (22/06 - 28/06): Dựng khung & Kết cấu**
+
+- _Nội dung chính:_ Kỹ thuật buộc nút lạt (rất quan trọng cho kỹ năng dây, buộc đồ đi phượt sau này). Dựng khung nhà.
+
+### **Tuần 15 (29/06 - 05/07): Mái nhà & Hoàn thiện**
+
 - _Sự kiện/Sinh nhật:_
-- 🎂 **Ngô Hà Gia Hân (Ốc) - 03/07:** Chủ đề "Ngôi nhà của Ốc". Kể chuyện về chiếc vỏ ốc xoắn ốc kiên cố bảo vệ sự mềm mại bên trong.
+- 🎂 **Ngô Hà Gia Hân (Ốc) - 03/07:** Chủ đề "Ngôi nhà của Ốc". Kể chuyện về chiếc vỏ ốc - ngôi nhà di động kiên cố. Ốc được quyền trang trí hoặc lợp phần mái nhà.
 
-- _Nội dung chính:_ Trang trí, làm đẹp ngôi nhà. Tổ chức tiệc trà mừng nhà mới.
+- _Nội dung chính:_ Lợp mái (tranh/lá dừa). Trang trí nhà.
 
 ---
 
-### BLOCK 5: HƯƠNG VỊ ĐẤT TRỜI (CANH NÔNG 2)
+## BLOCK 5: HƯƠNG VỊ ĐẤT TRỜI (CANH NÔNG 2)
 
 _Thời gian:_ 2 tuần (06/07 - 19/07/2026)
 
-**Mục tiêu kết nối (Dựa trên Curriculum Map):**
-Kỹ năng tự chăm sóc bản thân qua dinh dưỡng (nấu ăn) - cần thiết cho các chuyến đi xa sau này.
+**Mục tiêu kết nối (Dựa trên Curriculum Map):** Kỹ năng tự chăm sóc bản thân qua dinh dưỡng (nấu ăn dã chiến).
 
-**Mục tiêu tâm thức:**
-Biết ơn thực phẩm và người lao động.
+**Mục tiêu tâm thức:** Biết ơn thực phẩm và người lao động.
 
-**Mục tiêu kỹ năng:**
-Sơ chế, bảo quản thực phẩm (làm mứt/phơi khô/muối chua).
+**Mục tiêu kỹ năng:** Sơ chế, bảo quản thực phẩm (làm mứt/phơi khô/muối chua).
 
-**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:**
-Thu hoạch nông sản từ vườn trường (đã gieo ở Block 1). Nấu ăn tập thể.
+**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:** Thu hoạch nông sản từ vườn trường (đã gieo ở Block 1). Nấu ăn tập thể.
 
-- **Tuần 16 (06/07 - 12/07):** Mùa gặt & Sơ chế.
-- _Nội dung chính:_ Thu hoạch rau củ. Làm sạch, phân loại.
+### **Tuần 16 (06/07 - 12/07): Lễ Tân Gia & Thu Hoạch**
 
-- **Tuần 17 (13/07 - 19/07):** Chế biến & Tiệc mùa hè.
+- _Nội dung chính:_ Tổ chức Lễ Tân Gia tại ngôi nhà vừa xây xong. Thu hoạch rau củ vụ Hè.
+
+### **Tuần 17 (13/07 - 19/07): Chế biến & Bảo quản**
+
 - _Sự kiện/Sinh nhật:_
-- 🎂 **Hải Nam - 18/07:** Chủ đề "Bữa tiệc mùa hè". Hải Nam đóng vai Bếp trưởng, điều phối các bạn nấu món ăn sinh nhật từ nông sản vườn trường.
+- 🎂 **Hải Nam - 18/07:** Chủ đề "Bữa tiệc mùa hè". Hải Nam đóng vai Bếp trưởng, điều phối các bạn sơ chế món ăn cho tiệc sinh nhật.
 
-- _Nội dung chính:_ Nấu ăn, làm mứt/muối dưa.
+- _Nội dung chính:_ Làm mứt, phơi khô thực phẩm (dự trữ). Nấu một bữa ăn hoàn chỉnh.
 
 ---
 
-### BLOCK 6: LỄ HỘI MÙA HÈ
+## BLOCK 6: LỄ HỘI MÙA HÈ
 
 _Thời gian:_ 1 tuần (20/07 - 26/07/2026)
 
-**Mục tiêu tâm thức:**
-Thư giãn, vui chơi, giải phóng năng lượng, kết nối với nước (biển Cửa Đại).
+**Mục tiêu tâm thức:** Thư giãn, vui chơi, giải phóng năng lượng.
 
-**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:**
-Lễ hội nước, thả diều, các trò chơi dân gian.
+**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:** Lễ hội nước, thả diều bãi biển Cửa Đại.
 
-- **Tuần 18 (20/07 - 26/07):** Tổng kết học kỳ 1.
-- _Hoạt động:_ Lễ hội nước. Dọn dẹp lớp học đón nghỉ hè.
+### **Tuần 18 (20/07 - 26/07): Tổng kết học kỳ 1**
 
----
-
-### 📅 NGHỈ HÈ & GIÁO ÁN (27/07 - 06/09/2026)
-
-- Nghỉ 6 tuần.
-- Bao gồm Lễ Quốc Khánh 2/9.
+- _Nội dung chính:_ Vui chơi, bơi lội (Kỹ năng sinh tồn vùng sông nước).
 
 ---
 
-### BLOCK 7: VŨ ĐIỆU NỐT NHẠC (NHẠC LÝ)
+## 📅 NGHỈ HÈ & GIÁO ÁN (27/07 - 06/09/2026)
+
+- Nghỉ 6 tuần. Bao gồm lễ Quốc Khánh 2/9.
+
+---
+
+## BLOCK 7: VŨ ĐIỆU NỐT NHẠC (NHẠC LÝ)
 
 _Thời gian:_ 3 tuần (07/09 - 27/09/2026)
 
-**Mục tiêu kết nối (Dựa trên Curriculum Map):**
-Phát triển thính giác và nhịp điệu (Rhythm) - yếu tố quan trọng để duy trì nhịp thở và nhịp đạp xe đều đặn.
+**Mục tiêu kết nối (Dựa trên Curriculum Map):** Phát triển thính giác và cảm nhận nhịp điệu (Rhythm) - yếu tố quan trọng để duy trì nhịp thở và nhịp đạp xe đều đặn.
 
-**Mục tiêu tâm thức:**
-Tìm thấy sự hài hòa trong hỗn độn. Xoa dịu cảm xúc qua âm nhạc.
+**Mục tiêu tâm thức:** Tìm thấy sự hài hòa trong hỗn độn.
 
-**Mục tiêu kỹ năng:**
-Đọc nốt nhạc trên khuông. Thổi sáo cơ bản. Giữ nhịp đúng.
+**Mục tiêu kỹ năng:** Đọc nốt nhạc trên khuông. Thổi sáo cơ bản. Giữ nhịp chắc.
 
-**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:**
-Truyện phóng tác "Chú bé Trúc và 7 ống sáo thần". Sử dụng sáo trúc/Recorder và bộ gõ cơ thể.
+**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:** Truyện phóng tác **"Chú bé Trúc và 7 ống sáo thần"**. Sử dụng sáo trúc/Recorder và các nhạc cụ gõ dân tộc.
 
-- **Tuần 19 (07/09 - 13/09):** Cao độ & 7 Nốt nhạc.
-- _Nội dung chính:_ Câu chuyện chú bé Trúc tìm ra 7 anh em nốt nhạc.
+### **Tuần 19 (07/09 - 13/09): Cao độ & 7 Nốt nhạc**
 
-- **Tuần 20 (14/09 - 20/09):** Trường độ & Hình nốt.
-- _Nội dung chính:_ Các nốt Đen, Trắng, Tròn. Gõ nhịp.
+- _Nội dung chính:_ Câu chuyện chú bé Trúc. Giới thiệu 7 nốt nhạc (Đồ - Si).
 
-- **Tuần 21 (21/09 - 27/09):** Hòa tấu & TRUNG THU.
+### **Tuần 20 (14/09 - 20/09): Nhịp điệu & Hình nốt**
+
+- _Nội dung chính:_ Chim Gõ Kiến gõ nhịp. Học nốt Tròn, Trắng, Đen. Vỗ tay theo nhịp.
+
+### **Tuần 21 (21/09 - 27/09): Hòa tấu & TRUNG THU**
+
 - _Sự kiện/Sinh nhật (Tuần lễ hội tụ):_
 - 🎂 **Võ Tuệ Minh (Naomi) - 22/09.**
 - **Tết Trung Thu (15/8 Âm - Thứ 6, 25/09).**
 - 🎂 **Dương Quốc Thiên Bảo (Leo) - 26/09.**
 
-- _Ý tưởng tổ chức:_ "Vũ điệu Trăng Rằm". Naomi và Leo sẽ là "Chú Cuội & Chị Hằng" dẫn đầu đoàn rước đèn.
-- _Nội dung chính:_ Hòa tấu sáo và trống (Tùng-Cheng-Cắc).
+- _Ý tưởng tổ chức:_ "Vũ điệu Trăng Rằm". Naomi và Leo sẽ là "Chú Cuội & Chị Hằng" dẫn đầu đoàn rước đèn. Học nhịp điệu qua tiếng **Trống Múa Lân** (Tùng-Cheng-Cắc).
+- _Nội dung chính:_ Hòa tấu một bài sáo đơn giản. Rước đèn.
 
 ---
 
-### BLOCK 8: VƯƠNG QUỐC NGÔN TỪ (NGỮ PHÁP)
+## BLOCK 8: VƯƠNG QUỐC NGÔN TỪ (NGỮ PHÁP)
 
 _Thời gian:_ 3 tuần (28/09 - 18/10/2026)
 
-**Mục tiêu kết nối (Dựa trên Curriculum Map):**
-Khả năng diễn đạt rõ ràng, mạch lạc (Communication) - cần thiết khi làm việc nhóm trong các chuyến đi.
+**Mục tiêu kết nối (Dựa trên Curriculum Map):** Khả năng diễn đạt rõ ràng, mạch lạc (cần thiết khi làm việc nhóm và giao tiếp trong các chuyến đi).
 
-**Mục tiêu tâm thức:**
-Tỉnh thức trong lời nói. Tôn trọng quy tắc và cấu trúc ngôn ngữ.
+**Mục tiêu tâm thức:** Tỉnh thức trong lời nói. Tôn trọng quy tắc và trật tự ngôn ngữ.
 
-**Mục tiêu kỹ năng:**
-Phân biệt Danh từ, Động từ, Tính từ. Viết câu đúng ngữ pháp.
+**Mục tiêu kỹ năng:** Phân biệt Danh từ, Động từ, Tính từ. Viết câu đúng ngữ pháp.
 
-**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:**
-Nhân hóa các loại từ (Vua Danh Từ, Tướng Động Từ...). Viết thư tay, nhật ký.
+**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:** Nhân hóa các loại từ (Vua Tiếng Việt, Quan Danh Từ, Tướng Động Từ).
 
-- **Tuần 22 (28/09 - 04/10):** Danh từ & Động từ.
-- _Nội dung chính:_ Sự tĩnh (Danh từ) và Sự động (Hành động).
+### **Tuần 22 (28/09 - 04/10): Danh từ & Động từ**
 
-- **Tuần 23 (05/10 - 11/10):** Tính từ & Sắc màu.
-- _Nội dung chính:_ Miêu tả cảm xúc và tính chất.
+- _Nội dung chính:_ Sự Tĩnh (Danh từ) và Sự Động (Động từ).
 
-- **Tuần 24 (12/10 - 18/10):** Cấu trúc câu & Văn bản.
-- _Nội dung chính:_ Dấu câu. Viết thư tay gửi bố mẹ/bạn bè.
+### **Tuần 23 (05/10 - 11/10): Tính từ & Sắc màu**
+
+- _Nội dung chính:_ Họa sĩ Tính từ tô màu cho câu chuyện. Miêu tả thiên nhiên Hội An.
+
+### **Tuần 24 (12/10 - 18/10): Cấu trúc câu & Văn bản**
+
+- _Nội dung chính:_ Dấu câu (nhịp nghỉ). Viết thư tay, nhật ký lớp học.
 
 ---
 
-### BLOCK 9: NHỊP ĐIỆU THỜI GIAN
+## BLOCK 9: NHỊP ĐIỆU THỜI GIAN
 
 _Thời gian:_ 2 tuần (19/10 - 01/11/2026)
 
-**Mục tiêu kết nối (Dựa trên Curriculum Map):**
-Quản lý thời gian, xem đồng hồ, lập kế hoạch (Planning) - Kỹ năng sinh tồn quan trọng.
+**Mục tiêu kết nối (Dựa trên Curriculum Map):** Quản lý thời gian, xem đồng hồ để tuân thủ lịch trình di chuyển.
 
-**Mục tiêu tâm thức:**
-Trân trọng khoảnh khắc hiện tại. Sống đúng nhịp điệu tự nhiên.
+**Mục tiêu tâm thức:** Trân trọng khoảnh khắc hiện tại. Sống đúng nhịp điệu tự nhiên.
 
-**Mục tiêu kỹ năng:**
-Xem giờ đồng hồ kim. Làm lịch.
+**Mục tiêu kỹ năng:** Xem giờ đồng hồ kim. Làm lịch.
 
-**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:**
-Quan sát bóng nắng, quy luật mùa màng. Làm đồng hồ cát/nước.
+**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:** Quan sát bóng nắng, quy luật mùa màng. Làm đồng hồ cát/nước.
 
-- **Tuần 25 (19/10 - 25/10):** Nhịp điệu lớn (Mùa, Năm).
-- _Nội dung chính:_ Làm lịch năm 2027. Vẽ vòng tròn các mùa.
+### **Tuần 25 (19/10 - 25/10): Nhịp điệu lớn (Mùa, Năm)**
 
-- **Tuần 26 (26/10 - 01/11):** Nhịp điệu nhỏ (Giờ, Phút).
-- _Nội dung chính:_ Xem đồng hồ kim. Khái niệm giây, phút, giờ.
+- _Nội dung chính:_ Ngày, Đêm, 4 Mùa. Vẽ vòng tròn thời gian.
+
+### **Tuần 26 (26/10 - 01/11): Nhịp điệu nhỏ (Giờ, Phút)**
+
+- _Nội dung chính:_ Giờ, Phút, Giây. Thực hành xem đồng hồ.
 
 ---
 
-### 📅 NGHỈ THU (02/11 - 15/11/2026)
+## 📅 NGHỈ THU (02/11 - 15/11/2026)
 
-- Thời gian tránh bão lũ miền Trung (Hội An thường mưa lớn thời điểm này).
+- Thời gian tránh bão lũ miền Trung. Học sinh nghỉ ngơi tại nhà.
 
 ---
 
-### BLOCK 10: TOÁN HỌC HÀNG DỌC
+## BLOCK 10: TOÁN HỌC HÀNG DỌC
 
 _Thời gian:_ 3 tuần (16/11 - 06/12/2026)
 
-**Mục tiêu kết nối (Dựa trên Curriculum Map):**
-Tư duy logic, tính toán chính xác (tiền đề cho việc tính toán chi phí, lộ trình, thống kê sau này).
+**Mục tiêu kết nối (Dựa trên Curriculum Map):** Tư duy logic, tính toán chính xác (tiền đề cho việc tính toán chi phí, lộ trình, thống kê).
 
-**Mục tiêu tâm thức:**
-Rèn tính kỷ luật, thẳng thắn, ngăn nắp (Ngồi thẳng, viết số thẳng hàng).
+**Mục tiêu tâm thức:** Rèn tính kỷ luật, thẳng thắn, ngăn nắp (thông qua việc đặt tính thẳng hàng).
 
-**Mục tiêu kỹ năng:**
-Thực hiện 4 phép tính hàng dọc với số lớn.
+**Mục tiêu kỹ năng:** Thành thạo 4 phép tính hàng dọc với số lớn.
 
-**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:**
-Kể chuyện về những người thủ thư, thủ kho cần sự chính xác tuyệt đối. Học trong nhà (tránh mưa).
+**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:** Kể chuyện về những người thủ thư, thủ kho cần sự chính xác tuyệt đối.
 
-- **Tuần 27 (16/11 - 22/11):** Cộng & Trừ có nhớ.
-- _Nội dung chính:_ Đặt tính rồi tính.
+### **Tuần 27 (16/11 - 22/11): Cộng & Trừ có nhớ**
 
-- **Tuần 28 (23/11 - 29/11):** Phép Nhân số lớn.
-- _Nội dung chính:_ Ôn bảng cửu chương, nhân nhiều chữ số.
+- _Nội dung chính:_ Đặt tính rồi tính. Cộng trừ số lớn.
 
-- **Tuần 29 (30/11 - 06/12):** Phép Chia dài (Long Division).
-- _Nội dung chính:_ Kỹ năng khó nhất lớp 3. Chia sẻ công bằng.
+### **Tuần 28 (23/11 - 29/11): Phép Nhân số lớn**
+
+- _Nội dung chính:_ Ôn bảng cửu chương. Nhân nhiều chữ số.
+
+### **Tuần 29 (30/11 - 06/12): Phép Chia dài (Long Division)**
+
+- _Nội dung chính:_ Kỹ thuật chia dài. Chia sẻ công bằng.
 
 ---
 
-### BLOCK 11: TIỀN TỆ & NIỀM TIN
+## BLOCK 11: TIỀN TỆ & NIỀM TIN
 
 _Thời gian:_ 3 tuần (07/12 - 27/12/2026)
 
-**Mục tiêu kết nối (Dựa trên Curriculum Map):**
-Hiểu giá trị tiền bạc, quản lý tài chính cá nhân (Financial Literacy) cho chuyến đi lớp 8.
+**Mục tiêu kết nối (Dựa trên Curriculum Map):** Hiểu giá trị tiền bạc, bước đầu học quản lý tài chính cá nhân (cho quỹ chuyến đi lớp 8).
 
-**Mục tiêu tâm thức:**
-Hiểu về sự trao đổi giá trị, lòng tin và sự cho đi (đặc biệt dịp Giáng Sinh).
+**Mục tiêu tâm thức:** Hiểu về sự trao đổi giá trị, lòng tin và ý nghĩa của sự cho đi.
 
-**Mục tiêu kỹ năng:**
-Nhận biết mệnh giá tiền, tính toán tiền nong, giao thương.
+**Mục tiêu kỹ năng:** Nhận biết mệnh giá tiền. Tính toán tiền nong, thối tiền.
 
-**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:**
-Lịch sử thương cảng Hội An. Tổ chức chợ phiên. Câu chuyện Giáng sinh.
+**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:** Lịch sử thương cảng Hội An. Tổ chức chợ phiên giả định.
 
-- **Tuần 30 (07/12 - 13/12):** Lịch sử Giao thương.
-- _Nội dung chính:_ Hàng đổi hàng. Tiền xu cổ Hội An.
+### **Tuần 30 (07/12 - 13/12): Lịch sử Giao thương**
 
-- **Tuần 31 (14/12 - 20/12):** Giá trị & Niềm tin.
+- _Nội dung chính:_ Hàng đổi hàng (Barter). Sự ra đời của tiền xu/vỏ sò.
+
+### **Tuần 31 (14/12 - 20/12): Thương nhân & Chợ**
+
 - _Sự kiện/Sinh nhật:_
-- 🎂 **Khuất Minh Phúc (Pai) - 16/12:** Chủ đề "Thương nhân hào phóng". Pai đóng vai chủ thương thuyền Hội An, thực hành chia sẻ "hàng hóa" (bánh kẹo/quà) cho các bạn.
+- 🎂 **Khuất Minh Phúc (Pai) - 16/12:** Chủ đề "Thương nhân hào phóng". Pai đóng vai chủ thương thuyền Hội An, chia sẻ "hàng hóa" (bánh kẹo) cho các bạn trong lớp.
 
-- _Nội dung chính:_ Tính toán tiền thừa.
+- _Nội dung chính:_ Các mệnh giá tiền Việt Nam. Thực hành mua bán giả định.
 
-- **Tuần 32 (21/12 - 27/12):** Sự cho đi & Chợ phiên.
-- _Sự kiện:_ **Giáng Sinh (25/12).** Kể chuyện "Món quà của 3 Vua".
-- _Nội dung chính:_ Market Day (Chợ phiên lớp học). Làm quà tặng không dùng tiền (Handmade).
+### **Tuần 32 (21/12 - 27/12): Giá trị & GIÁNG SINH**
+
+- _Sự kiện:_ **Lễ Giáng Sinh (Thứ 6, 25/12).**
+- _Nội dung chính:_ Kể chuyện "Món quà của 3 Vua". Làm quà handmade tặng người thân (giáo dục giá trị tinh thần > vật chất). Tính toán chi phí nguyên liệu làm quà.
 
 ---
 
-### BLOCK 12: NGÀNH NGHỀ TRUYỀN THỐNG
+## BLOCK 12: NGÀNH NGHỀ TRUYỀN THỐNG
 
 _Thời gian:_ 2 tuần (28/12/2026 - 10/01/2027)
 
-**Mục tiêu kết nối (Dựa trên Curriculum Map):**
-Trân trọng sức lao động thủ công, hiểu văn hóa bản địa (Local Culture) - kiến thức nền cho các bài học Địa lý/Lịch sử sau này.
+**Mục tiêu kết nối (Dựa trên Curriculum Map):** Trân trọng sức lao động thủ công, hiểu văn hóa bản địa (Local Insight).
 
-**Mục tiêu tâm thức:**
-Kết nối với di sản cha ông. Rèn sự tỉ mỉ.
+**Mục tiêu tâm thức:** Kết nối với di sản cha ông. Tự hào về nơi mình sống.
 
-**Mục tiêu kỹ năng:**
-Thực hành nghề thủ công: Gốm, Đèn lồng, Mộc.
+**Mục tiêu kỹ năng:** Kỹ năng thủ công tinh xảo (nặn, vẽ, dán).
 
-**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:**
-Thực tế tại làng nghề Hội An. Làm quà Tết.
+**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:** Thực tế tại làng nghề. Làm quà Tết.
 
-- **Tuần 33 (28/12 - 03/01/2027):** Làng Gốm & Đất.
-- _Sự kiện:_ **Tết Dương Lịch (01/01/2027).**
-- _Nội dung chính:_ Thăm làng gốm Thanh Hà. Nặn heo đất/bát gốm.
+### **Tuần 33 (28/12 - 03/01/2027): Năm Mới & Làng Gốm**
 
-- **Tuần 34 (04/01 - 10/01):** Làng Mộc & Đèn lồng.
-- _Nội dung chính:_ Làm khung đèn lồng tre. Dán giấy đón Tết.
+- _Sự kiện:_ **Tết Dương Lịch (Thứ 6, 01/01/2027).**
+- _Nội dung chính:_ Thăm làng gốm Thanh Hà. Làm heo đất tiết kiệm (liên kết với bài Tiền tệ).
+
+### **Tuần 34 (04/01 - 10/01/2027): Làng Mộc & Đèn lồng**
+
+- _Nội dung chính:_ Thăm làng mộc/xưởng đèn lồng. Làm đèn lồng/tranh khắc gỗ đón Tết Nguyên Đán.
 
 ---
 
-### BLOCK 13: TỔNG KẾT
+## BLOCK 13: TỔNG KẾT
 
 _Thời gian:_ 1 tuần (11/01 - 17/01/2027)
 
-**Mục tiêu tâm thức:**
-Nhìn lại hành trình một năm, đóng gói cảm xúc. Xây dựng thói quen hoàn tất công việc (Completion).
+**Mục tiêu tâm thức:** Nhìn lại hành trình một năm, đóng gói cảm xúc. Rèn tính ngăn nắp (kết thúc).
 
-**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:**
-Hoàn thiện vở Main Lesson. Sắp xếp lại lớp học.
+**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:** Xem lại vở Main Lesson. Kể chuyện ôn tập.
 
-- **Tuần 35 (11/01 - 17/01):** Nhìn lại hành trình.
-- _Sự kiện:_ Chuẩn bị cho Lễ hội Trở về.
-- _Nội dung chính:_ Xem lại các bài học. Đóng gói đồ đạc.
+### **Tuần 35 (11/01 - 17/01/2027): Nhìn lại hành trình**
+
+- _Nội dung chính:_ Hoàn thiện vở, dọn dẹp lớp học sạch sẽ đón Tết.
 
 ---
 
-### BLOCK 14: LỄ HỘI TRỞ VỀ (GIÁP TẾT)
+## BLOCK 14: LỄ HỘI TRỞ VỀ (GIÁP TẾT)
 
 _Thời gian:_ 1 tuần (18/01 - 24/01/2027)
 
-**Mục tiêu tâm thức:**
-Hân hoan đón chào năm mới, hướng về nguồn cội.
+**Mục tiêu tâm thức:** Hân hoan đón chào năm mới, hướng về nguồn cội gia đình.
 
-**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:**
-Lễ hội Mùa Xuân. Trưng bày sản phẩm. Tất niên.
+**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:** Lễ hội, Trang trí, Ăn mừng.
 
-- **Tuần 36 (18/01 - 24/01):** Chào Xuân Đinh Mùi.
-- _Sự kiện đặc biệt:_
-- **Chuẩn bị đón Tết Nguyên Đán (Mùng 1 là 06/02/2027).**
-- 🎂 **Hồ Quang Bách Ri (Ri) - 24/01:** Chủ đề "Mùa Xuân của Ri". Ri là người mở cánh cửa đón năm mới.
-- 🎂 **Nguyễn An Nguyên (03/02):** Sinh nhật rơi vào mùng 4 Tết (đang nghỉ), tổ chức sớm cùng Ri. Chủ đề "Nụ tầm xuân nở sớm".
+### **Tuần 36 (18/01 - 24/01/2027): Chào Xuân Đinh Mùi**
 
-- _Nội dung chính:_ Lễ hội Mùa Xuân. Tiệc tất niên.
+- _Sự kiện/Sinh nhật:_
+- 🎂 **Hồ Quang Bách Ri (Ri) - 24/01:** Chủ đề "Mùa Xuân của Ri". Ri là người đại diện lớp đóng lại cánh cửa năm cũ, mở ra năm mới.
+- 🎂 **Nguyễn An Nguyên (03/02):** Sinh nhật rơi vào mùng 7 Tết (đang nghỉ), nên tổ chức sớm vào tuần này. Chủ đề "Nụ tầm xuân nở sớm".
+- **Chuẩn bị Tết:** Tuần này là 11-17 tháng Chạp.
+
+- _Nội dung chính:_ Lễ hội Mùa Xuân. Trưng bày sản phẩm cả năm. Tiệc tất niên.
 
 ---
 
-### 📅 NGHỈ TẾT & GIÁO ÁN
+## 📅 NGHỈ TẾT & GIÁO ÁN
 
-- Bắt đầu nghỉ từ 25/01/2027.
+- Bắt đầu nghỉ Tết từ Thứ Hai, 25/01/2027 (18 tháng Chạp).
+- **Mùng 1 Tết Đinh Mùi:** 06/02/2027.

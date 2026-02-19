@@ -39,9 +39,10 @@
 
 **III. ĐỊNH DẠNG ĐẦU RA (MARKDOWN):**
 
-Hãy trình bày dưới dạng danh sách theo dòng thời gian:
+Hãy trình bày theo dòng thời gian:
 
-**BLOCK [X]: [TÊN BLOCK]**
+## BLOCK [X]: [TÊN BLOCK]
+
 _Thời gian:_ [Số tuần] tuần (Từ ngày... đến ngày...)
 
 **Mục tiêu kết nối (Dựa trên Curriculum Map):** [Nêu ngắn gọn block này đóng góp gì cho lộ trình 8 năm]
@@ -52,7 +53,8 @@ _Thời gian:_ [Số tuần] tuần (Từ ngày... đến ngày...)
 
 **CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:** [Nêu ngắn gọn cách thức tiếp cận/giảng dạy của block này]
 
-- **Tuần [X] (Từ... đến...):**
+### **Tuần [X] (Từ... đến...):**
+
 - _Sự kiện/Sinh nhật:_ [Tên bé + Ngày sinh + Ý tưởng tổ chức]
 - _Nội dung chính:_ ...
 - _Hoạt động bổ trợ (Prepare for the future):_ ...
