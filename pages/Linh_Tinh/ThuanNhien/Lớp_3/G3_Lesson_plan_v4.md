@@ -278,7 +278,7 @@ _Mục tiêu kỹ năng:_
 - Biết dùng thước dây, cân đồng hồ/cân đòn.
 - Ước lượng độ dài và khối lượng.
 
-### Tuần 18: Chiều dài
+### Tuần 9: Chiều dài
 
 #### Thứ 2 - Thứ 4
 
@@ -294,7 +294,7 @@ _Mục tiêu kỹ năng:_
 
 - Đo chiều dài Chùa Cầu hoặc khoảng cách các cột nhà cổ.
 
-### Tuần 19: Khối lượng & Thể tích
+### Tuần 10: Khối lượng & Thể tích
 
 #### Thứ 2 - Thứ 4
 
@@ -310,7 +310,7 @@ _Mục tiêu kỹ năng:_
 
 - Ra chợ Hội An xem các bà bán hàng cân trái cây/cá.
 
-### Tuần 20: Sự chuẩn xác & Trung Thu
+### Tuần 11: Sự chuẩn xác & Trung Thu
 
 #### Thứ 2
 
@@ -364,7 +364,7 @@ _Mục tiêu kỹ năng:_
 - Sử dụng thước đo, dây rọi (cân bằng).
 - Kỹ năng thủ công: Buộc nút lạt, trát đất, cưa gỗ.
 
-### Tuần 9: Nơi trú ẩn đầu tiên
+### Tuần 12: Nơi trú ẩn đầu tiên
 
 #### Thứ 2
 
@@ -391,7 +391,7 @@ _Mục tiêu kỹ năng:_
 - **Địa điểm:** Bảo tàng Hội An hoặc các ngôi nhà cổ.
 - **Hoạt động:** Quan sát cột gỗ, mái ngói âm dương.
 
-### Tuần 10: Vật liệu & Làng nghề
+### Tuần 13: Vật liệu & Làng nghề
 
 #### Thứ 2
 
@@ -418,7 +418,7 @@ _Mục tiêu kỹ năng:_
 - **Địa điểm:** Làng mộc Kim Bồng.
 - **Hoạt động:** Xem các chú thợ đục đẽo, ghép mộng (không dùng đinh).
 
-### Tuần 11: Quy trình dựng nhà
+### Tuần 14: Quy trình dựng nhà
 
 #### Thứ 2 - Thứ 4
 
@@ -434,7 +434,7 @@ _Mục tiêu kỹ năng:_
 
 - Thăm lò gạch cũ hoặc xem thợ xây đang làm việc gần trường.
 
-### Tuần 12: Hoàn thiện & Lễ cất nóc
+### Tuần 15: Hoàn thiện & Lễ cất nóc
 
 #### Thứ 2 - Thứ 4
 
