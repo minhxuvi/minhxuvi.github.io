@@ -1,4 +1,4 @@
-Hướng dẫn tôi một template prompt để tạo ra các kế hoạch các block theo yêu cầu của tôi.
+Hướng dẫn tôi một template prompt để tạo ra một bản kế hoạch tổng thể từ lớp 1 đến lớp 8.
 
 Để có thể tạo ra các kế hoạch giảng dạy (Lesson Plan) chất lượng, đồng nhất về tư duy Waldorf và bối cảnh Việt hóa mà chúng ta đã xây dựng, bạn có thể sử dụng mẫu Prompt (câu lệnh) dưới đây.
 

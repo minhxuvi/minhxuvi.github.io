@@ -17,6 +17,12 @@
 3. Lớp 4 vẫn giữ nguyên nội dung liên quan đến thần thoại Bắc Âu.
 4. Thay đổi nội dung liên giới thiệu tổng quan sự hình thành của vũ trụ vào thời điểm thích hợp.
 
+**TÀI LIỆU ĐẦU VÀO (CONTEXT):**
+
+**1. Curriculum Map hiện tại của trường:**
+
+- Đọc file đính kèm Curriculum_map_thunhi.md
+
 **Định dạng đầu ra (Format):**
 Hãy lập một danh sách theo từng lớp. Với mỗi lớp, hãy nêu rõ:
 
