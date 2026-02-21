@@ -1,6 +1,6 @@
 **Danh sách các Block & Kỳ nghỉ cần sắp xếp:**
 
-- BLOCK 1: KHAI THIÊN LẬP ĐỊA (VŨ TRỤ & ĐẤT ĐAI) - 7 tuần
+- BLOCK 1: KHAI THIÊN LẬP ĐỊA (VŨ TRỤ & ĐẤT ĐAI) - 7 tuần. Tuần 4 và 5 là có người dạy thay.
 - Nghỉ xuân, giỗ tổ Hùng Vương, 30/4, 1/5 - 2 tuần
 - BLOCK 2: HƠI THỞ CỦA RỪNG (Đi trải nghiệm rừng) - 1 tuần
 - BLOCK 3: ĐO LƯỜNG - 3 tuần
