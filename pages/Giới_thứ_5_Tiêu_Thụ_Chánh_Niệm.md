@@ -11,3 +11,4 @@ Từ nay về sau tôi sẽ:
 ## Phạm giới
 
 - 20260210: Sáng thức dậy lướt web linh tinh mất gần 1 tiếng đồng hồ.
+- 20260222: Phạm giới khi chơi 1 ván game, uống một lon nước ngọt khi không trong bữa tiệc.
