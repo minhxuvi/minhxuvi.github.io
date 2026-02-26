@@ -23,7 +23,14 @@ Nhận thấy bầu trời giờ đây đã cao rộng bao la, các vị thần 
 **6. Sự Kết Hợp Giữa Nước Và Non (Lạc Long Quân - Âu Cơ)**
 Trong khi các thần linh ngự trị trên Thiên Cung, thì Trái Đất bên dưới đã tươi đẹp nhưng vẫn còn tĩnh lặng. Lúc bấy giờ, từ dưới đáy đại dương sâu thẳm, Thần Rồng **Lạc Long Quân** vươn lên. Từ đỉnh núi cao vời vợi, Nàng Tiên **Âu Cơ** bước xuống. Họ gặp nhau trên mặt đất, sự hòa hợp kỳ diệu giữa Nước và Non đã kết tinh thành một bọc trăm trứng.
 
-**7. Con Người Nhận Lãnh Trách Nhiệm (Sự Tách Biệt)**
+**7. Thiên Hoả**
+
+- Kẻ Hỗn Độn không bị đánh tan hoàn toàn, chúng quay trở lại và gây ra thiên tai.
+- Thiên Thạch rơi xuống Trái Đất.
+- Có rất nhiều Tiên và Rồng hy sinh để cứu lấy Trái Đất.
+- Thần Rồng Lạc Long Quân và Nàng Tiên Âu Cơ chưa rõ sống chết.
+
+**8. Con Người Nhận Lãnh Trách Nhiệm (Sự Tách Biệt)**
 Trăm quả trứng nở ra trăm người con. Lạc Long Quân và Âu Cơ nhìn các con và dặn dò:
 _"Các thần linh ngự trên Thiên Cung đã quy định mưa nắng, ngày đêm. Nhưng mặt đất này là nơi của các con. Giờ đây, các con phải tự dùng đôi bàn tay và trí tuệ của mình để làm chủ thế giới. Hãy xây nhà để tránh rét, hãy gieo hạt để có cái ăn."_
 Nói rồi, Cha Rồng Mẹ Tiên chia con lên núi xuống biển. Các thần linh trên Thiên Cung cũng dõi mắt nhìn xuống mặt đất, nhưng họ sẽ không làm thay con người nữa. Những con người đầu tiên (đại diện cho các bé lớp 3) bắt đầu hành trình tự lập vĩ đại của mình.
