@@ -23,7 +23,7 @@ Nhận thấy bầu trời giờ đây đã cao rộng bao la, các vị thần 
 **6. Sự Kết Hợp Giữa Nước Và Non (Lạc Long Quân - Âu Cơ)**
 Trong khi các thần linh ngự trị trên Thiên Cung, thì Trái Đất bên dưới đã tươi đẹp nhưng vẫn còn tĩnh lặng. Lúc bấy giờ, từ dưới đáy đại dương sâu thẳm, Thần Rồng **Lạc Long Quân** vươn lên. Từ đỉnh núi cao vời vợi, Nàng Tiên **Âu Cơ** bước xuống. Họ gặp nhau trên mặt đất, sự hòa hợp kỳ diệu giữa Nước và Non đã kết tinh thành một bọc trăm trứng, ấp ủ những sinh linh mới.
 
-**7. Sự Trở Lại Của Kẻ Hỗn Độn và Trận Đại Chiến Lần Hai** _(Chương mới)_
+**7. Sự Trở Lại Của Kẻ Hỗn Độn và Trận Đại Chiến Lần Hai**
 Nhưng hòa bình không kéo dài. Kẻ Hỗn Độn từ thuở khai nguyên không hề bị tiêu diệt hoàn toàn, chúng trốn tránh nơi rìa vũ trụ, âm thầm tích tụ sức mạnh và bất ngờ quay trở lại trả thù. Chúng trút cơn thịnh nộ xuống Trái Đất, gây ra những trận cuồng phong, sóng thần và động đất kinh hoàng. Từ trên bầu trời đen kịt, vô số những tảng thiên thạch rực lửa khổng lồ trút xuống như muốn thiêu rụi mọi mầm sống.
 Để bảo vệ Trái Đất và bọc trăm trứng, tộc Rồng từ biển sâu và tộc Tiên từ núi thẳm đã xả thân chiến đấu. Một trận huyết chiến nổ ra. Rất nhiều Tiên và Rồng đã anh dũng hy sinh, dùng chính thân mình làm lá chắn để đánh chặn thiên thạch. Trong khoảnh khắc quyết định, Thần Rồng Lạc Long Quân và Nàng Tiên Âu Cơ đã dốc cạn toàn bộ phép thuật để đẩy lùi thế lực Hỗn Độn. Sau ánh chớp chói lòa kết thúc trận chiến, cả hai vị thần đều biến mất, bặt vô âm tín, chưa rõ sống chết ra sao.
 
