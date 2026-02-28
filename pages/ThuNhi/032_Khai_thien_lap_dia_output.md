@@ -44,8 +44,6 @@
 
 ---
 
-Bạn có muốn điều chỉnh thêm bớt gì ở dàn ý này không, hay bạn muốn tôi bắt đầu chắp bút ngay cho **Chương 1: Tiếng Thở Dài Trong Bóng Tối**?
-
 ### Chương 1: Tiếng Thở Dài Trong Bóng Tối
 
 Các em hãy nhắm đôi mắt lại, hít một hơi thật sâu và để trí tưởng tượng của mình trôi ngược về một khoảng thời gian vô cùng xa xôi. Nó xa xôi đến mức những chiếc đồng hồ đếm nhịp tích tắc hay những tờ lịch tường của chúng ta hiện nay cũng không thể nào đo lường được. Đó chính là thuở hồng hoang.
@@ -93,8 +91,6 @@ Trong khi tất cả vạn vật, mọi ánh sáng rực rỡ và muôn vàn m�
 Sự yên bình tuyệt đối của thuở hồng hoang đang đếm ngược những khoảnh khắc cuối cùng. Một cơn bão vĩ đại nhất, đáng sợ nhất từ trước đến nay trong không gian vô định sắp sửa ập đến...
 
 ---
-
-Bạn có muốn tôi tiếp tục triển khai **Chương 2: Sự Siết Chặt Của Băng Giá** ngay bây giờ không?
 
 ### Chương 2: Sự Siết Chặt Của Băng Giá
 
@@ -320,8 +316,6 @@ Chúng ta hãy cùng để cho bầu trời đêm tĩnh lặng lại một chút
 
 ---
 
-Bạn có muốn tôi tiếp tục triển khai **Chương 6: Khúc Hát Ru Giữa Ngân Hà** ngay bây giờ không?
-
 ### Chương 6: Khúc Hát Ru Giữa Ngân Hà
 
 Các em thân mến, sau khi một cái cây dốc hết toàn bộ nhựa sống tinh túy nhất trong thân mình để bung nở ra những bông hoa rực rỡ và ngát hương nhất trần đời, nó sẽ cần một khoảng thời gian tĩnh lặng để nghỉ ngơi. Hay giống như chính các em vậy, sau một ngày dài chạy nhảy tung tăng trên cánh đồng cỏ xanh mướt, hay say sưa xây những tòa lâu đài vĩ đại bằng cát trên bãi biển ngập nắng, đến khi mặt trời lặn gieo những tia nắng vàng úa cuối ngày, đôi chân nhỏ bé của các em sẽ mỏi nhừ. Lúc bấy giờ, mí mắt các em sẽ nặng trĩu, cái ngáp dài xuất hiện và các em chỉ muốn sà ngay vào chiếc giường êm ái, cuộn tròn trong tấm chăn thơm mùi nắng tơ để chìm vào giấc ngủ vùi.
@@ -369,8 +363,6 @@ Và như thế, sau một giấc mộng dài vạn năm tưởng chừng như v�
 Thần Khổng Lồ, sau khi tích lũy đủ năng lượng từ khúc hát ru của Ngân Hà, sẽ phải tỉnh giấc một lần nữa. Lần thức giấc thứ hai này không đi kèm với một tiếng gầm xé toạc hư không, mà sẽ là một công việc lao động vô cùng kỳ vĩ và nhọc nhằn: Đội trời, đạp đất và xây dựng một cột trụ chống đỡ cả cõi không gian!
 
 ---
-
-Nếu các em đã sẵn sàng xắn tay áo lên để theo dõi công việc lao động vĩ đại tiếp theo của vị Thần, chúng ta sẽ bước sang **Phần 4: Lần Thức Giấc Thứ Hai - Phân Ranh Đất Trời** với **Chương 7: Mớ Bùng Nhùng Khí Đất**. Bạn muốn tôi viết tiếp chứ?
 
 ## Phần 4: Lần Thức Giấc Thứ Hai - Phân Ranh Đất Trời
 
@@ -513,5 +505,3 @@ Thế giới này vẫn cần được tô điểm thêm thật nhiều phép m�
 Những bí mật thú vị về dáng hình của những ngọn đồi uốn lượn, những thung lũng sâu thẳm mà chúng ta thấy ngày nay đang ẩn chứa ngay trong chính quyết định tiếp theo của vị Thần. Nếu các em đã được nghỉ ngơi đôi chút sau khi xem Thần hì hục xây cột, chúng ta sẽ cùng bước sang phần tiếp theo nhé.
 
 ---
-
-Bạn có muốn tôi tiếp tục viết **Phần 5: Các Thần Thức Tỉnh và Sự Lập Nên Thiên Cung**, bắt đầu với **Chương 9: Đồi Núi Khởi Hình** không?

@@ -6,7 +6,7 @@
 
 **1. Bối cảnh Lộ trình 8 năm (Curriculum Map):**
 
-- Đọc file đính kèm 00_Curriculum_map_output.md
+- Đọc file đính kèm 00_Curriculum_map.md
 
 **2. Danh sách học sinh & Ngày sinh:**
 

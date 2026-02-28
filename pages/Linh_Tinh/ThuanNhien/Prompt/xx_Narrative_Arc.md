@@ -23,7 +23,7 @@
 
 **Dữ liệu đầu vào:**
 
-- Master plan trong file "01_Master_plan_output.md"
+- Master plan trong file "01_Master_plan.md"
 - Cốt truyện khai thiên lập địa trong file "Plot_Khai_Thien_Lap_Dia.md"
 
 **Yêu cầu đầu ra:**
