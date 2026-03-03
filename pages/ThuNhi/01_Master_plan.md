@@ -17,7 +17,7 @@ _Thời gian:_ 7 tuần (09/03/2026 - 26/04/2026)
 **Mục tiêu kỹ năng:** Ngôn ngữ (viết đoạn văn giàu hình ảnh), Quan sát hiện tượng tự nhiên, Kỹ năng nông nghiệp cơ bản.
 
 **CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:**
-Sử dụng **Khoa học nhân hóa** (Hạt giống Big Bang) và **Thần thoại Việt** (Thần Trụ Trời, Lạc Long Quân, Âu Cơ...). Vẽ màu nước ướt trên ướt (Wet-on-wet) thể hiện sự giao thoa ánh sáng/bóng tối.
+Sử dụng **Thần thoại Việt** (Thần Trụ Trời, Lĩnh Nam Trích Quái, Lạc Long Quân, Âu Cơ...). Vẽ màu nước (Wet-on-wet) thể hiện sự giao thoa ánh sáng/bóng tối.
 
 ### **Tuần 1 (09/03 - 15/03): Vũ trụ sơ khai**
 
