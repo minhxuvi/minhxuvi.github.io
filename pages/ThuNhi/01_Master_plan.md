@@ -75,6 +75,8 @@ _Thời gian:_ 1 tuần (11/05 - 17/05/2026)
 
 **CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:** Dã ngoại thực tế (Camping trip/Hiking) tại khu vực đồi núi gần Hội An (ví dụ: Hòn Tàu hoặc rừng dừa Cẩm Thanh).
 
+- Người hướng dẫn đi cùng nên có nam có nữ.
+
 ### **Tuần 8 (11/05 - 17/05): Dã ngoại thực tế**
 
 - _Nội dung chính:_ Cắm trại, quan sát hệ sinh thái, nấu ăn dã chiến.
