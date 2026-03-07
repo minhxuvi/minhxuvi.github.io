@@ -13,3 +13,4 @@ Từ nay về sau tôi sẽ:
 - 20260210: Sáng thức dậy lướt web linh tinh mất gần 1 tiếng đồng hồ.
 - 20260222: Phạm giới khi chơi 1 ván game, uống một lon nước ngọt và lướt video ngắn khi chỉ có một mình.
 - 20260228: Phạm giới tiêu thụ các sản phẩm điện tử đang không phục vụ mục tiêu cao hơn của bản thân khi một mình.
+- 20260306: Again... Really Minh???
