@@ -14,14 +14,27 @@ _Thời gian:_ 7 tuần (09/03/2026 - 26/04/2026)
 
 **Mục tiêu tâm thức:** Giúp trẻ đi qua điểm Rubicon (9 tuổi) bằng cách tìm thấy trật tự trong vũ trụ hỗn độn. Nuôi dưỡng lòng biết ơn và sự kính ngưỡng đối với nguồn cội.
 
+- Thoả mãn được nhu cầu tìm hiểu, khám phá nhận thức về thế giới xung quanh. Mọi thứ bắt đầu như thế nào? Tôi đến từ đâu?
+- Tin tưởng vào một nguồn lực tâm linh luôn luôn ôm ấp, che chở cho các con.
+- Giúp các con đi qua nỗi cô đơn, sợ hãi. Vượt qua những lo lắng, nghi ngờ mâu thuẫn bên trong nội tâm trẻ.
+
 **Mục tiêu kỹ năng:** Ngôn ngữ (viết đoạn văn giàu hình ảnh), Quan sát hiện tượng tự nhiên, Kỹ năng nông nghiệp cơ bản.
+
+- Viết những đoạn văn với dấu chấm câu đúng: dấu chấm câu, dấu chấm hỏi, dấu chấm than, dấu ngoặc kép.
+- Trẻ tạo sách minh hoạ của riêng mình với những ngôn ngữ với sự Khai Thiên Lập Địa nguyên thuỷ.
+- Đọc trôi chảy đoạn truyện, thơ Khai Thiên Lập Địa.
+- Nhớ lại và diễn đạt, kể và diễn kịch lại nội dung câu chuyện rõ ràng.
+- Thuộc lòng những bài xướng, bài vần và thơ từ chuyện kể.
+- Viết đoạn văn sáng tạo.
+- Trân trọng cách mà nền văn hoá xưa đã diễn tả cảm nhận về sự tạo thành thế giới.
+- Xác định được các loại từ: từ chỉ hành động, từ để mô tả và từ để gọi tên.
 
 **CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:**
 Sử dụng **Thần thoại Việt** (Thần Trụ Trời, Lĩnh Nam Trích Quái, Lạc Long Quân, Âu Cơ...). Vẽ màu nước (Wet-on-wet) thể hiện sự giao thoa ánh sáng/bóng tối.
 
 ### **Tuần 1 (09/03 - 15/03): Vũ trụ sơ khai**
 
-- _Nội dung chính:_ Hạt giống khởi nguyên tỉnh giấc. Thần Trụ Trời tách biệt không gian.
+- _Nội dung chính:_ Hạt Mầm Ánh Sáng, Khai Thiên Lập Địa, Tộc Rồng và Tiên xuất hiện, Mười Hai Bà Mụ nặn ra con người
 - _Hoạt động bổ trợ:_ Đi thăng bằng trên thanh gỗ (Rèn tiền đình).
 
 ### **Tuần 2 (16/03 - 22/03): Bầu trời & Khí quyển**

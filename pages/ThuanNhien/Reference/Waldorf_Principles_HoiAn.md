@@ -82,7 +82,7 @@ Cần lồng ghép vào chương trình học để tạo điểm chạm cảm x
 
 | Họ và Tên             | Tên thân mật | Ngày sinh  | Giới tính |
 | --------------------- | ------------ | ---------- | --------- |
-| Hồ Quang Bách Ri      | Ri           | 24/01/2018 | Nam       |
+| Hồ Quang Bách         | Ri           | 24/01/2018 | Nam       |
 | Dương Quốc Thiên Bảo  | Leo          | 26/09/2017 | Nam       |
 | Ngô Hà Gia Hân        | Ốc           | 03/07/2017 | Nữ        |
 | Đào Di Linh           | Nhãn         | 24/04/2017 | Nữ        |
