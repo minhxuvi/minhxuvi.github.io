@@ -34,3 +34,31 @@ _Quan sát lớp:_
 _Cá nhân:_
 
 - Giờ Tiếng Anh chưa biết làm gì đây. Chắc mình sẽ đọc truyện cho các bạn nghe một lúc rồi cho làm hoạt động sau đó dọn dẹp, và đi dạo, sử dụng tiếng Anh.
+
+## 0311
+
+_Quan sát lớp:_
+
+_Cá nhân:_
+
+## 0312
+
+_Quan sát lớp:_
+
+_Cá nhân:_
+
+- Giờ ôn tập toán hơi quá sức với các bạn.
+
+_Phản hồi phụ huynh:_
+
+Chào mẹ Quỳnh,
+
+Cảm ơn mẹ đã nhắn tin và chia sẻ những quan sát chi tiết. Em xin phản hồi lại hai góc nhìn của mẹ như sau:
+
+1. Về nội dung Toán: Ý định ban đầu của em là mượn hình ảnh Thần Trụ Trời gom đá xây cột trong block Thần Thoại để các con làm quen dần với khái niệm hàng trăm, cùng những con số khổng lồ. Ý tưởng là Thần gom 10 viên đá (hàng đơn vị) thành 1 viên kim cương (hàng chục), 10 viên kim cương thành 1 viên ngọc (hàng trăm). Tuy nhiên mẹ nhận xét rất đúng, trong quá trình dạy em cũng thấy hơi quá sức với các bạn. Hôm nay thì em thấy một số bạn nhanh như Pai, Nhãn thì hiểu và có thể làm được, còn các bạn khác thì hơi nản. Chắc do em cũng hơi high với ý tưởng này nên giới thiệu cho các bạn hơi sớm. Em sẽ điều chỉnh lại giờ ôn tập Toán cho phù hợp hơn với các con, để dành cho block toán sau lễ 30/4.
+
+2. Về chữ viết trên bảng: Mẹ hoàn toàn đúng. Em đồng ý là các bạn rất cần hình mẫu của sự đẹp đẽ và tính nghệ thuật để noi theo. Chiều qua lúc phân công trực nhật, do cũng đang hơi vỡ trận nên em viết hơi ngoắng. Em nhận lỗi nhé. Em cũng sẽ cố gắng viết cẩn thận hơn. Cơ mà thành thật thì em cũng không tự tin vào chữ viết của mình lắm. Thôi thì em cứ cẩn thận hơn rồi thong thả cải thiện ha.
+
+Chúc gia đình một buổi tối bình an,
+
+Thầy Minh.
