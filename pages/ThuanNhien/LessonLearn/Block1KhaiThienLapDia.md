@@ -45,6 +45,11 @@ _Cá nhân:_
 
 _Quan sát lớp:_
 
+- Giờ kể chuyện ổn, các bạn khá hứng thú và tương tác tốt.
+- Chỉ có cái là cách mình ôn chuyện chưa ổn.
+- Các bạn vẫn chưa cho Thiên Bình chơi cùng, mình cần tổ chức lại giờ chơi buổi trưa.
+- Tony thấy nản vì toán khó.
+
 _Cá nhân:_
 
 - Giờ ôn tập toán hơi quá sức với các bạn.
