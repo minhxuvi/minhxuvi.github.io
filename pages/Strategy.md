@@ -12,12 +12,22 @@
 
 ## Năng lực tự chữa lành cơ thể, sống hết phần đời sinh học một cách khoẻ mạnh
 
+- Ăn uống lành mạnh
+- Võ thuật
+- Thiền quán chiếu
+
 ## Trải nghiệm nghệ thuật để có một tâm hồn đa dạng phong phú
+
+- Âm nhạc
+- Hội hoạ
+- Kể chuyện & Kịch nghệ
+- Làm thủ công
 
 ## Học về luật chơi trong thế giới hiện tại để đảm bảo an toàn cho bản thân và gia đình
 
-Hãy là con kiến thông thái trong đàn kiến. Đủ khiêm tốn để không bị chú ý.
-Đủ quyền lực để không bị bắt nạt.
+Hãy là con kiến thông thái trong đàn kiến.</br>
+Đủ khiêm tốn để không bị chú ý.</br>
+Đủ quyền lực để không bị bắt nạt.</br>
 
 => Cần là người nắm giữ tri thức cuộc sống.
 
