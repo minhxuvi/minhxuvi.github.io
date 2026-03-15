@@ -92,3 +92,5 @@ Cần lồng ghép vào chương trình học để tạo điểm chạm cảm x
 | Lương Đình Minh Triết | Tony         | 14/06/2017 | Nam       |
 | Mai Diệp Anh          | Cốm          | 06/06/2017 | Nữ        |
 | Hải Nam               | Nam          | 18/07/2017 | Nam       |
+| Thảo Nguyên           | Nắng         | 1/1/2017   | Nữ        |
+| Thiên Bình            | Tí           | 1/1/2017   | Nam       |
