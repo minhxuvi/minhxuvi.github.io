@@ -86,6 +86,21 @@
 - Thần hoá thành các ngôi sao trên bầu trời, tạo thành hình một vị thần đầu đội mũ chuồn, và chiếc lưng cong như đang cày ruộng vậy.
 - Đền thờ Thần Nông ở làng Phong Lệ - Hoà Vang - Đà Nẵng.
 
+> Cháu chào chú Phạm Tuân</br>
+> Chú bay vào vũ trụ</br>
+> Có qua bờ sông ngân</br>
+> Mượn sao gàu về nhé</br>
+> Đồng lúa ta đương cần!</br>
+> Nếu chú gặp Thần Nông</br>
+> Nhớ nói giùm: bà cháu</br>
+> Vẫn kể chuyện về ông</br>
+> Khom lưng ông đương cấy</br>
+> Ruộng trên trời...phải không?</br>
+> À,chú ơi quên mất!</br>
+> Đàn vịt vàng sông Ngân</br>
+> Bắt về mấy con nhé</br>
+> Làm giống cho cháu chăn.</br>
+
 ## Lạc Long Quân đánh Ngư tinh
 
 - Nhờ có Thần Nông, con người đã có cuộc sống no ấm trên đất liền, họ bắt đầu đốn gỗ đóng thuyền, tiến ra biển khơi để đánh bắt tôm cá.
