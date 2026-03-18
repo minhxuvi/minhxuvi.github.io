@@ -197,6 +197,7 @@
 - Các con nghe lời cha mẹ, chia nhau ra khắp nơi sinh sống, dựng nên các bộ lạc, khai phá đất đai, trồng trọt, chăn nuôi, xây dựng nhà cửa, làng mạc.
 - Năm mươi người mang dòng máu Rồng lội suối băng rừng tìm về vùng đồng bằng ven biển. Năm mươi người mang cốt cách Tiên đi theo cánh chim Hồng ngược lên vùng non cao mây phủ.
 - Các con dần dần hình thành nên các bộ tộc, mỗi bộ tộc có một vị thủ lĩnh, các vị thủ lĩnh này được gọi là Vua Hùng. Kỷ nguyên rực rỡ của Dòng giống Lạc Hồng chính thức bắt đầu, mở ra thời kỳ con người tự tay kiến tạo thế giới.
+- Đến nay vẫn còn tìm thấy rất nhiều Trống Đồng được đúc có hình chim Lạc.
 
 ## Thánh Gióng: Sự trỗi dậy bảo vệ đất nước, sức mạnh của đồ sắt.
 
