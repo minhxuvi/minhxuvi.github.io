@@ -67,3 +67,8 @@ Cảm ơn mẹ đã nhắn tin và chia sẻ những quan sát chi tiết. Em xi
 Chúc gia đình một buổi tối bình an,
 
 Thầy Minh.
+
+## 0319
+
+- An Nguyên thích làm phép chia theo hướng chia đồ
+- Cần chuẩn bị hạt đậu để chia cho các bạn thực hành phép chia.
