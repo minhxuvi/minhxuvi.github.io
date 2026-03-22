@@ -146,21 +146,27 @@
 - Nỗi khiếp sợ bao trùm khắp Phong Châu, khiến dân lành không ai dám bước chân vào rừng đốn củi hay hái lượm.
 - Nhận được lời thỉnh cầu của muôn dân, Thần Rồng Lạc Long Quân không quản ngại gian lao, tiếp tục lên đường trừ yêu.
 - Chàng nhiều lần giao chiến với Mộc Tinh, nhưng mỗi lần chặt đứt cành lá, cây lại mọc ra nhánh mới nhờ hút năng lượng Hỗn Độn từ đất, rồi nó lại lẩn trốn mất tăm vào rừng sâu.
+- Lạc Long Quân vốn có sức mạnh của nước, không thể phát huy tác dụng với Mộc Tinh.
 - Lạc Long Quân nhận ra rằng Mộc Tinh vốn là loài sống trong bóng tối tĩnh lặng của rừng già, nó vô cùng sợ hãi những âm thanh lớn và sức nóng của ánh sáng.
 - Chàng bèn gọi dân làng lại, dạy họ cách đốn những cây gỗ thường để đục rỗng làm tang trống, căng da thú lên trên, và dùng những khối kim loại còn dư từ thuở rèn vũ khí để đúc thành chiêng.
 - Khi mọi thứ đã sẵn sàng, Lạc Long Quân dẫn đầu đoàn người mang theo trống, chiêng và những ngọn đuốc rực sáng tiến vào khu rừng nơi Mộc Tinh ẩn náu.
 - Khi quái vật vừa vươn vòi ra, tiếng trống, tiếng chiêng đồng loạt vang lên rền rĩ, mạnh mẽ như tiếng gầm của Thần Sét.
 - Âm thanh đinh tai nhức óc cùng ánh lửa bập bùng khiến Mộc Tinh hoảng loạn, run rẩy, các rễ cây co rúm lại không thể lẩn trốn xuống đất.
-- Nhân cơ hội ngàn năm có một, Lạc Long Quân vung gươm thần chém đứt tận gốc rễ của Mộc Tinh, tiêu diệt hoàn toàn con quái vật mộc yêu.
-- Thân cây Mộc Tinh vỡ ra thành vô số khúc gỗ vĩ đại. Lạc Long Quân liền dạy con người cách đục đẽo, lắp ghép những khúc gỗ này để dựng nên những ngôi nhà sàn cao ráo, vững chãi.
-- Nhờ đó, con người an toàn khỏi thú dữ và ẩm thấp. Từ đây, họ không còn phải sống tạm bợ trong hang động mà bắt đầu lập nên những bản làng đông đúc, ngày ngày vang tiếng trống hội rộn rã bình yên.
+- Nhân cơ hội ngàn năm có một, Lạc Long Quân đang định vung gươm thần chém đứt tận gốc rễ của Mộc Tinh, tiêu diệt hoàn toàn con quái vật mộc yêu.
 
 ## Lạc Long Quân gặp Âu Cơ
 
-- Sau khi tiêu diệt Mộc Tinh và hướng dẫn con người cách dựng nhà sàn vững chãi tại đất Phong Châu, Thần Rồng Lạc Long Quân nán lại để giúp xua tan hoàn toàn tàn dư của yêu khí.
-- Cùng lúc ấy, từ vùng núi cao linh thiêng, nàng Âu Cơ giáng trần. Nàng mang cốt cách của dòng dõi Tiên Lạc cao quý, thừa hưởng sức mạnh trị liệu ấm áp từ ngọn Lửa Bảy Màu năm xưa từng giúp Lạc Thần dục hỏa trùng sinh.
+- Đúng lúc này một dải lụa bảy màu xuất hiện chặn lại đòn đánh của Long Quân
+- Tộc Bạch Hạc trở về sau chuyến di cư dài, thấy cây thần tại đất tổ của mình bị tấn công nên ra tay ngăn cản.
+- Dẫn đầu tộc Bạch Hạc là một nàng tiên xinh đẹp tên là Âu Cơ.
+- Nàng ra tay với Long Quân.
+- Đương lúc ra tay thì Mộc Tinh tấn công cả tộc Bạch Hạc.
+- Âu Cơ giao tiếp với Mộc Tinh thì biết được Mộc Tinh vốn là cây thần của tộc Bạch Hạc, Mộc Tinh đã bị Bóng Đêm Sâu Thẳm điều khiển và mất khống chế.
+- Âu Cơ dùng lửa thiêng tịnh hoá nhưng cũng đồng nghĩa với thần cây Chiên Đàn cũng sẽ chết.
+- Thần cây không oán thán mà cảm tạ vì được giải thoát.
+- Mảnh nhỏ của Thần Cây phát tán, mọc thành một khu rừng gỗ quý vĩ đại tại đất Phong Châu.
+- Âu Cơ ngại ngùng vì sự hiểu lầm nên đồng hành cùng Lạc Long Quân đi tịnh hoá những vùng đất bị ô nhiễm bởi yêu khí.
 - Bước chân Âu Cơ đi đến đâu, ánh sáng bảy màu lung linh tỏa ra đến đó, chữa lành những vết thương của cỏ cây, muông thú và tịnh hóa hoàn toàn vùng đất từng bị ô nhiễm.
-- Một ngày nọ, bên dòng suối trong vắt dưới chân núi, Lạc Long Quân – vị Thần Rồng dũng mãnh mang hơi thở mát lành của biển cả bao la, đã tình cờ hội ngộ cùng nàng Âu Cơ – nàng Tiên mang hơi ấm của non cao và ánh sáng mặt trời.
 - Lạc Long Quân đem lòng cảm mến sự dịu dàng, thuần khiết và năng lực chữa lành của Âu Cơ, trong khi nàng Tiên cũng xiêu lòng trước tấm lòng bao dung và những chiến công lẫy lừng bảo vệ nhân loại của chàng.
 - Dù một người mang bản ngã của tộc Rồng dưới biển sâu, một người thuộc về tộc Tiên trên núi thẳm, họ lại hòa hợp với nhau một cách tĩnh tại và diệu kỳ, tựa như muôn dải sông suối bao bọc lấy những ngọn núi xanh.
 - Họ quyết định kết duyên vợ chồng, thiết lập sự giao hòa thiêng liêng giữa Đất và Nước, mượn mảnh đất Phong Châu trù phú làm nơi xây dựng tổ ấm.
@@ -173,10 +179,10 @@
 
 - Nhờ sự che chở của các vị thần, con người ngày càng sinh sôi nảy nở. Thế nhưng, khi cuộc sống trở nên quá no đủ và dễ dàng, họ dần quên đi lòng biết ơn đối với đất trời.
 - Con người bắt đầu nảy sinh lòng tham, tranh giành đất đai, tàn phá rừng núi, chặt cây và săn bắt muông thú vô độ để thỏa mãn sự ích kỷ của mình.
-- Chính những suy nghĩ tối tăm, thói kiêu ngạo và hành động tàn phá thiên nhiên của con người đã tạo ra những luồng oán khí nặng nề, vô tình đánh thức và cộng hưởng với Linh Hồn Hỗn Độn từ thuở khai nguyên vốn đang trốn tránh nơi rìa vũ trụ.
+- Chính những suy nghĩ tối tăm, thói kiêu ngạo và hành động tàn phá thiên nhiên của con người đã tạo ra những luồng oán khí nặng nề, vô tình đánh thức và cộng hưởng với Bóng Đêm Sâu Thẳm mang sức mạnh Hỗn Độn từ thuở khai nguyên vốn đang trốn tránh nơi rìa vũ trụ.
 - Được tiếp thêm sức mạnh từ sự tha hóa của nhân loại, Hỗn Độn âm thầm tích tụ sức mạnh và bất ngờ quay trở lại trả thù.
 - Bầu trời bị xé toạc, vô số những tảng thiên thạch rực lửa khổng lồ trút xuống như muốn thiêu rụi mọi mầm sống, trừng phạt những kẻ đã quay lưng lại với Mẹ Thiên Nhiên.
-- Cùng lúc đó, Hỗn Độn giáng xuống một trận mưa đen kéo dài không dứt ngày đêm. Nước từ trên trời trút xuống, kết hợp với sóng biển cuộn lên, tạo thành cơn Đại Hồng Thủy nhấn chìm mọi đồng bằng, thung lũng để cuốn trôi đi mọi tội lỗi và sự ô nhiễm của con người.
+- Cùng lúc đó, các Bóng Đêm Sâu Thẳm giáng xuống một trận mưa đen kéo dài không dứt ngày đêm. Nước từ trên trời trút xuống, kết hợp với sóng biển cuộn lên, tạo thành cơn Đại Hồng Thủy nhấn chìm mọi đồng bằng, thung lũng để cuốn trôi đi mọi tội lỗi và sự ô nhiễm của con người.
 - Để bảo vệ Trái Đất và bọc trăm trứng, tộc Rồng từ biển sâu và tộc Tiên từ núi thẳm đã xả thân chiến đấu. Rất nhiều Tiên và Rồng đã anh dũng hy sinh, dùng chính thân mình làm lá chắn để đánh chặn thiên thạch.
 - Nhận thấy nước lũ ngập trời sắp nuốt chửng mọi thứ, Mẹ Tiên Âu Cơ liền dùng phép thuật và ngọn lửa sự sống của mình gieo xuống đất một hạt giống. Hạt giống vươn lên mọc thành một giàn bầu hồ lô khổng lồ.
 - Trên giàn kết lại một quả bầu hồ lô vĩ đại, lớp vỏ dần khô lại, trở nên cứng cáp như kim loại nhưng lại nhẹ bàng bồng bềnh.
@@ -191,7 +197,7 @@
 - Sau trận đại chiến hoang tàn không biết bao nhiêu lâu, bọc trứng được che chở an toàn đã nở ra một trăm người con khỏe mạnh, tinh khôi từ trong quả bầu hồ lô trên đỉnh núi.
 - Trái Đất thoát cảnh diệt vong nhưng giờ đây vắng bóng sự hiện diện của Cha Rồng, Mẹ Tiên.
 - Không còn Lạc Long Quân và Âu Cơ dẫn dắt, một trăm người con bơ vơ, ngơ ngác bước ra khỏi quả bầu, cảm thấy cõi lòng trĩu nặng và lạc lõng.
-- Giữa lúc ấy, một trăm người con bơ vơ chợt nghe thấy tiếng vọng ân cần của cha mẹ nương theo gió núi và sóng biển truyền lại: "Ta là rồng thần cổ đại tổ tiên của các con. Dẫu ta đã chết, thân xác ta đã hoá thành một dải núi sông hình chữ S uốn lượn. Chỉ cần các con sống trên đất này, ta sẽ che chở cho các con. Mọi kẻ thù đến xâm lược, muốn làm hại các con đều sẽ bị đánh bại."
+- Giữa lúc ấy, một trăm người con bơ vơ chợt nghe thấy tiếng vọng ân cần nhưng uy nghiêm nương theo gió núi và sóng biển truyền lại: "Ta là rồng thần cổ đại tổ tiên của các con. Dẫu ta đã chết, thân xác ta đã hoá thành một dải núi sông hình chữ S uốn lượn. Chỉ cần các con sống trên đất này, ta sẽ che chở cho các con. Mọi kẻ thù đến xâm lược, muốn làm hại các con đều sẽ bị đánh bại."
 - Cùng với lời vang vọng, từ biển khơi hiện lên ảo ảnh của những con sóng cuộn trào mang linh hồn "Lạc" dũng mãnh của cha. Còn từ trên bầu trời hửng nắng, một cánh chim "Hồng" khổng lồ rực rỡ mang hơi ấm ngọn Lửa Bảy Màu của mẹ bay lướt qua để soi đường chỉ lối.
 - Thấu hiểu tình yêu thương vô bờ bến ấy, các con gạt đi nước mắt. Để tự hào và ghi nhớ công lao của cha mẹ, họ nhận mình là **Dòng giống Lạc Hồng** – những người con mang trong mình sức mạnh vô tận của biển cả (Lạc) và đôi cánh vĩ đại, bao dung của núi rừng (Hồng).
 - Các con nghe lời cha mẹ, chia nhau ra khắp nơi sinh sống, dựng nên các bộ lạc, khai phá đất đai, trồng trọt, chăn nuôi, xây dựng nhà cửa, làng mạc.
