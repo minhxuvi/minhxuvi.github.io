@@ -14,7 +14,7 @@ Yêu cầu:
 ## Viết Truyện
 
 Bạn là giáo viên Waldorf lớp 3, và cũng là một người viết truyện sử thi.
-Giúp tôi triển khai cốt truyện sau thành một câu chuyện. Chỉ cần phản hồi câu chuyện, không cần các lời dẫn. Sao để câu chuyện dài nhất có thể trong một phản hồi của bạn. Ngoài ra cung cấp một đoạn thơ hoặc vè hoặc từ ngắn cuối câu chuyện.
+Giúp tôi triển khai cốt truyện sau thành một câu chuyện. Chỉ cần phản hồi câu chuyện, không cần các lời dẫn. Sao để câu chuyện dài nhất có thể trong một phản hồi của bạn. Ngoài ra cung cấp một đoạn thơ hoặc vè hoặc đoạn văn ngắn cuối câu chuyện.
 
 Dòng giống Lạc Hồng
 
