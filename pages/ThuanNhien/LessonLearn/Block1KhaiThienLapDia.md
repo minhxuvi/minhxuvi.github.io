@@ -84,15 +84,15 @@ Thầy Minh.
 
 ### Quan sát từng bạn
 
-- Pai nói chuyện tự do và hay đùa, và hơi thiếu sự kính sợ với thầy. Bạn vẫn ngoan và lễ phép, và khi hợp tác thì bạn cũng tuân thủ rất tốt, chỉ là bạn rất nhanh mất tập trung và nói chuyện thoải mái.
-- An Nguyên khá giống Pai, nhưng ở mức độ nhẹ hơn. Bạn cũng hay nói chuyện và đùa nghịch, nhưng có vẻ không quá mất tập trung như Pai. Bạn thích vẽ, cảm nhận về cái đẹp tốt. Tỉ mỉ khi viết bài.
-- Thiên Bình hay nói linh tinh hướng đến trêu chọc các bạn, và hơi bướng khi chơi cùng các bạn nên các bạn cũng hơi xa cách, nhưng vẫn cho chơi cùng, chắc do lớp 3 các bạn cũng lớn hơn. Mình có cảm giác Thiên Bình vẫn đang mang tâm thức lớp 2. Bạn làm toán tốt nhưng vẽ thì bạn quen dùng chì màu, mà cũng do bạn không có màu sáp khối riêng nên cũng ngại vẽ. Hy vọng có bộ màu mới bạn sẽ hứng thú vẽ hơn.
-- Nắng ngoan và hợp tác nhất lớp. Chắc bạn cũng thích học với thầy Minh. Trời ơi cảm ơn Nắng. Các kỹ năng của bạn có thể chưa thành thạo bằng các bạn nhưng đều ổn.
-- Leo cũng hợp tác với thầy, bạn hiền, trưởng thành nhưng cũng khá cục tính đó.
-- Tony, lực cản của Tony hơi lớn khiến bạn khá khó hoàn thành bài tập thầy giao, nhưng bạn hoà đồng với các bạn. Tony thích cảm giác trách nhiệm, được làm đội trưởng.
-- Cốm cũng thích làm đội trưởng, năng lực làm bài của bạn mạnh hơn Tony, nhưng làm việc thì lại yếu hơn. Cốm vẽ rất sáng tạo.
-- Nam cũng hơi bị ì, thiếu hứng thú với các hoạt động khi bạn mệt. Bạn hơi thất thường giờ vẽ bạn vẽ khá chăm chú, giờ viết bài và toán thì hơi thiếu hứng thú. Bạn thích nghe chuyện thầy kể.
-- Ri cũng hay mất tập trung và nhiều năng lượng, nhưng bạn có sự kính sợ thầy giáo nhiều hơn. Nhưng bạn cũng hay chẩn việc. Cần quan sát thêm
-- Ốc hay trêu bạn, và cũng hay bị trêu. Bạn khá nhạy cảm, dễ khóc. Bạn viết vẽ hay làm toán đều tạm ổn. Các hoạt động khác cũng tham gia, chỉ là đôi khi giận dỗi các bạn khác thì bạn không có hứng thú làm việc.
-- Nhãn hợp tác tốt, mọi hoạt động bạn đều làm rất tốt. Chỉ là bạn đôi khi nói chuyện với Naomi mà không để ý xung quanh.
-- Naomi cũng tương tự như Nhãn, nhưng độ tập trung của Naomi thấp hơn, và bạn hay hỏi câu hỏi ngoài lề không liên quan đến bài học.
+1. Pai nói chuyện tự do và hay đùa, và hơi thiếu sự kính sợ với thầy. Bạn vẫn ngoan và lễ phép, và khi hợp tác thì bạn cũng tuân thủ rất tốt, chỉ là bạn rất nhanh mất tập trung và nói chuyện thoải mái. Pai hay làm phiền các bạn khác như kiểu muốn gây sự chú ý. Cần quan sát thêm.
+2. An Nguyên khá giống Pai, nhưng ở mức độ nhẹ hơn. Bạn cũng hay nói chuyện và đùa nghịch, nhưng có vẻ không quá mất tập trung như Pai. Bạn thích vẽ, cảm nhận về cái đẹp tốt. Tỉ mỉ khi viết bài.
+3. Thiên Bình hay nói linh tinh hướng đến trêu chọc các bạn, và hơi bướng khi chơi cùng các bạn nên các bạn cũng hơi xa cách, nhưng vẫn cho chơi cùng, chắc do lớp 3 các bạn cũng lớn hơn. Mình có cảm giác Thiên Bình vẫn đang mang tâm thức lớp 2. Bạn làm toán tốt nhưng vẽ thì bạn quen dùng chì màu, mà cũng do bạn không có màu sáp khối riêng nên cũng ngại vẽ. Hy vọng có bộ màu mới bạn sẽ hứng thú vẽ hơn. Bạn hôm nay khá hợp tác khi được Leo hướng dẫn sáo.
+4. Nắng ngoan và hợp tác nhất lớp. Chắc bạn cũng thích học với thầy Minh. Trời ơi cảm ơn Nắng. Các kỹ năng của bạn có thể chưa thành thạo bằng các bạn nhưng đều ổn.
+5. Leo cũng hợp tác với thầy, bạn hiền, trưởng thành nhưng cũng khá cục tính đó.
+6. Tony, lực cản của Tony hơi lớn khiến bạn khá khó hoàn thành bài tập thầy giao, nhưng bạn hoà đồng với các bạn. Tony thích cảm giác trách nhiệm, được làm đội trưởng.
+7. Cốm cũng thích làm đội trưởng, năng lực làm bài của bạn mạnh hơn Tony, nhưng làm việc thì lại yếu hơn. Cốm vẽ rất sáng tạo.
+8. Nam cũng hơi bị ì, thiếu hứng thú với các hoạt động khi bạn mệt. Bạn hơi thất thường giờ vẽ bạn vẽ khá chăm chú, giờ viết bài và toán thì hơi thiếu hứng thú. Bạn thích nghe chuyện thầy kể.
+9. Ri cũng hay mất tập trung và nhiều năng lượng, nhưng bạn có sự kính sợ thầy giáo nhiều hơn. Nhưng bạn cũng hay chẩn việc. Cần quan sát thêm
+10. Ốc hay trêu bạn, và cũng hay bị trêu. Bạn khá nhạy cảm, dễ khóc. Bạn viết vẽ hay làm toán đều tạm ổn. Các hoạt động khác cũng tham gia, chỉ là đôi khi giận dỗi các bạn khác thì bạn không có hứng thú làm việc.
+11. Nhãn hợp tác tốt, mọi hoạt động bạn đều làm rất tốt. Chỉ là bạn đôi khi nói chuyện với Naomi mà không để ý xung quanh.
+12. Naomi cũng tương tự như Nhãn, nhưng độ tập trung của Naomi thấp hơn, và bạn hay hỏi câu hỏi ngoài lề không liên quan đến bài học.
