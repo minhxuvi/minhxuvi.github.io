@@ -2029,17 +2029,17 @@ Dưới đây là bức tranh toàn cảnh về cội nguồn và hành trình k
 
 **Lời Thơ Ghi Nhớ Sử Thi**
 
-Từ Hạt Mầm nứt vỏ thuở hồng hoang,
-Trụ Trời vươn dáng, xua tan mây mù.
-Nàng Tiên nặn nắn hình thù,
-Thần Nông nếm cỏ, ươm mùa lúa thơm.
-
-Rồng thiêng dẹp sóng gầm gừ,
-Gióng vung roi sắt, quét thù xâm lăng.
-Cuội ngồi ôm gốc đa trăng,
-Mười hai con giáp kết vầng thời gian.
-
-Trí khôn cháy rực non ngàn,
-Tre trăm đốt nối, công bằng sáng soi.
-Sử thi dệt gấm thêu hoa,
-Lạc Hồng chung bước, bài ca muôn đời!
+</br>Từ Hạt Mầm nứt vỏ thuở hồng hoang,
+</br>Trụ Trời vươn dáng, xua tan mây mù.
+</br>Nàng Tiên nặn nắn hình thù,
+</br>Thần Nông nếm cỏ, ươm mùa lúa thơm.
+</br>
+</br>Rồng thiêng dẹp sóng gầm gừ,
+</br>Gióng vung roi sắt, quét thù xâm lăng.
+</br>Cuội ngồi ôm gốc đa trăng,
+</br>Mười hai con giáp kết vầng thời gian.
+</br>
+</br>Trí khôn cháy rực non ngàn,
+</br>Tre trăm đốt nối, công bằng sáng soi.
+</br>Sử thi dệt gấm thêu hoa,
+</br>Lạc Hồng chung bước, bài ca muôn đời!
