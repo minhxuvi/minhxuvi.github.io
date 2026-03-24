@@ -96,3 +96,12 @@ Thầy Minh.
 10. Ốc hay trêu bạn, và cũng hay bị trêu. Bạn khá nhạy cảm, dễ khóc. Bạn viết vẽ hay làm toán đều tạm ổn. Các hoạt động khác cũng tham gia, chỉ là đôi khi giận dỗi các bạn khác thì bạn không có hứng thú làm việc.
 11. Nhãn hợp tác tốt, mọi hoạt động bạn đều làm rất tốt. Chỉ là bạn đôi khi nói chuyện với Naomi mà không để ý xung quanh.
 12. Naomi cũng tương tự như Nhãn, nhưng độ tập trung của Naomi thấp hơn, và bạn hay hỏi câu hỏi ngoài lề không liên quan đến bài học.
+
+## 0324 - Tuesday
+
+### Quan sát chung
+
+- Giờ sinh hoạt vòng tròn khá ổn, mình cho chuyền đá và đọc bảng cửu chương. À có Nam và Ri dính thẻ vàng vì đùa vui và không chuyền đá.
+- Giờ bài học chính, cũng khá ổn, tuy nhiên mình chưa hướng dẫn các bạn vẽ được nhiều. Mình nên viết bảng từ chiều nay luôn. Tony vẫn khá ì, mình cần tìm cách để bạn hứng thú hơn. Tuy vậy bạn vẫn cố gắng viết bài, chỉ là vẽ thực sự là thứ mà bạn rất ngại.
+- Giờ ôn tập toán, vẽ theo vòng tròn hơi mất nhịp điệu vì mỗi bạn một ý. Này là lỗi do mình.
+- Buổi trưa các bạn chơi hơi ồn, cần có hoạt động yên tĩnh hơn. Mình tính đi mượn một đống sách cho các bạn đọc.

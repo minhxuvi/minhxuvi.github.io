@@ -213,3 +213,142 @@ Em vui em [G]hát</br>
 Hạt vàng làng [Am]ta</br>
 Em vui em [Dm]hát</br>
 Hạt vàng làng [C]ta…</br>
+
+## Một vòng Việt Nam
+
+Tone [Em] - Tone gốc F#m: Capo 2</br>
+Hoặc capo 4 chơi F-G-Em-Am + F-G-C Cho dễ hát
+
+Ai đã [C]ghim vào những thân [D]tre</br>
+Bao ký [Bm]ức xót xa hỡi [Em]mẹ</br>
+Ai đã [C]ru ngủ những dòng [D]sông </br>
+Cùng êm [G]ả chảy về hướng đông</br>
+Con đã [C]vẽ hình hài quê [D]hương </br>
+Qua những [Bm]khúc hát ru của [Em]mẹ </br>
+Còn bao [C]nhiêu lời ru con [D]vẫn</br>
+Chưa [Em]được nghe? </br>
+Việt Nam [C]quê hương ta đẹp [D]lắm</br>
+Mặc lửa [Bm]khói dày xéo tháng [Em]năm</br>
+Người Việt [C]Nam da nâu mắt [D]đen</br>
+Thảo thơm [G]bất khuất như cành sen</br>
+Việt Nam [C]ơi quê hương ta [D]ơi? </br>
+Biển lúa [Bm]chín vàng thơm ngát [Em]trời </br>
+Vọng [C]tiếng ai hò? </br>
+Vì [D]nhớ con đò</br>
+À [Em]ơi </br>
+Dậy [C]với tôi nào </br>
+Dạo [D]với tôi nào </br>
+Dạo [Bm]khắp một vòng Việt [Em]Nam</br>
+Nhìn [C]non sông trời [D]văn đất [G]võ </br>
+Cùng [C]với tôi nào Dạo [D]với tôi nào </br>
+Dạo [Bm]khắp một vòng Việt [Em]Nam</br>
+Come [C]with me! </br>
+We'll [D]travel around Viet [Em]Nam.</br>
+
+## Hào Khí Việt Nam
+
+Tone gốc Bbm: Capo 1</br>
+
+Intro: [Am] Hô hô hố hô [G] hồ. [F] Hô hô hố hô [G] hô</br>
+[Am] Hô hô hố hô [G] hồ. [Em] Hố hồ hồ [Am] hô</br>
+
+Việt [Am] Nam ơi, giống [C] hùng thiêng</br>
+Ngàn [G] năm lưu danh sử [Am] sách</br>
+Mẹ Âu Cơ bố [C] Lạc Long Quân</br>
+Cùng [G] trăm con xây [Am] cơ đồ</br>
+
+Hố [G] hô hô hố [Am] hồ</br>
+
+Thời [Am] gian qua đã thắm [C] đời ông cha</br>
+Dựng [G] xây giữ yên bờ [Am] cõi</br>
+Để hôm nay con cháu [C] cùng hoan ca</br>
+Đất [G] nước thanh bình, rực [Am] rỡ gấm hoa</br>
+
+[Em] Hố hô hồ [Am] hô</br>
+
+ĐK 1: [Am] Đinh, Lý, Trần, [G] Lê ơi! nguyện [F] xin khắc ghi đời [C] đời</br>
+[Am] Xương máu Rồng [G] Tiên ơi! còn [F] đây kiên trung bất [E7] khuất</br>
+[Am] Như sóng biển [G] Đông kia ngàn [F] năm mãi luôn lưu [C] truyền</br>
+[Am] Hào khí trời [G] Nam ta rạng [Em] ngời sắt son Việt [Am] Nam</br>
+
+Triều [Am] Tây sơn áo [C] bạc vai</br>
+Rừng [G] thiêng sắt son thề [Am] ước</br>
+Thành Thăng Long mãi [C] còn bay xa</br>
+Thời [G] gian qua thắm [Am] oai hùng</br>
+
+[G] Hố hô hồ [Am] hô</br>
+
+Nhà [Am] Nam ta, đất với [C] trời bao la</br>
+Tuyệt [G] nhiên thiên thư còn [Am] đó</br>
+Giặc bao phen, khiếp vía, [C] chùn tâm can</br>
+Đất [G] nước ngoan cường, một [Am] dãi gấm hoa</br>
+
+[Em] Hố hô hồ [Am] hô</br>
+
+Sông Hát hồn [G] thiêng ơi, ngàn [F] sau cháu con nghi [C] lòng</br>
+[Am] Sóng lớn, Bạch Đằng [G] giang ơi, vùi [F] thây bao quân xâm [E7] lấn</br>
+[Am] Lớp lớp người [G] chung tay, dựng [F] xây gấm son san [C] hà</br>
+[Am] Cho nước Việt [G] Nam ta, ngàn [Em] đời ngút cao hùng [Am] thiêng</br>
+
+ĐK 1: [Am] Đinh, Lý, Trần, [G] Lê ơi! nguyện [F] xin khắc ghi đời [C] đời</br>
+[Am] Xương máu Rồng [G] Tiên ơi! còn [F] đây kiên trung bất [E7] khuất</br>
+[Am] Như sóng biển [G] Đông kia ngàn [F] năm mãi luôn lưu [C] truyền</br>
+[Am] Hào khí trời [G] Nam ta rạng [Em] ngời sắt son Việt [Am] Nam</br>
+
+[Am] Cho đến ngàn [G] năm sau, rạng [Em] ngời sắt son, hào khí Việt [Am] Nam</br>
+
+## Hello Việt Nam
+
+tone [Am]
+
+Tell me [F]all about [G]this name, that [Am]is difficult to say</br>
+It [F]was given me [G]the day I [Am]was born</br>
+Want to [F]know about [G]the stories of [C]the [Am]empire of old</br>
+My [F]eyes say more of [G]me than what you dare [Am]to say.</br>
+All I [Dm]know of you is all [Em]the sights of war</br>
+A [Dm]film by Coppola, [Em]the helicopter's roar.</br>
+One [F]day [G]----- --------I'll touch [Am]your soil</br>
+One [F]day [G]I'll finally know [C]your soul</br>
+One [F]day [G]------ ------I'll come [Am]to you</br>
+To say [F]hello--- [G] [Am]---- Vietnam.</br>
+
+Bạn hãy nói [F]cho tôi biết [G]chăng, về họ, [Am]tên mà tôi đã mang.</br>
+về miền [F]quê mà tôi ngày [G]đêm luôn nhớ [Am]mong.</br>
+Lòng [F]tôi mong biết đất nước [G]tôi, đất [C]nước đã có bao [Am]đời.</br>
+Được nhìn bằng đôi mắt của [F]mình được trở [G]về cuội nguồn của [Am]tôi.</br>
+Và qua phim [Dm]Coppola, lòng thấy xót [Em]thương quê hương.</br>
+Bầy trực thăng [Dm]bay trên [Em]cao, tàn phá xóm thôn nhỏ bé.</br>
+Ước [F]mong [G] về thăm chốn [Am]thiêng.</br>
+Mong [F]sao [G] quê hương dang tay đón [C]tôi.</br>
+Mong [F]ước [G]đến ngày trở [Am]về.</br>
+Lòng [F]tôi yêu [G]mến, Việt [Am]Nam.</br>
+
+Itsuka mita [Dm] yume no mukō [Em] de</br>
+Moeru[Dm] kojō to [Em]nige yuku hito o</br>
+anata [F] ni [G]iitakute</br>
+anata [Am] ga [G] ikita basho [Am] de</br>
+daichi[F] ni te [G] o atete [Am]</br>
+kon'nichiwa [F] [G] Betonamu [Am]</br>
+
+[Dm]And Buddha's made of [Em]stone watch over me</br>
+[Dm]My dreams they lead me through the fields of [Em]rice</br>
+In [Dm]prayer, in the light…I see my [Em]kin</br>
+I touch my [Dm]tree, my roots,my be-[Em]gin</br>
+
+## Chiếc bụng đói
+
+## Bài ca tôm cá
+
+## Thằng cuội
+
+## Cây Đa Quán Dốc
+
+## HÈ VỀ
+
+## Nối vòng tay lớn
+
+## VIỆT NAM TÔI
+
+## Còn gì đẹp hơn
+
+## Ta đã thấy gì trong đêm nay
