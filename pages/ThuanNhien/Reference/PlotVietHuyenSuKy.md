@@ -208,7 +208,8 @@
 ## Thánh Gióng: Sự trỗi dậy bảo vệ đất nước, sức mạnh của đồ sắt.
 
 - Dưới sự dẫn dắt của các Vua Hùng, Dòng giống Lạc Hồng ngày càng phát triển, xóm làng trù phú.
-- Đến đời Vua Hùng thứ sáu, từ phương Bắc xa xôi, một đạo quân tàn ác gọi là giặc Ân ồ ạt kéo sang xâm lược. Chúng đi đến đâu là đốt phá nhà cửa, cướp bóc thóc lúa, đe dọa cuộc sống bình yên của người dân.
+- Đến đời Vua Hùng thứ sáu, từ phương Bắc xa xôi. Có một đạo quân tinh nhuệ nhưng vô cùng hung ác. Chúng toàn kỵ binh, cưỡi ngựa sắt, hông đeo cung tên, tay cầm mã tấu. Mũi tên của chúng được làm từ hàn băng ngàn năm. Ai trúng tên thì bị đóng băng ngay lập tức. Mã tấu của chúng được nung qua lửa Hỗn Độn. Mỗi đao chém ra mang theo luồng khí đen tà ác.
+- Chúng đi đến đâu là đốt phá nhà cửa, cướp bóc thóc lúa, đe dọa cuộc sống bình yên của người dân. Chúng không định cư tại một chỗ mà cứ cướp bóc xong nơi này lại dời đi nơi khác tiếp tục tàn phá. Bất kỳ nơi nào chúng đi qua, xương chất đầy đồng, cây không mọc nổi, làng mạc cháy đen thành một đống tro tàn.
 - Lúc bấy giờ, ở làng Gióng có hai vợ chồng già chăm chỉ làm lụng nhưng mãi không có con. Một hôm, bà lão ra đồng, tình cờ thấy một vết chân vĩ đại, to lớn khác thường in trên mặt đất – vết tích còn sót lại của một vị Linh Thần Khổng Lồ từ thuở Khai Thiên Lập Địa.
 - Bà lão tò mò đặt chân vào ướm thử, không ngờ về nhà liền mang thai và sinh ra một cậu bé khôi ngô, đặt tên là Gióng.
 - Lạ thay, Gióng lên ba tuổi mà vẫn nằm im một chỗ, không biết nói, không biết cười, cũng chẳng biết đi đứng.
@@ -220,7 +221,9 @@
 - Trong khi đó, ở làng Gióng, dân làng nô nức góp gạo, góp cà để thổi cơm nuôi cậu bé. Gióng ăn bao nhiêu cũng không no, áo vừa may xong đã đứt chỉ. Cậu bé vươn vai một cái liền biến thành một tráng sĩ khổng lồ, oai phong lẫm liệt.
 - Khi ngựa sắt, giáp sắt và roi sắt được mang đến, tráng sĩ mặc áo giáp, vỗ tay vào mông ngựa. Ngựa sắt hí vang trời, từ trong miệng phun ra ngọn lửa đỏ rực mang theo sức nóng hầm hập của những lò rèn vĩ đại.
 - Gióng vung roi sắt, cưỡi ngựa lao thẳng vào vòng vây của giặc Ân. Sức mạnh của kim loại sắc bén vô địch quật ngã hàng vạn quân thù, áo giáp sắt che chắn mọi mũi tên hòn đạn.
-- Đang lúc đánh hăng nhất thì cây roi sắt gãy. Không hề nao núng, Gióng tiện tay nhổ những cụm tre đằng ngà ven đường – biểu tượng cho sức sống bền bỉ của thiên nhiên xứ sở – làm vũ khí tiếp tục quật giặc tơi bời.
+- Tuy vậy đại tướng của quân địch cũng không phải dạng vừa. Hắn cưỡi một con ngựa đen tuyền, thân hình to lớn như một con trâu mộng. Trên tay hắn cầm một cây mã tấu khổng lồ, mỗi nhát chém ra mang theo luồng khí đen đặc tà ác. Những mũi tên hắn bắn ra đều chuẩn xác vô cùng. Thậm chí đã có một vài mũi lách qua được khe giáp mà xuyên vào da thịt của tráng sĩ. Vùng da đó đóng băng ngay lập tức. Tráng sĩ đau đớn nhưng không hề nao núng. Cậu tiếp tục vung roi sắt quật ngã hàng vạn quân thù.
+- Tên chủ tướng địch xông lên cầm mã tấu mà quật thẳng vào tráng sĩ. Tráng sĩ dơ roi sắt lên đõ, roi sắt bị gãy.
+- Khi đang không biết làm thế nào thì từ trên trời một hình ảnh mờ ảo hiện lên như cột chống trời ngày trước. Phía dưới chân cột là một bụi tre. Gióng lao đến nhổ những cụm tre đằng ngà ven đường – biểu tượng cho sức sống bền bỉ của thiên nhiên xứ sở – làm vũ khí tiếp tục quật giặc tơi bời. Đánh cho tên chủ tướng không còn mũ giáp, vứt bỏ mã tấu mà chạy trốn.
 - Giặc Ân tan vỡ, tháo chạy tán loạn. Đất nước trở lại thái bình.
 - Gióng một mình cưỡi ngựa bay lên đỉnh núi Sóc, cởi bỏ chiếc áo giáp sắt gửi lại cho trần gian, rồi cùng ngựa sắt từ từ bay thẳng lên trời cao.
 - Người đời sau luôn nhớ ơn người anh hùng làng Gióng, đồng thời càng thêm tự hào và trân trọng nghề rèn đúc thủ công – thứ đã tạo ra sức mạnh kim khí bảo vệ bờ cõi nước nhà.
