@@ -784,24 +784,16 @@ Giữa điện Kính Thiên vang lừng tiếng trống, Vua Hùng nắm lấy t
 Các vị Lang khác dẫu có bao nhiêu trân bảo cũng đành cúi đầu tâm phục khẩu phục. Từ ngày Lang Liêu lên ngôi báu, ngài hướng dẫn nhân dân càng thêm chăm chỉ cày cấy, mở mang bờ cõi, đất nước bước vào một kỷ nguyên rực rỡ và đầm ấm hơn bao giờ hết.
 
 Và cũng kể từ cái ngày lễ tế lịch sử ấy về sau, truyền thống tự tay vo gạo, chẻ lạt, gói bánh chưng bánh dày đã chính thức ra đời. Cứ mỗi độ đông tàn xuân đến, khi hoa mai hoa đào chúm chím nở, nhà nhà lại rộn ràng quây quần bên bếp lửa hồng, thức thâu đêm canh nồi bánh chưng chờ đón giao thừa. Hai chiếc bánh ấy đã vượt qua ranh giới của một món ăn, trở thành biểu tượng thiêng liêng bất diệt trong văn hóa, để những người con Việt đời đời tạ ơn Trời Đất, tạ ơn Tổ tiên đã ban cho họ một cuộc sống ấm no, bình yên và nhắc nhở nhau luôn trân trọng những hạt ngọc thực mọc lên từ đất mẹ.
+Dưới đây là 8 câu thơ lục bát viết về sự tích bánh chưng, bánh dày, gói gọn cả hương vị đậm đà lẫn ý nghĩa nhân văn sâu sắc:
 
-Nếp thơm dẻo hạt,</br>
-Lá dong xanh ngát.</br>
-Đậu bùi, thịt béo,</br>
-Bàn tay khéo léo.</br>
-Gói chiếc bánh chưng,</br>
-Vuông vức, vững chãi,</br>
-Tượng hình Đất Mẹ!</br>
-
-Giã xôi chày nhẹ,</br>
-Nặn chiếc bánh dày.</br>
-Tròn trịa, trắng thay,</br>
-Tượng hình vòm Trời!</br>
-
-Lang Liêu ghi lời,</br>
-Tạ ơn nguồn cội.</br>
-Hạt ngọc đâm chồi,</br>
-Muôn đời no ấm!</br>
+Lá dong bọc bánh chưng xanh,
+</br>Dẻo thơm nếp hạt, tưng bừng sắc quê.
+</br>Đậu xanh thịt mỡ san đều,
+</br>Tượng hình mặt đất, vỗ về tình con.
+</br>Bánh dày trắng muốt dẻo tròn,
+</br>Bầu trời gom lại, nếp ngon dâng đời.
+</br>Tinh hoa quyện vị đất trời,
+</br>Khắc ghi hiếu đạo sáng ngời ngàn năm.
 
 ## Sự tích Mai An Tiêm
 

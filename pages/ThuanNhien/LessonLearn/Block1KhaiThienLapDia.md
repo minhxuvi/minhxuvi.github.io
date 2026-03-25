@@ -105,3 +105,8 @@ Thầy Minh.
 - Giờ bài học chính, cũng khá ổn, tuy nhiên mình chưa hướng dẫn các bạn vẽ được nhiều. Mình nên viết bảng từ chiều nay luôn. Tony vẫn khá ì, mình cần tìm cách để bạn hứng thú hơn. Tuy vậy bạn vẫn cố gắng viết bài, chỉ là vẽ thực sự là thứ mà bạn rất ngại.
 - Giờ ôn tập toán, vẽ theo vòng tròn hơi mất nhịp điệu vì mỗi bạn một ý. Này là lỗi do mình.
 - Buổi trưa các bạn chơi hơi ồn, cần có hoạt động yên tĩnh hơn. Mình tính đi mượn một đống sách cho các bạn đọc.
+
+## 0325 - Wednesday
+
+Hôm nay khá ổn. Giờ học toán mình chia thành hai đội cho thực hiện các phép chia lớn bằng cách xếp gỗ. Các bạn khá hào hứng.
+Buổi chiều ngồi hát các bài hát hay, cả lớp hoà nhịp cũng vui. Cứ tiếp tục thế đi.
