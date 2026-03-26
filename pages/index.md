@@ -6,8 +6,8 @@ Minh Định, Chánh Niệm, Tự Do.
 
 ## Vũ trụ có trước hay ta có trước?
 
-## [Sống nghệ thuật trong từng khoảnh khắc](./Dao/SongNgheThuatTrongTungKhoanhKhac)
+## [Sống nghệ thuật trong từng khoảnh khắc](./index/SongNgheThuatTrongTungKhoanhKhac)
 
-## [Cần bắt đầu bằng lễ, cần hơn kết thúc bằng lễ](./Dao/CanBatDauBangLeCanHonKetThucBangLe)
+## [Cần bắt đầu bằng lễ, cần hơn kết thúc bằng lễ](./index/CanBatDauBangLeCanHonKetThucBangLe)
 
-## [Giới thứ 5: Tiêu thụ có chánh niệm](./Dao/GioiThu5TieuThuChanhNiem)
+## [Giới thứ 5: Tiêu thụ có chánh niệm](./index/GioiThu5TieuThuChanhNiem)

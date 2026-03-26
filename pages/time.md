@@ -1,6 +1,6 @@
 ## Phân bổ thời gian trong tuần
 
-**4-7 (3 tiếng):**
+**4h30-7 (2.5 tiếng):**
 
 - Học theo thứ tự ưu tiên tại [Mục tiêu học tập](Strategy.md)
 
@@ -8,6 +8,7 @@
 
 - Ăn sáng
 - Vệ sinh cá nhân
+- Tập hát
 
 **8-17 (9 tiếng):**
 
@@ -23,11 +24,12 @@
 
 - Tập võ
 
-**18-21 (3 tiếng):**
+**18-22h (4 tiếng):**
 
 - Ăn tối
-- Family time
-- Đọc sách cho con nghe
+- Rửa bát, lau nhà, tắm cho con và mở playlist quen thuộc.
+- Chơi với con có thể vẽ, nặn đất nặn, đọc sách, hát, kể chuyện, chơi cờ, chơi đồ chơi.
+- Con đi ngủ thì có thể đọc sách.
 
 ## Cuối tuần
 
