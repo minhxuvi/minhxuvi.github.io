@@ -352,3 +352,40 @@ I touch my [Dm]tree, my roots,my be-[Em]gin</br>
 ## Còn gì đẹp hơn
 
 ## Ta đã thấy gì trong đêm nay
+
+## Tiếng Tôi Vàng Rừng Núi Sao Không Ai Trả Lời
+
+## Em đi tỉa măng, em hái rau rừng
+
+## Em đẹp thế Pleiku
+
+## Em muốn sống bên anh trọn đời
+
+## Đàn ta lư
+
+## Hồ trên núi
+
+## radwimps #anime
+
+## Blink sakeo
+
+Yohohoho yohohoho
+
+## Blue bird
+
+## Alway with me
+
+## Spirit aways
+
+## Wavin' Flag
+
+## Matisyahu - One Day (YouTube Version)
+
+https://www.youtube.com/watch?v=WRmBChQjZPs
+https://youtu.be/buS21tVq5r0?si=WqzC1VZQgRvjkiz4
+
+## Bài ca tuổi trẻ
+
+https://www.youtube.com/watch?v=ghUh0NPHXy8
+
+## BAI CA TOM CA
