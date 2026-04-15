@@ -389,3 +389,25 @@ https://youtu.be/buS21tVq5r0?si=WqzC1VZQgRvjkiz4
 https://www.youtube.com/watch?v=ghUh0NPHXy8
 
 ## BAI CA TOM CA
+
+## Hành Trình Của Lá
+
+https://www.youtube.com/watch?v=KHeHYE4B8zU
+
+## Note rê
+
+https://www.youtube.com/watch?v=5TuoEZ2rW3Y
+
+
+<score lang="ABC">
+X:1
+T:The Legacy Jig
+M:6/8
+L:1/8
+R:jig
+K:G
+GFG BAB | gfg gab | GFG BAB | d2A AFD |
+GFG BAB | gfg gab | age edB |1 dBA AFD :|2 dBA ABd |:
+efe edB | dBA ABd | efe edB | gdB ABd |
+efe edB | d2d def | gfe edB |1 dBA ABd :|2 dBA AFD |]
+</score>

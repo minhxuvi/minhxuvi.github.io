@@ -5,8 +5,6 @@
 - Giáo án Mây Hồng: https://docs.google.com/spreadsheets/d/1uBnIFPmEzUSkXM5pZDFMxGp82vsyd1jT/edit?usp=drive_link&ouid=109801235079305438577&rtpof=true&sd=true
 - Tư Liệu Mây Hồng: https://drive.google.com/drive/folders/1YqLkhtMCay1Xr4mQ3ESPEs3KYA1hZk_T
 
-- Giáo án Cầu Vồng: https://docs.google.com/spreadsheets/d/1fl9U05EcE9rxcdu0Gln-uhVz-VjryBOfJMeWQRQxvTw/edit?usp=drive_link
-
 ## Node lại Bài giảng module lớp 3
 
 ## Đi rừng

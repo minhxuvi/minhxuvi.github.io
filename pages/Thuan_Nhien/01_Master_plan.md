@@ -6,69 +6,26 @@
 
 ---
 
-## BLOCK 1: KHAI THIÊN LẬP ĐỊA (VŨ TRỤ & ĐẤT ĐAI)
+## Block 1: Creation Myths (3 Weeks)
 
-_Thời gian:_ 7 tuần (09/03/2026 - 26/04/2026)
+_Time:_ 3.5 weeks (09/03/2026 - 01/04/2026)
 
-**Mục tiêu kết nối (Dựa trên Curriculum Map):** Xây dựng nền tảng "Tiếp đất" (Grounding). Rèn luyện đôi chân bám đất và đôi tay lao động thông qua làm vườn (tiền đề cho sự bền bỉ của cơ bắp để đạp xe sau này).
+- **Focus:** Transitioning from the dreamlike consciousness of early childhood to a grounded awareness of the world’s origins.
+- **Content:** Stories of how the world, the elements, and humanity were formed. Integration of _Việt Huyền Sử Ký_ narratives, exploring the separation of Heaven and Earth and the emergence of the first physical forms.
 
-**Mục tiêu tâm thức:** Giúp trẻ đi qua điểm Rubicon (9 tuổi) bằng cách tìm thấy trật tự trong vũ trụ hỗn độn. Nuôi dưỡng lòng biết ơn và sự kính ngưỡng đối với nguồn cội.
+## **Block 2: The Alchemy of Cooking (2 Weeks)**
 
-- Thoả mãn được nhu cầu tìm hiểu, khám phá nhận thức về thế giới xung quanh. Mọi thứ bắt đầu như thế nào? Tôi đến từ đâu?
-- Tin tưởng vào một nguồn lực tâm linh luôn luôn ôm ấp, che chở cho các con.
-- Giúp các con đi qua nỗi cô đơn, sợ hãi. Vượt qua những lo lắng, nghi ngờ mâu thuẫn bên trong nội tâm trẻ.
+Time: 30/03/2026 - 15/04/2026
 
-**Mục tiêu kỹ năng:** Ngôn ngữ (viết đoạn văn giàu hình ảnh), Quan sát hiện tượng tự nhiên, Kỹ năng nông nghiệp cơ bản.
+- **Focus:** Transformation through fire and water.
+- **Content:** Understanding the journey from raw ingredients to nourishment. Students learn the properties of grains, the science of heat, and the cultural importance of communal meals. This block bridges the gap between the "Mythical" and the "Practical."
 
-- Viết những đoạn văn với dấu chấm câu đúng: dấu chấm câu, dấu chấm hỏi, dấu chấm than, dấu ngoặc kép.
-- Trẻ tạo sách minh hoạ của riêng mình với những ngôn ngữ với sự Khai Thiên Lập Địa nguyên thuỷ.
-- Đọc trôi chảy đoạn truyện, thơ Khai Thiên Lập Địa.
-- Nhớ lại và diễn đạt, kể và diễn kịch lại nội dung câu chuyện rõ ràng.
-- Thuộc lòng những bài xướng, bài vần và thơ từ chuyện kể.
-- Viết đoạn văn sáng tạo.
-- Trân trọng cách mà nền văn hoá xưa đã diễn tả cảm nhận về sự tạo thành thế giới.
-- Xác định được các loại từ: từ chỉ hành động, từ để mô tả và từ để gọi tên.
+## **Block 3: Farming and the Rice Cycle (1 Weeks, 2 Days)**
 
-**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:**
-Sử dụng **Thần thoại Việt** (Thần Trụ Trời, Lĩnh Nam Trích Quái, Lạc Long Quân, Âu Cơ...). Vẽ màu nước (Wet-on-wet) thể hiện sự giao thoa ánh sáng/bóng tối.
+Time: 16/04/2026 - 27/04/2026
 
-### **Tuần 1 (09/03 - 15/03): Vũ trụ sơ khai**
-
-- _Nội dung chính:_ Hạt Mầm Ánh Sáng, Khai Thiên Lập Địa, Tộc Rồng và Tiên xuất hiện, Mười Hai Bà Mụ nặn ra con người
-- _Hoạt động bổ trợ:_ Đi thăng bằng trên thanh gỗ (Rèn tiền đình).
-
-### **Tuần 2 (16/03 - 22/03): Bầu trời & Khí quyển**
-
-- _Nội dung chính:_ Cuộc chiến Gió và Mưa.
-- _Hoạt động bổ trợ:_ Quan sát mây và hướng gió (Khí tượng học sơ khai).
-
-### **Tuần 3 (23/03 - 29/03): Đại dương & Lục địa**
-
-- _Nội dung chính:_ Lạc Long Quân - Âu Cơ. Sông Thu Bồn kể chuyện phù sa.
-- _Hoạt động bổ trợ:_ Chạm tay vào đất sét/bùn (Cảm nhận vật chất).
-
-### **Tuần 4 (30/03 - 05/04): Thế giới Cây cỏ (Dạy thay)**
-
-- _Nội dung chính:_ Sự tích các loài cây. Vẽ thực vật sân trường.
-
-### **Tuần 5 (06/04 - 12/04): Thế giới Muôn thú (Dạy thay)**
-
-- _Nội dung chính:_ Trí khôn của ta đây. Nặn sáp ong hình thú.
-
-### **Tuần 6 (13/04 - 19/04): Con người & Đất đai**
-
-- _Nội dung chính:_ Con người nhận lãnh trách nhiệm chăm sóc Trái Đất. Sự tích Hạt lúa. Ra vườn dọn cỏ.
-- _Hoạt động bổ trợ (Prepare for the future):_ **Chăm sóc công cụ:** Học quy trình rửa sạch cuốc xẻng, lau khô và cất đúng chỗ (Rèn tính kỷ luật bảo dưỡng thiết bị/xe đạp).
-
-### **Tuần 7 (20/04 - 26/04): Gieo hạt & Cội nguồn**
-
-- _Sự kiện/Sinh nhật:_
-- 🎂 **Đào Di Linh (Nhãn) - 24/04:** Chủ đề "Hạt Nhãn nảy mầm". Nhãn được đại diện lớp gieo những hạt giống đầu tiên xuống luống đất mới làm.
-- **Giỗ Tổ Hùng Vương (10/3 Âm - CN 26/04):** Kể chuyện Vua Hùng dựng nước vào Thứ 6 Outdoor, kết nối mạch Sáng thế với Lịch sử dân tộc.
-
-- _Nội dung chính:_ Nghi thức gieo hạt. Kết thúc Block Sáng thế.
-
----
+- **Focus:** Direct labor and the "Nine-Year Change" grounding.
+- **Content:** Hands-on participation in the Central Vietnamese rice cycle. Students engage in soil preparation, understanding the lunar calendar's influence on planting, and the rhythmic nature of agricultural life in Hoi An.
 
 ## 📅 NGHỈ XUÂN & LỄ (27/04 - 10/05/2026)
 
