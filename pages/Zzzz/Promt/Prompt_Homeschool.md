@@ -21,7 +21,6 @@ Act as a master curriculum designer. Outline a 12-year homeschooling overview.
 Please create a comprehensive overview for this single grade.
 
 1.  Outline the necessary Main Lesson Blocks for the year. Create as many 3-to-4-week blocks as required to fully complete a standard Grade [Grade here] curriculum.
-2.  Detail the ongoing weekly practical arts and projects (e.g., woodworking, gardening).
 
 **Strict Rules:**
 
@@ -39,8 +38,7 @@ Please create a comprehensive overview for this single grade.
 Please create a comprehensive overview for this single grade.
 
 1.  Outline the necessary Main Lesson Blocks for the year. Create as many 3-to-4-week blocks as required to fully complete a standard Grade 3 curriculum.
-2.  Detail the ongoing weekly practical arts and projects (e.g., woodworking, gardening).
-3.  I need the first block is 3 week about Creation Myths follow by 3 week block in cooking. Then 1.5 week in form drawing. Then 1 week block jungle journey, then 3 week measurement block, then 4 week building block, then 3 week music theory block, then other block go afterward.
+2.  I need the first block is 3 week about Creation Myths follow by 3 week block in cooking. Then 1.5 week in form drawing. Then 1 week block jungle journey, then 3 week measurement block, then 4 week building block, then 3 week music theory block, then other block go afterward.
 
 **Strict Rules:**
 

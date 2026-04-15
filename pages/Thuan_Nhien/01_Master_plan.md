@@ -20,354 +20,123 @@ Time: 30/03/2026 - 15/04/2026
 - **Focus:** Transformation through fire and water.
 - **Content:** Understanding the journey from raw ingredients to nourishment. Students learn the properties of grains, the science of heat, and the cultural importance of communal meals. This block bridges the gap between the "Mythical" and the "Practical."
 
-## **Block 3: Farming and the Rice Cycle (1 Weeks, 2 Days)**
+## Block 3: Dynamic Symmetry (Form Drawing)
 
 Time: 16/04/2026 - 27/04/2026
 
-- **Focus:** Direct labor and the "Nine-Year Change" grounding.
-- **Content:** Hands-on participation in the Central Vietnamese rice cycle. Students engage in soil preparation, understanding the lunar calendar's influence on planting, and the rhythmic nature of agricultural life in Hoi An.
+**Focus:** Mirroring and interlacing patterns. This block focuses on vertical and horizontal symmetry, requiring the child to find their own "center" on the page. The drawings transition from free-flowing curves to more structured, rhythmic patterns that prepare the hand for cursive and the mind for geometry.
 
-## 📅 NGHỈ XUÂN & LỄ (27/04 - 10/05/2026)
+## 📅 SPRING BREAK & HOLIDAYS (27/04 - 10/05/2026)
 
-- 2 Tuần nghỉ (Bao gồm lễ 30/4 & 1/5).
-
----
-
-## BLOCK 2: HƠI THỞ CỦA RỪNG
-
-_Thời gian:_ 1 tuần (11/05 - 17/05/2026)
-
-**Mục tiêu kết nối (Dựa trên Curriculum Map):** Rèn luyện sức bền đi bộ (Hiking) và kỹ năng sinh tồn cơ bản trong tự nhiên (chuẩn bị thể lực cho các chuyến đi xa).
-
-**Mục tiêu tâm thức:** Kết nối lại tập thể lớp sau kỳ nghỉ. Cảm nhận sự nhỏ bé trước thiên nhiên hùng vĩ.
-
-**Mục tiêu kỹ năng:** Tự phục vụ (đeo ba lô, tự ăn uống, vệ sinh). Đi bộ đường dài không than vãn.
-
-**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:** Dã ngoại thực tế (Camping trip/Hiking) tại khu vực đồi núi gần Hội An (ví dụ: Hòn Tàu hoặc rừng dừa Cẩm Thanh).
-
-- Người hướng dẫn đi cùng nên có nam có nữ.
-
-### **Tuần 8 (11/05 - 17/05): Dã ngoại thực tế**
-
-- _Nội dung chính:_ Cắm trại, quan sát hệ sinh thái, nấu ăn dã chiến.
-- _Hoạt động bổ trợ (Prepare for the future):_ **Hiking 5km:** Rèn luyện đôi chân và ý chí. Học cách uống nước từng ngụm nhỏ khi vận động.
+- 2 weeks (Including holidays 30/4 & 1/5).
 
 ---
 
-## BLOCK 3: ĐO LƯỜNG
+## Block 4: Jungle Journey (Local Botany & Ecology)
 
-_Thời gian:_ 3 tuần (18/05 - 07/06/2026)
+_Time:_ 1 week (11/05 - 17/05/2026)
 
-**Mục tiêu kết nối (Dựa trên Curriculum Map):** Nền tảng cho việc đọc bản đồ, tính toán khoảng cách di chuyển và định lượng thực phẩm (Lớp 4 & 8).
-
-**Mục tiêu tâm thức:** Chuyển từ cảm nhận chủ quan sang khách quan. Xây dựng sự công bằng trong giao thương.
-
-**Mục tiêu kỹ năng:** Sử dụng thước, cân. Ước lượng độ dài/khối lượng chính xác.
-
-**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:** Đi từ thước đo cơ thể (gang tay, sải chân) đến đơn vị chuẩn (cm, kg). Thực hành nhiều hơn lý thuyết.
-
-### **Tuần 9 (18/05 - 24/05): Chiều dài**
-
-- _Nội dung chính:_ Đo lớp học, sân trường bằng sải tay và thước dây. Làm thước dây thủ công.
-- _Hoạt động bổ trợ:_ Đo độ dài bước chân của mình (để tính khoảng cách khi đi bộ).
-
-### **Tuần 10 (25/05 - 31/05): Khối lượng**
-
-- _Sự kiện:_ **Quốc tế Thiếu nhi 1/6 (Thứ 2 tuần sau).**
-- _Nội dung chính:_ Làm cân đòn. Cân hoa quả, đồ vật trong lớp. So sánh nặng nhẹ.
-
-### **Tuần 11 (01/06 - 07/06): Thể tích & Sự cân bằng**
-
-- _Sự kiện/Sinh nhật:_
-- 🎂 **Mai Diệp Anh (Cốm) - 06/06:** Chủ đề "Sự ngọt ngào đúng điệu". Cả lớp cùng Cốm đo lường chính xác nguyên liệu (đường, bột, nước) để pha nước chanh hoặc làm bánh sinh nhật.
-
-- _Nội dung chính:_ Đong nước. Nấu ăn định lượng.
+**Focus:** An immersive exploration of the Central Vietnamese landscape. Students identify local flora, understand the layers of the tropical canopy, and observe the biodiversity of the nearby Tra Que gardens and surrounding jungle foothills. It serves as a sensory introduction to environmental stewardship.
 
 ---
 
-## BLOCK 4: NHÀ Ở & XÂY DỰNG
+## Block 5: The Measure of All Things (Measurement)
 
-_Thời gian:_ 4 tuần (08/06 - 05/07/2026)
+_Time:_ 3 weeks (18/05 - 07/06/2026)
 
-**Mục tiêu kết nối (Dựa trên Curriculum Map):** Rèn luyện sự khéo léo của đôi tay, tư duy kết cấu (liên quan đến cơ khí sau này) và tinh thần hiệp lực (Teamwork).
-
-**Mục tiêu tâm thức:** Xây dựng "Ngôi nhà nội tâm" an toàn. Tách biệt cái Tôi ra khỏi thế giới bên ngoài.
-
-**Mục tiêu kỹ năng:** Phân biệt tính chất vật liệu (gỗ, tre, đất). Sử dụng cưa, búa an toàn. Kỹ thuật buộc nút lạt.
-
-**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:** Tham quan làng mộc Kim Bồng, làng gốm Thanh Hà. Dựng một công trình thực tế nhỏ (Chòi/Lều) trong khuôn viên trường.
-
-### **Tuần 12 (08/06 - 14/06): Khởi công & Vật liệu**
-
-- _Sự kiện/Sinh nhật:_
-- 🎂 **Lương Đình Minh Triết (Tony) - 14/06:** Chủ đề "Viên gạch nền tảng". Tony được vinh dự đặt viên gạch hoặc thanh gỗ đầu tiên cho công trình của lớp.
-
-- _Nội dung chính:_ Các loại nhà (Tổ chim, Hang động -> Nhà người). Tìm hiểu vật liệu Tre, Gỗ.
-- _Hoạt động bổ trợ:_ Tập dùng búa và cưa (Kỹ năng cơ khí sơ khai).
-
-### **Tuần 13 (15/06 - 21/06): Đất & Tết Đoan Ngọ**
-
-- _Sự kiện:_ **Tết Đoan Ngọ (5/5 Âm - Thứ 6, 19/06).**
-- _Nội dung chính:_ Làm gạch đất (Adobe) hoặc tìm hiểu về vôi/vữa.
-- _Hoạt động lễ hội:_ Học cách người xưa dùng vôi (vật liệu xây dựng) để quét gốc cây trừ sâu bệnh trong ngày Đoan Ngọ. Ăn bánh tro.
-
-### **Tuần 14 (22/06 - 28/06): Dựng khung & Kết cấu**
-
-- _Nội dung chính:_ Kỹ thuật buộc nút lạt (rất quan trọng cho kỹ năng dây, buộc đồ đi phượt sau này). Dựng khung nhà.
-
-### **Tuần 15 (29/06 - 05/07): Mái nhà & Hoàn thiện**
-
-- _Sự kiện/Sinh nhật:_
-- 🎂 **Ngô Hà Gia Hân (Ốc) - 03/07:** Chủ đề "Ngôi nhà của Ốc". Kể chuyện về chiếc vỏ ốc - ngôi nhà di động kiên cố. Ốc được quyền trang trí hoặc lợp phần mái nhà.
-
-- _Nội dung chính:_ Lợp mái (tranh/lá dừa). Trang trí nhà.
+**Focus:** Historically, measurement began with the human body. Students use "cubits," "spans," and "paces" before transitioning to the metric system. They apply these skills by measuring the classroom, the garden plots, and the height of the bamboo poles intended for construction.
 
 ---
 
-## BLOCK 5: HƯƠNG VỊ ĐẤT TRỜI (CANH NÔNG 2)
+## Block 6: Shelter & Strength (House Building)
 
-_Thời gian:_ 2 tuần (06/07 - 19/07/2026)
+_Time:_ 4 weeks (08/06 - 05/07/2026)
 
-**Mục tiêu kết nối (Dựa trên Curriculum Map):** Kỹ năng tự chăm sóc bản thân qua dinh dưỡng (nấu ăn dã chiến).
-
-**Mục tiêu tâm thức:** Biết ơn thực phẩm và người lao động.
-
-**Mục tiêu kỹ năng:** Sơ chế, bảo quản thực phẩm (làm mứt/phơi khô/muối chua).
-
-**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:** Thu hoạch nông sản từ vườn trường (đã gieo ở Block 1). Nấu ăn tập thể.
-
-### **Tuần 16 (06/07 - 12/07): Lễ Tân Gia & Thu Hoạch**
-
-- _Nội dung chính:_ Tổ chức Lễ Tân Gia tại ngôi nhà vừa xây xong. Thu hoạch rau củ vụ Hè.
-
-### **Tuần 17 (13/07 - 19/07): Chế biến & Bảo quản**
-
-- _Sự kiện/Sinh nhật:_
-- 🎂 **Hải Nam - 18/07:** Chủ đề "Bữa tiệc mùa hè". Hải Nam đóng vai Bếp trưởng, điều phối các bạn sơ chế món ăn cho tiệc sinh nhật.
-
-- _Nội dung chính:_ Làm mứt, phơi khô thực phẩm (dự trữ). Nấu một bữa ăn hoàn chỉnh.
+**Focus:** The quintessential Grade 3 block. Students study the architecture of the traditional Vietnamese tube house and the mechanics of bamboo joinery. This culminates in a physical project—building a small-scale structure or a functional garden shelter—teaching the child how to provide for their own physical security on Earth.
 
 ---
 
-## BLOCK 6: LỄ HỘI MÙA HÈ
+## Block 7: The Harmony of Spheres (Music Theory)
 
-_Thời gian:_ 1 tuần (20/07 - 26/07/2026)
+_Time:_ 3 weeks (06/07 - 26/07/2026)
 
-**Mục tiêu tâm thức:** Thư giãn, vui chơi, giải phóng năng lượng.
-
-**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:** Lễ hội nước, thả diều bãi biển Cửa Đại.
-
-### **Tuần 18 (20/07 - 26/07): Tổng kết học kỳ 1**
-
-- _Nội dung chính:_ Vui chơi, bơi lội (Kỹ năng sinh tồn vùng sông nước).
+**Focus:** Moving from pentatonic to the heptatonic scale. Students are introduced to formal notation, time signatures, and the reading of staff music. There is a specific focus on the rhythmic patterns of local folk songs (Dân ca), grounding mathematical theory in cultural sound.
 
 ---
 
-## 📅 NGHỈ HÈ & GIÁO ÁN (27/07 - 06/09/2026)
+## 📅 SUMMER BREAK & HOLIDAYS (27/07 - 06/09/2026)
 
-- Nghỉ 6 tuần. Bao gồm lễ Quốc Khánh 2/9.
-
----
-
-## BLOCK 7: VŨ ĐIỆU NỐT NHẠC (NHẠC LÝ)
-
-_Thời gian:_ 3 tuần (07/09 - 27/09/2026)
-
-**Mục tiêu kết nối (Dựa trên Curriculum Map):** Phát triển thính giác và cảm nhận nhịp điệu (Rhythm) - yếu tố quan trọng để duy trì nhịp thở và nhịp đạp xe đều đặn.
-
-**Mục tiêu tâm thức:** Tìm thấy sự hài hòa trong hỗn độn.
-
-**Mục tiêu kỹ năng:** Đọc nốt nhạc trên khuông. Thổi sáo cơ bản. Giữ nhịp chắc.
-
-**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:** Truyện phóng tác **"Chú bé Trúc và 7 ống sáo thần"**. Sử dụng sáo trúc/Recorder và các nhạc cụ gõ dân tộc.
-
-### **Tuần 19 (07/09 - 13/09): Cao độ & 7 Nốt nhạc**
-
-- _Nội dung chính:_ Câu chuyện chú bé Trúc. Giới thiệu 7 nốt nhạc (Đồ - Si).
-
-### **Tuần 20 (14/09 - 20/09): Nhịp điệu & Hình nốt**
-
-- _Nội dung chính:_ Chim Gõ Kiến gõ nhịp. Học nốt Tròn, Trắng, Đen. Vỗ tay theo nhịp.
-
-### **Tuần 21 (21/09 - 27/09): Hòa tấu & TRUNG THU**
-
-- _Sự kiện/Sinh nhật (Tuần lễ hội tụ):_
-- 🎂 **Võ Tuệ Minh (Naomi) - 22/09.**
-- **Tết Trung Thu (15/8 Âm - Thứ 6, 25/09).**
-- 🎂 **Dương Quốc Thiên Bảo (Leo) - 26/09.**
-
-- _Ý tưởng tổ chức:_ "Vũ điệu Trăng Rằm". Naomi và Leo sẽ là "Chú Cuội & Chị Hằng" dẫn đầu đoàn rước đèn. Học nhịp điệu qua tiếng **Trống Múa Lân** (Tùng-Cheng-Cắc).
-- _Nội dung chính:_ Hòa tấu một bài sáo đơn giản. Rước đèn.
+- 6 weeks break. Including National Day (2/9).
 
 ---
 
-## BLOCK 8: VƯƠNG QUỐC NGÔN TỪ (NGỮ PHÁP)
+## Block 8: The Cycle of Rice (Farming & Agriculture)
 
-_Thời gian:_ 3 tuần (28/09 - 18/10/2026)
+_Time:_ 3 weeks (07/09 - 27/09/2026)
 
-**Mục tiêu kết nối (Dựa trên Curriculum Map):** Khả năng diễn đạt rõ ràng, mạch lạc (cần thiết khi làm việc nhóm và giao tiếp trong các chuyến đi).
-
-**Mục tiêu tâm thức:** Tỉnh thức trong lời nói. Tôn trọng quy tắc và trật tự ngôn ngữ.
-
-**Mục tiêu kỹ năng:** Phân biệt Danh từ, Động từ, Tính từ. Viết câu đúng ngữ pháp.
-
-**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:** Nhân hóa các loại từ (Vua Tiếng Việt, Quan Danh Từ, Tướng Động Từ).
-
-### **Tuần 22 (28/09 - 04/10): Danh từ & Động từ**
-
-- _Nội dung chính:_ Sự Tĩnh (Danh từ) và Sự Động (Động từ).
-
-### **Tuần 23 (05/10 - 11/10): Tính từ & Sắc màu**
-
-- _Nội dung chính:_ Họa sĩ Tính từ tô màu cho câu chuyện. Miêu tả thiên nhiên Hội An.
-
-### **Tuần 24 (12/10 - 18/10): Cấu trúc câu & Văn bản**
-
-- _Nội dung chính:_ Dấu câu (nhịp nghỉ). Viết thư tay, nhật ký lớp học.
+**Focus:** Following the seasonal "Wet Rice" calendar. Students participate in the actual labor of the fields: tilling, transplanting seedlings into the mud, and understanding the irrigation systems of the Mekong and Central Coast. This block emphasizes the connection between human effort and the Earth’s seasonal breath.
 
 ---
 
-## BLOCK 9: NHỊP ĐIỆU THỜI GIAN
+## Main Lesson Block 9: The Great Cycle – Time & The Lunar Calendar (3 Weeks)
 
-_Thời gian:_ 2 tuần (19/10 - 01/11/2026)
+Time: (28/09 - 18/10/2026)
 
-**Mục tiêu kết nối (Dựa trên Curriculum Map):** Quản lý thời gian, xem đồng hồ để tuân thủ lịch trình di chuyển.
+Theme: Aligning human life with celestial rhythms.
 
-**Mục tiêu tâm thức:** Trân trọng khoảnh khắc hiện tại. Sống đúng nhịp điệu tự nhiên.
+Content: The 24 solar terms, the phases of the moon, the 12 zodiac animals, and how the Lunar Calendar dictates the agricultural year in Hoi An.
 
-**Mục tiêu kỹ năng:** Xem giờ đồng hồ kim. Làm lịch.
-
-**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:** Quan sát bóng nắng, quy luật mùa màng. Làm đồng hồ cát/nước.
-
-### **Tuần 25 (19/10 - 25/10): Nhịp điệu lớn (Mùa, Năm)**
-
-- _Nội dung chính:_ Ngày, Đêm, 4 Mùa. Vẽ vòng tròn thời gian.
-
-### **Tuần 26 (26/10 - 01/11): Nhịp điệu nhỏ (Giờ, Phút)**
-
-- _Nội dung chính:_ Giờ, Phút, Giây. Thực hành xem đồng hồ.
+Activity: Creating a circular calendar; tracking moon phases; calculating the dates of the next Tet holiday and seasonal festivals.
 
 ---
 
-## 📅 NGHỈ THU (02/11 - 15/11/2026)
+## Block 10: The Architecture of Language – Grammar (2 Weeks)
 
-- Thời gian tránh bão lũ miền Trung. Học sinh nghỉ ngơi tại nhà.
+Time: (19/10 - 01/11/2026)
 
----
+Theme: The mechanics of communication.
 
-## BLOCK 10: TOÁN HỌC HÀNG DỌC
+Content: Identifying parts of speech (naming words, doing words, describing words); the "personality" of the sentence; punctuation as a boundary.
 
-_Thời gian:_ 3 tuần (16/11 - 06/12/2026)
-
-**Mục tiêu kết nối (Dựa trên Curriculum Map):** Tư duy logic, tính toán chính xác (tiền đề cho việc tính toán chi phí, lộ trình, thống kê).
-
-**Mục tiêu tâm thức:** Rèn tính kỷ luật, thẳng thắn, ngăn nắp (thông qua việc đặt tính thẳng hàng).
-
-**Mục tiêu kỹ năng:** Thành thạo 4 phép tính hàng dọc với số lớn.
-
-**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:** Kể chuyện về những người thủ thư, thủ kho cần sự chính xác tuyệt đối.
-
-### **Tuần 27 (16/11 - 22/11): Cộng & Trừ có nhớ**
-
-- _Nội dung chính:_ Đặt tính rồi tính. Cộng trừ số lớn.
-
-### **Tuần 28 (23/11 - 29/11): Phép Nhân số lớn**
-
-- _Nội dung chính:_ Ôn bảng cửu chương. Nhân nhiều chữ số.
-
-### **Tuần 29 (30/11 - 06/12): Phép Chia dài (Long Division)**
-
-- _Nội dung chính:_ Kỹ thuật chia dài. Chia sẻ công bằng.
+Activity: Writing original compositions based on the Building and Farming experiences; sentence diagramming using artistic imagery.
 
 ---
 
-## BLOCK 11: TIỀN TỆ & NIỀM TIN
+## 📅 AUTUMN BREAK (02/11 - 15/11/2026)
 
-_Thời gian:_ 3 tuần (07/12 - 27/12/2026)
-
-**Mục tiêu kết nối (Dựa trên Curriculum Map):** Hiểu giá trị tiền bạc, bước đầu học quản lý tài chính cá nhân (cho quỹ chuyến đi lớp 8).
-
-**Mục tiêu tâm thức:** Hiểu về sự trao đổi giá trị, lòng tin và ý nghĩa của sự cho đi.
-
-**Mục tiêu kỹ năng:** Nhận biết mệnh giá tiền. Tính toán tiền nong, thối tiền.
-
-**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:** Lịch sử thương cảng Hội An. Tổ chức chợ phiên giả định.
-
-### **Tuần 30 (07/12 - 13/12): Lịch sử Giao thương**
-
-- _Nội dung chính:_ Hàng đổi hàng (Barter). Sự ra đời của tiền xu/vỏ sò.
-
-### **Tuần 31 (14/12 - 20/12): Thương nhân & Chợ**
-
-- _Sự kiện/Sinh nhật:_
-- 🎂 **Khuất Minh Phúc (Pai) - 16/12:** Chủ đề "Thương nhân hào phóng". Pai đóng vai chủ thương thuyền Hội An, chia sẻ "hàng hóa" (bánh kẹo) cho các bạn trong lớp.
-
-- _Nội dung chính:_ Các mệnh giá tiền Việt Nam. Thực hành mua bán giả định.
-
-### **Tuần 32 (21/12 - 27/12): Giá trị & GIÁNG SINH**
-
-- _Sự kiện:_ **Lễ Giáng Sinh (Thứ 6, 25/12).**
-- _Nội dung chính:_ Kể chuyện "Món quà của 3 Vua". Làm quà handmade tặng người thân (giáo dục giá trị tinh thần > vật chất). Tính toán chi phí nguyên liệu làm quà.
+- Time to avoid storms and floods in Central Vietnam. Students rest at home.
 
 ---
 
-## BLOCK 12: NGÀNH NGHỀ TRUYỀN THỐNG
+## Block 11: Value & Exchange – Money (3 Weeks)
 
-_Thời gian:_ 2 tuần (28/12/2026 - 10/01/2027)
+Time: 16/11 - 06/12/2026
 
-**Mục tiêu kết nối (Dựa trên Curriculum Map):** Trân trọng sức lao động thủ công, hiểu văn hóa bản địa (Local Insight).
+Theme: Practical interaction and social responsibility.
 
-**Mục tiêu tâm thức:** Kết nối với di sản cha ông. Tự hào về nơi mình sống.
+Content: History of barter and currency; basic mental math in trade; the concept of profit, loss, and fair exchange.
 
-**Mục tiêu kỹ năng:** Kỹ năng thủ công tinh xảo (nặn, vẽ, dán).
-
-**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:** Thực tế tại làng nghề. Làm quà Tết.
-
-### **Tuần 33 (28/12 - 03/01/2027): Năm Mới & Làng Gốm**
-
-- _Sự kiện:_ **Tết Dương Lịch (Thứ 6, 01/01/2027).**
-- _Nội dung chính:_ Thăm làng gốm Thanh Hà. Làm heo đất tiết kiệm (liên kết với bài Tiền tệ).
-
-### **Tuần 34 (04/01 - 10/01/2027): Làng Mộc & Đèn lồng**
-
-- _Nội dung chính:_ Thăm làng mộc/xưởng đèn lồng. Làm đèn lồng/tranh khắc gỗ đón Tết Nguyên Đán.
+Activity: Running a "class market" selling garden produce or handmade crafts; calculating costs for building materials.
 
 ---
 
-## BLOCK 13: TỔNG KẾT
+## Block 12: Traditional Crafts, Fibers & Heritage (5 Weeks)
 
-_Thời gian:_ 1 tuần (11/01 - 17/01/2027)
+Time: 07/12/2026 - 10/01/2027
 
-**Mục tiêu tâm thức:** Nhìn lại hành trình một năm, đóng gói cảm xúc. Rèn tính ngăn nắp (kết thúc).
-
-**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:** Xem lại vở Main Lesson. Kể chuyện ôn tập.
-
-### **Tuần 35 (11/01 - 17/01/2027): Nhìn lại hành trình**
-
-- _Nội dung chính:_ Hoàn thiện vở, dọn dẹp lớp học sạch sẽ đón Tết.
+**Focus:** A deep immersion into the ancestral "making" culture of Central Vietnam, bridging the transition from raw natural materials to refined human artifacts. Students explore the lifecycle of textiles—tracing the journey of silk and cotton from plant and cocoon to the looms of local weavers—while mastering natural dyeing techniques using indigenous plants. The journey extends into the earth and wood of Hoi An, involving hands-on apprenticeship at the Thanh Hà pottery village to understand the transformation of clay, and visits to woodworking or lantern workshops. This block integrates practical math through currency and trade at the markets, fine motor development through sewing, weaving, and carving, and a soulful connection to local heritage as students create functional items and traditional lanterns to prepare for the coming Tet season.
 
 ---
 
-## BLOCK 14: LỄ HỘI TRỞ VỀ (GIÁP TẾT)
+## Block 13: Year-End Review & Community Feast (2 Weeks)
 
-_Thời gian:_ 1 tuần (18/01 - 24/01/2027)
+Time: 11/01 - 24/01/2027
 
-**Mục tiêu tâm thức:** Hân hoan đón chào năm mới, hướng về nguồn cội gia đình.
-
-**CÁCH THỨC TIẾP CẬN/GIẢNG DẠY:** Lễ hội, Trang trí, Ăn mừng.
-
-### **Tuần 36 (18/01 - 24/01/2027): Chào Xuân Đinh Mùi**
-
-- _Sự kiện/Sinh nhật:_
-- 🎂 **Hồ Quang Bách Ri (Ri) - 24/01:** Chủ đề "Mùa Xuân của Ri". Ri là người đại diện lớp đóng lại cánh cửa năm cũ, mở ra năm mới.
-- 🎂 **Nguyễn An Nguyên (03/02):** Sinh nhật rơi vào mùng 7 Tết (đang nghỉ), nên tổ chức sớm vào tuần này. Chủ đề "Nụ tầm xuân nở sớm".
-- **Chuẩn bị Tết:** Tuần này là 11-17 tháng Chạp.
-
-- _Nội dung chính:_ Lễ hội Mùa Xuân. Trưng bày sản phẩm cả năm. Tiệc tất niên.
+**Focus:** A synthesis of the year's labor. Students prepare a meal using the measurement and cooking skills learned, hosted within or near the structures they built. This block closes the year by celebrating the child's new role as a capable, earthly inhabitant.
 
 ---
 
-## 📅 NGHỈ TẾT & GIÁO ÁN
+## 📅 TET BREAK & LESSON PLANS
 
-- Bắt đầu nghỉ Tết từ Thứ Hai, 25/01/2027 (18 tháng Chạp).
-- **Mùng 1 Tết Đinh Mùi:** 06/02/2027.
+- Start Tet holiday from Monday, 25/01/2027 (18th of the twelfth lunar month).
+- **First day of Tet (Year of the Goat):** 06/02/2027.
