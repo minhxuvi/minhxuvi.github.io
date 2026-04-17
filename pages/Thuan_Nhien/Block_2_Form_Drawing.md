@@ -1,6 +1,6 @@
 # Vẽ hình dạng
 
-## Tại sao các con lại học Vẽ hình dạng nhiều đến vậy?
+## Tại sao các con lại học Vẽ hình dạng?
 
 Người Việt mình có câu: _"Nét chữ nết người"_. Thông qua nét chữ, chúng ta có thể nhận biết được nhiều điều về nội tâm người viết. Hiện tại, các bạn nhỏ đang bắt đầu làm quen với những nét chữ nối đầu tiên. Môn Vẽ hình dạng là một bước đệm phục vụ rất tốt cho quá trình này, giúp tay các con linh hoạt và uyển chuyển hơn. Nhưng tất nhiên, đây mới chỉ là một phần của bức tranh lớn.
 
@@ -29,3 +29,17 @@ Form drawing influence the whole development of the child. It help develop many 
 Furthermore, form drawing in grade 3 help the children in the psychological shift. Children this age tent to feel insecure, anxious, some start to fear the dead of themself or their parents. I still remember that feelling when I was a child, at that age. These are some consequences of the process the child start develop their ego, their self. Form drawing support this process perfectly if was perform in the right way. For example, by drawing a vortex coming from outside which is uncertain and going to the center help them to feel shelter down. Or we can do the reverse for the child that not feel safe to draw from center to the boundary, it will make him feel more confident to go out to the world.
 
 Form drawing is not just about training the hand writing but it also help the whole development of the child.
+
+## Overview
+
+### 2-Day Overview: The Vertical Mirror
+
+- **Core Academic Theme or Story Focus:** The concept of reflection and the "center point." This is introduced through a nature-based story of a perfectly still lake reflecting the world above, or a tale of twin characters who must mirror each other's movements to unlock a gate.
+- **Primary Hands-On Project or Artistic Activity:** "Walking the Form" into large-scale mirroring. Students walk a simple, curved symmetrical shape along a straight chalk line on the floor. Moving to paper, they draw a strong vertical midline and use block crayons to draw a continuous curve on the left, then purposefully mirror it on the right.
+- **Specific Skills Being Developed:** Establishing the vertical midline (both internally in the body and externally on the page), transitioning from gross motor spatial awareness to fine motor control, and developing left-to-right symmetric visual tracking.
+
+### 1-Week Overview: The Rhythmic Interlace
+
+- **Core Academic Theme or Story Focus:** The weaver’s journey and interconnected paths. The narrative focuses on Celtic-style stories of a traveler navigating a woven forest path, or the intertwining, unbreakable roots of an ancient tree.
+- **Primary Hands-On Project or Artistic Activity:** Drafting continuous over-and-under interlacing border patterns. Students use two contrasting colored crayons to draw interlocking loops or figure-eights, practicing lifting the crayon at the exact moment of crossing to create the visual illusion of a ribbon weaving over and under itself.
+- **Specific Skills Being Developed:** Rhythmic fluidity and continuous hand movement (direct mechanical preparation for cursive handwriting), sustained concentration, crossing the horizontal and vertical midlines, and understanding topological depth (preparation for later geometric drawing).

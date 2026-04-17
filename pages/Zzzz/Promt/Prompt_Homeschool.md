@@ -65,18 +65,11 @@ For each of the 4 weeks, provide:
 **Context Anchor:** Grade [X] Waldorf curriculum. We are in the [Name of Block] block.
 **This Week's Goal:** [Copy and paste the summary of ONE week from Level 3].
 
-**Dynamic Classroom Context:** > \* Class size is currently [Number] students.
-
-- **Special Event:** This Wednesday is [Student Name]'s birthday.
-
-Please create a detailed, 5-day daily lesson plan for this week.
-For each day (Monday to Friday), outline:
+Please create a detailed, [Monday ... Friday] lesson plan for this week, outline:
 
 1.  **Morning Rhythm & Recall:** (Songs, verses, or reviewing yesterday's lesson).
 2.  **Main Lesson Presentation:** (The new story, concept, or demonstration).
 3.  **Bookwork/Art:** (What the child creates in their Main Lesson book).
 4.  **Practical/Afternoon Activity:** (How to apply the lesson physically).
-
-**Special Instruction:** Ensure Wednesday's morning rhythm and story are adjusted to integrate a traditional Waldorf birthday celebration, while still gently tying into the week's academic theme.
 
 **Strict Rules:** 1. Use pure Markdown. Do not use tables. 2. Do not include any conversational filler, introductory remarks, or concluding explanations.
