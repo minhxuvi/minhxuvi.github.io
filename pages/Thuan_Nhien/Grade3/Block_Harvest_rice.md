@@ -128,3 +128,7 @@ Anh thấy cách tiếp cận bằng việc "mường tượng hình ảnh" này
 
 - Chuẩn bị dụng cụ để đi gặt lúa.
 - Ve
+
+## Thứ 6
+
+- Đóng tập và
