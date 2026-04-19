@@ -8,25 +8,25 @@
 
 ## Block 1: Creation Myths (3 Weeks)
 
-_Time:_ 3.5 weeks (09/03/2026 - 01/04/2026)
+_Time:_ 3.5 weeks 09/03/2026 - 01/04/2026 (22/01/2026 - 14/02/2026 Lunar)
 
 - **Focus:** Transitioning from the dreamlike consciousness of early childhood to a grounded awareness of the world’s origins.
 - **Content:** Stories of how the world, the elements, and humanity were formed. Integration of _Việt Huyền Sử Ký_ narratives, exploring the separation of Heaven and Earth and the emergence of the first physical forms.
 
 ## **Block 2: The Alchemy of Cooking (2 Weeks)**
 
-Time: 30/03/2026 - 15/04/2026
+Time: 30/03/2026 - 15/04/2026 (14/02/2026 - 07/03/2026 Lunar)
 
 - **Focus:** Transformation through fire and water.
 - **Content:** Understanding the journey from raw ingredients to nourishment. Students learn the properties of grains, the science of heat, and the cultural importance of communal meals. This block bridges the gap between the "Mythical" and the "Practical."
 
 ## Block 3: Dynamic Symmetry (Form Drawing)
 
-Time: 16/04/2026 - 27/04/2026
+Time: 16/04/2026 - 27/04/2026 (08/03/2026 - 20/03/2026 Lunar)
 
 **Focus:** Mirroring and interlacing patterns. This block focuses on vertical and horizontal symmetry, requiring the child to find their own "center" on the page. The drawings transition from free-flowing curves to more structured, rhythmic patterns that prepare the hand for cursive and the mind for geometry.
 
-## 📅 SPRING BREAK & HOLIDAYS (27/04 - 10/05/2026)
+## 📅 SPRING BREAK & HOLIDAYS (27/04 - 10/05/2026) (21/03/2026 - 03/04/2026 Lunar)
 
 - 2 weeks (Including holidays 30/4 & 1/5).
 
@@ -34,7 +34,7 @@ Time: 16/04/2026 - 27/04/2026
 
 ## Block 4: Jungle Journey (Local Botany & Ecology)
 
-_Time:_ 1 week (11/05 - 17/05/2026)
+_Time:_ 1 week (11/05 - 17/05/2026) (04/04/2026 - 10/04/2026 Lunar)
 
 **Focus:** An immersive exploration of the Central Vietnamese landscape. Students identify local flora, understand the layers of the tropical canopy, and observe the biodiversity of the nearby Tra Que gardens and surrounding jungle foothills. It serves as a sensory introduction to environmental stewardship.
 
