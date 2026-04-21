@@ -70,6 +70,7 @@ SHVT:
 
 - Sing Tearouha
 - Play with sticks Đưa cơm cho mẹ đi cày
+- Sing hạt gạo làng ta
 - Play with sticks Em đi giữa biển vàng
 
 ### 08:45 - 10:00: Main lesson
@@ -132,3 +133,11 @@ Anh thấy cách tiếp cận bằng việc "mường tượng hình ảnh" này
 ## Thứ 6
 
 - Đóng tập và
+
+## Chiều vẽ màu nước toàn tập
+
+- Hạt mầm ánh sáng
+- Âm dương (Xanh đậm và nhạt)
+- Cột chống trời (Xanh đậm và nhạt, cột mọc lên, mặt trời xuất hiện)
+- Rồng và phượng (Biển xanh đậm, Hút màu, cầu vồng)
+- Cánh đồng lúa chín (Vàng, xanh nhạt, mặt trời vàng)
