@@ -134,6 +134,8 @@ Anh thấy cách tiếp cận bằng việc "mường tượng hình ảnh" này
 
 - Đóng tập và
 
+Phơi lúa xong còn tiết mục rê thóc nữa nhé thầy, là xối thóc trước gió để tách trấu và hạt lép. Hạt mẩy đem xát, hạt lép cho gà cho chim, trấu rải vườn hoặc đun bếp.
+
 ## Chiều vẽ màu nước toàn tập
 
 - Hạt mầm ánh sáng
