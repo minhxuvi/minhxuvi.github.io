@@ -27,7 +27,7 @@ Thời gian: 16 tháng 4 - 26 tháng 4 năm 2026 (29 tháng 2 - 10 tháng 3 Âm 
 **Tập trung:** Sự kết nối trực tiếp với đất mẹ và thành quả lao động.
 **Nội dung:** Khối học quan trọng đánh dấu sự kết thúc của vụ mùa Đông Xuân tại Hội An. Học sinh tham gia vào quy trình thu hoạch lúa thực tế: từ việc chuẩn bị dụng cụ (liềm, bao tay), học cách gặt lúa an toàn, đến việc phơi lúa và rê thóc để tách hạt mẩy, hạt lép. Qua đó, trẻ hiểu được giá trị sâu sắc của "hạt gạo làng ta" và lòng biết ơn đối với sự nuôi dưỡng của đất trời.
 
-## 📅 NGHỈ XUÂN & CÁC NGÀY LỄ
+## 📅 NGHỈ XUÂN & CÁC NGÀY LỄ (2 Tuần)
 
 Thời gian: (27 tháng 4 - 10 tháng 5 năm 2026) (11 tháng 3 - 24 tháng 3 Âm lịch)
 
@@ -35,7 +35,7 @@ Thời gian: (27 tháng 4 - 10 tháng 5 năm 2026) (11 tháng 3 - 24 tháng 3 Â
 
 ---
 
-## Khối 4: Thước đo của vạn vật (Đo lường)
+## Khối 4: Thước đo của vạn vật (Đo lường) (3 Tuần)
 
 Thời gian: 11 tháng 5 - 29 tháng 5 năm 2026 (25 tháng 3 - 13 tháng 4 Âm lịch)
 
@@ -43,7 +43,7 @@ Thời gian: 11 tháng 5 - 29 tháng 5 năm 2026 (25 tháng 3 - 13 tháng 4 Âm 
 
 ---
 
-## Khối 5: Hành trình Rừng rậm (Thực vật học & Sinh thái địa phương)
+## Khối 5: Hành trình Rừng rậm (Thực vật học & Sinh thái địa phương) (1 Tuần)
 
 Thời gian: 01 tháng 6 - 07 tháng 6 năm 2026 (16 tháng 4 - 22 tháng 4 Âm lịch)
 
@@ -51,7 +51,7 @@ Thời gian: 01 tháng 6 - 07 tháng 6 năm 2026 (16 tháng 4 - 22 tháng 4 Âm 
 
 ---
 
-## Khối 6: Nơi trú ẩn & Sức mạnh (Xây dựng nhà)
+## Khối 6: Nơi trú ẩn & Sức mạnh (Xây dựng nhà) (4 Tuần)
 
 Thời gian: 08 tháng 6 - 05 tháng 7 năm 2026 (23 tháng 4 - 21 tháng 5 Âm lịch)
 
@@ -59,7 +59,7 @@ Thời gian: 08 tháng 6 - 05 tháng 7 năm 2026 (23 tháng 4 - 21 tháng 5 Âm 
 
 ---
 
-## Khối 7: Lý thuyết Âm nhạc
+## Khối 7: Lý thuyết Âm nhạc (3 Tuần)
 
 Thời gian: 06 tháng 7 - 26 tháng 7 năm 2026 (22 tháng 5 - 13 tháng 6 Âm lịch)
 
@@ -67,7 +67,7 @@ Thời gian: 06 tháng 7 - 26 tháng 7 năm 2026 (22 tháng 5 - 13 tháng 6 Âm 
 
 ---
 
-## 📅 NGHỈ HÈ & CÁC NGÀY LỄ
+## 📅 NGHỈ HÈ & CÁC NGÀY LỄ (6 Tuần)
 
 Thời gian: 27 tháng 7 - 06 tháng 9 năm 2026 (14 tháng 6 - 26 tháng 7 Âm lịch)
 
@@ -75,7 +75,7 @@ Thời gian: 27 tháng 7 - 06 tháng 9 năm 2026 (14 tháng 6 - 26 tháng 7 Âm 
 
 ---
 
-## Khối 8: Làm vườn
+## Khối 8: Làm vườn (3 Tuần)
 
 Thời gian: 07 tháng 9 - 27 tháng 9 năm 2026 (27 tháng 7 - 18 tháng 8 Âm lịch)
 
@@ -83,7 +83,7 @@ Thời gian: 07 tháng 9 - 27 tháng 9 năm 2026 (27 tháng 7 - 18 tháng 8 Âm 
 
 ---
 
-## Khối 9: Chu kỳ Lớn – Thời gian & Âm lịch (3 Tuần)
+## Khối 9: Thời gian & Âm lịch (3 Tuần)
 
 Thời gian: (28 tháng 9 - 18 tháng 10 năm 2026) (18 tháng 8 - 09 tháng 9 Âm lịch)
 
@@ -95,7 +95,7 @@ Hoạt động: Tạo một lịch tròn; theo dõi các giai đoạn của mặ
 
 ---
 
-## Khối 10: Kiến trúc Ngôn ngữ – Ngữ pháp (2 Tuần)
+## Khối 10: Ngữ pháp (2 Tuần)
 
 Thời gian: (19 tháng 10 - 01 tháng 11 năm 2026) (10 tháng 9 - 23 tháng 9 Âm lịch)
 
@@ -107,13 +107,15 @@ Hoạt động: Viết các bài luận gốc dựa trên trải nghiệm Xây d
 
 ---
 
-## 📅 NGHỈ THU (02 tháng 11 - 15 tháng 11 năm 2026)
+## 📅 NGHỈ THU (2 Tuần)
+
+Thời gian: (02 tháng 11 - 15 tháng 11 năm 2026)
 
 - Thời gian để tránh bão và lũ lụt ở miền Trung Việt Nam. (24 tháng 9 - 07 tháng 10 Âm lịch). Học sinh nghỉ tại nhà.
 
 ---
 
-## Khối 11: Giá trị & Trao đổi – Tiền tệ (3 Tuần)
+## Khối 11: Tiền tệ (3 Tuần)
 
 Thời gian: 16 tháng 11 - 06 tháng 12 năm 2026 (08 tháng 10 - 28 tháng 10 Âm lịch)
 
