@@ -20,11 +20,12 @@ Time: 30/03/2026 - 15/04/2026 (14/02/2026 - 07/03/2026 Lunar)
 - **Focus:** Transformation through fire and water.
 - **Content:** Understanding the journey from raw ingredients to nourishment. Students learn the properties of grains, the science of heat, and the cultural importance of communal meals. This block bridges the gap between the "Mythical" and the "Practical."
 
-## Block 3: Dynamic Symmetry (Form Drawing)
+## Block 3: Harvest Season – Rice Harvesting (2 Weeks)
 
 Time: 16/04/2026 - 27/04/2026 (08/03/2026 - 20/03/2026 Lunar)
 
-**Focus:** Mirroring and interlacing patterns. This block focuses on vertical and horizontal symmetry, requiring the child to find their own "center" on the page. The drawings transition from free-flowing curves to more structured, rhythmic patterns that prepare the hand for cursive and the mind for geometry.
+**Focus:** Direct connection with Mother Earth and the fruits of labor.
+**Content:** A pivotal block marking the end of the Winter-Spring (Đông Xuân) crop in Hoi An. Students participate in the actual harvesting process: from preparing tools (sickles, gloves) and learning safety rules to drying and winnowing the rice to separate the grain. This experience teaches the profound value of "the rice of our village" and gratitude for the earth's nourishment.
 
 ## 📅 SPRING BREAK & HOLIDAYS (27/04 - 10/05/2026) (21/03/2026 - 03/04/2026 Lunar)
 
