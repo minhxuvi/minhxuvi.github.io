@@ -1,0 +1,2 @@
+- Chết khá dễ, học mới khó
+- Quantum computing thực sự là gì? Liên quan gì tới tụt crypto và thay thế được sự tạo hoá của con người không?
