@@ -1,0 +1,10 @@
+- Các khoá học trải nghiệm văn hoá.
+- Diễn ra như một hoạt động trải nghiệm kéo dài hàng tuần.
+- Đạp xe xuyên Việt có thể là hoạt động đầu tiên.
+  - Làm thuyền
+  - Rèn
+  - Làm gốm
+  - Xây nhà
+  - Làm điện thoại cá nhân
+  - Ôn thi A-Level (Một phòng tự học với các AI helper và sự kiểm soát của thầy cô. Sách luyện đề song ngữ do AI viết, cập nhật theo năm)
+  - Những người hướng dẫn từng block sẽ được chuyên môn hoá. Hiện tại NTN đã thế rồi.
