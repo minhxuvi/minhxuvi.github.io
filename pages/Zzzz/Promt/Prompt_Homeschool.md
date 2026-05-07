@@ -1,75 +1,96 @@
-## Level 1: The 12-Year Master Plan
+## Chiến lược tạo chương trình giáo dục
 
-Act as a master curriculum designer. Outline a 12-year homeschooling overview.
+Tôi muốn tạo một chương trình giáo dục cho các học lớp 3 của tôi và sau này có thể là con tôi nữa. Hiện tại bé mới 3 tuổi.
+Tôi theo phương pháp giáo dục Waldorf trước là vì sự nghiêm ngặt trong việc không sử dụng điện thoại trong trường, nhưng sau đó bị cuốn hút bởi các triết lý giáo dục của phương pháp giáo dục này như đề cao nhịp điệu, giáo dục toàn phần.
+Nhưng tôi vẫn muốn một chương trình giáo dục có thể cung cấp bằng cấp cho con trong trường hợp con muốn vào đại học. Nên định hướng của tôi đang là theo sát phương pháp giáo dục Waldorf đến hết lớp 8. Sau đó thay việc dạy học bằng việc hướng dẫn tự học. Nếu con muốn vào các đại học uy tín thì tôi sẽ hướng dẫn tự học chứng chỉ A-level và các chứng chỉ cần thiết khác.
+Nhưng có hai môn học mà tôi tập trung vào là toán và lịch sử vì theo tôi đây là hai môn nền tảng còn các môn khác có thể tự chọn tuỳ theo định hướng của con hoặc học sinh.
+Bạn thấy chiến lược của tôi thế nào? Đặc biệt là trong tương lai khi mà AI có thể thay thế con người ở rất nhiều việc, tôi muốn một chương trình học giúp tụi nhỏ sẵn sàng cho tương lai có thể thay đồi nhanh chóng như thế.
+Giúp tôi lên chiến lược prompt để tạo được một chương trình chi tiết đến giáo án cho từng ngày. Xem xét tất cả các tool bạn cung cấp như "Learn", "Deep Research"..., và hướng dẫn tôi dùng chúng sao cho phù hợp.
 
-**The Goal:** Start with a pure Waldorf foundation in the early years. Begin a conscious transition toward formal academics in the middle school years (Grades 7-8), seamlessly bridging into rigorous UK A-Level preparation (as a Private Candidate) by Grades 11-12.
+## Cấp độ 1: Kế hoạch tổng thể 12 năm
 
-**Context:** The education takes place in HoiAn, utilizing local resources like Central Vietnamese tropical agriculture, bamboo crafting, Vietnamese mythology, bicycling and local history. Crucially, the school year operates on the Vietnamese Lunar Calendar, with the new academic year officially beginning immediately after the Tet holiday.
+Đóng vai trò là Chuyên gia thiết kế chương trình giáo dục Waldorf đồng thời là nhà nghiên cứu về tâm lý giáo dục trẻ em.
+Phác thảo sự phát triển của trẻ trẻ và cách thức giáo dục tương ứng qua 12 năm, được phân tách chi tiết theo từng năm học cụ thể từ Lớp 1 đến Lớp 12.
 
-**Output:** Provide a brief, 2-3 sentence summary for each grade (1 through 12) highlighting the developmental focus and the main academic/practical themes.
+**Quy tắc nghiêm ngặt:**
 
-**Strict Rules:** 1. Use pure Markdown. Do not use tables. 2. Output ONLY the 12-year overview. Do not include any conversational filler, introductory remarks, or concluding explanations.
+1. Chỉ sử dụng định dạng Markdown (tiêu đề, in đậm, gạch đầu dòng). Tuyệt đối không sử dụng định dạng bảng.
+2. Chỉ xuất ra trực tiếp nội dung phác thảo lộ trình từ Lớp 1 đến Lớp 12. Tuyệt đối không bao gồm bất kỳ lời chào, lời giới thiệu, đoạn hội thoại hay lời kết luận nào ở đầu và cuối văn bản.
 
-## Level 2: The Yearly Deep Dive
+## Cấp độ 2: Phân tích chuyên sâu hàng năm
 
-**Context Anchor:** We are building a 12-year Waldorf-to-A-Level homeschooling curriculum in HoiAn.
+**Ngữ cảnh:** Chúng tôi đang xây dựng chương trình học tại nhà từ Waldorf đến A-Level trong 12 năm tại Hội An.
 
-**Grade Level**: [Grade here]
+**Cấp lớp:**: [Lớp ở đây]
 
-**This Year's Goal:** [Copy and paste the 2-3 sentence summary for this specific grade from Level 1 here].
+**Mục tiêu năm nay:** [Sao chép và dán đoạn tóm tắt 2-3 câu cho cấp lớp cụ thể này từ Cấp độ 1 vào đây].
 
-Please create a comprehensive overview for this single grade.
+Vui lòng tạo một bản tóm tắt toàn diện cho cấp lớp này.
 
-1.  Outline the necessary Main Lesson Blocks for the year. Create as many 3-to-4-week blocks as required to fully complete a standard Grade [Grade here] curriculum.
+1. Phác thảo các Khối bài học chính cần thiết cho cả năm. Tạo càng nhiều khối 3-4 tuần càng tốt để hoàn thành đầy đủ chương trình học tiêu chuẩn của Lớp [Lớp ở đây].
 
-**Strict Rules:**
+**Quy tắc nghiêm ngặt:**
 
-1. Use pure Markdown. Do not use tables.
-2. Do not include any conversational filler, introductory remarks, or concluding explanations.
+1. Chỉ sử dụng Markdown. Không sử dụng bảng.
 
-### Grade 3
+2. Không bao gồm bất kỳ đoạn hội thoại, lời giới thiệu hoặc lời giải thích kết luận nào.
 
-**Context Anchor:** We are building a 12-year Waldorf-to-A-Level homeschooling curriculum in HoiAn.
+### Lớp 3
 
-**Grade Level**: 3
+**Bối cảnh:** Chúng tôi đang xây dựng chương trình học tại nhà theo phương pháp Waldorf từ 12 năm đến trình độ A-Level tại Hội An.
 
-**This Year's Goal:** The "nine-year change" is supported by a heavy focus on earthly practicalities like house-building with bamboo and the study of local agriculture. Students participate in the traditional rice planting cycles of Central Vietnam, grounding their emerging sense of self in physical labor and nourishment.
+**Cấp lớp:** 3
 
-Please create a comprehensive overview for this single grade.
+**Mục tiêu năm nay:** Sự thay đổi "9 năm" được hỗ trợ bởi việc tập trung mạnh vào các hoạt động thực tiễn như xây nhà bằng tre và nghiên cứu nông nghiệp địa phương. Học sinh tham gia vào các chu kỳ trồng lúa truyền thống của miền Trung Việt Nam, giúp hình thành ý thức về bản thân thông qua lao động chân tay và dinh dưỡng.
 
-1.  Outline the necessary Main Lesson Blocks for the year. Create as many 3-to-4-week blocks as required to fully complete a standard Grade 3 curriculum.
-2.  I need the first block is 3 week about Creation Myths follow by 3 week block in cooking. Then 1.5 week in form drawing. Then 1 week block jungle journey, then 3 week measurement block, then 4 week building block, then 3 week music theory block, then other block go afterward.
+Vui lòng tạo một bản tổng quan toàn diện cho lớp học này.
 
-**Strict Rules:**
+1. Phác thảo các Khối Bài học Chính cần thiết cho năm học. Tạo càng nhiều khối bài học từ 3 đến 4 tuần càng tốt để hoàn thành đầy đủ chương trình học tiêu chuẩn lớp 3.
 
-1. Use pure Markdown. Do not use tables.
-2. Do not include any conversational filler, introductory remarks, or concluding explanations.
+2. Tôi cần khối bài học đầu tiên là 3 tuần về Thần thoại Sáng tạo, tiếp theo là khối bài học 3 tuần về nấu ăn. Sau đó là 1,5 tuần về vẽ hình. Tiếp theo là khối bài học 1 tuần về hành trình trong rừng, sau đó là khối bài học 3 tuần về đo lường, tiếp theo là khối bài học 4 tuần về xây dựng, tiếp theo là khối bài học 3 tuần về lý thuyết âm nhạc, và các khối bài học khác sẽ được sắp xếp sau đó.
 
-## Level 3: The Block Overview
+**Quy tắc nghiêm ngặt:**
 
-**Context Anchor:** We are in Grade [X] of a Waldorf-to-A-Level curriculum.
+1. Chỉ sử dụng Markdown. Không sử dụng bảng.
 
-**This Block's Focus:** [Copy and paste the description of ONE specific block from Level 2, e.g., 'Grade 3: Shelter Building and Farming'].
+2. Không bao gồm bất kỳ đoạn hội thoại, lời giới thiệu hoặc lời giải thích kết luận nào.
 
-Please design a 4-week overview for this specific Main Lesson Block.
-For each of the 4 weeks, provide:
+## Cấp độ 3: Tổng quan về Khối bài học
 
-1.  The core academic theme or story focus.
-2.  The primary hands-on project or artistic activity.
-3.  The specific skills being developed.
+**Vai trò:** Bạn là một giáo viên chủ nhiệm lớp 3 theo định hướng Steiner/Waldorf.
 
-**Strict Rules:** 1. Use pure Markdown. Do not use tables. 2. Do not include any conversational filler, introductory remarks, or concluding explanations.
+**Ngữ cảnh:** > - Đọc và phân tích các file: `Mục_tiêu_năm_học.md`, `Danh_sách_học_sinh.md`, `Lịch_năm_học.md`, `Thủ_công_Mỹ_nghệ.md`.
 
-## Level 4: The Daily Lesson Plan
+- **Trọng tâm Khối bài học:** Khối Đo lường (dựa trên file `04_Đo_lường.md`).
 
-**Context Anchor:** Grade [X] Waldorf curriculum. We are in the [Name of Block] block.
-**This Week's Goal:** [Copy and paste the summary of ONE week from Level 3].
+**Nhiệm vụ:** Thiết kế tổng quan 3 tuần cho Khối bài học chính này. Đảm bảo các hoạt động phù hợp với tâm lý trẻ lớp 3 (giai đoạn "sự thay đổi tuổi lên 9") và kết nối sâu sắc giữa các phép đo thực tế với đời sống.
 
-Please create a detailed, [Monday ... Friday] lesson plan for this week, outline:
+**Yêu cầu cho mỗi tuần:**
 
-1.  **Morning Rhythm & Recall:** (Songs, verses, or reviewing yesterday's lesson).
-2.  **Main Lesson Presentation:** (The new story, concept, or demonstration).
-3.  **Bookwork/Art:** (What the child creates in their Main Lesson book).
-4.  **Practical/Afternoon Activity:** (How to apply the lesson physically).
+1.  **Chủ đề học thuật & Trọng tâm câu chuyện:** (Ví dụ: Sự ra đời của các đơn vị đo, đo bằng cơ thể, hoặc các câu chuyện huyền sử Việt Nam liên quan đến xây dựng/canh tác, hoặc các hình tượng từ Việt Huyền Sử Ký nếu có).
+2.  **Dự án thực hành & Hoạt động nghệ thuật:** (Vẽ màu nước, nặn sáp, hoặc các sản phẩm thủ công cụ thể từ file `Thủ_công_Mỹ_nghệ.md`).
+3.  **Kỹ năng phát triển:** Phân rõ kỹ năng tư duy (Head), cảm xúc/nghệ thuật (Heart) và thực hành/tay chân (Hands).
 
-**Strict Rules:** 1. Use pure Markdown. Do not use tables. 2. Do not include any conversational filler, introductory remarks, or concluding explanations.
+**Quy tắc nghiêm ngặt:**
+
+1.  Chỉ sử dụng định dạng Markdown. Tuyệt đối không sử dụng bảng (table).
+2.  Không bao gồm đoạn hội thoại, lời giới thiệu ("Dưới đây là...", "Hy vọng...") hay lời giải thích kết luận.
+3.  Trình bày nội dung trực tiếp, súc tích.
+
+## Cấp độ 4: Kế hoạch Bài học Hàng ngày
+
+**Ngữ cảnh tham khảo:** Chương trình Waldorf lớp [X]. Chúng ta đang ở khối [Tên Khối].
+
+**Mục tiêu Tuần này:** [Sao chép và dán tóm tắt MỘT tuần từ Cấp độ 3].
+
+Vui lòng tạo một kế hoạch bài học chi tiết, [Thứ Hai ... Thứ Sáu] cho tuần này, dàn ý như sau:
+
+1. **Nhịp điệu và Ôn tập Buổi sáng:** (Bài hát, câu thơ, hoặc ôn lại bài học hôm qua).
+
+2. **Bài thuyết trình chính:** (Câu chuyện, khái niệm hoặc minh họa mới).
+
+3. **Bài tập/Mỹ thuật:** (Những gì trẻ tạo ra trong vở bài học chính).
+
+4. **Hoạt động thực hành/Buổi chiều:** (Cách áp dụng bài học một cách thực tế).
+
+**Quy tắc nghiêm ngặt:** 1. Chỉ sử dụng Markdown. Không sử dụng bảng. 2. Không bao gồm bất kỳ đoạn hội thoại, lời giới thiệu hoặc lời giải thích kết luận nào.

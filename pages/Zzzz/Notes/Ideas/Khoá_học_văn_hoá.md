@@ -7,4 +7,4 @@
   - Xây nhà
   - Làm điện thoại cá nhân
   - Ôn thi A-Level (Một phòng tự học với các AI helper và sự kiểm soát của thầy cô. Sách luyện đề song ngữ do AI viết, cập nhật theo năm)
-  - Những người hướng dẫn từng block sẽ được chuyên môn hoá. Hiện tại NTN đã thế rồi.
+  - Những người hướng dẫn từng block sẽ được chuyên môn hoá. Hiện tại NTN đã thế rồi. Chỉ là cần hệ thống hoá hơn.
