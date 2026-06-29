@@ -2801,3 +2801,149 @@ _(11 bạn nhỏ cùng đặt tay lên vai nhau tạo thành một vòng tròn k
 - Hoạt động trực nhật cuối tuần được thực hiện như một hành động chăm sóc "mái ấm lớp học" sau một công trường dài ngày.
 - 11 bạn nhỏ cùng nhau lau sạch các giá sách, lau chùi sạch sẽ mặt bàn gỗ, cất gọn gàng toàn bộ sáp màu khối, khay đất sét và vở Main Lesson Book vào tủ kính. Sàn lớp được quét và lau sạch bóng rực rỡ.
 - Trước khi ra về, giáo viên trao cho từng bạn nhỏ một cái ôm ấm áp và lời chúc con mang hơi ấm, sự kiên trì của người thợ về sưởi ấm cho ngôi nhà đích thực của mình bên cha mẹ.
+
+Lịch trình năm học này được sắp xếp rất nhịp nhàng, đi từ việc xây dựng ranh giới vật chất (khối Xây dựng) đến việc hòa mình vào lòng Đất mẹ (Làm vườn), định hình tư duy trừu tượng (Thời gian, Ngữ pháp, Tiền tệ) và quay trở lại phục vụ đời sống cộng đồng vào dịp cuối năm.
+
+Dưới đây là gợi ý chi tiết về mục tiêu kiến thức và kỹ năng cho từng khối học tiếp theo của lớp 3, được thiết kế để nuôi dưỡng đúng tâm thức tuổi lên 9 (Rubicon) và thích ứng hài hòa với ngữ cảnh thiên nhiên, xã hội vùng miền.
+
+---
+
+## 🗺️ Bản đồ mục tiêu các khối học lớp 3 (Nửa sau năm học 2026 - 2027)
+
+| Khối học                        | Tâm thức chủ đạo (Rubicon)                     | Trọng tâm Kiến thức (Toán & Tiếng Việt)  | Kỹ năng & Thực hành thực tế |
+| ------------------------------- | ---------------------------------------------- | ---------------------------------------- | --------------------------- |
+| **Khối 8: Làm vườn** _(3 Tuần)_ | Cắm rễ vào Đất mẹ, kết nối với chu kỳ sự sống. | • Ôn cửu chương 6, 7, 8; học bảng 9.<br> |
+
+<br>• Đo lường khối lượng ($kg, g$) và thể tích.<br>
+
+<br>• Nhật ký quan sát sinh trưởng. | • Cuốc đất, làm luống, ủ phân hữu cơ.<br>
+
+<br>• Phân biệt hạt giống thu đông. |
+| **Khối 9: Thời gian** _(3 Tuần)_ | Bước vào thời gian tuyến tính và quy luật của vũ trụ. | • Xem đồng hồ (giờ, phút), tính khoảng cách thời gian.<br>
+
+<br>• Xem lịch âm/dương, chu kỳ trăng.<br>
+
+<br>• Từ vựng quá khứ/hiện tại/tương lai. | • Chế tạo đồng hồ mặt trời đơn giản.<br>
+
+<br>• Quan sát và ghi chép sự thay đổi thời tiết. |
+| **Khối 10: Ngữ pháp** _(2 Tuần)_ | Định hình thế giới và ranh giới qua từ ngữ. | • Phân biệt Danh từ (sự vật) và Động từ (hành động).<br>
+
+<br>• Cấu trúc câu đơn, sửa lỗi nét chữ và chính tả.<br>
+
+<br>• Viết sáng tạo câu chuyện thiên nhiên. | • Viết câu có nghĩa hoàn chỉnh, rõ ranh giới.<br>
+
+<br>• Kiểm soát lực tay và nét viết. |
+| **Khối 11: Tiền tệ** _(3 Tuần)_ | Hiểu về giá trị, sự trao đổi công bằng và trung thực. | • Cộng/trừ hàng dọc có nhớ ứng dụng vào tiền tệ.<br>
+
+<br>• Bài toán tính tiền thừa, mệnh giá tiền Việt Nam.<br>
+
+<br>• Từ vựng thương mại, chợ búa. | • Thực hành đi chợ thật, tính toán chi tiêu.<br>
+
+<br>• Tổ chức ngày hội "Chợ quê thu nhỏ" của lớp. |
+| **Khối 12: Toán chuyên sâu** _(3 Tuần)_ | Tìm kiếm sự trật tự, logic để neo giữ tư duy. | • Thuần thục đặt tính dọc 4 phép tính ($+, -, \times, \div$).<br>
+
+<br>• Thành thạo bảng cửu chương 2 - 10.<br>
+
+<br>• Khái niệm sơ khởi về chia đều (chuẩn bị cho phân số). | • Tính nhẩm nhanh, trình bày toán sạch sẽ.<br>
+
+<br>• Giải toán đố nhiều bước. |
+| **Khối 13: Thủ công & Mộc** _(2 Tuần)_ | Ý chí làm chủ vật chất thông qua công cụ. | • Đo lường hình học phẳng, tính toán độ dài ($cm, mm$).<br>
+
+<br>• Từ vựng về các loại gỗ, tre bản địa và kỹ thuật mộc. | • Sử dụng cưa, đục, dao nhỏ an toàn.<br>
+
+<br>• Đan lát mây tre cơ bản, đẽo gọt đồ chơi gỗ. |
+| **Khối 14: Tổng kết & Tiệc** _(2 Tuần)_ | Lòng biết ơn, sự sẻ chia và tính gắn kết cộng đồng. | • Viết thư mời, lời cảm ơn gửi phụ huynh.<br>
+
+<br>• Lập ngân sách và tính toán định lượng món ăn.<br>
+
+<br>• Đọc truyện truyền thuyết ngày Tết. | • Nấu ăn tập thể, chuẩn bị mâm cỗ Tết.<br>
+
+<br>• Bày biện không gian, điều phối ngày hội. |
+
+---
+
+## 🗒️ Chi tiết mục tiêu và Tiến trình Sư phạm cho từng khối
+
+### Khối 8: Làm vườn (07/09 - 27/09/2026)
+
+Khối học này diễn ra ngay sau kỳ nghỉ hè, là lúc đưa trẻ trở lại với nhịp điệu trường lớp thông qua lao động chân tay ngoài trời.
+
+- **Kiến thức:**
+- _Toán:_ Ôn tập bảng cửu chương 6, 7, 8 qua nhịp điệu gieo hạt (vừa đi vừa thả hạt theo nhịp đếm). Học bảng cửu chương 9. Thực hành cân đo khối lượng hạt giống, phân bón bằng đơn vị $kg, g$.
+- _Tiếng Việt:_ Viết các câu ngắn mô tả đặc điểm của đất, nước, hạt giống. Nhóm viết chậm tập trung viết đúng chính tả tên các loại cây, nhóm viết thạo bắt đầu viết nhật ký sinh trưởng của luống rau do mình chăm sóc.
+
+- **Kỹ năng:** Học cách cầm cuốc, xới đất dứt khoát nhưng an toàn; biết cách làm tơi đất, nhổ cỏ hoang và gieo các loại hạt phù hợp với mùa vụ thu đông miền Trung (như đậu, rau cải, lạc).
+
+---
+
+### Khối 9: Thời gian (28/09 - 18/10/2026)
+
+Trẻ tuổi lên 9 bắt đầu tách khỏi thời gian thần thoại mơ màng để ý thức được thời gian đang trôi xuôi.
+
+- **Kiến thức:**
+- _Toán:_ Đọc chính xác đồng hồ kim đến từng phút. Tính toán khoảng thời gian tiêu hao (Ví dụ: Từ 8:15 đến 9:00 là bao nhiêu phút?). Học cách xem lịch, tính số ngày trong một tháng, hiểu mối liên hệ giữa lịch âm và chu kỳ mặt trăng.
+- _Tiếng Việt:_ Làm quen với trục thời gian qua ngôn ngữ: Hôm qua (Quá khứ), Hôm nay (Hiện tại), Ngày mai (Tương lai). Chép chính tả các bài thơ về sự chuyển mùa của đất trời.
+
+- **Kỹ năng:** Tự tạo một mô hình đồng hồ mặt trời hoặc đồng hồ cát nhỏ. Kỹ năng quan sát bóng nắng để đoán giờ và ghi chép nhật ký thời tiết hàng ngày.
+
+---
+
+### Khối 10: Ngữ pháp & Viết sáng tạo (19/10 - 01/11/2026)
+
+Khối học ngữ pháp đầu tiên giúp trẻ định hình cấu trúc ngôn ngữ, tạo thế cân bằng trước khi bước vào kỳ nghỉ Thu tránh bão lũ.
+
+- **Kiến thức:**
+- _Tiếng Việt:_ Giới thiệu hai thành phần cốt lõi của thế giới: **Danh từ** (Những gì đứng yên, vật chất: _hòn đá, cây tre, ngôi nhà_) và **Động từ** (Những gì chuyển động, hành động của con người: _đục, cưa, gieo, cuốc_). Tập trung sửa triệt để lỗi viết câu thiếu chủ ngữ/vị ngữ.
+- _Toán:_ Duy trì tính nhẩm bảng cửu chương và các bài toán đố ngắn trong giờ bổ trợ buổi sáng.
+
+- **Kỹ năng:** Sửa nét chữ to, sai nét bằng cách viết chậm trong dòng kẻ "Ngôi nhà 3 tầng". Trẻ biết cách đặt dấu chấm để kết thúc một ý trọn vẹn (thiết lập ranh giới cho câu). Viết một đoạn văn ngắn sáng tạo về "Người bạn thiên nhiên" mà con yêu thích.
+
+---
+
+### Khối 11: Tiền tệ (16/11 - 06/12/2026)
+
+Diễn ra ngay sau kỳ nghỉ Thu. Khối học này đưa trẻ vào các mối quan hệ xã hội mang tính thực tế và công bằng.
+
+- **Kiến thức:**
+- _Toán:_ Ứng dụng toàn bộ năng lực đặt tính hàng dọc có nhớ (cả cộng và trừ) vào mệnh giá tiền Việt Nam ($VND$). Trẻ học cách tính tổng tiền của một giỏ hàng và tính số tiền thừa nhận lại khi đi mua sắm.
+- _Tiếng Việt:_ Mở rộng vốn từ vựng về giao thương: _trao đổi, giá trị, trung thực, chi tiêu, tiết kiệm_. Chép chính tả các câu chuyện ngụ ngôn về sự trung thực trong buôn bán.
+
+- **Kỹ năng:** Nhận biết và phân biệt các mệnh giá tiền giấy/polyme thực tế. Thực hành đóng vai người mua - người bán trong lớp. Kỹ năng giao tiếp lịch sự, rõ ràng khi thực hiện một giao dịch tiền tệ tại không gian chợ địa phương.
+
+---
+
+### Khối 12: Toán học chuyên sâu (07/12 - 27/12/2026)
+
+Khối học này là bệ phóng quan trọng, tổng lực ôn luyện để chuẩn bị cho phần kiến thức Phân số ở lớp 4.
+
+- **Kiến thức:**
+- _Toán:_ Đạt đến sự thuần thục khi thực hiện tính dọc cho cả 4 phép tính ($+, -, \times, \div$). Giới thiệu phép chia hàng dọc không dư và có dư dưới dạng hình ảnh "chia đều phần bánh/mảnh đất cho các bạn". Bản chất của phép chia này chính là cái móng để sang lớp 4 trẻ hiểu về Phân số (sự chia nhỏ một chỉnh thể).
+- _Tiếng Việt:_ Duy trì giờ đọc sách tĩnh lặng, tăng cường cho nhóm viết chậm chép chính tả các bài toán đố để vừa luyện chữ vừa luyện tư duy logic.
+
+- **Kỹ năng:** Kỹ năng trình bày vở toán sạch sẽ, các chữ số thẳng hàng dọc tuyệt đối (hàng đơn vị, hàng chục, hàng trăm). Tăng tốc độ tính nhẩm trong vòng tròn buổi sáng.
+
+---
+
+### Khối 13: Nghề thủ công truyền thống & Nghề mộc (28/12/2026 - 10/01/2027)
+
+Trở lại với đôi bàn tay lao động, khối học này tận dụng tối đa chất liệu bản địa và kết nối với dòng chảy văn hóa mộc mạc.
+
+- **Kiến thức:**
+- _Toán:_ Ứng dụng hình học phẳng (hình vuông, hình chữ nhật, hình tròn) và đo lường chiều dài ($cm, mm$) vào việc vạch dòng, cắt phôi gỗ/tre.
+- _Tiếng Việt:_ Học tên gọi các công cụ mộc truyền thống (bào, đục, cưa tay, mộng gỗ) và các đặc tính của tre, mây, gỗ bản địa. Viết đoạn văn ngắn mô tả tiến trình con làm ra một sản phẩm thủ công.
+
+- **Kỹ năng:** Học kỹ thuật an toàn khi sử dụng dao gọt, cưa mộc nhỏ. Thực hành đan lát các nan tre/nan mây cơ bản (đan đôi, đan mốt) để làm rổ nhỏ, hoặc gọt đẽo những món đồ chơi bằng gỗ nhẹ (con quay, chiếc thuyền).
+
+---
+
+### Khối 14: Tổng kết cuối năm & Tiệc cộng đồng (11/01 - 24/01/2027)
+
+Khối học khép lại một năm dương lịch và chuẩn bị đón Tết Nguyên Đán, hướng trẻ về lòng biết ơn và sự sẻ chia.
+
+- **Kiến thức:**
+- _Tiếng Việt:_ Học cách viết một bức thư mời trang trọng và một bức thư cảm ơn gửi đến cha mẹ, thầy cô hoặc các bác thợ đã giúp đỡ lớp trong năm qua. Đọc và hiểu ý nghĩa của các câu chuyện truyền thuyết ngày Tết (Bánh chưng bánh giầy, Mai An Tiêm).
+- _Toán:_ Ứng dụng toán vào đời sống: Tính toán định lượng nguyên liệu cần mua cho bữa tiệc cộng đồng dựa trên số lượng người tham gia; lập bảng chi tiêu cho bữa tiệc (sử dụng kỹ năng của khối Tiền tệ).
+
+- **Kỹ năng:** Phối hợp đội nhóm để dọn dẹp, bày biện và trang trí không gian lớp học mang không khí Tết. Thực hành một vài công đoạn nấu ăn truyền thống an toàn (như lau lá dong, gói bánh, bày mâm ngũ quả). Kỹ năng tự tin đứng trước đám đông để chia sẻ về hành trình một năm đã qua của mình.
+
+---
