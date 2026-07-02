@@ -148,3 +148,34 @@ _(Tất cả các bạn nhỏ cùng cúi chào khán giả trong tiếng nhạc 
 > **Bình Minh Ca đã quay trở về, thắp nụ cười rạng rỡ đất trời.**
 > **Tay nắm chặt tay, bước bên nhau, sáo trống đàn hòa khúc bình an.**
 > **Làng Octavia mến yêu ơi, tiếng ca này sẽ mãi ngân vang!**
+
+Dưới đây là một câu chuyện sinh nhật mang màu sắc nhẹ nhàng, giàu hình ảnh thiên nhiên và sự ấm áp, rất phù hợp với không gian vòng tròn sinh nhật của lớp Sao Khuê và gắn liền với cái tên đáng yêu của con – **Ốc**.
+
+---
+
+## Câu Chuyện Sinh Nhật: Hành Trình Của Chú Ốc Nhỏ Mang Ánh Sáng Tinh Tú
+
+> Ngày xửa ngày xưa, ở một vương quốc lung linh phía trên những tầng mây, nơi các ngôi sao ca hát suốt đêm ngày, có một linh hồn nhỏ bé, trong trẻo như giọt sương ban mai. Linh hồn nhỏ ấy thường ngồi bên dòng sông ngân hà, ngắm nhìn xuống mặt đất xa xôi.
+> Một ngày nọ, khi vén bức màn mây xanh, linh hồn nhỏ nhìn thấy một ngôi nhà ngập tràn ánh sáng ấm áp dưới mặt đất. Ở đó có người cha mạnh mẽ và người mẹ dịu dàng đang tỏa ra tình yêu thương bao la. Linh hồn nhỏ khẽ reo lên: _"Đây chính là ngôi nhà của mình rồi!"_
+> Trước khi linh hồn nhỏ bước lên chiếc cầu vồng để xuống trần gian, Thần Sao Đêm đã đến bên cạnh, tặng cho con một món quà đặc biệt. Đó là một chiếc vỏ ốc nhỏ xíu, cuộn xoắn theo những vòng tròn hoàn hảo của vũ trụ, lấp lánh sắc xà cừ. Thần Sao bảo:
+> _"Ta tặng con chiếc vỏ ốc này. Nó sẽ là ngôi nhà chở che cho trái tim nhạy cảm và ấm áp của con. Mỗi khi con bước đi, dù chậm rãi nhưng sẽ vô cùng vững vàng. Chiếc vỏ ốc này cũng sẽ giúp con biết lắng nghe tiếng nói của đất mẹ, của cỏ cây, và giữ lại những giai điệu đẹp nhất của cuộc sống."_
+> Linh hồn nhỏ đón lấy món quà, lòng đầy niềm vui. Con bước qua chiếc cầu vồng rực rỡ, băng qua những làn gió mát lành, và nhẹ nhàng đáp xuống vòng tay yêu thương của ba mẹ. Tiếng khóc chào đời của con hòa cùng niềm hạnh phúc vỡ òa của gia đình. Ba mẹ ôm con vào lòng và gọi con bằng cái tên thật thương mến: **Gia Hân**, và một tên gọi nhỏ đáng yêu là **Ốc**.
+>
+> ---
+>
+> _[Đoạn này thầy có thể thắp từng ngọn nến hoặc thả một bông hoa tương ứng với từng năm tuổi của con]_
+>
+> - **Năm tuổi đầu tiên**, bé Ốc nằm ngoan trong nôi, mở đôi mắt tròn xoe ngắm nhìn thế giới và tặng cho ba mẹ những nụ cười đầu đời ngọt ngào.
+> - **Năm tuổi thứ hai**, đôi chân nhỏ bắt đầu tập đi những bước chập chững, chiếc vỏ ốc nhỏ bắt đầu khám phá những góc vườn, nhặt nhạnh những bông hoa rơi.
+> - **Năm tuổi thứ ba, thứ tư, thứ năm...**, Ốc ngày một lớn khôn. Con biết nói những lời yêu thương, biết hát những bài ca gọi gió, và chiếc vỏ ốc của con ngày càng chứa đầy những điều kỳ diệu từ tình yêu của ba mẹ, thầy cô và bạn bè.
+> - **Và rồi, khi bước sang tuổi mới**, chú Ốc nhỏ ấy đã mang theo sự kiên trì, trái tim ấm áp và nụ cười rạng rỡ của mình đến với khu vườn của **lớp Sao Khuê**. Con cùng các bạn học tập, làm việc, cùng đan những sợi len, cùng lắng nghe những câu chuyện cổ, và mang lại niềm vui cho tất cả mọi người xung quanh.
+>
+> Chiều hôm nay, khi mặt trời chiếu những tia nắng ấm áp xuống lớp học, tất cả các bạn và thầy giáo cùng quây quần lại đây để chúc mừng chú Ốc nhỏ Gia Hân tròn một tuổi mới. Chúc cho chiếc vỏ ốc của con luôn là một mái nhà bình yên, chúc cho mỗi bước đi của con trên mặt đất luôn vững vàng, và trái tim con luôn ngập tràn ánh sáng như ngôi sao lấp lánh trên cao.
+
+---
+
+### Một vài gợi ý nhỏ cho thầy khi kể:
+
+- **Không gian:** Thầy có thể chuẩn bị một chiếc vỏ ốc thật đẹp (hoặc vỏ ốc xà cừ) đặt trên bàn sinh nhật bên cạnh nến.
+- **Tương tác:** Đến đoạn đếm tuổi, thầy có thể mời Gia Hân lên thắp nến hoặc đặt một bông hoa vào chiếc vòng tuổi của mình.
+- **Kết thúc:** Sau câu chuyện, cả lớp có thể cùng hát vang bài hát mừng sinh nhật hoặc một bài hát quen thuộc của lớp để chúc mừng con.
