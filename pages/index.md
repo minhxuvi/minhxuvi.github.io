@@ -1,13 +1,33 @@
-# Cuộc đời Mốc Meo
+# @@ Làm gì nhỉ?
 
-_Đạo của tôi._
+_Block:_
 
-Minh Định, Chánh Niệm, Tự Do.
+- Learn AI Agent
+- Đạp xe xuyên Việt.
+- Learn BigBang and the Dark Energy. (Creat summary content)
+- Learn Biology (Create summary content)
+- Learn Quantum physics (Create summary content)
+- Learn Quantum computing (Create summary content)
+- Learn Master for Electronic.
 
-## Vũ trụ có trước hay ta có trước?
+_Continuos:_
 
-## Sống nghệ thuật trong từng khoảnh khắc
+- Nurturing Núc Níc
+- Teach Sao Khuê
+- Read philosophy books
+- Learn Chinese through reading.
+- Practice arts: painting, music, martial arts, story telling.
 
-## Cần bắt đầu bằng lễ, cần hơn kết thúc bằng lễ
+## XuviAgent
 
-## Giới thứ 5: Tiêu thụ có chánh niệm
+## Núc Níc Education system
+
+## XuviBook
+
+## XuviHome
+
+## XuviWatch
+
+## Việt Huyền Sử Ký
+
+## Life Science
