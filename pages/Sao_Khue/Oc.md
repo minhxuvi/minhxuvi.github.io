@@ -55,7 +55,15 @@ Quan sát khác:
 
 ### 4. THỂ DỤC & TRÒ CHƠI VẬN ĐỘNG
 
+RUBRIC:
+
+- Nhịp điệu & Ý chí trong Nhảy dây
+- Phối hợp Tay - Mắt với Vật thể
+- Định vị Không gian & Tương tác Cặp đôi
+
 Quan sát khác:
+
+- Ốc có nă
 
 ### 5. ÂM NHẠC
 
