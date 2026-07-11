@@ -1,5 +1,26 @@
 # Quan sát HK 1 - Lớp 3
 
+## Các khối học
+
+### 1. Khối Khai Thiên Lập Địa
+
+- Ốc hay trêu bạn, và cũng hay bị trêu.
+- Bạn khá nhạy cảm, dễ khóc.
+- Bạn viết vẽ hay làm toán đều ổn.
+- Các hoạt động khác cũng tham gia, chỉ là đôi khi giận dỗi các bạn khác thì bạn không có hứng thú làm việc.
+
+### 2. Khối Nấu Ăn
+
+- Biết làm và làm chỉn chu. Hoàn thành đẹp tập nhật ký, có bao gáy vải bìa cứng
+
+### 3. Khối Đo Lường
+
+### 4. Khối Đi Rừng
+
+### 5. Khối Âm Nhạc
+
+### 6. Khối Xây Dựng
+
 ## Các môn học và kỹ năng xuyên suốt
 
 ### 1. Vẽ màu sáp
@@ -58,42 +79,49 @@ Quan sát khác:
 RUBRIC:
 
 - Nhịp điệu & Ý chí trong Nhảy dây
+  - Đã tự nhảy được chuỗi từ 3 đến 5 nhịp liên tục (khi tự quay dây hoặc bạn quay).
+  - Sự phối hợp giữa nhịp bật nhảy của chân và nhịp quay của tay đôi lúc còn chưa đồng đều.
 - Phối hợp Tay - Mắt với Vật thể
+  - Tung cầu tương đối đúng hướng về phía bạn.
+  - Bắt được quả cầu bằng hai tay trong phần lớn các đường chuyền chuẩn xác, động tác bắt đôi khi còn hơi cứng hoặc vồ vập.
 - Định vị Không gian & Tương tác Cặp đôi
+  - Giữ được khoảng cách không gian phù hợp với bạn đồng hành khi chuyền cầu và nhảy dây.
+  - Biết hợp tác với bạn để duy trì lượt chuyền cầu được liên tục hơn.
 
 Quan sát khác:
 
-- Ốc có nă
+- Ốc còn hơi rụt rè khi vận động, đôi khi hơi ngại bắt đầu, nhưng khi bắt được nhịp rồi thì con tham gia rất hăng say và kiên trì.
 
 ### 5. ÂM NHẠC
 
 RUBRIC:
 
 - Làm quen sáo Diatonic & Bấm ngón
+  - Làm chủ tiếng sáo Diatonic: tiếng sáo ấm, tròn trịa và rõ nét.
+  - Động tác bấm ngón dứt khoát, chính xác; chuyển đổi mượt mà giữa các nốt trong bài nhạc kỳ I.
 - Đánh thức Nhạc lý & Đọc nốt
+  - Nhận diện được Khóa Sol và vị trí các nốt nhạc cơ bản trên khuông.
+  - Đã phân biệt được độ dài ngắn của nốt Đen và nốt Trắng khi tự đọc bài nhạc ngắn.
 - Giữ nhịp & Bước đầu Hát đuổi (Canon)
+  - Giữ vững giai điệu bài hát khi hát đồng thanh cả lớp.
 
 Quan sát khác:
+
+- Con hát nhỏ do rụt rè.
 
 ### 6. VẼ WET-ON-WET
 
-RUBRIC:
-
-- Làm chủ Chất liệu (Nước & Màu)
-- Sự trỗi dậy Nguyên sơ của Hình thái
-- Tâm thế trước sự biến đổi của Nước
-
-Quan sát khác:
+- Con rất thích vẽ màu nước.
+- Các bức tranh của con thường có màu nhạt.
+- Rất cẩn trọng với bức tranh của mình, chỉ một chút không ưng ý cũng khiến con rất buồn.
+- Hình thái như các con vật, cây cối dần hình thành trong các bức tranh của con một cách hài hoà.
 
 ### 7. NẶN
 
-RUBRIC:
-
-- Ý chí thức tỉnh Vật liệu
-- Giữ tính Chỉnh thể (Whole-to-part)
-- Trọng lực Nguyên thủy
-
-Quan sát khác:
+- Con an tĩnh thực hành theo bài nặn của thầy.
+- Con tôn trọng và tuân thủ tốt các ranh giới thầy đặt ra.
+- Con tôn trọng sự chỉnh thể của khối đất sét, thầy không thấy con ngắt đất bên ngoài dán vào.
+-
 
 ### 8. FORM DRAWING
 
@@ -124,5 +152,3 @@ RUBRIC:
 - Sự kiên nhẫn trong Không gian tập
 
 Quan sát khác:
-
-## Các khối học
