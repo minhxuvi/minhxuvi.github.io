@@ -3,14 +3,14 @@
 #### **Chủ Nhật - Ngày 02/08 (Hôm nay)**
 
 - [x] **Sáng sớm:** Nạp 2 USD thử nghiệm Claude Code + DeepSeek API _(Đã hoàn thành)_.
-- [ ] **Sáng:** Quyền Minh Định nhẹ nhàng, dành thời gian cùng em trai và gia đình.
-- [ ] **Chiều (13h-17h):** Dành 2h để phác thảo SOP & Khung phân công nhiệm vụ cho Ban truyền thông Gánh hát thong dong.
+- [x] **Sáng:** Quyền Minh Định nhẹ nhàng, dành thời gian cùng em trai và gia đình.
+- [x] **Chiều (13h-17h):** Dành 2h để phác thảo SOP & Khung phân công nhiệm vụ cho Ban truyền thông Gánh hát thong dong.
 - [ ] **Cuối ngày:** Móc len túi sáo (30 phút), đọc sách, dọn dẹp nhà cửa.
 
 #### **Thứ Hai - Ngày 03/08**
 
 - [ ] **Sáng sớm (4h25-7h):** Plank, đạp xe cà phê code -> Bắt đầu dựng giao diện MVP (bước đầu cấu trúc UI).
-- [ ] **Sáng:** Quyền Minh Định nhẹ nhàng, hỗ trợ trông con / cùng em trai đạp xe trải nghiệm.
+- [ ] **Sáng:** Quyền Minh Định nhẹ nhàng, hỗ trợ trông con / cùng em trai đạp xe trải nghiệm. Lên câu truyện cho hành trình xuyên Việt.
 - [ ] **Chiều (13h-17h):**
   - Hoàn thiện SOP Ban truyền thông (1h).
   - Tiến hành bàn giao toàn bộ công việc cho Ban truyền thông (2h) -> **Cán đích trước tối 03/08**.
