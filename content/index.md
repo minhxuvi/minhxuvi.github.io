@@ -16,7 +16,7 @@ _Continuos:_
 - Nurturing Núc Níc
 - Teach Sao Khuê
 - Read philosophy books
-- Learn Chinese through reading.
+- Learn Chinese over singing.
 - Practice arts: painting, music, martial arts, story telling.
 
 ## XuviAgent
