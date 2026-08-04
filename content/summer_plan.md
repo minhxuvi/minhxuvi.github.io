@@ -1,45 +1,43 @@
-# LỊCH TRÌNH VÀ KẾ HOẠCH HÈ 2026 (CẬP NHẬT NGÀY 02/08)
+# SCHEDULE AND SUMMER PLAN 2026 (UPDATED AUG 04)
 
-## NHỊP ĐIỆU HẰNG NGÀY
+## DAILY RHYTHM
 
-- Sáng sớm: (4h25-7h) Plank, đạp xe đi cà phê code. CHỈ CODE VÀO KHOẢNG THỜI GIAN NÀY. (Quỹ thời gian: ~2.5h/ngày)
-- Sáng: Khởi động bài quyền Minh Định nhẹ nhàng, dành thời gian cho gia đình và hỗ trợ trông con.
-- Chiều: 13h-17h (4h) tập trung làm việc. (không code)
-- Cuối ngày: Dành thời gian cùng gia đình. Tập móc len túi sáo 30 phút, thực hành nghệ thuật, học hát tiếng Trung, đọc sách, giữ nhà cửa gọn gàng, loại bỏ thói quen xấu.
+- Early Morning: (4:25 - 7:00 AM) Plank, cycling to coffee shop for coding. CODE ONLY DURING THIS TIME SLOT. (Time budget: ~2.5h/day)
+- Morning: Gentle Minh Dinh martial arts warmup, family time, and childcare support.
+- Afternoon: 13:00 - 17:00 (4h) Focused work. (No coding)
+- Evening: Family time. Practice crocheting flute pouch (30 mins), art practice, learn Chinese singing, read books, keep house tidy, eliminate bad habits.
 
-## GIAI ĐOẠN 1: TẬP TRUNG GIA ĐÌNH VÀ VIỆC NGẮN HẠN (01/08 - 08/08)
+## PHASE 1: FOCUS ON FAMILY & SHORT-TERM TASKS (01/08 - 08/08)
+*(Remaining time: 04/08 - 08/08 - 5 days)*
 
-_(Thời gian còn lại: 02/08 - 08/08 - 7 ngày)_
+- Host younger brother visiting (01/08 - 08/08): Cycle around Hoi An, Cam Thanh, Cam Kim, share Hoi An culture and history with him. *(Est: 2h-3h/day, flexible Morning/Afternoon)*
+- Support wife with childcare and maintain family rhythm. *(Daily routine)*
+- Leverage AI for short-term work & core system setup:
+  - Top up $2 USD to test Claude Code + DeepSeek API. *(✅ Completed morning of Aug 02)*
+  - Draft SOPs and task assignment framework for Media Team of Gánh Hát Thong Dong. *(✅ Completed Aug 03)*
+  - Fully hand over all tasks to Media Team of Gánh Hát Thong Dong. *(✅ Completed Aug 03)*
+  - Deep dive into central auth server (`auth.xuvi.vn`) architecture & development. *(Est: Early morning coding slots Aug 04 - Aug 08)*
+  - Draft Sao Khue class child journey report (UNESCO Hoi An standard) using Google Gemini. *(Est: 3h - Afternoon slots Aug 04 - Aug 05)*
+  - Finalize and official-stamp the Sao Khue class child journey report. *(Est: 1.5h - Afternoon Aug 06)*
+  - Develop parent-child Chinese singing companion program. Son is currently 2 years 8 months old. Goal is to learn Chinese together through singing (focusing on singing technique & Chinese lyrics). *(Est: 3h - Afternoon/Evening Aug 07 - Aug 08)*
 
-- Đón em trai ra chơi (01/08 - 08/08): Đạp xe quanh Hội An, Cẩm Thanh, Cẩm Kim, chia sẻ văn hóa lịch sử Hội An cùng em trai. _(Ước tính: 2h-3h/ngày, linh hoạt Sáng/Chiều)_
-- Phụ vợ trông con và duy trì nhịp điệu gia đình. _(Duy trì đều đặn hằng ngày)_
-- Tận dụng AI làm việc ngắn hạn:
-  - Nạp 2 USD thử nghiệm Claude Code + DeepSeek API. _(✅ Đã hoàn thành sáng 02/08)_
-  - Lập SOP và khung phân công nhiệm vụ cho Ban truyền thông Gánh hát thong dong. _(Ước tính: 3h - Khung Chiều 02/08 & Chiều 03/08)_
-  - Bàn giao xong toàn bộ công việc cho Ban truyền thông Gánh hát thong dong. _(Ước tính: 2h - Hoàn thành trong Khung Chiều 03/08)_
-  - Tạo bản thảo Báo cáo hành trình trẻ Sao Khuê (theo chuẩn UNESCO Hội An). Dùng google Gemini. _(Ước tính: 3h - Khung Chiều 04/08 - 05/08)_
-  - Hoàn thiện và đóng dấu mộc Báo cáo hành trình trẻ lớp Sao Khuê. _(Ước tính: 1.5h - Khung Chiều 06/08)_
-  - Bắt đầu dựng giao diện MVP cho công cụ tạo Báo cáo trẻ/Giáo án tự động. _(Ước tính: 12h-14h - Chia đều Khung Sáng sớm từ 03/08 - 08/08)_
-  - Lên chương trình đồng hành tiếng Trung cùng con. Con hiện tại đang 2 tuổi 8 tháng. Mình muốn học tiếng Trung qua việc hát cùng con. Có hai phần, một là kỹ thuật hát, hai là lời tiếng Trung. Mình muốn học cùng con cả hai phần này. _(Ước tính: 3h - Khung Chiều/Cuối ngày 07/08 - 08/08)_
+## PHASE 2: ACCELERATION AND PREPARATION (09/08 - 18/08)
+*(Duration: 10 days)*
 
-## GIAI ĐOẠN 2: TĂNG TỐC VÀ HOÀN THIỆN CHUẨN BỊ (09/08 - 18/08)
+- Prepare all lesson plans for the upcoming semester. *(Est: 20h - Allocated 2h/day Afternoon slots)*
+- Complete learning to crochet flute pouches for upcoming handwork/crafts class. *(Est: 5h - Allocated 30 mins/day Evening slots)*
+- Perfect Minh Dinh martial arts routines (gentle routine in the morning, strong routine in the afternoon). *(Est: 10h - Allocated 1h/day Morning & Afternoon)*
+- Draft single-story house design concepts for the back plot of Viem Dong land (5x22m). *(Est: 6h - Afternoon slots Aug 10 - Aug 12)*
+- Draft Master Plan framework for Cross-Vietnam Cycling Expedition 2027 (50 participants). *(Est: 8h - Afternoon slots Aug 15 - Aug 17)*
 
-_(Thời lượng: 10 ngày)_
+## PHASE 3: FIXED MILESTONES (19/08 - 06/09)
 
-- Chuẩn bị toàn bộ giáo án cho học kỳ tới. _(Ước tính: 20h - Phân bổ 2h/ngày Khung Chiều)_
-- Hoàn thành học móc len túi sáo chuẩn bị cho môn thủ công kỳ tới. _(Ước tính: 5h - Phân bổ 30 phút/ngày Khung Cuối ngày)_
-- Hoàn thiện bài quyền Minh Định võ đạo (bài nhẹ buổi sáng, bài mạnh buổi chiều). _(Ước tính: 10h - Phân bổ 1h/ngày Sáng & Chiều)_
-- Phác thảo ý tưởng thiết kế nhà cấp 4 phía sau lô đất Viêm Đông (5x22m). _(Ước tính: 6h - Khung Chiều 10/08 - 12/08)_
-- Lên khung kế hoạch Master cho hành trình Đạp xe xuyên Việt 2027 (50 người). _(Ước tính: 8h - Khung Chiều 15/08 - 17/08)_
+- 19/08 - 23/08: Attend family retreat. Turn off work mode, focus on presence and regeneration. *(5 days - 100% Fixed)*
+- 24/08 - 28/08: Lesson Plan Week. Share Grade 3 module content with fellow teachers. *(5 days - School schedule)*
+- 29/08 - 06/09: Field study for Central Highlands gong culture block. Field research, study epics, culture, and history of Central Highlands (collect materials for lesson plans and 2027 trip). *(9 days - Field research)*
 
-## GIAI ĐOẠN 3: CÁC MỐC THỜI GIAN CỐ ĐỊNH (19/08 - 06/09)
+## LONG-TERM & LIFELONG PROJECTS (Parallel Integration)
 
-- 19/08 - 23/08: Tham gia khóa tu cùng gia đình. Tắt chế độ công việc, tập trung hiện diện và tái tạo năng lượng. _(5 ngày - Cố định 100%)_
-- 24/08 - 28/08: Tuần giáo án. Chia sẻ nội dung module Lớp 3 với các cô. _(5 ngày - Làm việc theo lịch nhà trường)_
-- 29/08 - 06/09: Tiền trạm tìm hiểu cho block học cồng chiêng Tây Nguyên. Đi thực địa, nghiên cứu sử thi, văn hóa, lịch sử Tây Nguyên (thu thập tư liệu cho giáo án và chuyến đi 2027). _(9 ngày - Đi thực địa)_
-
-## DỰ ÁN DÀI HẠN VÀ TRỌN ĐỜI (Tích hợp song song)
-
-- Nhịp điệu gia đình: Vun vén tình cảm, giữ nhà cửa gọn gàng, xây dựng sự gắn kết gia tộc. _(Tích hợp nếp sống hằng ngày)_
-- Hệ sinh thái Web & AI: Tích hợp các ý tưởng (Ý tưởng, Homeschool, Sách xuyên Việt, Chủ nhà & Lữ hành, Đạp xe) thành một nền tảng chung, phát triển theo mô hình Micro-SaaS tạo thu nhập thụ động với chi phí dưới 250k/tháng. _(Thực hiện trong các khung Sáng sớm sau khi hoàn thiện MVP)_
-- Nghiên cứu văn hóa & Khoa học: Tìm hiểu văn hóa Mường, nghiên cứu Rejuvenation và Life science. _(Tích hợp vào khung Đọc sách cuối ngày)_
+- Family Rhythm: Nurture bonds, keep the house tidy, build family unity. *(Integrated daily)*
+- Web & AI Ecosystem: Integrate ideas (Ideas, Homeschool, Cross-Vietnam Book, Host & Guest, Cycling) into a unified platform, developed under Micro-SaaS model for passive income with costs under 250k VND/month. *(Executed in early morning slots after completing core auth & MVP foundations)*
+- Cultural & Scientific Research: Study Muong culture, research Rejuvenation and Life science. *(Integrated into Evening reading slots)*
