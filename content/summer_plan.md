@@ -1,4 +1,4 @@
-# SCHEDULE AND SUMMER PLAN 2026 (UPDATED AUG 04)
+# SCHEDULE AND SUMMER PLAN 2026 (UPDATED AUG 06)
 
 ## DAILY RHYTHM
 
@@ -8,7 +8,7 @@
 - Evening: Family time. Practice crocheting flute pouch (30 mins), art practice, learn Chinese singing, read books, keep house tidy, eliminate bad habits.
 
 ## PHASE 1: FOCUS ON FAMILY & SHORT-TERM TASKS (01/08 - 08/08)
-*(Remaining time: 04/08 - 08/08 - 5 days)*
+*(Remaining time: 06/08 - 08/08 - 3 days)*
 
 - Host younger brother visiting (01/08 - 08/08): Cycle around Hoi An, Cam Thanh, Cam Kim, share Hoi An culture and history with him. *(Est: 2h-3h/day, flexible Morning/Afternoon)*
 - Support wife with childcare and maintain family rhythm. *(Daily routine)*
@@ -17,18 +17,20 @@
   - Draft SOPs and task assignment framework for Media Team of Gánh Hát Thong Dong. *(✅ Completed Aug 03)*
   - Fully hand over all tasks to Media Team of Gánh Hát Thong Dong. *(✅ Completed Aug 03)*
   - Deep dive into central auth server (`auth.xuvi.vn`) architecture & development. *(Est: Early morning coding slots Aug 04 - Aug 08)*
-  - Draft Sao Khue class child journey report (UNESCO Hoi An standard) using Google Gemini. *(Est: 3h - Afternoon slots Aug 04 - Aug 05)*
-  - Finalize and official-stamp the Sao Khue class child journey report. *(Est: 1.5h - Afternoon Aug 06)*
+  - Draft and complete Sao Khue class child journey report (UNESCO Hoi An standard) using Google Gemini. *(Est: 3h - Afternoon slots Aug 06 - Aug 07)*
+  - Finalize, print, and official-stamp the Sao Khue class child journey report. *(Est: 1.5h - Afternoon Aug 07)*
+  - Investigate AI workflows & tools (e.g., prompt engineering, story generation) for writing stories for *Việt Huyền Sử Ký*. *(Est: 2h - Afternoon Aug 06 - Aug 07)*
   - Develop parent-child Chinese singing companion program. Son is currently 2 years 8 months old. Goal is to learn Chinese together through singing (focusing on singing technique & Chinese lyrics). *(Est: 3h - Afternoon/Evening Aug 07 - Aug 08)*
 
 ## PHASE 2: ACCELERATION AND PREPARATION (09/08 - 18/08)
 *(Duration: 10 days)*
 
-- Prepare all lesson plans for the upcoming semester. *(Est: 20h - Allocated 2h/day Afternoon slots)*
+- Prepare all lesson plans and Morning Circle rhythm (verses, songs, movement routines) for the upcoming term/semester. *(Est: 20h - Allocated 2h/day Afternoon slots)*
 - Complete learning to crochet flute pouches for upcoming handwork/crafts class. *(Est: 5h - Allocated 30 mins/day Evening slots)*
 - Perfect Minh Dinh martial arts routines (gentle routine in the morning, strong routine in the afternoon). *(Est: 10h - Allocated 1h/day Morning & Afternoon)*
 - Draft single-story house design concepts for the back plot of Viem Dong land (5x22m). *(Est: 6h - Afternoon slots Aug 10 - Aug 12)*
 - Draft Master Plan framework for Cross-Vietnam Cycling Expedition 2027 (50 participants). *(Est: 8h - Afternoon slots Aug 15 - Aug 17)*
+- Expand AI story generation pipeline and content outlining for *Việt Huyền Sử Ký*. *(Integrated into research slots)*
 
 ## PHASE 3: FIXED MILESTONES (19/08 - 06/09)
 
@@ -40,4 +42,5 @@
 
 - Family Rhythm: Nurture bonds, keep the house tidy, build family unity. *(Integrated daily)*
 - Web & AI Ecosystem: Integrate ideas (Ideas, Homeschool, Cross-Vietnam Book, Host & Guest, Cycling) into a unified platform, developed under Micro-SaaS model for passive income with costs under 250k VND/month. *(Executed in early morning slots after completing core auth & MVP foundations)*
+- AI-Assisted Storytelling (*Việt Huyền Sử Ký*): Utilize custom AI tools to assist in researching, outlining, and writing children's historical-mythological stories.
 - Cultural & Scientific Research: Study Muong culture, research Rejuvenation and Life science. *(Integrated into Evening reading slots)*
