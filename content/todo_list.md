@@ -31,20 +31,20 @@
 - [x] **Early Morning (4h25-7h):** Continue dev/optimization on central auth server `auth.xuvi.vn`.
 - [ ] **Morning:** Minh Dinh form, family time.
 - [ ] **Afternoon (13h-17h):**
-  - [ ] Continue drafting and refining Sao Khue class child journey report (UNESCO Hoi An standard) (2h).
-  - [ ] Investigate AI tools & prompts to write stories for *Việt Huyền Sử Ký* (2h).
 - [ ] **Evening:** Crochet flute pouch (30 mins), reading.
 
 #### **Friday - Aug 07**
-- [ ] **Early Morning (4h25-7h):** Wrap up central auth server `auth.xuvi.vn` core modules / transition to Web MVP UI.
 - [ ] **Morning:** Minh Dinh form, family time with brother.
 - [ ] **Afternoon (13h-17h):**
+  - [ ] Continue drafting and refining Sao Khue class child journey report (UNESCO Hoi An standard) (2h).
+  - [ ] Investigate AI tools & prompts to write stories for *Việt Huyền Sử Ký* (2h).
   - [ ] Finalize, print, and official-stamp the Sao Khue class child journey report (1.5h).
   - [ ] Research singing techniques & Chinese song lyrics suitable for 2y8m toddler (1.5h).
   - [ ] Further refine AI story generation prompts for *Việt Huyền Sử Ký* (1h).
 - [ ] **Evening:** Crochet flute pouch (30 mins), practice singing Chinese songs with son.
 
 #### **Saturday - Aug 08**
+- [ ] **Early Morning (4h25-7h):** Wrap up central auth server `auth.xuvi.vn` core modules / transition to Web MVP UI.
 - [ ] **Early Morning (4h25-7h):** System integration testing for auth service & code review.
 - [ ] **Morning:** Minh Dinh form, see off brother / family time.
 - [ ] **Afternoon (13h-17h):**
