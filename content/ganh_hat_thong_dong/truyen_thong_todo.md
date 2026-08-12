@@ -1,0 +1,6 @@
+- Đăng bài recap buổi họp phụ huynh ngày 8/8.
+- Đăng bài recap buổi gây quỹ.
+- Đăng bài cảm ơn gây quỹ tại chợ Tân Thành 9/8
+- Đăng thư ngỏ.
+- Đăng sổ tay thông tin.
+- Tổng kết giai đoạn 1.
