@@ -1,0 +1,10 @@
+## 
+Tạo một AI agent tự động improve, chạy tại local. Có thể quản lý toàn bộ các ý tưởng của mình, thậm chí tự động đề xuất ý tưởng mới. Có quyền sử dụng các thẻ ngân ngân hàng để thanh toán online. Tự động xếp thứ tự ưu tiên và hiện thực hoá các ý tưởng dựa trên phần tài chính được cung cấp. Tự động quản lý dòng tiền, bao gồm cả việc tái đầu tư. Agent này sẽ có thể tự động cập nhật chính bản thân nó.
+
+- Lên lịch chạy một số các tác vụ qua các tool như opencode, deepseek-harness.
+
+##
+Hyper personalized education system.
+- Generate also practice tests based on curriculum or test type.
+- Provide the test score as professional as possible and look for approval from Unesco.
+
