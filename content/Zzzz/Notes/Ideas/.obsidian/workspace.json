@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Auto_improve_AI_agent"
             }
+          },
+          {
+            "id": "678869bb9a740492",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Auto_improve_AI_agent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +128,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Auto_improve_AI_agent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +170,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Auto_improve_AI_agent.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -174,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,10 +195,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "4c732c1d425c43a6",
+  "active": "678869bb9a740492",
   "lastOpenFiles": [
-    "xuvihome.md",
     "watch.md",
-    "Auto_improve_AI_agent.md"
+    "thuan_nhien.md",
+    "Grow up with your child.md",
+    "objects.md",
+    "Grow up with your child",
+    "Auto_improve_AI_agent.md",
+    "xuvihome.md"
   ]
 }

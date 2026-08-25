@@ -1,0 +1,427 @@
+{
+  "main": {
+    "id": "2e9db9b3d5f6946a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3005177a13e2b35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d25f2dafa8ddbfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minh Moc Meo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Minh Moc Meo"
+            }
+          },
+          {
+            "id": "239b6c4463bcb596",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lễ hội Trung Thu 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lễ hội Trung Thu 2026"
+            }
+          },
+          {
+            "id": "96c363f0bd3687d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cô Hà.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cô Hà"
+            }
+          },
+          {
+            "id": "92d2d739394cbcc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lễ hội Trung Thu 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lễ hội Trung Thu 2026"
+            }
+          },
+          {
+            "id": "054b92a078eab248",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tôi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tôi"
+            }
+          },
+          {
+            "id": "36d6ab376b4a0d45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tôi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tôi"
+            }
+          },
+          {
+            "id": "8e2280a2bf703c18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cô Hải.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cô Hải"
+            }
+          },
+          {
+            "id": "30bf4aabcec55d32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cô Hà.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cô Hà"
+            }
+          },
+          {
+            "id": "a05533d8b5bf7b6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lễ hội Trung Thu 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lễ hội Trung Thu 2026"
+            }
+          },
+          {
+            "id": "031fc1b6a17617c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cô Trinh mn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cô Trinh mn"
+            }
+          },
+          {
+            "id": "34a68272bbe400a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nhà Thuận Nhiên.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nhà Thuận Nhiên"
+            }
+          },
+          {
+            "id": "e9820910b3ec98a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lễ hội Trung Thu 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lễ hội Trung Thu 2026"
+            }
+          },
+          {
+            "id": "ebaf241b5aa7b385",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lễ hội Trung Thu 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lễ hội Trung Thu 2026"
+            }
+          },
+          {
+            "id": "ce52286965611654",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lễ hội Trung Thu 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lễ hội Trung Thu 2026"
+            }
+          },
+          {
+            "id": "ce0c2c5d7dfad362",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lễ hội Trung Thu 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lễ hội Trung Thu 2026"
+            }
+          },
+          {
+            "id": "5054334a9b15236d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lễ hội Trung Thu 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lễ hội Trung Thu 2026"
+            }
+          }
+        ],
+        "currentTab": 15
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2af441951f4caa6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "68242db350266d0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6f8b9715373031c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ce37f099122d37bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fa4d35e1079c6645",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "39a164bb18a655a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f86eb402def485f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2755f6db3ec4b4ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lễ hội Trung Thu 2026.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "854a2d6c6a56c351",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lễ hội Trung Thu 2026.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9a3bf9caea03b0b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5464b40ae3566877",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "24866760e2d631c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lễ hội Trung Thu 2026.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5054334a9b15236d",
+  "lastOpenFiles": [
+    "Gánh hát thong dong.md",
+    "Lễ hội Trung Thu 2026.md",
+    "Hoa Yên.md",
+    "Nhà Thuận Nhiên.md",
+    "cô Thương.md",
+    "Thầy Kiên.md",
+    "cô Trinh.md",
+    "Tôi.md",
+    "Sao Khuê.md",
+    "Núc Níc.md",
+    "cô Trinh mn.md",
+    "Cốm.md",
+    "cô Hà.md",
+    "cô Hải.md",
+    "Hải Nam.md",
+    "Nha Thuan Nhien.md",
+    "Untitled.md",
+    "Nha Thuan Nhien/_context.md.md",
+    "Nha Thuan Nhien/_state.md.md",
+    "Nha Thuan Nhien/Event",
+    "Untitled",
+    "Nha Thuan Nhien"
+  ]
+}
