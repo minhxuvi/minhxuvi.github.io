@@ -16,6 +16,6 @@
 	- Có thể mời [[Gánh hát thong dong]] biểu diễn một vài tiết mục.
 **State:**
 - Đang ở bước lên kế hoạch.
-- Hôm nay sẽ có buổi họp 1 tiếng với các thầy cô trong trường thảo luận và chia việc cho lễ hội này. [[Tôi]] cần điều hành buổi họp. Tôi cần có một khung chương trình gợi ý cùng các hoạt động trước trong và sau lễ hội.
+- Hôm nay sẽ có buổi họp 1 tiếng với các thầy cô trong trường thảo luận và chia việc cho lễ hội này. [[Tôi]] cần điều hành buổi họp. Khung chương trình gợi ý + các hoạt động trước/trong/sau lễ hội: xem [[Khung chương trình Lễ hội Trung Thu 2026]].
 - Việc xin phép địa phương vẫn chưa xong do [[tôi]] chưa hoàn thành xong file: đơn đề nghị và kế hoạch tổ chức chương trình.
 **Memory:**

@@ -1,7 +1,7 @@
 Develop education curriculum and lesson plan to grow up with my child.
 ## Core context
 **Personal context:**
-- I'm Minh and my wife - Vi, we were born in 1994.
+- I'm Minh and my wife - [[Vi]], we were born in 1994.
 - We have a boy born in 25 Nov, 2023. We call him Nuc Nic.
 - We plan to grow up with him in an education community inspired by Zen master Thich Nhat Hanh and Waldorf education.
 - I'm an Engineer, I have curiosity and plan for life long learning about Particle physic, AI, and life science. 
