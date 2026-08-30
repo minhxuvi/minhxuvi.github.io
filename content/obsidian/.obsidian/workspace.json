@@ -8,147 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d25f2dafa8ddbfe",
+            "id": "5054334a9b15236d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minh Moc Meo.md",
+                "file": "Núc Níc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Minh Moc Meo"
+              "title": "Núc Níc"
             }
           },
           {
-            "id": "239b6c4463bcb596",
+            "id": "246e889ddf4774db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lễ hội Trung Thu 2026.md",
+                "file": "Chương trình giáo dục XuVi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lễ hội Trung Thu 2026"
+              "title": "Chương trình giáo dục XuVi"
             }
           },
           {
-            "id": "96c363f0bd3687d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cô Hà.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "cô Hà"
-            }
-          },
-          {
-            "id": "92d2d739394cbcc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lễ hội Trung Thu 2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lễ hội Trung Thu 2026"
-            }
-          },
-          {
-            "id": "054b92a078eab248",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tôi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tôi"
-            }
-          },
-          {
-            "id": "36d6ab376b4a0d45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tôi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tôi"
-            }
-          },
-          {
-            "id": "8e2280a2bf703c18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cô Hải.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "cô Hải"
-            }
-          },
-          {
-            "id": "30bf4aabcec55d32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cô Hà.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "cô Hà"
-            }
-          },
-          {
-            "id": "a05533d8b5bf7b6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lễ hội Trung Thu 2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lễ hội Trung Thu 2026"
-            }
-          },
-          {
-            "id": "031fc1b6a17617c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cô Trinh mn.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "cô Trinh mn"
-            }
-          },
-          {
-            "id": "34a68272bbe400a2",
+            "id": "ead7b6001e17ef24",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,7 +50,7 @@
             }
           },
           {
-            "id": "e9820910b3ec98a2",
+            "id": "ee765d38e9543da8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -176,98 +64,49 @@
             }
           },
           {
-            "id": "ebaf241b5aa7b385",
+            "id": "1963df80b364114a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lễ hội Trung Thu 2026.md",
+                "file": "Núc Níc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lễ hội Trung Thu 2026"
+              "title": "Núc Níc"
             }
           },
           {
-            "id": "ce52286965611654",
+            "id": "5182c6e11ee04073",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lễ hội Trung Thu 2026.md",
+                "file": "Sao Khuê.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lễ hội Trung Thu 2026"
+              "title": "Sao Khuê"
             }
           },
           {
-            "id": "ce0c2c5d7dfad362",
+            "id": "018c1cc7175efcb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lễ hội Trung Thu 2026.md",
+                "file": "Block làm vườn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lễ hội Trung Thu 2026"
-            }
-          },
-          {
-            "id": "5054334a9b15236d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Khung chương trình Lễ hội Trung Thu 2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Khung chương trình Lễ hội Trung Thu 2026"
+              "title": "Block làm vườn"
             }
           }
         ],
-        "currentTab": 15
-      },
-      {
-        "id": "463bc89e9a9565a4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9a307f9b4532b130",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lễ hội Trung Thu 2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lễ hội Trung Thu 2026"
-            }
-          },
-          {
-            "id": "60eff8328e5c682b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Khung chương trình Lễ hội Trung Thu 2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Khung chương trình Lễ hội Trung Thu 2026"
-            }
-          }
-        ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -434,30 +273,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "5054334a9b15236d",
+  "active": "018c1cc7175efcb6",
   "lastOpenFiles": [
+    "Việt Huyền Sử Ký.md",
     "AGENTS.md",
-    "Khung chương trình Lễ hội Trung Thu 2026.md",
+    "Block làm vườn.md",
+    "Sao Khuê.md",
+    "Núc Níc.md",
+    "Chương trình lớn lên cùng Núc Níc.md",
+    "KẾ HOẠCH TỔNG THỂ LỚP 3 - NIÊN KHÓA 2026 - 2027.md",
+    "cô Hà.md",
     "Lễ hội Trung Thu 2026.md",
-    "Tôi.md",
-    "Vi.md",
+    "Thiền.md",
+    "Mình cần làm gì tiếp theo?.md",
     "Nhà Thuận Nhiên.md",
+    "Chương trình giáo dục XuVi.md",
+    "Lịch sử địa lý địa phương.md",
+    "Minh.md",
+    "cô Trang.md",
     "Gánh hát thong dong.md",
+    "Khung chương trình Lễ hội Trung Thu 2026.md",
+    "Vi.md",
     "Hoa Yên.md",
     "cô Thương.md",
     "Thầy Kiên.md",
     "cô Trinh.md",
-    "Sao Khuê.md",
-    "Núc Níc.md",
     "cô Trinh mn.md",
     "Cốm.md",
-    "cô Hà.md",
     "cô Hải.md",
-    "Hải Nam.md",
-    "Nha Thuan Nhien.md",
-    "Untitled.md",
-    "Nha Thuan Nhien/_context.md.md",
-    "Nha Thuan Nhien/_state.md.md",
     "Nha Thuan Nhien/Event",
     "Untitled",
     "Nha Thuan Nhien"

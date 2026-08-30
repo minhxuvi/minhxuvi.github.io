@@ -1,17 +1,3 @@
-## Context
-- Born in 25 Nov 2025.
-- Son of [[Minh]] and [[Vi]]
-- Minimum scholar requirement at 18 GED (General Educational Development).
-- Growing up in [[Nhà Thuận Nhiên]]
-- Mình có thể dạy những thứ mình thích 
-Dạy đúng theo chương trình Waldorf của trường.
-Chỉ cần biết thêm các chuẩn đầu ra bên ngoài.
-Thi thoảng cho làm một bài test hàng năm.
-
-Trở thành con người mình muốn trở thành. 
-Thiền tập, tự chủ, minh định.
-Thông qua các kỹ năng cốt lõi như trên phân chia thành nhiều level. Toán, Văn thì phân chia từ lớp 1-12. Còn các kỹ năng kia thì là học tập trọn đời. 
-## Chương trình lớn lên cùng Núc Níc
 ### Mục tiêu
 Nhịp điệu và thói quen quan trọng hơn kiến thức và kỹ năng.
 Các thói quen cốt lõi gồm:
