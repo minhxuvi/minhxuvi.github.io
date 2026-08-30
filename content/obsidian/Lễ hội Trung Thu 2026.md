@@ -32,7 +32,6 @@ _Cho trăng sáng mãi, chan hòa niềm vui._
 
 
 - Điều muốn truyền tải
-- Trăng non, thay máu.
 - Trung thu đốt đèn lên cho sáng.
 - Mang lại cảm giác mơ màng. 
 
