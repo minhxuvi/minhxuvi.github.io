@@ -4,15 +4,19 @@ import { getPageMap } from 'nextra/page-map'
 import 'nextra-theme-docs/style.css'
  
 export const metadata = {
-  // Define your metadata here
-  // For more information on metadata API, see: https://nextjs.org/docs/app/building-your-application/optimizing/metadata
+  title: {
+    default: 'Đỗ Anh Minh',
+    template: '%s | Đỗ Anh Minh'
+  },
+  description:
+    'Ghi chép công khai về dạy học theo tinh thần Waldorf ở Hội An, hòa âm thực hành, làm vườn vừa sức và cộng đồng Đạp xe xuyên Việt.'
 }
  
 export default async function RootLayout({ children }) {
   return (
     <html
-      // Not required, but good for SEO
-      lang="en"
+      // Content is Vietnamese; tell browsers and screen readers so.
+      lang="vi"
       // Required to be set
       dir="ltr"
       // Suggested by `next-themes` package https://github.com/pacocoursey/next-themes#with-app
@@ -26,7 +30,7 @@ export default async function RootLayout({ children }) {
       <body>
         <Layout
           pageMap={await getPageMap()}
-          docsRepositoryBase="https://github.com/shuding/nextra/tree/main/docs"
+          docsRepositoryBase="https://github.com/minhxuvi/minhxuvi.github.io/tree/main/content"
         >
           {children}
         </Layout>

@@ -1,2 +1,0 @@
-- Lễ hội mùa hè 2026: https://photos.app.goo.gl/mpgPs8A6vTcMyR8P8
-- Block đi rừng - 01-05/06/2026: https://photos.app.goo.gl/yLLTRZV5FQZg9r426

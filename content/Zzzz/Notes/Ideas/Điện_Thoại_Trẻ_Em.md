@@ -1,2 +1,0 @@
-- Cha mẹ có thể gọi đến và tự động bắt máy.
-- Định vị GPS, gửi qua SMS cho cha mẹ.
