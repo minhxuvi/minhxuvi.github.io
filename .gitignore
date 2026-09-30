@@ -26,6 +26,10 @@ yarn-error.log*
 .env*.local
 .env
 
+# Local tool config with machine-specific absolute paths.
+# The committable template is opencode.example.jsonc.
+/opencode.jsonc
+
 # Vercel
 .vercel
 

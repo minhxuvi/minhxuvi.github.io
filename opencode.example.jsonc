@@ -1,0 +1,35 @@
+// Example OpenCode config for this repo — safe to commit.
+//
+// Copy this file to `opencode.jsonc` and replace the placeholder paths with
+// the location of your **private** canonical notes repo on your machine.
+// The real `opencode.jsonc` is git-ignored on purpose: it contains
+// machine-specific absolute paths, which must not be published.
+//
+//   cp opencode.example.jsonc opencode.jsonc
+//
+{
+  "$schema": "https://opencode.ai/config.json",
+  "permissions": [
+    {
+      "action": "external_directory",
+      "resource": "<ABSOLUTE_PATH_TO_PRIVATE_REPO>/*",
+      "effect": "allow"
+    },
+    {
+      "action": "read",
+      "resource": "<ABSOLUTE_PATH_TO_PRIVATE_REPO>/*",
+      "effect": "allow"
+    },
+    {
+      "action": "edit",
+      "resource": "<ABSOLUTE_PATH_TO_PRIVATE_REPO>/*",
+      "effect": "deny"
+    }
+  ],
+  "references": {
+    "minhxuvi-source": {
+      "path": "<ABSOLUTE_PATH_TO_PRIVATE_REPO>",
+      "description": "Nguồn canonical của nội dung public; chỉ đọc và tham chiếu, không chỉnh sửa."
+    }
+  }
+}

@@ -9,7 +9,7 @@ Public personal site: Nextra 4 (`nextra-theme-docs`) on Next.js App Router, stat
 
 ## Source of truth
 
-- This repo only holds what is **safe to publish**. The canonical notes live in a separate private repo, registered here as the `minhxuvi-source` read-only reference in `opencode.jsonc` (see that file for the path on your machine).
+- This repo only holds what is **safe to publish**. The canonical notes live in a separate private repo, registered as the `minhxuvi-source` read-only reference in `opencode.jsonc`. That file is git-ignored because it holds absolute paths — use `opencode.example.jsonc` as the template.
 - Never copy a private note over verbatim. Reads are fine; edits to the private repo are not.
 - Before adding anything, ask whether it could identify a child, a family member, a colleague or client, or reveal health, finances, private journaling, internal work, local filesystem paths, or credentials. When unsure, leave it out and say so.
 
@@ -39,7 +39,7 @@ Public personal site: Nextra 4 (`nextra-theme-docs`) on Next.js App Router, stat
 
 ## Deploy
 
-Pushing to `main` triggers `.github/workflows/deploy.yml` (Node 20 → `npm ci` → `npm run build` → uploads `./out` to GitHub Pages). No manual deploy step.
+Pushing to `main` triggers `.github/workflows/deploy.yml` (Node 24 → `npm ci` → `npm run build` → uploads `./out` to GitHub Pages). No manual deploy step. The site's canonical domain is `minh.xuvi.vn`; `minhxuvi.github.io` redirects to it.
 
 <!-- BEGIN:nextjs-agent-rules -->
 
