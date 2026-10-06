@@ -203,6 +203,7 @@ Ghi tác giả/nguồn bản đang dùng; chưa biết thì để “chưa rõ�
 
 # Nguồn đọc tiếp theo chủ đề
 
+- [Hòa âm — Từ nền tảng đến nâng cao](/hoa-am/tu-nen-tang-den-nang-cao) — bản đồ lý thuyết từ nền tảng đến các hướng nâng cao; đọc kèm khi muốn hiểu sâu các khái niệm dùng trong các bài luyện.
 - [Open Music Theory](https://openmusictheory.github.io/) — tra ký âm, trường độ, quãng, hợp âm và kiểu kết theo tên chủ đề; học cùng ví dụ trên đàn/giọng.
 - [Đối âm loại một](https://openmusictheory.github.io/firstSpecies.html) và [loại hai](https://openmusictheory.github.io/secondSpecies.html), Open Music Theory — đọc khi làm Bài 12 và 18; quy tắc có phạm vi phong cách cụ thể.
 - [Embellishing tones](https://openmusictheory.github.io/embellishingTones.html), Open Music Theory — phân biệt nốt lướt, nốt kề và nốt thoát; xem đường đi thay vì chỉ tên nốt.

@@ -7,7 +7,7 @@ description: "Tài liệu tự học hòa âm cho người dạy nhạc cho tr�
 
 ## Tự học và viết bè — hát cùng, thổi cùng các con
 
-Tài liệu tự học dành cho người dạy, có thể chia sẻ với phụ huynh và đồng nghiệp. Tài liệu gồm hai phần: **nền tảng lý thuyết và các bài viết bè** (trang này, Bài 1–20) và [**tiến trình thực hành cho lớp**](/hoa-am/thuc-hanh) cùng cách chọn bài, quy trình viết – nghe – sửa bản phối.
+Tài liệu tự học dành cho người dạy, có thể chia sẻ với phụ huynh và đồng nghiệp. Tài liệu gồm hai phần: **nền tảng lý thuyết và các bài viết bè** (trang này, Bài 1–20) và [**tiến trình thực hành cho lớp**](/hoa-am/thuc-hanh) cùng cách chọn bài, quy trình viết – nghe – sửa bản phối. Phần lý thuyết mở rộng và lộ trình tự học từ nền tảng đến nâng cao (hợp âm mở rộng, jazz, modal, tái hòa âm) nằm ở [Hòa âm — Từ nền tảng đến nâng cao](/hoa-am/tu-nen-tang-den-nang-cao).
 
 Nội dung này viết cho một lớp nhỏ học nhạc bằng hát và thổi sáo, nhưng các bài tập chỉ cần giọng, một cây đàn để lấy cao độ và vài vật để gõ nhịp.
 
