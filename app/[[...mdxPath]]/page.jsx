@@ -1,5 +1,6 @@
 import { generateStaticParamsFor, importPage } from 'nextra/pages'
 import { useMDXComponents as getMDXComponents } from '../../mdx-components'
+import { MobileToc } from '../../components/mobile-toc'
  
 export const generateStaticParams = generateStaticParamsFor('mdxPath')
  
@@ -21,6 +22,7 @@ export default async function Page(props) {
   } = await importPage(params.mdxPath)
   return (
     <Wrapper toc={toc} metadata={metadata} sourceCode={sourceCode}>
+      <MobileToc toc={toc} />
       <MDXContent {...props} params={params} />
     </Wrapper>
   )

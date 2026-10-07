@@ -4,6 +4,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "postbuild": "pagefind --site out --output-subdir _pagefind",
     "start": "next start"
   },
   "dependencies": {
@@ -17,5 +18,8 @@
     "postcss": "^8.5.18",
     "sharp": "^0.35.5",
     "zod": "4.3.6"
+  },
+  "devDependencies": {
+    "pagefind": "^1.5.2"
   }
 }

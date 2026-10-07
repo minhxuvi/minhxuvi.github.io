@@ -11,7 +11,7 @@ Tài liệu tự học dành cho người dạy, có thể chia sẻ với phụ
 
 Nội dung này viết cho một lớp nhỏ học nhạc bằng hát và thổi sáo, nhưng các bài tập chỉ cần giọng, một cây đàn để lấy cao độ và vài vật để gõ nhịp.
 
-**Mục lục nhanh:** A. Nền tảng, cơ bản (Bài 1–7) · B. Viết hai bè, trung cấp – trọng tâm (Bài 8–14) · C. Nâng cao (Bài 15–20).
+**Mục lục nhanh:** [A. Nền tảng, cơ bản (Bài 1–7)](#phần-a--nền-tảng) · [B. Viết hai bè, trung cấp – trọng tâm (Bài 8–14)](#phần-b--viết-hai-bè-phần-trọng-tâm) · [C. Nâng cao (Bài 15–20)](#phần-c--nâng-cao).
 
 ---
 
@@ -28,11 +28,11 @@ Quy ước gọi tên trong tài liệu: **C4 = Đô giữa**; số tăng khi l�
 
 ---
 
-# Phần A — Nền tảng
+## Phần A — Nền tảng
 
 Mục tiêu phần A: nghe và gọi được tên những gì mình đang hát; đọc được một giai điệu ngắn; hiểu hợp âm và chức năng vừa đủ để chọn nốt cho bè. Phần này là gốc cho toàn bộ phần sau.
 
-## Bài 1 — Nhịp, phách, trường độ: chỗ nào là điểm tựa
+### Bài 1 — Nhịp, phách, trường độ: chỗ nào là điểm tựa
 
 **Nguyên tắc.** Phách là nhịp đập đều có thể bước theo. Trong nhịp 4/4, bốn phách có sức nặng khác nhau: phách 1 mạnh, phách 2 nhẹ, phách 3 mạnh vừa, phách 4 nhẹ. Đây là chỗ quan trọng nhất khi viết bè: cùng một nốt đặt ở phách 1 và phách 2 nghe rất khác nhau.
 
@@ -65,7 +65,7 @@ Tổng: 1 + 1 + 2 = 4. Trong phách lặng, tay vẫn vẽ nhịp nhưng không 
 
 **Đáp án gợi ý.** (a) Ô 1: C4 đen | E4 trắng | lặng đen = 1 + 2 + 1 = 4. Ô 2: G4 đen | F4 đen | E4 trắng = 1 + 1 + 2 = 4. (b) Không có đáp án cố định, nhưng có hai điều kiện: chân không đổi tốc độ, và nốt trắng không được hát lại tiếng.
 
-## Bài 2 — Cao độ và ký âm: nốt nào vang cùng nốt nào
+### Bài 2 — Cao độ và ký âm: nốt nào vang cùng nốt nào
 
 **Nguyên tắc.** Ký âm chỉ đúng cao độ khi có khóa nhạc. Khóa Sol cuộn quanh dòng G4; năm dòng từ dưới lên là E4–G4–B4–D5–F5; bốn khe là F4–A4–C5–E5; C4 nằm trên dòng phụ đầu tiên dưới khuông. Khi hát, bàn tay vẽ cao/thấp chỉ là hỗ trợ, không thay việc nghe.
 
@@ -80,7 +80,7 @@ Tổng: 1 + 1 + 2 = 4. Trong phách lặng, tay vẫn vẽ nhịp nhưng không 
 
 **Bài tập 2.** Hát C–E–G–E–C trong vùng giọng dễ chịu, không đàn. Sau đó đàn kiểm từng nốt và ghi lại: nốt nào hát chệch rõ nhất. **Đáp án gợi ý.** Cao độ cần hát là C–E–G–E–C; nốt nào chệch chỉ xác định được từ lượt hát thật, không suy trước là G4 hay E4. Ghi "chệch lên hay chệch xuống" quan trọng hơn ghi "sai".
 
-## Bài 3 — Quãng: con số và chất lượng
+### Bài 3 — Quãng: con số và chất lượng
 
 **Nguyên tắc.** Quãng có hai mặt: **số bậc** (đếm cả hai đầu: C đến E là quãng ba) và **chất lượng** (số bán cung). Hai quãng cùng số có thể khác chất và nghe khác nhau. Quãng **hòa âm** là hai nốt cùng lúc; quãng **giai điệu** là hai nốt lần lượt.
 
@@ -105,7 +105,7 @@ Tổng: 1 + 1 + 2 = 4. Trong phách lặng, tay vẫn vẽ nhịp nhưng không 
 
 **Đáp án gợi ý.** (a) ba trưởng (4 bán cung); (b) ba thứ (3); (c) năm đúng (7); (d) ba thứ (3); (e) hai thứ (1); (f) bảy trưởng (11).
 
-## Bài 4 — Thang âm và giọng: bài hát đang ở đâu
+### Bài 4 — Thang âm và giọng: bài hát đang ở đâu
 
 **Nguyên tắc.** Thang âm trưởng có công thức: **1 cung – 1 cung – ½ cung – 1 cung – 1 cung – 1 cung – ½ cung** (W-W-H-W-W-W-H). Thang âm thứ tự nhiên: W-H-W-W-H-W-W. Muốn biết một bài ở giọng nào, đừng chỉ đếm nốt: hát câu kết và nghe nốt nào là "nhà".
 
@@ -125,7 +125,7 @@ Tổng: 1 + 1 + 2 = 4. Trong phách lặng, tay vẫn vẽ nhịp nhưng không 
 
 **Đáp án gợi ý.** (a) G: G–A–B–C–D–E–F#; F: F–G–A–Bb–C–D–E. (b) Nốt kết A gợi La thứ, nhưng bốn nốt chưa đủ xác định duy nhất giọng; cần hòa âm và ngữ cảnh trước/sau. Đây là ví dụ để thấy "cùng bộ nốt, khác nốt tựa".
 
-## Bài 5 — Hợp âm ba, đảo và nốt thấp nhất
+### Bài 5 — Hợp âm ba, đảo và nốt thấp nhất
 
 **Nguyên tắc.** Hợp âm ba gồm ba nốt xếp theo quãng ba chồng: nốt gốc – nốt ba – nốt năm. Đảo hợp âm là khi nốt thấp nhất không còn là nốt gốc.
 
@@ -150,7 +150,7 @@ Tổng: 1 + 1 + 2 = 4. Trong phách lặng, tay vẫn vẽ nhịp nhưng không 
 
 **Đáp án gợi ý.** (a) D–F–A; E–G–B; F–A–C; G–B–D–F; A–C–E. (b) C–E–G (C thấp nhất); E–G–C (E thấp nhất); G–C–E (G thấp nhất).
 
-## Bài 6 — Chức năng và kết câu: vì sao câu nhạc muốn dừng
+### Bài 6 — Chức năng và kết câu: vì sao câu nhạc muốn dừng
 
 **Nguyên tắc.** Trong hòa âm điệu tính kiểu phương Tây, các hợp âm thường được nghe theo ba vai:
 
@@ -176,7 +176,7 @@ Chức năng phụ thuộc ngữ cảnh, không chỉ tên hợp âm. Ở Đô t
 
 **Đáp án gợi ý.** (a) Kết về chủ, giai điệu kết E4 là kết không hoàn toàn (IAC) theo quy ước. (b) Hợp âm cuối là Am (vi), kết lừa; giai điệu vẫn E4 nhưng điểm đến đổi. Khác biệt cụ thể có thể là: bản (b) nghe còn muốn hát tiếp.
 
-## Bài 7 — Các kiểu thêm bè: chọn cách nào cho việc gì
+### Bài 7 — Các kiểu thêm bè: chọn cách nào cho việc gì
 
 | Cách | Nghe ra sao | Dùng khi | Tránh khi |
 | --- | --- | --- | --- |
@@ -199,7 +199,7 @@ Chức năng phụ thuộc ngữ cảnh, không chỉ tên hợp âm. Ở Đô t
 **Đáp án gợi ý.** (a) Giữ C4 suốt hai ô (lấy hơi lại mỗi ô nếu cần). (b) C4–G4 lặp theo nốt trắng hoặc nốt đen. (c) C4–E4–C4 | B3–C4–A3 tạo các quãng ba về mặt khoảng cách, nhưng B3 và A3 không thuộc hợp âm C, và A3 cuối khiến câu chưa kết trên hòa âm C đã cho. Đây là **phương án cơ học cần sửa**, không phải đáp án phối hoàn chỉnh. Có thể đổi ô 2 thành C4 đen – C4 đen – C4 trắng: D4 là nốt kề có nhấn ở đầu ô trong đường E4–D4–E4 qua vạch nhịp, kết C4/C4. Cần nghe riêng chỗ nhấn này; đây không phải mẫu nốt nghịch chỉ ở phách yếu của bài tập nhập môn. Không bắt giữ quãng ba cả câu. Nếu B3/A3 quá thấp, chọn bè khác hoặc chuyển giọng vừa mức; không tự đẩy cả bài lên một quãng tám vì có thể quá cao.
 
 
-### Từ vựng gọn (dùng khi đọc nguồn tiếng Anh)
+#### Từ vựng gọn (dùng khi đọc nguồn tiếng Anh)
 
 Cao độ = pitch; tiết tấu = rhythm; phách = beat; nhịp = meter; ô nhịp = measure/bar; đồng giọng = unison; bè = part; hát không nhạc cụ = a cappella; hát vòng = round; canon = bè bắt chước theo quy tắc; âm nền giữ/lặp = drone; mẫu lặp = ostinato; quãng = interval; hợp âm ba = triad; nốt gốc = root; nốt thấp nhất = bass note; đảo = inversion; nốt thuộc hợp âm = chord tone; nốt ngoài hợp âm = non-chord tone; chủ âm = tonic; át = dominant; chuẩn bị = predominant; kết = cadence; chuyển điệu = modulation; dẫn bè = voice leading; đối âm = counterpoint; chuyển động cùng chiều = similar motion; ngược chiều = contrary motion; song song = parallel motion; một bè đứng yên = oblique motion; toàn khoảng = range; vùng thường dùng = tessitura.
 
@@ -207,11 +207,11 @@ Lưu ý khi đọc: không dịch mọi chữ "harmony" thành "hợp âm" — t
 
 ---
 
-# Phần B — Viết hai bè (phần trọng tâm)
+## Phần B — Viết hai bè (phần trọng tâm)
 
 Mục tiêu phần B: từ một giai điệu ngắn, tự viết được bè thứ hai hát được, nghe được, và biết sửa sau khi ghép. Đây là phần cần đầu tư nhiều thời gian nhất; các phần sau chỉ mở rộng từ đây.
 
-## Bài 8 — Chiều dọc: chọn nốt theo hợp âm và theo phách
+### Bài 8 — Chiều dọc: chọn nốt theo hợp âm và theo phách
 
 **Nguyên tắc bốn bước**
 
@@ -251,7 +251,7 @@ Mục tiêu phần B: từ một giai điệu ngắn, tự viết được bè t
 **Đáp án gợi ý.** Có thể giữ C4 (nốt năm của F) hoặc thử F4 (nốt gốc): A4–G4–A4 trên F4 tạo ba trưởng – hai trưởng – ba trưởng. G4 là nốt kề yếu, giải quyết trở lại A4. Kiểm cả đường bè khi vào ô 3: nếu F4 xuống D4 đồng thời A4 xuống D4, đây không phải mẫu đối âm nghiêm ngặt tránh cùng chiều vào quãng hoàn hảo; dùng để so màu trong bản phối có hợp âm rồi nghe lại.
 
 
-## Bài 9 — Chiều ngang: mỗi bè phải là một đường hát được
+### Bài 9 — Chiều ngang: mỗi bè phải là một đường hát được
 
 **Nguyên tắc.** Trước khi kiểm quãng dọc, hãy kiểm từng bè như một bài hát nhỏ:
 
@@ -279,7 +279,7 @@ Mục tiêu phần B: từ một giai điệu ngắn, tự viết được bè t
 **Đáp án gợi ý.** (a) Trong từng ô, bè dưới giữ nên là chuyển động đứng yên. Ranh giới ô 2→3: bè trên A4 xuống D4, bè dưới C4 lên D4 — ngược chiều tới đồng âm. Ô 3→4: F4 xuống E4 và D4 xuống C4 — cùng chiều. (b) Nếu đổi **nốt đầu ô 4** thành C5, bè trên F4 lên C5 và bè dưới D4 xuống C4 là ngược chiều vào quãng tám. Nếu chỉ đổi nốt cuối ô 4, bè dưới đã đứng ở C4 nên đó là chuyển động đứng yên, không phải ngược chiều. Phải kiểm C5 có vừa giọng trước khi dùng.
 
 
-## Bài 10 — Dẫn bè: nốt hút về đâu, và phạm vi của luật cổ điển
+### Bài 10 — Dẫn bè: nốt hút về đâu, và phạm vi của luật cổ điển
 
 **Nốt có sức hút.** Trong Đô trưởng:
 
@@ -297,7 +297,7 @@ Mục tiêu phần B: từ một giai điệu ngắn, tự viết được bè t
 
 **Đáp án gợi ý.** (a) G4–B4 = ba trưởng; C4–C5 = quãng tám. (b) B đi lên, G đi xuống: ngược chiều vào quãng tám, nghe "chắc" và đúng chỗ kết. (c) G4–E4: quãng dọc thành ba trưởng rồi sáu thứ; câu nghe mềm hơn nhưng kém "đóng" hơn — cả hai đều dùng được, tùy câu muốn kết hay muốn mở.
 
-## Bài 11 — Nốt ngoài hợp âm: dùng để đi, không để dừng
+### Bài 11 — Nốt ngoài hợp âm: dùng để đi, không để dừng
 
 | Loại | Cách đi | Dùng ở đâu |
 | --- | --- | --- |
@@ -320,7 +320,7 @@ Mục tiêu phần B: từ một giai điệu ngắn, tự viết được bè t
 **Đáp án gợi ý.** Bè dưới C4 | D4 | C4 | C4, mỗi nốt đen: D4 ở phách 2, đi C4–D4–C4 nên là nốt kề trên so với nền C. Quãng dọc lần lượt ba trưởng, ba thứ, năm đúng, ba trưởng. D4 không thuộc C dù D4/F4 tạo quãng ba thuận. Phương án C4–C4–D4–C4 đưa D4 vào phách 3 (mạnh vừa), không đáp ứng đề “phách yếu”.
 
 
-## Bài 12 — Đối âm nhập môn: một nốt đối một nốt
+### Bài 12 — Đối âm nhập môn: một nốt đối một nốt
 
 Sân tập cổ điển gọi là "loại một" (first species): một nốt tròn đối một nốt tròn, hai bè. Mục đích không phải để viết nhạc đẹp, mà để tai học cách hai đường cùng sống. Các điều kiện chính (theo Open Music Theory):
 
@@ -353,7 +353,7 @@ Sân tập cổ điển gọi là "loại một" (first species): một nốt tr
 **Đáp án gợi ý (một phương án).** G4 | F4 | G4 | B4 | A4 | B4 | C5, mỗi ô một nốt tròn. Trên cantus C4–D4–E4–D4–F4–D4–C4, các quãng là năm đúng, ba thứ, ba thứ, sáu trưởng, ba trưởng, sáu trưởng, tám đúng. Chỉ có hai quãng ba liên tiếp; đỉnh cantus F4 ở ô 5, đỉnh bè trên C5 ở ô 7. Kết B4–C5 ngược D4–C4 bằng bước liền, không có quãng năm/tám song song hoặc cắt bè. Đây là bài ngắn luyện quan hệ hai đường; khi viết cantus dài hơn, tiếp tục kiểm hình dáng câu và cao trào theo nguồn.
 
 
-## Bài 13 — Viết bè thứ hai cho giai điệu có lời
+### Bài 13 — Viết bè thứ hai cho giai điệu có lời
 
 **Thêm ba điều kiện so với bài tập trên giấy**
 
@@ -379,7 +379,7 @@ Sân tập cổ điển gọi là "loại một" (first species): một nốt tr
 
 **Đáp án gợi ý.** Một phương án: C4 (tròn) | C4 (tròn) | D4 (tròn) | C4 (tròn) — nốt chung C4 giữa ô 1–2; ô 3–4 đổi D4 xuống C4; lý do có thể là "bè dưới ít nhảy nên nhóm yếu giữ được", hoặc "điểm kết rõ vì bè dưới về Đô".
 
-## Bài 14 — Nghe và sửa: quy trình và bảng xử lý
+### Bài 14 — Nghe và sửa: quy trình và bảng xử lý
 
 **Thứ tự kiểm — không bỏ qua bậc nào**
 
@@ -412,11 +412,11 @@ Sân tập cổ điển gọi là "loại một" (first species): một nốt tr
 
 ---
 
-# Phần C — Nâng cao
+## Phần C — Nâng cao
 
 Phần này mở rộng từ Phần B. Nguyên tắc giữ nguyên: mỗi chủ đề phải nghe, hát hoặc thổi được trước khi viết. Không dạy các mục C15–C19 cho trẻ; trẻ chỉ gặp kết quả của chúng.
 
-## Bài 15 — Hợp âm bảy: sức căng và cách giải quyết
+### Bài 15 — Hợp âm bảy: sức căng và cách giải quyết
 
 **Hợp âm bảy** là hợp âm ba cộng một nốt cách nốt gốc một quãng bảy. Trong Đô trưởng, ba hợp âm bảy hay dùng:
 
@@ -438,7 +438,7 @@ Phần này mở rộng từ Phần B. Nguyên tắc giữ nguyên: mỗi chủ 
 
 **Đáp án gợi ý.** (a) D–F–A–C; G–B–D–F; C–E–G–B; B–D–F–A. (b) F5 xuống E5, B4 lên C5 → E5–C5; kiểm lại bằng hát cặp nốt trước và sau.
 
-## Bài 16 — Át phụ: nhấn mạnh một hợp âm tạm thời
+### Bài 16 — Át phụ: nhấn mạnh một hợp âm tạm thời
 
 **Nguyên tắc.** Muốn làm nổi một hợp âm trong bài, ta có thể đặt trước nó một hợp âm át mượn từ giọng khác. Cách viết ký hiệu là gạch chéo: **V/V** đọc là "năm của năm".
 
@@ -472,7 +472,7 @@ Nốt bảy C5 của D7 đi xuống B4 (nốt ba của G) rồi về C5 — đâ
 
 **Đáp án gợi ý.** C – A7 (V/ii) – Dm; C – E7 (V/vi) – Am; G – G7 (V/IV) – C trong giọng G. Hát lại từng chuỗi với đàn.
 
-## Bài 17 — Chuyển điệu: đổi "nhà" trong bài
+### Bài 17 — Chuyển điệu: đổi "nhà" trong bài
 
 **Nguyên tắc.** Chuyển điệu làm một giọng mới trở thành trung tâm. Trong bài luyện hòa âm điệu tính này, dùng **kết rõ ở giọng mới** làm dấu hiệu; không coi một hợp âm có dấu hóa đã đủ chuyển điệu. Cách êm nhất là dùng **hợp âm trung gian** (pivot): một hợp âm thuộc cả hai giọng.
 
@@ -493,7 +493,7 @@ Nốt bảy C5 của D7 đi xuống B4 (nốt ba của G) rồi về C5 — đâ
 
 **Đáp án gợi ý.** C | Dm | C7 | F (Dm là trung gian, C7 có Bb là nốt mới của F; F là nhà mới). Hoặc C | Am | C7 | F. Nghe lại để thấy Bb xuất hiện đúng lúc.
 
-## Bài 18 — Đối âm hai nốt đối một nốt (2:1)
+### Bài 18 — Đối âm hai nốt đối một nốt (2:1)
 
 Bè dưới đi nốt tròn, bè trên hai nốt trắng trong mỗi ô 4/4; ô áp chót và cuối có thể dùng nốt tròn. Đầu ô là điểm mạnh, nửa sau ô là điểm yếu trong **bài tập 2:1 này** (khác cách gọi phách 3 mạnh vừa trong một ô 4/4 thông thường).
 
@@ -521,7 +521,7 @@ Bè dưới đi nốt tròn, bè trên hai nốt trắng trong mỗi ô 4/4; ô 
 **Bước sau:** 4:1 là một loại bài riêng với cách dùng nốt lướt/nốt kề và xử lý phách mạnh riêng; không tăng số nốt rồi cho rằng toàn bộ luật 2:1 giữ nguyên. Chỉ học tiếp khi 2:1 đã nghe và kiểm được.
 
 
-## Bài 19 — Hát vòng và canon: kiểm bằng chỗ chồng nhau
+### Bài 19 — Hát vòng và canon: kiểm bằng chỗ chồng nhau
 
 **Nguyên tắc.** Muốn một giai điệu hát vòng được, phải kiểm **mọi chỗ hai lượt chồng nhau**, không chỉ nghe giai điệu một mình. Cách làm trên giấy: chép giai điệu hai lần trên hai dòng, dòng thứ hai lệch đúng số phách sẽ vào, rồi ghi các cặp nốt vang cùng lúc.
 
@@ -549,7 +549,7 @@ Các chỗ chồng nhau trong bảng đều thuận (năm, đồng âm); sau khi
 
 **Đáp án gợi ý.** Vào sau một phách: phách 2: E4 (lượt 1) với C4 (lượt 2) = ba trưởng; phách 3: G4 với E4 = ba thứ; hai cặp được hỏi đều thuận; cả mô-típ dùng C/E/G nên các chồng âm thuộc hợp âm C, nhưng vẫn cần nghe các chỗ lặp, giao/cắt bè và kết. Thay điểm vào làm đổi quãng chồng, không tăng số nốt mỗi bè trong một phách. Hát thử mới chọn cách dùng.
 
-## Bài 20 — Từ câu thành bài: bố cục tối thiểu và chuẩn bị biểu diễn
+### Bài 20 — Từ câu thành bài: bố cục tối thiểu và chuẩn bị biểu diễn
 
 **Cấu trúc đủ dùng cho 8–16 ô**
 

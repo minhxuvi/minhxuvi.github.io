@@ -125,9 +125,9 @@ Không dùng điểm tổng để xếp hạng, không so trẻ với nhau. So c
 
 ---
 
-# Phần E — Chọn bài và viết bản phối
+## Phần E — Chọn bài và viết bản phối
 
-## E.1 Bảng tiến trình chọn bài
+### E.1 Bảng tiến trình chọn bài
 
 | Mức | Kỹ năng cần có | Tiêu chí chọn giai điệu | Nhịp / âm vực / ngón | Cách thêm bè | Dấu hiệu sẵn sàng lên mức sau |
 | --- | --- | --- | --- | --- | --- |
@@ -140,7 +140,7 @@ Không dùng điểm tổng để xếp hạng, không so trẻ với nhau. So c
 
 Ghi chú: bảng này thay cho việc gắn cứng tuần 1–36. Các con có thể ở mức khác nhau giữa các ngày; chọn mức theo biểu hiện trong ngày, không theo số tuần.
 
-## E.2 Một số bài gợi ý để tự tìm bản
+### E.2 Một số bài gợi ý để tự tìm bản
 
 Yêu cầu trước khi dùng: tìm một bản đủ rõ (có người hát/đàn mẫu hoặc có bản in đáng tin), chốt một phiên bản, ghi nguồn; không trộn nhiều dị bản trong cùng một lần dạy.
 
@@ -157,7 +157,7 @@ Các tên dưới đây là **gợi ý để người dạy tìm bản cụ th�
 Ghi tác giả/nguồn bản đang dùng; chưa biết thì để “chưa rõ”. Việc có bản miễn phí để đọc không tự xác nhận quyền in/phát hành bản phối.
 
 
-## E.3 Quy trình viết bản phối: 8 bước
+### E.3 Quy trình viết bản phối: 8 bước
 
 1. **Chọn bài và chốt mục tiêu.** Ví dụ: "tuần này chỉ cần giữ bè nền đúng" — chứ không phải "phối hay".
 2. **Nghe và tìm nốt tựa.** Hát hết bài hai lần, dừng ở câu kết, nghe nốt nào là "nhà"; đàn kiểm lại. Ghi giọng/thang âm dự kiến.
@@ -174,7 +174,7 @@ Ghi tác giả/nguồn bản đang dùng; chưa biết thì để “chưa rõ�
 - Một tiếng lời, một nốt; chỗ luyến phải có dấu nối rõ.
 - Ghi chỗ lấy hơi và chỗ vào của từng bè.
 
-## E.4 Ví dụ trọn vẹn (dùng lại bài tập Phần B)
+### E.4 Ví dụ trọn vẹn (dùng lại bài tập Phần B)
 
 **Giả định.** Giai điệu 4 ô (Bài 8): E4 G4 E4 | A4 G4 A4 | D4 E4 F4 | E4 D4 C4; nhịp 4/4, mỗi ô đen–đen–trắng; âm vực viết C4–A4, chưa xác nhận vừa giọng trẻ.
 
@@ -189,7 +189,7 @@ Ghi tác giả/nguồn bản đang dùng; chưa biết thì để “chưa rõ�
 
 **Phương án thay thế đáng thử.** Bỏ bè dưới ở ô 1–2, để nhóm nhỏ hát "hỏi–đáp" với ô 1–2 và ô 3–4; sau đó mới thêm bè dưới. Cách này thường giữ được sự chú ý của lớp hơn khi mới vào bài.
 
-## E.5 Phiếu kiểm trước buổi dạy
+### E.5 Phiếu kiểm trước buổi dạy
 
 - Nhịp: …… Giọng: …… Số ô: …… Mức đang dùng (1–6): ……
 - Nốt xuất phát thực: …… (lấy từ đàn/bạn hát chuẩn)
@@ -201,7 +201,7 @@ Ghi tác giả/nguồn bản đang dùng; chưa biết thì để “chưa rõ�
 
 ---
 
-# Nguồn đọc tiếp theo chủ đề
+## Nguồn đọc tiếp theo chủ đề
 
 - [Hòa âm — Từ nền tảng đến nâng cao](/hoa-am/tu-nen-tang-den-nang-cao) — bản đồ lý thuyết từ nền tảng đến các hướng nâng cao; đọc kèm khi muốn hiểu sâu các khái niệm dùng trong các bài luyện.
 - [Open Music Theory](https://openmusictheory.github.io/) — tra ký âm, trường độ, quãng, hợp âm và kiểu kết theo tên chủ đề; học cùng ví dụ trên đàn/giọng.
@@ -211,7 +211,7 @@ Ghi tác giả/nguồn bản đang dùng; chưa biết thì để “chưa rõ�
 
 Các nguồn đọc thêm từng được gợi trong tài liệu nền: Alan Belkin (*General Principles of Harmony*, *Principles of Counterpoint*), Beth Denisch (*Writing a Canon*, Berklee), Jenevora Williams (British Voice Association), Sing Up, Love Music và Friday Afternoons. Tra đúng ấn bản và điều kiện dùng khi cần; danh sách không có nghĩa toàn bộ nguồn đã được kiểm lại ở lần cập nhật này.
 
-# Giới hạn và điều còn cần dữ liệu
+## Giới hạn và điều còn cần dữ liệu
 
 Tài liệu này là bản tự học: các ví dụ được tính lại trên giấy (trường độ, số bán cung, thành phần hợp âm, hướng chuyển động), nhưng **chưa hát/thổi cùng lớp để kiểm bằng âm thanh**. Những từ mô tả màu âm trong bài là gợi ý lắng nghe, không phải kết quả nghe thử đã có.
 

@@ -1,7 +1,9 @@
-import { Layout } from 'nextra-theme-docs'
-import { Head } from 'nextra/components'
+import { Layout, LastUpdated, Navbar } from 'nextra-theme-docs'
+import { Head, Search } from 'nextra/components'
 import { getPageMap } from 'nextra/page-map'
+import { SiteMenuButton } from '../components/site-menu-button'
 import 'nextra-theme-docs/style.css'
+import './globals.css'
  
 export const metadata = {
   title: {
@@ -31,6 +33,24 @@ export default async function RootLayout({ children }) {
         <Layout
           pageMap={await getPageMap()}
           docsRepositoryBase="https://github.com/minhxuvi/minhxuvi.github.io/tree/main/content"
+          navbar={
+            <Navbar logo={<span className="site-title">Đỗ Anh Minh</span>}>
+              <SiteMenuButton />
+            </Navbar>
+          }
+          search={
+            <Search
+              placeholder="Tìm kiếm nội dung…"
+              loading="Đang tải…"
+              emptyResult="Không tìm thấy kết quả."
+              errorText="Không tải được chỉ mục tìm kiếm."
+            />
+          }
+          themeSwitch={{ dark: 'Tối', light: 'Sáng', system: 'Theo hệ thống' }}
+          toc={{ title: 'Mục lục', backToTop: 'Lên đầu trang' }}
+          editLink="Sửa trang này"
+          feedback={{ content: 'Góp ý' }}
+          lastUpdated={<LastUpdated locale="vi">Cập nhật lần cuối</LastUpdated>}
         >
           {children}
         </Layout>
