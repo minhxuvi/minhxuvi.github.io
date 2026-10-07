@@ -21,6 +21,7 @@ Mình không muốn con mình lớn lên trong một thế giới như thế. N�
 - **[Bản địa hóa ở Hội An](/giao-duc/nguyen-tac-waldorf-hoi-an)** — những nguyên tắc mình dùng để đưa nội dung Waldorf về với bối cảnh Việt Nam và Hội An: truyện kể, âm nhạc, làng nghề, nhịp tuần, lễ hội.
 - **[Giáo án: Đo lường](/giao-duc/giao-an-do-luong)** — khối 15 ngày đi từ đo bằng cơ thể đến hệ mét, kèm hoạt động thực hành.
 - **[Giáo án: Làm vườn](/giao-duc/giao-an-lam-vuon)** — khối ba tuần: trồng trọt, chăn nuôi, chế biến.
+- **[Lịch các khối học lớp 3](/giao-duc/lich-block-lop-3)** — dòng chủ đề trong năm, thông tin về khối kể chuyện *Việt Huyền Sử Ký* và tóm tắt các giáo án đã có.
 
 ## Vài điều mình tin về việc dạy
 

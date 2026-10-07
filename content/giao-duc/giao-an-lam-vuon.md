@@ -20,6 +20,8 @@ Buổi sáng có sinh hoạt vòng tròn (bài hát, vè, ca dao theo chủ đ�
 
 Mỗi ngày làm việc ngoài vườn đều khép lại bằng việc ghi lại thành vở: vẽ cái mình vừa thấy và viết một đoạn ngắn.
 
+Giáo án ghi hoạt động vẽ, viết, kể và các môn buổi chiều, nhưng không nêu một nội dung ôn Toán riêng; vì vậy trang này không suy diễn thêm bài Toán cho khối.
+
 ## Tuần 1 — Trồng trọt
 
 **Vòng tròn:** bài "Hạt gạo làng ta" với động tác kéo cày, xay lúa, giã gạo; dân ca "Đi cấy" (Thanh Hóa); vè "Tháng Chạp là tháng trồng khoai…".

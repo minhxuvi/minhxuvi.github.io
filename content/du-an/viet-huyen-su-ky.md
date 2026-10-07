@@ -7,6 +7,8 @@ description: "Một bộ truyện kể lại huyền sử và cổ tích Việt 
 
 *Việt Huyền Sử Ký* là một bộ truyện mình đang viết và kể, kể lại huyền sử và cổ tích Việt Nam cho trẻ.
 
+Bộ truyện được dùng làm mạch kể chính trong khối học mở đầu lớp 3 — **Khai thiên lập địa**. [Xem tổng quan các khối học lớp 3](/giao-duc/lich-block-lop-3).
+
 ## Vì sao có bộ truyện này
 
 Trong chương trình Waldorf, lớp 3 là giai đoạn trẻ cần được "tiếp đất": trẻ bắt đầu tách khỏi thế giới mộng mị của tuổi thơ và cần biết mình đứng ở đâu, thuộc về đâu.
