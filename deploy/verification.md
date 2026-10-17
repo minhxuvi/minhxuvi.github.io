@@ -16,7 +16,7 @@ URL: **https://minh.xuvi.vn**. Ứng dụng Laravel + Blade chạy trên cPanel,
 | Sửa cuối ngày — ảnh `.img` | Các `.img` sẵn có trong kho được nhận khi MIME thực (fileinfo) là PNG/JPEG/GIF/WebP/AVIF; nội dung khác trả 415. Chưa note nào nhúng `.img`; mở trực tiếp qua endpoint có quyền. |
 | Kiểm chứng sau sửa | Hosting: cây 705 mục; note `?` đọc được (678 byte); tìm `Sử dụng website minh` trả 1 kết quả, không lỗi; `.img` đầu tiên nhận diện `image/jpeg`. Qua HTTPS có đăng nhập: tìm kiếm trả 200 và thấy đúng ghi chú hướng dẫn; note `?` trả 200 và mở được trình soạn (khung soạn focus sẵn, nút Thu gọn hiện); asset `.img` trả 200 `image/png` đúng chữ ký PNG; liên kết tới note `?` trong duyệt thư mục và tìm kiếm đều mã hóa `%3F` đúng. Toàn bộ 21 URL công khai trả 200. |
 | Triển khai | Gói 17/10 09:53 được xác minh bằng SHA-256: `app/Services/GitHubNotes.php` trên hosting khớp bản local; `bootstrap/cache` và view cache được tạo lại trong cùng lượt deploy. |
-| Tự động | 18 tests / 152 assertions qua; Blade biên dịch qua; JS dùng cú pháp ES5 + XMLHttpRequest cho Android cũ. |
+| Tự động | 18 tests / 152 assertions qua; Blade biên dịch qua; JS dùng cú pháp ES5 + XMLHttpRequest cho Android cũ. Workflow **Validate Laravel** trên GitHub Actions đã được bật lại và chạy xanh cho commit `4515c86`. |
 
 ## Thiết bị và vấn đề vận hành
 
