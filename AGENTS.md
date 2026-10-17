@@ -1,52 +1,46 @@
 # AGENTS.md
 
-Public personal site: Nextra 4 (`nextra-theme-docs`) on Next.js App Router, statically exported to GitHub Pages. Plain JSX, no TypeScript. All content is Vietnamese.
+Website tiếng Việt thống nhất bằng Laravel 13 + Blade. Public và `/private` dùng chung bộ hiển thị Markdown. JavaScript thuần chỉ phục vụ trình soạn, xem trước và giữ bản nháp. Không duy trì Nextra, Next.js, React hoặc MDX thực thi.
 
-## Commands
+## Lệnh
 
-- `npm run dev` — local dev server
-- `npm run build` — static export to `out/`; this is the **only** automated check. There are no lint, test, or typecheck scripts.
+- `composer install` — cài dependency theo lock, PHP 8.5 phù hợp hosting.
+- `cp .env.example .env` rồi `php artisan key:generate` — cấu hình local; khi dùng HTTP local đặt `SESSION_SECURE_COOKIE=false`.
+- `php artisan serve` — chạy local.
+- `php artisan test` — kiểm tra route, quyền truy cập, renderer, lưu/xung đột và lỗi API.
+- `php artisan view:cache` — kiểm tra biên dịch Blade.
+- `python3 scripts/package.py` — tạo gói production có vendor, không có bí mật/dữ liệu runtime.
 
-## Source of truth
+## Phân định nguồn
 
-- This repo only holds what is **safe to publish**. The canonical notes live in a separate private repo, registered as the `minhxuvi-source` read-only reference in `opencode.jsonc`. That file is git-ignored because it holds absolute paths — use `opencode.example.jsonc` as the template.
-- Never copy a private note over verbatim. Reads are fine; edits to the private repo are not.
-- Before adding anything, ask whether it could identify a child, a family member, a colleague or client, or reveal health, finances, private journaling, internal work, local filesystem paths, or credentials. When unsure, leave it out and say so.
+Repo này chỉ giữ mã và nội dung an toàn để công khai. Kho canonical riêng được khai báo bằng tham chiếu chỉ đọc trong `opencode.jsonc` (git-ignored); dùng `opencode.example.jsonc` làm mẫu.
 
-## Content & routing
+Không sửa kho riêng, không sao chép note riêng nguyên văn hoặc đưa vào fixture/dữ liệu mẫu. Trước khi thêm nội dung, cân nhắc có thể nhận diện trẻ em, gia đình, đồng nghiệp, khách hàng hoặc lộ sức khỏe, tài chính, nhật ký, công việc nội bộ, đường dẫn máy cá nhân hay thông tin xác thực không. Nếu chưa chắc, bỏ qua và báo rõ.
 
-- All pages are `.md`/`.mdx` files under `content/`. Routing is a single catch-all: `app/[[...mdxPath]]/page.jsx`. Don't add route files under `app/`; add content files under `content/`.
-- Prefer `.md` over `.mdx` for prose. Nextra parses `.mdx` as MDX, where `{` and `<` are expressions and will break the build; `.md` treats them as text.
-- Front matter carries `title` and `description`. Use Vietnamese titles.
-- Internal links use site-absolute paths, e.g. `[Giáo dục](/giao-duc)`. A folder's `index.md` is served at the folder path.
-- Sidebar labels and order come from per-directory **`_meta.js`** (Nextra 4 reads `_meta.{js,jsx,ts,tsx}`; **`_meta.json` is silently ignored** and folders fall back to their slugified name). Every top-level folder that needs a Vietnamese label must have one.
-- A single-file section is just `content/<name>.md`; only use `<name>/index.md` when the section has siblings.
+Minh đã giao chuyển production sang `minh.xuvi.vn` và kết nối kho thật `minhxuvi/minhxuvi` ngày 17/10/2026. GitHub App chỉ được chọn kho này, token tiếp tục giới hạn đúng repo. Kho canonical trên Mac vẫn chỉ đọc trong chat chuyển đổi; không tự pull, commit hoặc hợp nhất thay đổi có sẵn. Không sao chép nội dung riêng vào repo website, kể cả thư mục ignored. Mã website đã được commit/push lên `minhxuvi/minhxuvi.github.io` ngày 17/10/2026 theo chỉ đạo của Minh; các lần push sau vẫn chờ Minh xác nhận.
 
-## Dependencies
+## Nội dung và route
 
-- `nextra` and `nextra-theme-docs` are on **4.6.1** (latest at time of writing). `zod` is pinned to **4.3.6** through `overrides` **on purpose** — do not "fix" it.
-  - Nextra 4.6.1's `<Layout>` destructures `children` out of props *before* validating the rest against `LayoutPropsSchema`, where `children` is required. Zod ≥ 4.4 rejects the absent key, so **every page** throws `Invalid input: expected nonoptional, received undefined → at children`. Upstream: nextra#5036, nextra#5034, zod#5917.
-  - 4.3.6 is inside Nextra's declared range (`^4.1.12`), so this is a legitimate pin, not a range violation. Remove it once Nextra publishes the fix (it is merged on `main`, not yet on npm).
-- `sharp` is pinned to `^0.35.5` via the same `overrides` block; `<0.35.4` carries a libheif advisory.
-- `next` is on `^16.3.7`. Versions `>=16.0.0 <16.3.3` carry two critical advisories (unauthenticated RCE), fixed in 16.3.3 — do not downgrade below 16.3.3.
-- `react` is left at its installed 19.x; it already satisfies Nextra's peer range (`react >=18`).
+- Bài public là `.md` trong `content/`; front matter `title`, `description`. `index.md` là URL thư mục.
+- Menu tiếng Việt và thứ tự nằm trong `config/navigation.json`; không dùng `_meta.js` nữa.
+- Route tập trung ở `routes/web.php`; Blade trong `resources/views`; CSS/JS thuần trong `public/assets`.
+- Giữ URL cũ; link nội bộ public dùng site-absolute, ví dụ `/giao-duc`. Có redirect cho URL `.md`, `.mdx`, `/index.md` tương ứng.
+- Nội dung private lấy qua GitHub App Contents đọc/ghi, chỉ cài repo thật đã được Minh duyệt. Xác thực GitHub kiểm ID ổn định phía server. Tất cả route private (note, ảnh, tìm kiếm, API) phải đi qua `PrivateAccess`.
+- Không cho phép HTML tùy ý, MDX, SVG private, symlink hoặc vượt thư mục. Ảnh private phải đi qua route có xác thực, không trả URL raw GitHub hoặc token cho browser.
+- Lưu phải kèm SHA đã mở; chỉ báo thành công sau khi GitHub trả commit. Xung đột/lỗi mạng phải giữ bản đang soạn.
 
-## Gotchas
+## Runtime và triển khai
 
-- `next.config.mjs` sets `output: 'export'`: no server features or API routes; images are unoptimized. Content references remote image URLs — there is no local image pipeline.
-- Filenames under `content/` contain Vietnamese diacritics — quote them in shell commands.
-- Don't reintroduce Obsidian vault copies, `.obsidian/` config, or `[[wikilinks]]`; Nextra does not resolve wikilinks and they render as literal text.
+- Document root chỉ trỏ `public/`. `.env`, `vendor`, `content`, `storage`, session/cache và GitHub App PEM nằm ngoài web root. Không tạo symlink `public/storage` cho dữ liệu private.
+- `APP_DEBUG=false`, HTTPS, cookie Secure/HttpOnly/SameSite, CSRF trên POST. Response private phải `no-store`; không trộn chỉ mục public/private.
+- Session/cache dùng file, không cần database hay dịch vụ nền. GitHub là nguồn Markdown online; cache có thể tạo lại.
+- cPanel dùng PHP theo request, không root, Docker hoặc Node runtime. Đóng gói dependency ở local.
+- Production có cấu hình không bí mật trong `deploy/production.json`, quy trình ở `deploy/README.md`. Domain chính là `minh.xuvi.vn`, document root `apps/minh/public`. Không tạo lại môi trường/domain thử.
+- Workflow mã nguồn chỉ kiểm Laravel; không tự bật lại pipeline build/deploy Nextra.
+- Bí mật và cấu hình riêng máy đặt trong `.env` hoặc `deploy/local/`, không đưa vào Git, log hoặc gói phát hành.
 
-## Deploy
+## Đồng bộ
 
-Pushing to `main` triggers `.github/workflows/deploy.yml` (Node 24 → `npm ci` → `npm run build` → uploads `./out` to GitHub Pages). No manual deploy step. The site's canonical domain is `minh.xuvi.vn`; `minhxuvi.github.io` redirects to it.
+`scripts/sync-notes.py` khóa repo thật theo `production.json`, dùng `.git/minh-sync.lock`, nhận thay đổi bằng fast-forward và gửi các file được chọn sau khi xem plan. Không force push, reset, tự stash hoặc tự gom mọi thay đổi. Giữ staging ngoài phạm vi; từ chối file được chọn đang staged. Local bẩn hoặc lịch sử phân nhánh phải dừng an toàn. Kiểm chứng ở clone tách biệt ngoài repo website; kho canonical Mac chỉ đọc nếu chưa có chỉ dẫn khác.
 
-<!-- BEGIN:nextjs-agent-rules -->
-
-# This is NOT the Next.js you know
-
-This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` (resolved from this file's directory; in monorepos the `next` package may not be visible from the repo root) before writing any code. Heed deprecation notices.
-
-This block is written and re-added by `next dev` — verify at `node_modules/next/dist/server/lib/generate-agent-files.js`. Removing it from a diff only re-creates the uncommitted change; committing it with your work keeps the tree clean.
-
-<!-- END:nextjs-agent-rules -->
+Cache riêng gắn với SHA blob, ngoài public. Archive làm ấm chỉ nhận từ GitHub, không giải nén đường dẫn, xác minh hash rồi xóa file tạm. Không log nội dung note, token hoặc signed URL. Note 2 MB, ảnh raster 8 MB; SVG và HTML không thực thi. Wikilink chỉ hoạt động trong renderer riêng, tên trùng cần chọn qua tìm kiếm. Duyệt thư mục từng cấp và phân trang; không tải toàn kho bằng các request browser rời rạc.

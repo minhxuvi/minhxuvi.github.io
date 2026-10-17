@@ -43,3 +43,19 @@ next-env.d.ts
 *.swp
 *.swo
 *~
+
+# Laravel and deployment state
+/vendor/
+/.phpunit.cache/
+.phpunit.result.cache
+/bootstrap/cache/*.php
+/storage/*
+!/storage/.gitignore
+/deploy/artifacts/
+/deploy/local/
+/.env.*
+!/.env.example
+/.phpunit-watcher.yml
+/auth.json
+__pycache__/
+*.pyc

@@ -1,0 +1,11 @@
+{
+  "url": "https://minh.xuvi.vn",
+  "ssh_alias": "dapxexuyenviet-vps",
+  "remote_directory": "apps/minh",
+  "document_root_suffix": "public",
+  "php_binary": "/opt/alt/php85/usr/bin/php",
+  "php_ini": "/opt/alt/php85/etc/php.ini",
+  "php_ini_scan_dir": "/opt/alt/php85/link/conf",
+  "notes_repository": "minhxuvi/minhxuvi",
+  "branch": "main"
+}

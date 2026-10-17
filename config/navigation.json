@@ -1,0 +1,66 @@
+{
+  "": {
+    "index": {
+      "title": "Trang chủ",
+      "type": "page"
+    },
+    "ve-minh": {
+      "title": "Giới thiệu",
+      "type": "page"
+    },
+    "giao-duc": {
+      "title": "Giáo dục",
+      "type": "page"
+    },
+    "hoa-am": {
+      "title": "Hòa âm",
+      "type": "page"
+    },
+    "lam-vuon": {
+      "title": "Làm vườn",
+      "type": "page"
+    },
+    "du-an": {
+      "title": "Dự án",
+      "type": "page"
+    },
+    "ghi-chu": {
+      "title": "Ghi chú",
+      "type": "page"
+    },
+    "contact": {
+      "title": "Facebook ↗",
+      "type": "page",
+      "href": "https://fb.com/minhxuvi"
+    }
+  },
+  "du-an": {
+    "index": "Đang làm",
+    "xuyenviet": "Cộng đồng Xuyên Việt",
+    "viet-huyen-su-ky": "Việt Huyền Sử Ký"
+  },
+  "ghi-chu": {
+    "index": "Giới thiệu mục",
+    "kiem-thu-phan-mem": "Kiểm thử phần mềm",
+    "kien-truc-phan-mem": "Kiến trúc phần mềm",
+    "embedded-c": "Embedded C"
+  },
+  "giao-duc": {
+    "index": "Tổng quan",
+    "lo-trinh-waldorf-12-nam": "Lộ trình 12 năm",
+    "nguyen-tac-waldorf-hoi-an": "Bản địa hóa ở Hội An",
+    "giao-an-do-luong": "Giáo án: Đo lường",
+    "giao-an-lam-vuon": "Giáo án: Làm vườn",
+    "lich-block-lop-3": "Lịch block lớp 3",
+    "chuong-trinh-hoi-an": "Khung chương trình Hội An (EN)"
+  },
+  "hoa-am": {
+    "index": "Nền tảng và viết bè",
+    "tu-nen-tang-den-nang-cao": "Từ nền tảng đến nâng cao",
+    "thuc-hanh": "Tiến trình dạy trên lớp"
+  },
+  "ve-minh": {
+    "index": "Mình là ai",
+    "dao-song": "Định hướng sống"
+  }
+}
